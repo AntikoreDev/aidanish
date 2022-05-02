@@ -17,8 +17,9 @@ def Parse(filename, parenthesis = True) -> list:
         if (line == '' or line.startswith('#')):
             continue
 
+		# Remove parenthesis if there are some, and it's enabled
         cleaned = line if not parenthesis else re.sub(r"\((.+)\)", "", line)
-        cleaned = re.sub('\s+', ' ', cleaned)
+        cleaned = re.sub('\s+', ' ', cleaned) # Remove any extra spaces within the entries
 
         parsed.append(cleaned.lower())
 
