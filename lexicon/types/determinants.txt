@@ -1,0 +1,97 @@
+Este, esta, estas, estos → eita
+Ese, esa, esas, esos → eisa
+
+# Indefinidos
+un, una, uno, unos, unas → am
+
+nadie → noperso
+ningún → none
+nada → nokoixa
+ninguna forma → noforma
+ningún lugar → notela, nolocato
+ningún momento, nunca → nontsai
+
+alguno → aione
+alguien → aperso
+algún lugar → atela, alocato
+algo → akoixa
+alguna forma → aforma
+algún momento, alguna vez → atempo
+
+cualquier → eione
+cualquiera, cualquier persona → eperso, eixam
+cualquier lugar → elocato
+cualquier cosa → ekoixa
+cualquier forma → eforma
+cualquier momento → etempo
+
+otros (cosas) → otem
+otro (persona) → ote
+otra forma → oforma
+otro lugar → otela, olocato
+otra cosa → okoixa
+otro momento → otempo
+
+todo (cosas)→ aldex
+toda forma → aldeforma
+todos (personas) → aldexet
+todo momento, siempre → ertsai
+todos sitios, todos lados → aldetela, aldelocato
+
+tantos → naitoxe
+pocos → piko
+muchos → naito
+bastantes → bixa
+cada → etse
+varios → eixamete, vari
+
+# Cardinales
+cero → zuro
+uno → one
+dos → dois
+tres → triai
+cuatro → catro
+cinco → qinco
+seis → seksei
+siete → septo
+ocho → octo
+nueve → nonio
+diez → dez
+once → dizixone
+doce → dizidois
+trece → dizitriai
+catorce → dizicatro
+quince → diziqinco
+dieciséis → dizisexei
+diecisiete → dizisepto
+dieciocho → diziocto
+diecinueve → dizinonio
+veinte → doisen
+treinta → triaien
+cuarenta → catroen
+cincuenta → qincoen
+sesenta → sekseien
+setenta → septoen
+ochenta → octoen
+noventa → nonien
+cien → ozen
+mil → ailla
+millón → milloe
+billón → billoe
+trillón → trilloe
+cuatrillón → catrilloe
+
+# Ordinales
+Primero → Onix
+Segundo → Doisix
+Tercero → Triaix
+Cuarto → Catroix
+Quinto → Qincoix
+Sexto → Sekseix
+Septimo → Septoix
+Octavo → Octoix
+Noveno → Nonoix
+Décimo → dizix
+Onceavo → Dizixoneix
+Doceavo → Dizidoisix
+

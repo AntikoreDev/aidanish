@@ -1,0 +1,28 @@
+# Personales
+yo → na
+tú → zu
+usted -> zeu
+el → ei
+ella → eila
+ello/eso → so
+nosotros → nare
+vosotros → zure
+ellos → eire
+ellos (objeto, no se usa pero se mantiene por legacy) → soit
+
+# Posesivos
+mi → nai
+tu/tuyo → zui
+suyo (usted) → zeu
+suyo → eie
+nuestro → narei
+vuestro → zurei
+
+# Acusativos o Reflexivos
+me → ner
+te → zer
+se → eir
+nos → narer
+os → zurer
+los → eirer
+lo → xo (cosa)

@@ -1,0 +1,118 @@
+# Tiempo
+ahora → nau
+ya → aia
+antes → alde
+después → enter
+ayer → aldehen
+mañana → enterehen
+hoy → nauhen.
+entonces → urte.
+antes de ayer → pre→aldehen.
+pasado mañana → pos→enterehen.
+anoche → anito.
+anteanoche → pre→anito.
+todavía → enoun
+siempre → ertsai.
+aún → oun.
+ya no → nomais
+jamás, nunca → nontsai.
+temprano → yonto.
+tarde → egente.
+luego → ogenter.
+pronto → ayenter.
+mientras → engeri
+
+# Lugar
+aquí → ake, atan
+ahí → aye, alan
+allí → alie, alan
+cerca → neare
+lejos → fore
+junto → xa
+delante → daotan
+detrás → betran (dabetran)
+atrás → betran
+adelante → daotan (otan)
+alrededor → eriodo
+enfrente → imfranto
+encima → overa
+debajo → berora
+fuera → fora
+dentro → intro
+abajo → aur
+arriba → air
+a la derecha, hacia la derecha → aldereite
+a la izquierda, hacia la izquierda → alzoraite
+al lado de → ensero
+sobre → overa
+
+# Modo
+abiertamente → aipreiroso
+bien → bain
+mal → heun
+solo → nokpo
+peor → heunodo
+mejor → bainodo
+así → aze
+despacio → lento
+todavía → enoun
+deprisa → rantio
+
+# Cantidad
+poco → piko
+mucho → naito
+muy → moi
+bastante → bixa
+todo → aldex
+más → mais
+menos → menus
+tan → asle, tan
+tanto → tante
+demasiado → posmoi
+casi → axi
+medio → mediu
+apenas → apare
+así de → aze da
+harto → rakoso
+otra vez → aran
+
+# Afirmación
+si → ai
+también → aiete
+cierto → zerto
+claro → klaro
+exacto → exaito
+obvio → obeo
+verdaderamente → zertente
+
+# Duda
+probablemente → probekoien
+quizá → qiza
+acaso → nurne
+puede ser → paidi sei
+
+# Negación
+no → non
+nunca → nontsai
+tampoco → nonete
+negativamente → nekatikoien
+jamás → nontsai
+
+# Interrogativo
+como (pregunta) → com, come
+cuando → conde
+donde → donde
+por qué → por qa
+quien → qim
+que → qa
+cual → qal
+hasta → haita
+cuanto → qanto
+
+# Relativo
+como (comparación) → asle
+
+# Otros
+sin embargo → orne
+por cierto → por zerto
+además → ademais
