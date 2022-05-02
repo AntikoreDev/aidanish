@@ -528,6 +528,10 @@ secar → driai
 intrusear → intrudai
 impresionar → impresei
 hablar → paire
+blanquear (dinero) → xaguai, biancai
+blanquear → biancai
+regresar → retornai
+avanzar → enterei
 hacerse una paja → oargai
 hacer → doi
 normalizar → normalai
@@ -584,6 +588,7 @@ manejar → turai
 procastinar → procastinai
 mantener → ersai
 pincelar → brutsei
+pinchar → pinkai
 marcar → markai
 masacrar → masacrire
 matar → mataire

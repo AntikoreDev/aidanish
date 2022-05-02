@@ -127,6 +127,7 @@ abedul → atria
 abeja → blaimallea
 aberración → aberratio
 abertura → aipreixo
+pretexto → endeba
 abeto → karzua
 abismo → abystela
 abogado, legista → abvogette
@@ -843,6 +844,7 @@ cráneo → craneo
 crédito (de crear algo) → credito
 crónica → cronike
 cuadrado → qatrato
+haba → aba
 cuadro → kadro
 cuadrícula → qatratiko, griya
 cuarto (habitación) → itela
@@ -1500,10 +1502,12 @@ lavanda (flor) → lavanda
 lavavajillas → vadixaguaioro
 leche → esnea
 lechero → esneaxette
+avance → entero
 lechuga → letsuga
 lectura → lekta
 lejía → blanco
 lencería → linzeria
+regreso, retorno → retorno
 lengua → lemgo
 lentes → lendait
 lerdo → tsafala
@@ -1926,6 +1930,7 @@ peine → cailoro
 pelador de patatas → torkopeler
 pelador → peler
 peladura → pelde
+aduana → otertseqe
 pelaje, cuero → cuoro,  peltro
 peletero → cuorette
 peligro → perila
@@ -1998,6 +2003,8 @@ pincelada → brutse
 pincho → pinko
 pingüino → pingino
 pino → pino
+pinche (ayudante de cocinero) → adkoxine, koxinlada
+
 pintura (cuadro) → pintaia, pikto
 pintura (objeto) → pinta
 pipa → crutsa
@@ -2466,6 +2473,7 @@ tono → tona
 tonto → erko, silki
 topo → talpa, mola
 tormenta → zundra
+
 tornado → tornado
 torneo → torneio
 tornillo → exkrabo
