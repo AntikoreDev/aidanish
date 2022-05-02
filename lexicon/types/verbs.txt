@@ -144,7 +144,7 @@ amar → loi
 añadir → adoi
 mamar → mamaire
 andar → andaire
-combinar - comboi
+combinar → comboi
 apagar → ofei
 cenar → hingei
 mearte de miedo → pikseterroi
@@ -700,7 +700,7 @@ hormiguear → mitsisilai
 publicar → publikai
 quedar → quaroi
 quemar → tsizirrei, ignodaxai
-querer - qarei
+querer → qarei
 razonar → reasoi
 realizar → ereasei
 recaudar → rekauroi
