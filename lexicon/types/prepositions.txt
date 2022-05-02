@@ -1,0 +1,24 @@
+a → a
+al → aei
+ante → ante
+bajo → vao
+cabe → kabe
+con → koi
+contra → kuntroi, ainsta
+de → da
+del → dai
+desde → daze
+durante → koante
+en → en, em
+entre → eintre
+hacia → haiza
+hasta → haita
+mediante → trante
+para → paira
+por → por
+según → ezer
+sin → nokoi
+sobre → airo
+tras → tras
+versus → versus
+via → via
