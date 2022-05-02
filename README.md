@@ -1,1 +1,1 @@
-Test
+Aidanish is my own conlang made just for fun
