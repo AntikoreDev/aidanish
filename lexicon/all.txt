@@ -1,9 +1,13 @@
+a la derecha, hacia la derecha → aldereite
+a la izquierda, hacia la izquierda → alzoraite
 a punto de terminar → afinale
 a → a
 abadía → abia
+abajo → aur
 abalconado → evokinde
 abandonado → ekoreko
 abandonar → ekorei, lostigai
+abandono → ekoretio
 abanicar → cuendei
 abanico → abaniko, cuenda
 abaratar → atsai
@@ -23,6 +27,7 @@ abeja → blaimallea
 aberración → aberratio
 abertura → aipreixo
 abeto → karzua
+abiertamente → aipreiroso
 abierto → apero, aipreoso
 abisal → abysal
 abismal → oxtuoro
@@ -75,6 +80,7 @@ acampada → akempa
 acampar → akempei
 acapella → acapela
 acariciar → caricai
+acaso → nurne
 acceder → akcisei
 accesibilidad → akcesibila
 accesible → akcesibla
@@ -124,11 +130,15 @@ acusar → akusai
 acusativo → akusative
 acuático → acoatiko
 acuñar → acuine
+adelante → daotan (otan)
 adelgazar → delekai
+además → ademais
+además → ademais
 adicción → adiktia
 adición → ado
 adictivo → adiktoso
 adicto → adikto
+adiós → adem
 administrador → administreiette
 administrar → administrei
 adobe → adobe
@@ -185,6 +195,8 @@ agujererar → racoi
 agujero de bala → racobale
 agujero → raco
 ahogar → acuarai
+ahora → nau
+ahí → aye, alan
 aidanacia → aidanakia
 aidanés → aidanesa
 aire acondicionado → aerakonditiaoro
@@ -192,6 +204,7 @@ aire → aer
 ajo → garlo
 ajustar → rikrai
 ajuste → rikro
+al lado de → ensero
 al → aei
 alargar → longei
 alarma → alarme
@@ -213,6 +226,12 @@ alegría → aibe
 alemania → duxlan
 alemán → duxleano
 alfombra → corta
+algo → akoixa
+alguien → aperso
+alguna forma → aforma
+alguno → aione
+algún lugar → atela, alocato
+algún momento, alguna vez → atempo
 alimentación → flomo, nisigo
 alimentar → nisigerei, flomai
 alimento → flomiga, nisingo
@@ -220,6 +239,7 @@ alineación → aliniatio
 alineado → aliniato
 alinear → aliniai
 aliviar → alivai
+allí → alie, alan
 alma → anima
 almacenaje → esmariun
 almacenamiento → esmaretio
@@ -231,6 +251,7 @@ almendra → almondra
 almidón → amilone
 almohada → bexe
 alquitrán → betarra
+alrededor → eriodo
 altar → altar
 altavoz, parlante → sonikemitero
 alternar → alternei
@@ -290,12 +311,16 @@ anillar → rinkai
 anillo → rinka
 animal → animal, besta
 aniversario → yaroia
+anoche → anito.
 anochecer → nitoi
 anochecer → nitoia
 anomalía → anomalia
 anotar → anotai
 ante → ante
+anteanoche → pre→anito.
 anterior → aldonko, prevo
+antes de ayer → pre→aldehen.
+antes → alde
 antibiótico → antibiotiko
 antifaz → antifaz
 antigua y barbuda → antigua e barbuda
@@ -320,6 +345,7 @@ aparecer → aparezei
 aparición → aparezeitio
 apeadero → apeadela
 apellido → aurnome, ginome
+apenas → apare
 apertura → aipreio
 apicultor → apikulxette
 apicultura → apikultura
@@ -335,6 +361,7 @@ aprobar → aprovai
 apuñalada → estava
 apuñalamiento → estavo
 apuñalar → estavai
+aquí → ake, atan
 arabia saudita → arabika saudita
 araña → vesuka
 arboleda → arbotsiun
@@ -373,6 +400,7 @@ arreglar, reparar → repaire
 arreglo → reparo
 arrepentimiento → repentia
 arrepentirse → repentai
+arriba → air
 arriesgar → riskai
 arrodillarse → gidillai
 arte → arte
@@ -398,6 +426,8 @@ astro → astro
 astronauta → astronatte
 asunto → reaso
 asustar → sustai
+así de → aze da
+así → aze
 atacar → ataktai
 ataque al corazón → koraisagra
 ataque → atakte, atake
@@ -413,6 +443,7 @@ atrapar → akachai
 atril → lekteoro
 atrincherarse → laire
 atrio → atrio
+atrás → betran
 atún → tunna
 audio → audeo
 audífono → audefono
@@ -420,6 +451,7 @@ aullar → ululai
 aullido → ulule
 aumentar → easairei
 aumento → easa
+aunque → ounqe, ounqa
 aura → auram
 auricular → oitosono
 aurora → aurora
@@ -437,6 +469,7 @@ avisado → avistoko
 avisar → avistei
 aviso → avisto
 avión → avionno
+ayer → aldehen
 ayuda → lade
 ayudar → ladei
 azafrán (flor) → aziala
@@ -450,6 +483,7 @@ añadir → adoi
 añalejo → relicrolista
 año → yaro, anio
 añorar → annorai
+aún → oun.
 baba → clia
 babear → clire
 bacon → bacon
@@ -489,6 +523,8 @@ barrido → furre
 barril → barrila, tondra
 barrote → furne
 base → base
+bastante → bixa
+bastantes → bixa
 bastilla → bastila
 bastión → baluaro, bastiraa
 bastón → baton
@@ -525,7 +561,10 @@ bestia → besta
 biblioteca → bibloteka
 bicho → tiko
 bicicleta → birroda
+bien → bain
+bienvenido → bainarei
 bienvenido → bainaro
+billón → billoe
 bioma → bioma
 bisabuela → bismeioko
 bisabuelo → bisumoko
@@ -598,7 +637,11 @@ bucal → oupare
 bucarest → bukaresti
 budismo → budisma
 buen → baine
+buenas noches → baine nitoit
+buenas tardes → baine tarenit
 bueno → baine
+buenos días → baine henit
+buenos días → baine manzait (por la mañana, no se usa)
 buey → zarra
 bufanda → bunfaza
 bufón → bulanere, xiabette
@@ -640,6 +683,7 @@ cacahuete, cacahuate → cacauato
 cacerola → kaserola
 cacería → junziasa
 cactus → cactia
+cada → etse
 cada → kada
 caer → argai
 café → kafe
@@ -756,6 +800,7 @@ casa → kasa
 cascada → moana
 casco → antsal
 caseta, cabaña → asunna, kasutsa
+casi → axi
 casilla → kasiya
 casino → casino
 casta → casta
@@ -770,6 +815,7 @@ castrar → castrai
 catalejo → foreviso, forevo
 catarsis → katarsis
 catastrofe → combe
+catorce → dizicatro
 cauce → calikso
 causa → causa
 causar → causai
@@ -806,9 +852,12 @@ centro → zentro
 cepillo de dientes → dentabrutsa
 cepillo → sebrutsa
 cera → equa
+cerca → neare
 cerdo → porko, pigo
 cerebro → mentio
 cereza → roxuba
+cero → zuro
+cero → zuro
 cerrado → kerraiso
 cerradura → klavika
 cerrajero → klavikette
@@ -850,10 +899,13 @@ ciclo → ciklo
 ciego → blinda
 cielo (religión) → estelegas
 cielo → kailo
+cien → ozen
+cien → ozen
 ciencia → cientsa
 cienciología → cientsologia
 científico → cientsette
 cierto (especificando algo) → certo
+cierto → zerto
 ciervo → perlo
 cifra → cifra
 cifrado → cifrato
@@ -861,6 +913,9 @@ cifrar→ cifrei
 cilindro → cilindro
 cima → zima
 cimitarra → escimitarra
+cinco → qinco
+cinco → qinco
+cincuenta → qincoen
 cinta transportadora → aconveioro
 circunstancia → zirkuntantia
 ciruela → pluma
@@ -868,6 +923,7 @@ cisne → aista
 cisterna → cesterna
 ciudad → ciuta, ciutatela
 claridad → klaritatio
+claro → klaro
 claro → klaro
 clase → klase
 clasificación → clasifike
@@ -931,7 +987,7 @@ coma (texto) → coma
 comando → comando
 comba → pulanda
 combinación → combo
-combinar - comboi
+combinar → comboi
 comburente → comburente
 combustible → nitor, combustable
 combustión → combustio
@@ -944,6 +1000,8 @@ comerciar → komerzai
 comercio → komerzio
 cometer, perpetrar → cometai
 comida → ingo
+como (comparación) → asle
+como (pregunta) → com, come
 comodidad → conforta
 compadecer → compadai
 comparación → asletio
@@ -1125,9 +1183,23 @@ crónica → cronike
 cuadrado → qatrato
 cuadro → kadro
 cuadrícula → qatratiko, griya
+cual → qal
+cualquier cosa → ekoixa
+cualquier forma → eforma
+cualquier lugar → elocato
+cualquier momento → etempo
+cualquier → eione
+cualquiera, cualquier persona → eperso, eixam
+cuando → conde
+cuanto → qanto
+cuarenta → catroen
 cuarto (habitación) → itela
 cuarto (tiempo o matemáticas) → quarto
+cuarto → catroix
 cuatriciclo → quatroda
+cuatrillón → catrilloe
+cuatro → catro
+cuatro → catro
 cuba → cuba
 cubo → kubo
 cubrimiento → kubraia
@@ -1192,7 +1264,9 @@ darse cuenta → indorai
 dato → data
 dañar → daxai, injurai
 daño → daxa
+de nada → non lanai
 de → da
+debajo → berora
 deber (algo que debes) → dute
 deber (colegio) → esaroidute
 deber → dutei
@@ -1217,22 +1291,26 @@ deidad → deida
 dejado → dexaireioko
 dejar → dexaire
 del → dai
+delante → daotan
 deletrear → delektorei
 delfín → delfino
 delgado → delekio
 demandar → demandai
+demasiado → posmoi
 democracia → democratia
 democrático → democratika
 demonio → damon
 demócrata → democrato
 dentadura → dentatia
 dentista → dentaxette
+dentro → intro
 dentríficio, pasta dental → dentacrema
 dependencia → dependentia
 depender → dependei
 depresión (montañas) → depresion
 depresión (sentimientos) → depresia, depreia
 deprimir → deprei
+deprisa → rantio
 depuración → puratio
 depurar → purai
 derecha → dereite
@@ -1290,9 +1368,11 @@ desmayo → dizkoia
 desnudar → abiarei
 desnudo → abiare
 desnudo → abiare
+despacio → lento
 despedir → adei
 despertar → loteire
 desplazar → loamai
+después → enter
 destacado → boldako
 destacar → boldai
 destello → destelo
@@ -1314,6 +1394,7 @@ deterger → detergire
 determinación → determinatia
 determinada → determina
 determinar → determinai
+detrás → betran (dabetran)
 deuda → dutia
 diablo → devila
 diagnosticar → diagnostikai
@@ -1330,10 +1411,16 @@ dicho → dikero
 diciembre → dicembro
 dictador → dictatoro
 dictadura → dictatura
+diecinueve → dizinonio
+dieciocho → diziocto
+diecisiete → dizisepto
+dieciséis → dizisexei
 diente de león (flor) → sedara
 diente → denta
 dieta → dieta
 dietético → dieteko
+diez → dez
+diez → dez
 diferenciar → diferikei
 diferente → nequalo
 diferir → diferei
@@ -1389,6 +1476,8 @@ divisa → divisa
 división → diproxo
 divisor → dipre
 doblar → fluksai
+doce → dizidois
+doceavo → dizidoisix
 doctor → doktor
 doctoral → doktoralo
 documento → dokumento
@@ -1397,9 +1486,12 @@ doler → dolei
 dolor → dole
 domingo → dominko
 doméstico → domestixo
+donde → donde
 dorar → aurai
 dormir → dormei
 dormitorio → dormeiun
+dos → dois
+dos → dois
 dragón → dracono
 drenar → drenai
 droga → drojo
@@ -1417,6 +1509,7 @@ durar → dulai
 duro → tsosto
 dársena → portakarga
 débil → debila
+décimo → dizix
 día → hen
 dólar → dolar
 ebullición, evaporación → inherba
@@ -1434,11 +1527,16 @@ egipto → egipto
 ejemplo → exemplo
 ejercer → ecersai
 ejercicio → exersizo
+el → ei
 electricidad → elektritia
 electrón → elektronno
 electrónico → elektrikono
 elefante → estsondo
 elevar → levai, airoei, quai
+ella → eila
+ello/eso → so
+ellos (objeto, no se usa pero se mantiene por legacy) → soit
+ellos → eire
 eléctrico → elektriko
 embalar → embalai
 embarcadero → embarcatero
@@ -1480,6 +1578,7 @@ encharcar → culdai
 enchufar → plugai
 enchufe → pluga
 enciclopedia → enciklopedia
+encima → overa
 enclave → entsave
 encoger → nograi
 encontrar → zunaire
@@ -1497,6 +1596,7 @@ enfermar → ebilai
 enfermedad → ebila
 enfermero → ebilaxette
 enfermo → ebilo
+enfrente → imfranto
 enfriamiento → aigeisa
 enfriar → aigei
 engaño → lerra
@@ -1516,6 +1616,7 @@ entendimiento → enderia
 enterrar → enterrei
 entidad → entita
 entierro → enterro
+entonces → urte.
 entrada → entratela
 entrar → entrei
 entre → eintre
@@ -1566,6 +1667,7 @@ escurrida → guta
 escurridor → gutaoro
 escurrir → gutarei
 escándalo → estantsa
+ese, esa, esas, esos → eisa
 esencia → esentia
 eslavo → eslava
 esmeralda → emeralda
@@ -1630,6 +1732,7 @@ estar → astei
 estatua → estatua
 estaño → tenno
 este → este
+este, esta, estas, estos → eita
 estilo → estila
 estima → estima
 estimación → estimatio
@@ -1644,7 +1747,7 @@ estrella → estrela
 estresado → anorrako
 estresante → anorrieren
 estresar → anorrei
-estropeado --> errairiko
+estropeado → errairiko
 estructura → estrukta
 estrés → anorro
 estudiante → estarette
@@ -1660,6 +1763,7 @@ europa → europa
 evaporar → inherbei
 evento → evento.
 evitar → voitai, saire
+exacto → exaito
 exacto → xakto
 exageración → hurro
 exagerar → hurrai
@@ -1695,7 +1799,6 @@ extremo → extremo
 extrovertido → extroverto
 eyaculación → guma
 eyacular → gumoi
-fabandono → ekoretio
 facilitar → fazilai
 falda → fuana
 fallar → errai
@@ -1795,6 +1898,7 @@ fuego → igno, foko
 fuelle → fluma
 fuente (origen), origen → origo
 fuente → fonto
+fuera → fora
 fuerte → forte
 fuerza → forza
 fuga → fuga
@@ -1875,6 +1979,7 @@ gozar → gozei
 grabación → grabatio, recordo
 grabar → grabai, ikrabai, recordai
 gracia → graze
+gracias → grazei
 gracioso → grazero
 grado → grado
 grande → oxto, grata, magna
@@ -1939,6 +2044,8 @@ hamburguesa → burgesa
 hamster → peirala, milia
 harina → hegoa
 harpía → harpea
+harto → rakoso
+hasta → haita
 hasta → haita
 hechicero → xicero
 hechizar → xizai
@@ -1978,6 +2085,7 @@ hogar → heiga
 hogareño → heigaro
 hoguera → ignixa
 hoja → fola
+hola → hai
 holanda → holande
 hombre → honperso
 homenaje → homenaie
@@ -2002,8 +2110,9 @@ hostelero → hostexette
 hostelerías → hosta
 hostia → portona
 hotel → hostala
+hoy → nauhen.
 hueso → hoso
-huevo - ovo
+huevo → ovo
 huir → ezurrai
 humanidad → homoia, humanita
 humano → homo
@@ -2137,6 +2246,8 @@ jabón → moape, sapo, baxugo
 jacinto (flor) → irsis
 jade → jade
 jalapeño → jalapenno
+jamás → nontsai
+jamás, nunca → nontsai.
 jamón → iamon
 japonés → japonesa
 japón → japonia
@@ -2168,6 +2279,7 @@ junco → hunco
 jungla → jungla
 junio → januo
 junta → junta
+junto → xa
 justicia → iustika
 justificar → iustikai
 justo → iusto
@@ -2203,6 +2315,7 @@ lechuga → letsuga
 lectura → lekta
 leer → lektei
 lejano → foreno
+lejos → fore
 lejía → blanco
 lencería → linzeria
 lengua → lemgo
@@ -2263,6 +2376,8 @@ llorar → lakrimai, acoatai
 llover → pluvai, acoatei
 lluvia de balas → baletrumbe
 lluvia → pluva, acoata
+lo que sea → oraben
+lo → xo (cosa)
 lobo → lauseto
 local → locatako
 loco → ankraro, friko
@@ -2276,9 +2391,11 @@ lomo → rame
 londrés → londonia
 longitud → longoteda
 loro → locuo
+los → eirer
 lucha → fista
 luchar → fistai
 luciérnaga → blailita
+luego → ogenter.
 lugar → locata, itela
 lujo → luxo
 lujoso → luxoso
@@ -2316,6 +2433,7 @@ magnetismo → magnetisma
 magnolia (flor) → magnasia
 magnético → magnetiso
 majo → hali
+mal → heun
 mal → heun
 malasombra → heuntsado
 malasombra → heuntsado
@@ -2404,6 +2522,8 @@ maza → maza
 mazorca (maíz, por ejemplo) → bontso
 maíz → juca
 mañana (hora del día) → manza
+mañana → enterehen
+me → ner
 mear → piksei
 mearte de miedo → pikseterroi
 mechero → ignoro
@@ -2417,11 +2537,13 @@ medicinal → medikarer
 medida → metirra
 medidor → metera
 medio (transporte, comunicación) → metia
+medio → mediu
 mediodía → mitaheno
 medir → metairre
 meditación → meditia
 meditar → meditei
 megáfono → megafono
+mejor → bainodo
 mejorar → bainei
 mellizo → meliza
 melocotón → apomo
@@ -2432,6 +2554,7 @@ menaje → furnitia, menagio
 mencionar → mentsei
 mención → mentio
 menor → pikoler
+menos → menus
 mensaje → mesaje
 mensajear → mesajire
 menta → menta
@@ -2456,18 +2579,24 @@ metro (medidor) → metroro
 mezcla → mixa
 mezclar → mixei
 mezquita → mazquita
+mi → nai
 microondas → microhuaba
 micrófono → microfono
 miedo → terro
 miel → mela
 miembro (cuerpo) → membro
 miembro (de un grupo) → membro
+mientras → engeri
 mierda → merto, keska
 miga → minna
+mil → ailla
+mil → ailla
 milenio → aillano
 milicia → milizia
 militar → miliette
 milla → mila
+millón → milloe
+millón → milloe
 mimo (cariño) → carica, memi
 mimo (persona) → memo
 mina → mine
@@ -2538,6 +2667,9 @@ motor → motor
 motosierra → motorxerra
 mover → movai
 movimiento → mova
+muchas gracias → naito grazei
+mucho → naito
+muchos → naito
 mudo → unpaireko
 mueble → furno, moblo
 muerte → morto
@@ -2553,8 +2685,10 @@ muro, pared → mura
 musgo → moso
 mutar → mutai
 muy cerrado, casi sin ventanas o puertas → zakerro
+muy → moi
 mágica → magika
 máquina → matsina
+más → mais
 máscara → lufazia, maske
 médico → medikarette
 méxico → mexiko
@@ -2565,7 +2699,9 @@ música → musikette
 nacer → natai
 nacimiento → natatia
 nacionalidad → agizaia
+nada → nokoixa
 nadar → nataire
+nadie → noperso
 napolitana → miniga
 narciso (flor) → nersu
 nariz → vono
@@ -2577,6 +2713,7 @@ necesitar → trai, opaine
 nectarina → nipomo
 negación → noneatio
 negar → nonei, nekai
+negativamente → nekatikoien
 negativo → nekatiko
 negro → nekro
 nenúfar → nufara
@@ -2591,11 +2728,16 @@ nieto → umoeke
 nieve → aigela
 nigromancia → nekromantia
 nigromante → nekromante
+ninguna forma → noforma
+ningún lugar → notela, nolocato
+ningún momento, nunca → nontsai
+ningún → none
 nitrogeno → nitroieno
 nivel → levela
 niña → nenna
 niño → kindo, infante, nenno
 niños (conjunto) → kindara
+no → non
 noche → nito
 nogal → nuzelara
 nombrar → nombrai
@@ -2606,11 +2748,15 @@ normalizar → normalai
 norte → norto
 noruega → norkia
 noruego → norkeo
+nos → narer
+nosotros → nare
 nota → nota
 noticia → neva
 notificación → nevari
 notificar → nevai
 novedad → nevotia
+noveno → nonoix
+noventa → nonien
 noviembre → novembo
 novio, novia → loimike
 nube seta → likenimbo
@@ -2619,10 +2765,14 @@ nublado → nimboso
 nuclear → nuzelar
 nudo → nude
 nudo → nukra
+nuestro → narei
 nueva york → nevo york
+nueve → nonio
+nueve → nonio
 nuevo → nevo
 nuez → nuzel
 numerar → numai
+nunca → nontsai
 nutricionista → dietexette
 néctar → nektar
 níscalo → niscalo, mixuia
@@ -2633,8 +2783,13 @@ objetivo → asiga
 objeto → item
 obtener → elokrai
 obvio → obeo
+obvio → obeo
 oca → malira
 oceanía → ozeania
+ochenta → octoen
+ocho → octo
+ocho → octo
+octavo → octoix
 octubre → octambo
 octógono → oktokono
 ocultar → jidei
@@ -2665,6 +2820,8 @@ olor → eslo
 olvidado → supardo, oblivo, husko
 olvidar → supardaire
 olvido → huske, suparde
+once → dizixone
+onceavo → dizixoneix
 onda → huaba
 opción → setegia
 operar → improxei
@@ -2692,12 +2849,20 @@ orquestar → orqestai
 orquídea (flor) → ortsida
 ortiga → urtica, migera
 orégano → parxa
+os → zurer
 oscuridad → obskuridae
 oscuro → obskuro
 oso → aubaso
 ostentar → glezai
 otoño → autonno
+otra cosa → okoixa
+otra forma → oforma
+otra vez → aran
 otra vez → retai
+otro (persona) → ote
+otro lugar → otela, olocato
+otro momento → otempo
+otros (cosas) → otem
 oveja → omejo
 oxidado (de hacer algo) → rigi
 oxidado (metal) → ragiko
@@ -2762,6 +2927,7 @@ partida (juego) → jokaizara
 partido (juego, deporte) → jokaizera
 partido (político) → partero
 partir → partei, brokai
+pasado mañana → pos→enterehen.
 pasado → pasato
 pasado → pasato
 pasamontañas → balakava
@@ -2837,6 +3003,7 @@ pensativo → penseivo
 pentágono → pentakono
 peonza → virante, rotaio
 peonía (flor) → aravita
+peor → heunodo
 pepinillo → frico
 pepino → pepera
 pequeño → pikolo
@@ -2863,6 +3030,7 @@ permanecer → unfinai
 permanente → unfinaloko
 permiso → permiso
 permitir → permisai
+pero → nur
 perro → doerro, hundo
 perseguir → prosecai
 perseverancia → persevera
@@ -2968,6 +3136,8 @@ población → populatio
 pobre → pora
 pobreza → poratia
 poción → potia
+poco → piko
+pocos → piko
 poder → pontai
 poder → ponto
 poema → poema
@@ -2985,8 +3155,13 @@ polén → polen
 polígono → moltoxo
 pompa → bobal, pompe
 poner → posai
+por cierto → por zerto
 por defecto → nurdefekto
+por favor → porfevo
+por lo que → soqe
+por qué → por qa
 por → por
+porque → debai
 porro → purro
 portaaviones → portavionnit
 portabandera → portafliaga
@@ -3047,6 +3222,7 @@ previsión → prevo
 previsualización → previso
 previsualizar → previsoi
 primavera → acoatira
+primero → onix
 primo → teoleko
 princesa → princese
 principado → princeta
@@ -3056,6 +3232,7 @@ principiante → initiaxette
 principio, comienzo → initio
 prisa → ranta
 probable → probeko
+probablemente → probekoien
 probar (de manera científica) → prostei
 probar → probai
 probiótico → probiotiko
@@ -3085,6 +3262,7 @@ promesa → priosa
 prometer → priosai
 promover → promovai
 pronosticar → pronostikaire
+pronto → ayenter.
 pronóstico → pronostiko
 propio → prope
 proponer → petiai
@@ -3106,6 +3284,7 @@ psicópata → psicopata
 pua → pika
 publicar → publikai
 pueblo → popula
+puede ser → paidi sei
 puente → ponto
 puercoespín → pigotira
 puerta → porta
@@ -3132,6 +3311,7 @@ péndulo → pendulo
 pórtico → portecum
 público → publiko
 público → publiko
+que → qa
 quebrar → qibrai
 quedada → quaro
 quedar sin → ranaire
@@ -3140,11 +3320,15 @@ quehacer → doidute
 quemador → ignodoxoro
 quemadura → ignodaxo
 quemar → tsizirrei, ignodaxai
-querer - qarei
+querer → qarei
 queso en polvo → pulverfruge
 queso → fruge
 quiebra → qibra
+quien → qim
+quince → diziqinco
+quinto → qincoix
 quitar → removai
+quizá → qiza
 radio (aparato) → radio
 radio (elemento) → radio
 rama → brianke
@@ -3186,7 +3370,7 @@ recipiente → recipente
 recluir → reklui
 recluso → rekluso
 recogedor (objeto) → rekainoro
-recogedor (persona) --< rekaixette
+recogedor (persona) - rekaixette
 recoger → rekaine
 recogida → rekaina
 reconocer → kognai
@@ -3386,6 +3570,7 @@ sargento → sarjento
 sartén → emfriteoro
 saturno → saturno
 sauce llorón → zaprusa
+se → eir
 secador → drioro
 secar → driai
 sección → sektion
@@ -3398,11 +3583,14 @@ seda → seda
 sedar → sedai
 sede → primertela
 seguir → sigai
+segundo → doisix
 segundo → sekundo
 seguridad → securitatia
 seguro (algo que asegura) → secur
 seguro → securo
 según → ezer
+seis → seksei
+seis → sexei
 seleccionado → selekteioko
 seleccionar → selektei
 sello → seldo
@@ -3419,6 +3607,7 @@ sentimiento → sensira
 sentir → sensei
 separado → unyoiko
 septiembre → septembro
+septimo → septoix
 septágono → septakono
 sepultar → sepultai
 sepultura → sepulta
@@ -3430,15 +3619,24 @@ serpiente → serpento
 serrería → madratela
 servidor → sirveidoro
 servir → sirvei
+sesenta → sekseien
 sesión → sesia
 seta → tsampinna
+setenta → septoen
 sexo → sexo
+sexto → sekseix
 seña → sinna
 señal → sinna
 señalizar → sinnai
 señor → sire
 señora → sira
+si (afirmación) → ai
+si (condicional) → si, se
+si → ai
+siempre → ertsai.
 sierra → xerra
+siete → septo
+siete → septo
 siglo → ozeno
 significado → mea
 significar → mearei, daine
@@ -3449,6 +3647,7 @@ silencioso → esparoso
 silla → senda
 simple → sampla
 simpático → amaiso
+sin embargo → orne
 sin → nokoi
 sincero → etristuro
 sirena (mitología) → meimare
@@ -3458,6 +3657,7 @@ sitiar → sitei
 soberbia → superbia
 soberbio → superbo
 sobre → airo
+sobre → overa
 sobrevalorado → airvaluako
 sobrevivir → survivai
 sobrino → asineko
@@ -3471,6 +3671,7 @@ sol → sol
 solar → solar
 soldado, guerrero → gerraxette
 solo → ekoro
+solo → nokpo
 soltar → soltai
 solución → solva
 solver → solvai
@@ -3538,6 +3739,8 @@ sustento , sostención → soteno
 susurrar → huxai
 susurro → huxa
 sutil → piskizo
+suyo (usted) → zeu
+suyo → eie
 sábado → hixtane
 sábana (cama) → xiaga
 sílaba → silaba
@@ -3557,12 +3760,19 @@ talco → talco
 tallin → taline
 tallo → rute
 tamaño → tamanno
+también → aiete
 tambor → tampol
 tamizar → tamizei
+tampoco → nonete
+tan → asle, tan
+tan → tan
 tanque , vehiculo de guerra → basta
+tanto → tante
+tantos → naitoxe
 tapar → supai
 taparabos → sujenasoit
 tardar → egentai
+tarde → egente.
 tarde → taren
 tardío → enterino
 tarjeta, carta de naipe → carde
@@ -3571,6 +3781,7 @@ tarro → tarro
 tarta → tarta
 tarántula → tarantula
 taza → ukisa
+te → zer
 teatro → aktotela, tetero
 tecla → tekla
 teclado → teklatablo
@@ -3592,6 +3803,7 @@ tema → subyecto
 temblar → gaxei
 temblor → brusta
 temperatura → tempera
+temprano → yonto.
 temática → subyectata
 tender → ibsoi
 tendero, vendedor → venteixette
@@ -3601,6 +3813,7 @@ tenis → tenis
 tensar → tentai
 tensión → tentia
 tentar → soblasnei, movai
+tercero → triaix
 termal → termalo
 terminado → fino
 terminal → terminatela, terminal
@@ -3653,6 +3866,14 @@ toalla → toaia
 toallita → toaita
 tobillo → kidna
 tocar → toutsoi
+toda forma → aldeforma
+todavía → enoun
+todavía → enoun
+todo (cosas)→ aldex
+todo momento, siempre → ertsai
+todo → aldex
+todos (personas) → aldexet
+todos sitios, todos lados → aldetela, aldelocato
 tomar → tomei
 tomate → tomako
 tono → tona
@@ -3710,11 +3931,16 @@ trastornar → yigai
 trastorno → yiga
 tratar → traire, tiskai
 trato → tiska, trao
+trece → dizitriai
+treinta → triaien
 tren → trena
 trenza → trence
+tres → triai
+tres → triai
 triciclo → trirroda
 tridente → tridento
 trigo → trego
+trillón → trilloe
 trinchera → trintsera
 tripa → tripa
 triplicar → triproxei
@@ -3739,6 +3965,7 @@ truncar → truncai
 tráfico → trafiko
 tránsito → transita
 tsunami → tsunami, tzunami, zunami
+tu/tuyo → zui
 tubería → tubia
 tubo → tube
 tubérculo → tuberculo
@@ -3760,15 +3987,19 @@ técnico → texnette
 tímpano → timpano
 tío → benpai
 título → titula
+tú → zu
 ubicación → ubikatio, locato
 ucrania → ukrania
 ultimo → elasto
+un, una, uno, unos, unas → am
 unido → yoiko
 unir → yoi
 universidad → formatio-zentro
 universo → universo
 unión → unione
 unión → yoixo
+uno → one
+uno → one
 uperisado → uperisato
 uranio → uranio
 urano → urano
@@ -3778,6 +4009,7 @@ uretra → uretra
 uruguay → uruguai
 usar → usei
 uso → use
+usted -> zeu
 usual → usuala
 usuario → usuario
 utero → utero
@@ -3791,6 +4023,7 @@ vago → sugarra
 vago → sugarra
 vagón → bagon, wagon
 vajilla → vadixa
+vale → bai
 valer → valei
 valla → berja, fenza
 valle → vale
@@ -3800,6 +4033,7 @@ valorado → valuako
 valorar → valuai
 variable → variable
 variar → varei
+varios → eixamete, vari
 varita → vando
 varsovia → varsova
 vasija → vasiya
@@ -3808,6 +4042,7 @@ vecinal → neiborako
 vecindario → neiborotela
 vecino → neiboro
 vehículo → vehiklo
+veinte → doisen
 vejez → okoie
 vela → candala
 velcro → velcro
@@ -3831,6 +4066,7 @@ verano → solasta
 verbo → verba
 verdad → verdad
 verdad → verta
+verdaderamente → zertente
 verdadero → verdadeko
 verde → berde
 verdura → leguma
@@ -3891,9 +4127,11 @@ volante (papel) → piprako
 volar → blai
 volcán → volkano
 volver → barei
+vosotros → zure
 voz → voz
 vuelo → blaia
 vuelta → vira
+vuestro → zurei
 vulva → vulve
 váscula → vascula
 váter, retrete → batro, baxete, vater
@@ -3904,9 +4142,12 @@ whisky → wiski
 wikipedia → wikipedia
 xenón → xenon
 xilófono → xelofono
+ya no → nomais
+ya → aia
 yak → yak
 yegüa → yequa
 yero, algarroba → yero
+yo → na
 yunque → herrunna
 zanahoria → carrota
 zapatilla, zapato → poire
