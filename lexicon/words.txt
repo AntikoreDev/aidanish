@@ -68,6 +68,8 @@ acuine
 acuokemno
 acuprila
 adei
+adem
+ademais
 aderei
 aderge
 adiktia
@@ -99,6 +101,7 @@ afgano
 afile
 afinale
 afixe
+aforma
 afrika
 afuska
 agaisto
@@ -113,6 +116,8 @@ agrupai
 agrupatio
 aguaco
 agux
+ai
+aia
 aiatio
 aibe
 aibela
@@ -122,6 +127,7 @@ aibinna
 aidanakia
 aidanesa
 aiei
+aiete
 aige
 aigebola
 aigecombe
@@ -134,15 +140,19 @@ aigeloso
 aikala
 aikalai
 aile
+ailla
 aillano
 ainsta
 aioioi
+aione
 aiprebotelo
 aiprei
 aipreio
+aipreiroso
 aipreixo
 aipreoso
 aiprila
+air
 aira
 airei
 airgaizera
@@ -174,11 +184,13 @@ akcesibila
 akcesibla
 akcisei
 akciso
+ake
 akempa
 akempei
 akempo
 akero
 aklaroi
+akoixa
 akoixei
 akompannire
 akompanniretio
@@ -203,17 +215,27 @@ akusative
 akutai
 akutoro
 akuttere
+alan
 alarme
 albanea
 albanexe
 albinisma
 albino
+alde
 aldea
 aldeano
+aldeforma
+aldehen
+aldelocato
+aldereite
+aldetela
+aldex
+aldexet
 aldonko
 alfilago
 alfilai
 alfilatio
+alie
 aliniai
 aliniatio
 aliniato
@@ -222,6 +244,7 @@ alitaro
 alivai
 almena
 almondra
+alocato
 aloi
 altar
 alternas
@@ -231,6 +254,8 @@ altruista
 altsol
 alutinai
 alutination
+alzoraite
+am
 amaine
 amaiso
 amamantai
@@ -272,6 +297,7 @@ aniluba
 anima
 animal
 anio
+anito.
 ankraia
 ankraro
 ankratela
@@ -306,11 +332,13 @@ aonatei
 aonatia
 apalmai
 apalme
+apare
 aparezei
 aparezeitio
 apeadela
 apeire
 apero
+aperso
 apika
 apikultura
 apikulxette
@@ -326,6 +354,7 @@ apunda
 apunderai
 arabeka
 arabika saudita
+aran
 aravita
 arbotsiun
 arbotso
@@ -373,6 +402,7 @@ asia
 asiga
 asignai
 asineko
+asle
 aslei
 asletio
 asoa
@@ -395,6 +425,9 @@ atai
 atake
 ataktai
 atakte
+atan
+atela
+atempo
 atendai
 atentio
 atiko
@@ -414,6 +447,7 @@ audeo
 audixora
 audixoso
 aukuba
+aur
 aura
 aurai
 auram
@@ -442,12 +476,17 @@ avistoko
 axa
 axele
 axelva
+axi
 ayatela
 ayato
 ayatotela
 ayatuko
+aye
+ayenter.
 ayette
 azaharo
+aze
+aze da
 azero
 aziala
 azkribei
@@ -457,9 +496,17 @@ baferro
 baga
 bagon
 baheia
+bai
+bain
+bainarei
 bainaro
 baine
+baine henit
+baine manzait
+baine nitoit
+baine tarenit
 bainei
+bainodo
 bainxo
 bajiba
 balakava
@@ -538,11 +585,13 @@ berja
 berlina
 berline
 bero
+berora
 besai
 beso
 besta
 bestingoro
 betarra
+betran
 betranno
 bexe
 biancara
@@ -550,6 +599,7 @@ bianco
 biatse
 bibloteka
 bila
+billoe
 bioma
 birraza
 birroda
@@ -560,6 +610,7 @@ bismuto
 bisonte
 bispo
 bisumoko
+bixa
 biz
 blai
 blaia
@@ -702,6 +753,10 @@ casta
 castil
 castrai
 catodo
+catrilloe
+catro
+catroen
+catroix
 causa
 causai
 celar
@@ -764,10 +819,12 @@ colonicea
 colonicei
 coloniko
 colta
+com
 coma
 comando
 combe
 combo
+comboi
 combrako
 combro
 combroi
@@ -775,6 +832,7 @@ comburente
 combustable
 combustio
 combusto
+come
 cometai
 compadai
 compasion
@@ -791,6 +849,7 @@ conceptai
 conceptio
 concepto
 concreto
+conde
 condo
 conduktai
 conduktette
@@ -893,6 +952,7 @@ damon
 danze
 danzeire
 danzeplane
+daotan
 darai
 dario
 data
@@ -906,6 +966,7 @@ deaktivatio
 deaktivei
 deaprovai
 deaprovatio
+debai
 debila
 decakono
 declaire
@@ -989,6 +1050,7 @@ deurrayo
 devila
 dexaire
 dexaireioko
+dez
 deze
 dezeai
 dezei
@@ -1057,6 +1119,18 @@ divisa
 dixai
 dixo
 dize
+dizicatro
+dizidois
+dizidoisix
+dizinonio
+diziocto
+diziqinco
+dizisepto
+dizisexei
+dizitriai
+dizix
+dizixone
+dizixoneix
 dizkoia
 dizkoiai
 dodo
@@ -1064,6 +1138,9 @@ doerro
 doi
 doidute
 doine
+dois
+doisen
+doisix
 doktor
 doktoralo
 dokumento
@@ -1072,6 +1149,7 @@ dole
 dolei
 domestixo
 dominko
+donde
 donno
 dorgo
 dorima
@@ -1140,18 +1218,32 @@ editio
 editoro
 efektibo
 efizente
+eforma
 egentai
+egente.
 egila
 egipto
 egra
 egrai
 ehelai
 ehelo
+ei
 eiasa
+eie
+eila
 eintre
 einxo
+eione
+eir
+eire
+eirer
+eisa
+eita
+eixam
+eixamete
 eklesia
 eko
+ekoixa
 ekorei
 ekoreko
 ekoretio
@@ -1168,6 +1260,7 @@ elkara
 elloi
 elloko
 elme
+elocato
 elokrai
 em
 embalai
@@ -1196,6 +1289,7 @@ endemos
 enderei
 enderia
 eneryia
+engeri
 enginaire
 engineria
 enginero
@@ -1206,11 +1300,15 @@ enkerraire
 enko
 enlitai
 enlitaro
+enoun
 enrotare
 ensalada
+ensero
 enteire
+enter
 entera
 enterai
+enterehen
 enterier
 enterino
 enterprisa
@@ -1228,6 +1326,7 @@ enusei
 enxanto
 enzima
 enzurrai
+eperso
 epidemos
 epikar
 eqipo
@@ -1245,11 +1344,15 @@ ergia
 ergiara
 ergonomia
 ergonomo
+eriodo
 erko
 erra
 errai
+errairiko
 ersai
 ersokio
+ertsai
+ertsai.
 ertse
 ertseko
 ertsekoidae
@@ -1390,9 +1493,11 @@ estundaxe
 estungai
 estungo
 etanol
+etempo
 etika
 etnia
 etristuro
+etse
 etsoi
 europa
 evento.
@@ -1401,6 +1506,7 @@ evokatela
 evoke
 evokinda
 evokinde
+exaito
 examen
 examinai
 examinatia
@@ -1533,6 +1639,8 @@ folklore
 fondo
 fonetika
 fonto
+fora
+fore
 foreno
 foreviso
 forevo
@@ -1701,6 +1809,7 @@ gutaoro
 gutarei
 hace
 hackei
+hai
 haiai
 haita
 haiza
@@ -1747,6 +1856,7 @@ heterosexualo
 heun
 heune
 heunei
+heunodo
 heuntsado
 heunxo
 hexakono
@@ -1846,6 +1956,7 @@ imaginatio
 imaginei
 imagineiko
 imake
+imfranto
 imperia
 imposibla
 impresable
@@ -1926,6 +2037,7 @@ interesai
 interesanta
 interneta
 interval
+intro
 introverto
 intrudai
 intrudo
@@ -2237,6 +2349,7 @@ lekteoro
 lemgo
 lendait
 lenna
+lento
 leon
 lerite
 lerra
@@ -2354,6 +2467,7 @@ maionesa
 maira
 mairato
 mairte
+mais
 maiso
 makarron
 makora
@@ -2440,6 +2554,7 @@ medikarer
 medikarette
 meditei
 meditia
+mediu
 megafono
 meia
 meileko
@@ -2463,6 +2578,7 @@ menta
 mentio
 mentsei
 menu
+menus
 menzana
 mercuria
 mertai
@@ -2497,6 +2613,7 @@ mila
 milia
 miliette
 milizia
+milloe
 minatia
 mine
 mineire
@@ -2532,6 +2649,7 @@ modifikai
 modifikako
 modifikatio
 modo
+moi
 mola
 moldo
 moltoxo
@@ -2583,23 +2701,34 @@ mustanekro
 mutai
 mutse
 muzka
+na
+nai
 naire
+naito
+naito grazei
+naitoxe
 nambiro
 napesta
+nare
 narei
+narer
 naso
 natahen
 natai
 nataire
 natatia
 naturala
+nau
+nauhen.
 navaia
+neare
 nearei
 neiborako
 neiboro
 neiborotela
 nekai
 nekatiko
+nekatikoien
 neko
 nekrasoa
 nekrasoatela
@@ -2614,6 +2743,7 @@ nenna
 nenno
 neptuno
 nequalo
+ner
 nersu
 nesiga
 nesta
@@ -2646,13 +2776,28 @@ nivo
 nizaga
 nizagal
 nnordo
+noforma
 nograi
 nokoi
+nokoixa
+nokpo
+nolocato
+nomais
 nombrai
 nome
+non
+non lanai
+none
 noneatio
 nonei
+nonete
+nonien
+nonio
 nono
+nonoix
+nontsai
+nontsai.
+noperso
 norkeo
 norkia
 normal
@@ -2660,13 +2805,16 @@ normalai
 norme
 norto
 nota
+notela
 novembo
 nude
 nufara
 nukra
 numai
 numo
+nur
 nurdefekto
+nurne
 nuzel
 nuzelar
 nuzelara
@@ -2677,6 +2825,9 @@ oblivo
 obskuridae
 obskuro
 octambo
+octo
+octoen
+octoix
 oculo
 oeste
 ofei
@@ -2687,7 +2838,9 @@ ofetio
 off
 ofizina
 ofizio
+oforma
 ofrerai
+ogenter.
 ogo
 oi
 oitio
@@ -2695,15 +2848,19 @@ oitosono
 oixalai
 okoie
 okoire
+okoixa
 oktokono
 oleksaia
 olekso
 oliuma
+olocato
 omejo
 omeleto
 on
 onatia
+one
 onetai
+onix
 onnete
 onoi
 onterra
@@ -2711,6 +2868,7 @@ onterrarge
 onterriko
 opaine
 optemizei
+oraben
 oratio
 orden
 ordenai
@@ -2719,6 +2877,7 @@ organismo
 origai
 origelo
 origo
+orne
 oronya
 orqesta
 orqestai
@@ -2731,12 +2890,21 @@ osalo
 oslai
 osmosis
 ostoro
+ote
+otela
+otem
+otempo
 otsorra
+oun.
+ounqa
+ounqe
 oupa
 oupare
 oupila
 oval
+overa
 overai
+ovo
 ovulo
 oxpisotsa
 oxto
@@ -2749,6 +2917,7 @@ oxtoro
 oxtorra
 oxtuoro
 ozeania
+ozen
 ozeno
 ozenore
 ozenoso
@@ -2759,6 +2928,7 @@ pagena
 pai
 paia
 paiai
+paidi sei
 pailako
 paina
 paine
@@ -2897,6 +3067,7 @@ pigo
 pigotira
 pika
 pike
+piko
 piko intestino
 pikoler
 pikolo
@@ -2992,8 +3163,11 @@ ponzo
 popula
 populatio
 por
+por qa
+por zerto
 pora
 poratia
+porfevo
 porko
 porko flubila
 porpura
@@ -3010,6 +3184,7 @@ porto
 portona
 portugal
 portuguesa
+pos
 posai
 posaieo
 pose
@@ -3018,6 +3193,7 @@ posesai
 posesive
 poseso
 posibla
+posmoi
 posposai
 postai
 posto
@@ -3027,6 +3203,7 @@ praisoi
 praisotela
 praisoxette
 praktikai
+pre
 precai
 precaia
 predicado
@@ -3072,6 +3249,7 @@ proba
 probacupa
 probai
 probeko
+probekoien
 probiotiko
 problema
 procastinai
@@ -3144,17 +3322,26 @@ puta
 putarra
 puto
 putsa
+qa
+qal
+qanto
 qanzautora
 qanzei
 qanzigo
 qanzio
 qanzo
+qarei
 qatratiko
 qatrato
 qeola
 qiava
 qibra
 qibrai
+qim
+qinco
+qincoen
+qincoix
+qiza
 quai
 quaro
 quaroi
@@ -3181,12 +3368,14 @@ raize
 rakemno
 rakempisa
 rakia
+rakoso
 rame
 ranaire
 range
 ranta
 rante
 rante aktio
+rantio
 ranuncula
 rata
 reactai
@@ -3412,6 +3601,7 @@ satiarei
 saturno
 sauza
 savaxo
+se
 sebrutsa
 secur
 securitatia
@@ -3422,6 +3612,9 @@ sedai
 sedara
 sei
 sekreto
+seksei
+sekseien
+sekseix
 sekta
 sektion
 sekundo
@@ -3441,6 +3634,9 @@ sensira
 senso
 septakono
 septembro
+septo
+septoen
+septoix
 sepulta
 sepultai
 sequencia
@@ -3453,7 +3649,9 @@ sesia
 setegia
 setei
 seutse
+sexei
 sexo
+si
 siakara
 sial
 sialato
@@ -3483,10 +3681,12 @@ sistema
 sitei
 siteiko
 sivera
+so
 soblasnei
 sociopata
 socrema
 socremeko
+soit
 soka
 sol
 solar
@@ -3501,6 +3701,7 @@ solva
 solvai
 sonikemitero
 soniko
+soqe
 sorda
 sordai
 sotaine
@@ -3583,6 +3784,8 @@ tamanno
 tambar
 tamizei
 tampol
+tan
+tante
 tarantula
 tardo
 taren
@@ -3721,8 +3924,12 @@ trego
 trei
 trena
 trence
+triai
+triaien
+triaix
 trianglo
 tridento
+trilloe
 trinkai
 trintsera
 trintso
@@ -3859,6 +4066,7 @@ urbo
 urda
 uretra
 ursunna
+urte.
 urtica
 uruguai
 urzugra
@@ -3892,6 +4100,7 @@ vangai
 vanka
 vao
 varei
+vari
 variable
 varnai
 varno
@@ -3994,6 +4203,7 @@ web
 webpagena
 wikipedia
 wiski
+xa
 xabana
 xafla
 xaguai
@@ -4029,6 +4239,7 @@ xinai
 xitempoi
 xizai
 xizo
+xo
 xograstei
 xolera
 xouclate
@@ -4053,6 +4264,7 @@ yigoiko
 yoi
 yoiko
 yoixo
+yonto.
 yordea
 yuolo
 zager
@@ -4070,6 +4282,10 @@ zebra
 zegor
 zentrei
 zentro
+zer
+zertente
+zerto
+zeu
 zigar
 zigarra
 zima
@@ -4091,12 +4307,18 @@ zoologiko
 zoraite
 zoranno
 zovisai
+zu
 zugra
 zugrai
+zui
 zunaire
 zunami
 zundra
 zunio
+zure
+zurei
+zurer
+zuro
 zurrai
 zurraion
 zurrata
