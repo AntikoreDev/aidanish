@@ -162,6 +162,8 @@ afeitamiento → xava
 afeitar → xavei
 afganistán → afganistan
 afgano → afgano
+aficionado → afizionette, abanere
+afición → afizio, aban
 afijo → afixe
 afilación → alfilatio
 afilado → alfilago
@@ -701,6 +703,7 @@ caja → cuba
 cala (flor) → belania
 calabazín → cumba
 calamar → kalatrono
+calamidad → calamitas
 calavera → antsoarko
 calcetín → poitexo
 calculadora → kalculoro
@@ -798,6 +801,7 @@ carpintero → madraxette
 carrera (juego) → zurraion
 carrera (universidad) → cursogra
 carretera → rakemno
+carruaje → azurreje
 carta (texto) → letera
 cartero → leteraette
 cartilla → cartila
@@ -853,6 +857,8 @@ centenario → ozenore
 centenario → ozenoso
 centeno → surtso
 centrar → zentrei
+centrifugadora → zentrifugaioro
+centrifugar → zentrifugai
 centro → zentro
 cepillo de dientes → dentabrutsa
 cepillo → sebrutsa
@@ -949,7 +955,7 @@ cobre → ikroso
 cocaína → cocaina
 cocaína → kokaine
 cocer → kozei
-coche, auto, automóvil → kotse, vehiklo, automovo
+coche, carro, auto, automóvil → kotse, vehiklo, automovo, zurro
 cocido → kozido
 cocido → kozido
 cocina (lugar de cocinar) → koxineitela
@@ -1023,6 +1029,8 @@ compañero de piso → blokenko
 compañero → kompannette, enko
 compañía → kompania
 compendio → compentio
+compensación → unlana, compenso
+compensar → unlanai, compensaire
 complejo (instalaciones) → komplexo
 complejo → complekso
 complemento → komplimento
@@ -1051,6 +1059,9 @@ conceptuar → conceptai
 concha → akontse
 condado → contia
 conde → condo
+condena → condena
+condenado → condeno
+condenar → condenaire
 condicionar → konditiai
 condición → konditia
 conducir → conduktai, drivai
@@ -1732,6 +1743,7 @@ estalagmita → espeleona
 estallar → aixai
 estallido → aixo
 estancia → estanzia
+estanco (donde comprar tabaco y sellos) → licentela
 estandarte → estantaro
 estante → axele
 estantería → axelva
@@ -1742,6 +1754,7 @@ estatua → estatua
 estaño → tenno
 este → este
 este, esta, estas, estos → eita
+esternocleidomastoideo → esternocleidomastoideo
 estilo → estila
 estima → estima
 estimación → estimatio
@@ -2061,7 +2074,7 @@ hechicero → xicero
 hechizar → xizai
 hechizo, conjuro → xizo
 hecho → facto
-helado → freskingo , gelato
+helado → freskingo, gelato
 helecho → ferna, honko
 heliconia (flor) → gingola
 helsinki → jelsinki
@@ -2264,12 +2277,13 @@ japón → japonia
 jardinero → gardaxette
 jardín → garda
 jarrón, florero → diarra
+jaula → xolda
 jazmín (flor) → terisna
-jefe → jefe
+jefe → jefe, printsiale, antso, casca
 jerarquía → jiderarqia
-jersey → jersey
+jersey → jersey, tuske
 jerárquico → jiderarqiko
-jirafa → oxpisotsa
+jirafa → terke, oxpisotsa
 joder → injisai
 joder → xograstei
 jodida → frikenko
@@ -2657,7 +2671,7 @@ montículo → kieva
 montón → kieve. cumo
 montón → plenti
 monóculo → monoklo
-moqueta → moquete
+moqueta → mokete, moqete
 mora → blurra
 morado → morato
 morado → purpuro
@@ -3085,7 +3099,7 @@ picar (minar) →
 pico (animal) → pike
 pico (herramienta) → pikote
 pie → poi
-piedra → petro
+piedra → petro, petra
 piel → pelde
 pierna → airpoi
 pieza → pieza
@@ -3225,7 +3239,7 @@ preparar → preparei
 presentación → presentatio
 presentar → presentei
 presente → presente
-presidente → presideixette
+presidente → presideixette, printsiale
 presidir → presidei
 presionar → presoi
 presión → preso
@@ -3387,6 +3401,9 @@ recogedor (objeto) → rekainoro
 recogedor (persona) - rekaixette
 recoger → rekaine
 recogida → rekaina
+recomensar → reguardai
+recompensa → reguardo
+recompensado → reguarde
 reconocer → kognai
 recordar → rekordai
 recorrer → enzurrai
@@ -3579,6 +3596,7 @@ sandalía → sande
 sandía → roxomelo
 sangrar → sigrai
 sangre → sigra
+sanidad → sanita
 santo → sainto
 santuario → saintotela
 sapo → froga
@@ -3684,7 +3702,7 @@ socio → sozio
 sociópata → sociopata
 soga → soka
 sol → sol
-solar → solar
+solar, parcela → solar, parza
 soldado, guerrero → gerraxette
 solo → ekoro
 solo → nokpo
@@ -3926,7 +3944,7 @@ traicionar → trastai
 traicionero → trastoso
 traición → trasta
 traje → gouno, esmokinno
-trampa → trapa
+trampa → trapa, trapitsa
 trampear → trapai
 tranquilo → einxo
 transcribir → transcribei
@@ -3941,6 +3959,7 @@ transportador (regla) → aconvo
 transportar → aconvoi
 transportar, desplazar → deksplozai
 transporte → conve
+tranvía → ciutrena
 tras → tras
 trastornante → yigoiko
 trastornar → yigai
@@ -3974,7 +3993,7 @@ tronco → trunko
 trono → trone
 tropa → tropas
 trucha → trutsa
-truco → truka
+truco → truka, trapitsa
 trueno → trumbe
 trufa → turfa
 truncar → truncai
@@ -4132,7 +4151,7 @@ visualización → visoatio
 vitalidad → vitalita
 vitamina → vitamine
 viuda negra → viutonekro
-viudo, a → viuto
+viudo, viuda → viuto
 vivienda → vivaitela
 vivir → vivai
 vivo → vitoso

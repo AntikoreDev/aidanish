@@ -1,6 +1,8 @@
 a
 aba
 abaire
+aban
+abanere
 abaniko
 abarka
 abatoro
@@ -103,6 +105,8 @@ afgano
 afile
 afinale
 afixe
+afizio
+afizionette
 aforma
 afrika
 afuska
@@ -327,6 +331,7 @@ antio
 antonine pesta
 antsal
 antsasa. casca
+antso
 antsoarko
 anusa
 anyel
@@ -493,6 +498,7 @@ azero
 aziala
 azkribei
 aztai
+azurreje
 bacon
 baferro
 baga
@@ -710,6 +716,7 @@ cactia
 cailo
 cailoro
 cailoxette
+calamitas
 calanula
 calendula
 calikso
@@ -751,6 +758,7 @@ cartila
 cartsela
 cartselenko
 cartselette
+casca
 casino
 casta
 castil
@@ -790,6 +798,7 @@ circloko
 citrua
 ciuta
 ciutatela
+ciutrena
 clasifike
 clasifikei
 clia
@@ -839,6 +848,8 @@ come
 cometai
 compadai
 compasion
+compensaire
+compenso
 compentio
 complekso
 composai
@@ -853,6 +864,9 @@ conceptio
 concepto
 concreto
 conde
+condena
+condenaire
+condeno
 condo
 conduktai
 conduktette
@@ -1479,6 +1493,7 @@ este
 estedie
 estelegas
 estena
+esternocleidomastoideo
 estila
 estima
 estimai
@@ -2381,6 +2396,7 @@ libertia
 licensa
 licensaire
 licenso
+licentela
 ligai
 lige
 lika
@@ -2661,6 +2677,7 @@ modifikako
 modifikatio
 modo
 moi
+mokete
 mola
 moldo
 moltoxo
@@ -2677,7 +2694,7 @@ montanna
 monto
 mopai
 mope
-moquete
+moqete
 mora
 morai
 morato
@@ -2991,6 +3008,7 @@ partero
 partsa
 partsai
 parxa
+parza
 pasato
 pasta
 pastai
@@ -3069,6 +3087,7 @@ pesto
 pestoro
 petiai
 petitia
+petra
 petro
 petrotela
 petroxette
@@ -3428,6 +3447,9 @@ regalei
 regalo
 regimeno
 regiono
+reguardai
+reguarde
+reguardo
 rein
 reina
 reine
@@ -3609,6 +3631,7 @@ same
 sampla
 sanai
 sande
+sanita
 sanziarei
 sapo
 sarjento
@@ -3834,6 +3857,7 @@ tentia
 teo
 teoleko
 terisna
+terke
 termalo
 terminal
 terminatela
@@ -3927,6 +3951,7 @@ trante
 trao
 trapa
 trapai
+trapitsa
 tras
 trasta
 trastai
@@ -4029,6 +4054,7 @@ turisma
 turista
 turno
 turnoi
+tuske
 tzunami
 uba
 ubikatio
@@ -4058,6 +4084,8 @@ uniko
 uninstalai
 unione
 universo
+unlana
+unlanai
 unlimiteko
 unlitero
 unlokei
@@ -4257,6 +4285,7 @@ xizai
 xizo
 xo
 xograstei
+xolda
 xolera
 xouclate
 xugino
@@ -4297,6 +4326,8 @@ zarra
 zebra
 zegor
 zentrei
+zentrifugai
+zentrifugaioro
 zentro
 zer
 zertente
@@ -4339,3 +4370,4 @@ zurrai
 zurraion
 zurrata
 zurrette
+zurro
