@@ -14,6 +14,7 @@ ostentar → glezai
 desfilar → deslinai
 anidar → inestai
 sujetar → sujei
+recomensar → reguardai
 declarar → declaire
 digerir → dijerai
 amaestrar → amasterai
@@ -755,9 +756,12 @@ romper → rompeire
 revocar → revokei
 sanar → sanai
 rotar → rotai
+centrifugar → zentrifugai
 saber → onetai
 sacar → retrai
 salir → evokai
+compensar → unlanai, compensaire
+condenar → condenaire
 saltar → pulai
 desinstalar → uninstalai
 juzgar → juksei

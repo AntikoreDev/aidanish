@@ -127,7 +127,6 @@ abedul → atria
 abeja → blaimallea
 aberración → aberratio
 abertura → aipreixo
-pretexto → endeba
 abeto → karzua
 abismo → abystela
 abogado, legista → abvogette
@@ -182,6 +181,7 @@ administrador → administreiette
 adobe → adobe
 adonis (flor) → adonis
 adoración → adoro
+aduana → otertseqe
 adverbio → adverba
 advertencia → varno
 aeropuerto → aerporto
@@ -190,6 +190,8 @@ afección → afektio
 afecto → afekto
 afeitadora → xaveioro
 afeitamiento → xava
+aficionado → afizionette, abanere
+afición → afizio, aban
 afijo → afixe
 afilación → alfilatio
 afirmación → aiatio
@@ -348,6 +350,7 @@ aurora → aurora
 autismo → autisma
 autobús → autobus
 autor → autora
+avance → entero
 avaricia → avaritia
 avenida → avenua
 aventura → ventura
@@ -586,6 +589,7 @@ carpintero → madraxette
 carrera (juego) → zurraion
 carrera (universidad) → cursogra
 carretera → rakemno
+carruaje → azurreje
 carta (texto) → letera
 cartero → leteraette
 cartilla → cartila
@@ -635,6 +639,7 @@ cerdo → porko, pigo
 cerebro  → mentio
 cereza → roxuba
 cero → zuro
+centrifugadora → zentrifugaioro
 cerradura → klavika
 cerrajero → klavikette
 cerrojo → kerranda
@@ -699,7 +704,7 @@ coartada → quartada
 cobre → ikroso
 cocaína → cocaina
 cocaína → kokaine
-coche, auto, automóvil → kotse, vehiklo, automovo
+coche, carro, auto, automóvil → kotse, vehiklo, automovo, zurro
 cocido → kozido
 cocina (lugar de cocinar) → koxineitela
 cocina (termino general) → koxina
@@ -745,6 +750,7 @@ compañero de cárcel → cartselenko
 compañero de piso → blokenko
 compañero → kompannette, enko
 compañía → kompania
+compensación → unlana, compenso
 compendio → compentio
 complejo (instalaciones) → komplexo
 complemento → komplimento
@@ -754,10 +760,12 @@ compra → kompra
 comprador → kompraixette
 comprensión → comprendo
 comprobación → tseqe
+condena → condena
 comunidad → comunitatia
 comunismo → comunisma
 concepción → conceptio
 concepto → concepto
+recompensa → reguardo
 concha → akontse
 condado → contia
 conde → condo
@@ -844,7 +852,6 @@ cráneo → craneo
 crédito (de crear algo) → credito
 crónica → cronike
 cuadrado → qatrato
-haba → aba
 cuadro → kadro
 cuadrícula → qatratiko, griya
 cuarto (habitación) → itela
@@ -989,10 +996,10 @@ discriminación → discrima
 discípulo → disciplo
 disfraz → desfro, vanga
 disparo → desparo
-dispositivo → alitaro
-disquete → diskete
 disponibilidad → disva
 disposición → disposa
+dispositivo → alitaro
+disquete → diskete
 disrupción → disrupta
 disruptor → disruptor
 distancia → longara
@@ -1128,6 +1135,7 @@ estalactita → espeleoka
 estalagmita → espeleona
 estallido → aixo
 estancia → estanzia
+estanco (donde comprar tabaco y sellos) → licentela
 estandarte → estantaro
 estante → axele
 estantería → axelva
@@ -1165,6 +1173,7 @@ expresión → expresio
 extensión → extentia
 extintor → ignoextingoro
 extraño, desconocido → estranne
+esternocleidomastoideo → esternocleidomastoideo
 extremo → extremo
 eyaculación → guma
 falda → fuana
@@ -1325,6 +1334,7 @@ gusano → guro
 guía (objeto) → redaioro
 guía (persona) → redaixette
 género → genera
+haba → aba
 habilidad → estila
 habitación → vitaitela
 hada → farura
@@ -1338,7 +1348,7 @@ harpía → harpea
 hechicero → xicero
 hechizo, conjuro → xizo
 hecho → facto
-helado → freskingo ,  gelato
+helado → freskingo, gelato
 helecho → ferna, honko
 heliconia (flor) → gingola
 heno → tseno
@@ -1466,11 +1476,13 @@ jamón → iamon
 jardinero → gardaxette
 jardín → garda
 jarrón, florero → diarra
+jaula → xolda
 jazmín (flor) → terisna
-jefe → jefe
+jefe → jefe, printsiale, antso, casca
+calamidad → calamitas
 jerarquía → jiderarqia
-jersey → jersey
-jirafa → oxpisotsa
+jersey → jersey, tuske
+jirafa → terke, oxpisotsa
 jornada → henata, iornada
 joven → neve, nevon
 juego → joko
@@ -1504,12 +1516,10 @@ lavanda (flor) → lavanda
 lavavajillas → vadixaguaioro
 leche → esnea
 lechero → esneaxette
-avance → entero
 lechuga → letsuga
 lectura → lekta
 lejía → blanco
 lencería → linzeria
-regreso, retorno → retorno
 lengua → lemgo
 lentes → lendait
 lerdo → tsafala
@@ -1731,7 +1741,7 @@ montículo → kieva
 montón → kieve. cumo
 montón → plenti 
 monóculo → monoklo
-moqueta → moquete
+moqueta → mokete, moqete
 mora → blurra
 morado → purpuro
 mortero → morta
@@ -1932,7 +1942,6 @@ peine → cailoro
 pelador de patatas → torkopeler
 pelador → peler
 peladura → pelde
-aduana → otertseqe
 pelaje, cuero → cuoro,  peltro
 peletero → cuorette
 peligro → perila
@@ -1994,7 +2003,7 @@ picadura → estundaxe
 pico (animal) → pike
 pico (herramienta) → pikote
 pie → poi
-piedra → petro
+piedra → petro, petra
 piel → pelde
 pierna → airpoi
 pieza → pieza
@@ -2002,11 +2011,10 @@ pijama → niki
 pimiento → pipera
 pincel → brutsa
 pincelada → brutse
+pinche (ayudante de cocinero) → adkoxine, koxinlada
 pincho → pinko
 pingüino → pingino
 pino → pino
-pinche (ayudante de cocinero) → adkoxine, koxinlada
-
 pintura (cuadro) → pintaia, pikto
 pintura (objeto) → pinta
 pipa → crutsa
@@ -2089,8 +2097,9 @@ preocupación → lana
 preparación → preparatio
 presentación → presentatio
 presente → presente
-presidente → presideixette
+presidente → presideixette, printsiale
 presión → preso
+pretexto → endeba
 previsión → prevo
 previsualización → previso
 primavera → acoatira
@@ -2204,6 +2213,7 @@ regaliz → dultseza
 regalo → regalo, presente
 región → regiono
 regla → rekla
+regreso, retorno → retorno
 reina → reine
 reinado → reina
 reino → renno
@@ -2290,6 +2300,7 @@ salón → asteitela
 sandalía → sande
 sandía → roxomelo
 sangre → sigra
+sanidad → sanita
 santo → sainto
 santuario → saintotela
 sapo → froga
@@ -2344,7 +2355,7 @@ socio → sozio
 sociópata → sociopata
 soga → soka
 sol → sol
-solar → solar
+solar, parcela → solar, parza
 soldado, guerrero → gerraxette
 solución → solva
 sombra → tsado
@@ -2475,7 +2486,6 @@ tono → tona
 tonto → erko, silki
 topo → talpa, mola
 tormenta → zundra
-
 tornado → tornado
 torneo → torneio
 tornillo → exkrabo
@@ -2498,13 +2508,14 @@ traficación → trafike
 traficante → trafikaxette
 traición → trasta
 traje → gouno, esmokinno
-trampa → trapa
+trampa → trapa, trapitsa
 transcripción → transcriba
 transexual → transexualo
 transexualidad → transexualita
 transmutación → transmuta
 transportador (regla) → aconvo
 transporte → conve
+tranvía → ciutrena
 trastorno → yiga
 trato → tiska, trao
 tren → trena
@@ -2526,7 +2537,7 @@ tronco → trunko
 trono → trone
 tropa → tropas
 trucha → trutsa
-truco → truka
+truco → truka, trapitsa
 trueno → trumbe
 trufa → turfa
 tráfico → trafiko
@@ -2630,7 +2641,7 @@ visualización → visoatio
 vitalidad → vitalita
 vitamina → vitamine
 viuda negra → viutonekro
-viudo, a → viuto
+viudo, viuda → viuto
 vivienda → vivaitela
 vocabulario → vokabulatio
 vocal → vokal

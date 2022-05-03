@@ -247,6 +247,8 @@ disponible → disve
 extraño → estranno
 extremo → extremo
 extrovertido → extroverto
+condenado → condeno
+recompensado → reguarde
 fácil → fazilo
 falso → fakro
 feliz, alegre → aibelo
