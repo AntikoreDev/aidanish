@@ -406,6 +406,7 @@ disculpar → diskaire
 disipar → disipaire
 transportar → aconvoi
 disparar → desparei
+disponer → disvai
 divertir → xiaibelai
 suceder (suceso) → berai
 suceder (continuar) → enterai

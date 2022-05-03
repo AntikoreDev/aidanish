@@ -243,6 +243,7 @@ estropeado → errairiko
 eterno → ertseko
 fresco → fresko
 exacto → xakto
+disponible → disve
 extraño → estranno
 extremo → extremo
 extrovertido → extroverto

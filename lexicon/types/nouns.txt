@@ -991,6 +991,8 @@ disfraz → desfro, vanga
 disparo → desparo
 dispositivo → alitaro
 disquete → diskete
+disponibilidad → disva
+disposición → disposa
 disrupción → disrupta
 disruptor → disruptor
 distancia → longara
