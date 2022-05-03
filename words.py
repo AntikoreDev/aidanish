@@ -2,7 +2,6 @@
 # This script will get all entries from lexicon/types, then make a list of all aidanish words not repeating any, then move it to words.txt
 
 import parse
-import os
 
 # Run the script
 def Run():
