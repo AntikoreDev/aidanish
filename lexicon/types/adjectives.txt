@@ -313,6 +313,7 @@ medicinal → medikarer
 menor → pikoler
 mentiroso → mustager
 nuclear → nuzelar
+mediocre → mediocre 
 mirado → avisoko
 mismo → mesmo
 modificado → modifikako

@@ -601,6 +601,7 @@ odiar → rutrai
 mencionar → mentsei
 aliviar → alivai
 advertir → varnai
+mediocridad → mediocrita
 conceptuar → conceptai
 mentir, engañar → lerrai
 mezclar → mixei
