@@ -2562,6 +2562,8 @@ medida → metirra
 medidor → metera
 medio (transporte, comunicación) → metia
 medio → mediu
+mediocre → mediocre
+mediocridad → mediocrita
 mediodía → mitaheno
 medir → metairre
 meditación → meditia
