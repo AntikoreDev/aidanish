@@ -147,6 +147,7 @@ adoptado → adoptocorrecto
 adoptar → adoptei
 adoración → adoro
 adorar → adorai
+aduana → otertseqe
 adueñarse → doine
 adverbio → adverba
 advertencia → varno
@@ -458,6 +459,8 @@ aurora → aurora
 autismo → autisma
 autobús → autobus
 autor → autora
+avance → entero
+avanzar → enterei
 avaricia → avaritia
 avaricioso → avarito
 avenida → avenua
@@ -575,6 +578,8 @@ bismuto → bismuto
 bisonte → bisonte
 blanco → bianco
 blando → bloneto
+blanquear (dinero) → xaguai, biancai
+blanquear → biancai
 blindar → blindai
 bloque → bloke
 bloqueado → lokeioto
@@ -1459,6 +1464,10 @@ disipar → disipaire
 disolver → disolvai
 disparar → desparei
 disparo → desparo
+disponer → disvai
+disponibilidad → disva
+disponible → disve
+disposición → disposa
 dispositivo → alitaro
 disquete → diskete
 disrupción → disrupta
@@ -2025,6 +2034,7 @@ gustar → gustoi
 guía (objeto) → redaioro
 guía (persona) → redaixette
 género → genera
+haba → aba
 haber → harei
 habilidad → estila
 habitación → vitaitela
@@ -2863,6 +2873,7 @@ otro (persona) → ote
 otro lugar → otela, olocato
 otro momento → otempo
 otros (cosas) → otem
+otros (personas) → oter
 oveja → omejo
 oxidado (de hacer algo) → rigi
 oxidado (metal) → ragiko
@@ -3083,6 +3094,8 @@ pimiento → pipera
 pincel → brutsa
 pincelada → brutse
 pincelar → brutsei
+pinchar → pinkai
+pinche (ayudante de cocinero) → adkoxine, koxinlada
 pincho → pinko
 pingüino → pingino
 pino → pino
@@ -3217,6 +3230,7 @@ presidir → presidei
 presionar → presoi
 presión → preso
 presumir → priuzei
+pretexto → endeba
 prever → prevai
 previsión → prevo
 previsualización → previso
@@ -3402,6 +3416,8 @@ regalo → regalo, presente
 regar → rekai
 región → regiono
 regla → rekla
+regresar → retornai
+regreso, retorno → retorno
 rehacer → redoi
 reina → reine
 reinado → reina

@@ -1,4 +1,5 @@
 a
+aba
 abaire
 abaniko
 abarka
@@ -75,6 +76,7 @@ aderge
 adiktia
 adikto
 adiktoso
+adkoxine
 administrei
 administreiette
 ado
@@ -594,6 +596,7 @@ betarra
 betran
 betranno
 bexe
+biancai
 biancara
 bianco
 biatse
@@ -1106,6 +1109,7 @@ diske
 diskete
 diskreto
 disolvai
+disposa
 disrupta
 disruptivo
 disruptor
@@ -1115,6 +1119,9 @@ distro
 distroi
 distroro
 distructor
+disva
+disvai
+disve
 divisa
 dixai
 dixo
@@ -1285,6 +1292,7 @@ encanto
 enciklopedia
 enciuta
 encova
+endeba
 endemos
 enderei
 enderia
@@ -1309,8 +1317,10 @@ enter
 entera
 enterai
 enterehen
+enterei
 enterier
 enterino
+entero
 enterprisa
 enterrei
 enterro
@@ -2280,6 +2290,7 @@ koxinei
 koxineioto
 koxineitela
 koxinette
+koxinlada
 kozei
 kozido
 kraba
@@ -2894,6 +2905,8 @@ ote
 otela
 otem
 otempo
+oter
+otertseqe
 otsorra
 oun.
 ounqa
@@ -3081,6 +3094,7 @@ pikto
 piloko
 pilotufeso
 pingino
+pinkai
 pinkiporke
 pinko
 pinna
@@ -3484,6 +3498,8 @@ resta
 retai
 retardato
 retartato
+retornai
+retorno
 retra
 retrai
 retrakorkoit
