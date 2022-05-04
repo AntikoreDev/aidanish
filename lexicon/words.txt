@@ -44,6 +44,7 @@ acapela
 aceleoro
 acelerei
 acelereitio
+acero
 aco
 acoa
 acoakisa
@@ -235,6 +236,7 @@ aldehen
 aldelocato
 aldereite
 aldetela
+aldeterranno
 aldex
 aldexet
 aldonko
@@ -249,6 +251,7 @@ alisla
 alitaro
 alivai
 almena
+almodratso
 almondra
 alocato
 aloi
@@ -351,6 +354,7 @@ apikultura
 apikulxette
 aplikai
 aplikatio
+apoire
 apomo
 aprendei
 aprendeixo
@@ -458,6 +462,7 @@ aur
 aura
 aurai
 auram
+aurandaire
 aurei
 aurio
 aurnome
@@ -635,6 +640,7 @@ bliqai
 bloke
 blokenko
 bloneto
+blono
 blurra
 bluta
 bobal
@@ -677,6 +683,8 @@ brogei
 brokai
 bromo
 bronce
+bronzo
+brunno
 brusta
 brutsa
 brutse
@@ -749,6 +757,7 @@ carburai
 carburanto
 carburo
 carde
+cargo
 carica
 caricai
 carkazono
@@ -853,6 +862,7 @@ compenso
 compentio
 complekso
 composai
+comprei
 comprendai
 comprendo
 computera
@@ -936,6 +946,8 @@ cronike
 cropai
 cropo
 crosa
+crosafikai
+crosafiktio
 crosai
 crucibla
 crutsa
@@ -994,6 +1006,8 @@ defendette
 definite
 defizente
 defizientia
+degustai
+degustoi
 deida
 deis
 deisa
@@ -1094,6 +1108,7 @@ dikero
 diktionario
 dimensia
 dinamita
+dinosauro
 diorita
 diploma
 diplomaxette
@@ -1294,6 +1309,10 @@ emesimo
 emfriteoro
 emitei
 emitero
+emotia
+emotivo
+emozai
+emozio
 empaperai
 empartamento
 emperas
@@ -1450,6 +1469,8 @@ espaunaoro
 espectaclo
 espektei
 espekteixette
+espelai
+espelei
 espelektei
 espelektia
 espelekto
@@ -1525,7 +1546,7 @@ etristuro
 etse
 etsoi
 europa
-evento.
+evento
 evokai
 evokatela
 evoke
@@ -1547,6 +1568,8 @@ exo
 exogi
 exore
 exorei
+experimentai
+experimento
 explodei
 explodiko
 explodoro
@@ -1665,6 +1688,7 @@ fondo
 fonetika
 fonto
 fora
+forbafor
 fore
 foreno
 foreviso
@@ -2531,6 +2555,7 @@ marestrela
 marka
 markai
 markoro
+marro
 marteano
 martexei
 martexo
@@ -2678,10 +2703,14 @@ modifikai
 modifikako
 modifikatio
 modo
+modole
+modulai
+modulo
 moi
 mokete
 mola
 moldo
+moldoi
 moltoxo
 mondo
 mondola
@@ -2879,6 +2908,7 @@ oixalai
 okoie
 okoire
 okoixa
+okroi
 oktokono
 oleksaia
 olekso
@@ -2954,6 +2984,7 @@ ozeno
 ozenore
 ozenoso
 ozone
+pacenza
 pacto
 pactoi
 pagena
@@ -3227,10 +3258,16 @@ posei
 posesai
 posesive
 poseso
+posibilai
+posibilitai
 posibla
+posiblai
 posmoi
 posposai
 postai
+postal
+postalcoda
+postalcodiko
 posto
 potia
 praiso
@@ -3280,6 +3317,8 @@ priosai
 prison
 priuzei
 privono
+prizai
+prizo
 proba
 probacupa
 probai
@@ -3320,6 +3359,7 @@ protectia
 protecto
 proteina
 proteire
+provenza
 proverbio
 proximo
 prozeso
@@ -3330,6 +3370,8 @@ publikai
 publiko
 puja
 pujai
+pukai
+pukaire
 pula
 pulai
 pulaioro
@@ -3407,12 +3449,14 @@ rakoso
 rame
 ranaire
 range
+rango
 ranta
 rante
 rante aktio
 rantio
 ranuncula
 rata
+ratio
 reactai
 reactoro
 reaktai
@@ -3422,6 +3466,7 @@ real
 realita
 reaso
 reasoi
+recebai
 recepta
 receptei
 receptela
@@ -3516,6 +3561,7 @@ resistentia
 resola
 resolei
 resoleitio
+resoltai
 respektei
 respeto
 resta
@@ -3531,6 +3577,9 @@ retro
 retroi
 retsaiko
 retsaire
+revenga
+revengai
+revenganze
 revivai
 revokei
 revolver
@@ -3684,6 +3733,7 @@ sequencia
 serio
 sero
 serpento
+servei
 sesai
 sesaia
 sesia
@@ -3718,6 +3768,8 @@ sire
 sirena
 sirvei
 sirveidoro
+siska
+siske
 sistema
 sitei
 siteiko
@@ -3808,6 +3860,7 @@ sustai
 sustancea
 suxiza
 suxizo
+taberna
 tablo
 tablote
 tabula
@@ -3836,6 +3889,7 @@ tarra
 tarro
 tarta
 tavake
+taverna
 teirnai
 teja
 tekla
@@ -3882,6 +3936,10 @@ terurai
 terurasta
 tesis
 testa
+testai
+testei
+testifica
+testo
 tetero
 tetronimo
 texna
@@ -3992,6 +4050,7 @@ trompeta
 trompo
 trone
 tropas
+trovai
 truka
 trumbai
 trumbe
@@ -4099,6 +4158,7 @@ unpaireko
 unpaireoso
 unparezei
 unparezeitio
+unpoire
 untsuaç
 unyoiko
 unzuna
@@ -4151,6 +4211,8 @@ variable
 varnai
 varno
 varsova
+vasaia
+vasaio
 vascula
 vasiya
 vater

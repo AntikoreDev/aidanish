@@ -94,8 +94,7 @@ aceleración → acelereitio
 acelerador → aceleoro
 acelerar → acelerei
 acercar → nearei
-acero → akero
-acero → azero
+acero → akero, azero, acero
 aclarar (dejar claro un concepto) → isendereim
 aclarar (dejar claro un objeto) → aklaroi
 acoger → akaine
@@ -228,6 +227,7 @@ alegrar → aibelai
 alegría → aibe
 alemania → duxlan
 alemán → duxleano
+alfajor → almodratso
 alfombra → corta
 algo → akoixa
 alguien → aperso
@@ -720,6 +720,7 @@ calle → kale
 callejero → estratoge
 calor → kaler
 calvo → calvo
+calzarse → apoire
 calzoncillo → carkazono
 caléndula → calendula
 cama → dormebas
@@ -749,6 +750,7 @@ canción → qanzio
 candelabro → candalabro
 cangrejo → kraba
 canguro → kangoro
+canjear → prizai
 canoa → canoia
 cansado → infizo
 cansancio → infize
@@ -776,7 +778,7 @@ capturar → kaptai
 capullo (mariposa) → cucula
 capullo → fasoa
 cara → fazia
-caracol → itsa
+caracol → itsa, cargo
 carbon → karbona, cocola
 carburante → carburanto
 carburar → carburai
@@ -1039,14 +1041,14 @@ completo → kompleto
 complexión → komplexio
 componer → composai
 comportamiento → unba
-comportar[se] → unbisei
+comportarse → unbisei
 compra → kompra
 comprador → kompraixette
 comprar → kompraire
 comprender → comprendai
 comprensión → comprendo
 comprobación → tseqe
-comprobar → tseqai
+comprobar → tseqai, testai
 comunidad → comunitatia
 comunismo → comunisma
 comunista → comunista
@@ -1111,7 +1113,7 @@ contar (con algo) → akoixei
 contar (contar a alguien algo) → rekoixei
 contar (números o cosas) → kontoi
 contención → containio
-contener → containe
+contener → containe, koi
 contenido → contento
 contexto → conteksto
 continuar → enterai, pronkai
@@ -1191,6 +1193,8 @@ cristianismo → kristianisma
 cronómetro → klokometera
 cruasán → croasan
 cruce → crosa
+crucificar → crosafikai
+crucificción → crosafiktio
 cruz → crosa
 cruzar → crosai
 cráneo → craneo
@@ -1268,6 +1272,7 @@ célula → celula
 césped → briaxa
 círculo → circlo
 cóctel → coktel
+código postal → postalcodiko, postalcoda
 código → codiko
 cólera → xolera
 cómodo → conforte
@@ -1303,12 +1308,13 @@ deficiencia → defizientia
 deficiente → defizente
 definido → definite
 definitivo → definite
+degustar, saborear → zaporrai, degustai, degustoi
 deidad → deida
 dejado → dexaireioko
 dejar → dexaire
 del → dai
 delante → daotan
-deletrear → delektorei
+deletrear → delektorei, espelei
 delfín → delfino
 delgado → delekio
 demandar → demandai
@@ -1348,6 +1354,7 @@ desastre → disastra
 desastroso → disastroso
 desatornillar → desexkrabaire
 desbloquear → unlokei
+descalzarse → unpoire
 descansar → durnei, hixei
 descanso → hixe
 descender → denseine, aurei
@@ -1447,6 +1454,7 @@ digito → digito
 dimensión → dimensia
 dinamita → dinamita
 dinero, pasta → moneta
+dinosaurio → dinosauro
 diorita → diorita
 dios → deis
 diosa → deisa
@@ -1564,6 +1572,10 @@ embarcar → embarcai
 embarco → embarco
 emisor → emitero
 emitir → emitei
+emocionar (emoción) → emozai
+emoción (emocionar) → emozio
+emoción (sentimiento) → emotia
+emotivo → emotivo
 empalmar → apalmai
 empalme → apalme
 empanada → ebritaita
@@ -1601,7 +1613,7 @@ enciclopedia → enciklopedia
 encima → overa
 enclave → entsave
 encoger → nograi
-encontrar → zunaire
+encontrar → zunaire, trovai
 encuesta → contesta
 encuestar → contestai
 endemia → endemos
@@ -1626,12 +1638,13 @@ engrasar → asoai
 enlace → linke
 enlazar → linkei
 enmarcar → makorai
+enmohecer → moldoi
 enrutador → enrotare
 ensalada → ensalada
 enseñar → esaroi
 ensordecer → sordai
 ensuciar → druxai
-entender → enderei
+entender → enderei, comprei
 entendimiento → enderia
 enterrar → enterrei
 entidad → entita
@@ -1783,7 +1796,7 @@ etnia → etnia
 eucalipto → arsuce
 europa → europa
 evaporar → inherbei
-evento → evento.
+evento → evento
 evitar → voitai, saire
 exacto → exaito
 exacto → xakto
@@ -1791,13 +1804,15 @@ exageración → hurro
 exagerar → hurrai
 examen → examen
 examinación → examinatia
-examinar → examinai
+examinar → examinai, testai
 excitación → enuse
 excitar → enusei
 excusa → excusa
 excusar → excusai
+experimentar → experimentai, testai, testei
+experimento → testo, testifica, experimento
 explanada → planiuno
-explicar → esplaxai
+explicar → esplaxai, espelai
 explosivo → explodiko
 explosivo → explodoro
 explosión → bombeia
@@ -1901,6 +1916,7 @@ freidora → friteoro
 frenar → freine, detrei
 frente → urante
 fresa → fresa, estserra, rutsia
+fresco (cuando se trata de algo novedoso) → siske, heruo, fresko
 fresco → fresko
 fresia (flor) → calanula
 fresno → katria
@@ -2510,6 +2526,7 @@ mariposa → blaigia
 mariquita → zigarra
 marisco → arraina
 marrón → itsoso
+marrón → marro, brunno, bronzo
 marte → mairte
 martes → martia
 martillo → martexo
@@ -2649,12 +2666,15 @@ mitómano → mitomane
 miércoles → xeitore
 mochila → esaibaga
 moco → muco
+moda → siska
+modalidad → modole
 moderador → moderaiette
 moderar → moderai
 modificación → modifikatio
 modificado → modifikako
 modificar → modifikai
 modo → modo
+modular → modulai
 mofeta → napesta
 moho → moldo
 momento → tempeo
@@ -2719,6 +2739,7 @@ máscara → lufazia, maske
 médico → medikarette
 méxico → mexiko
 místico → mistica
+módulo → modulo
 móvil → mobila
 música → musika
 música → musikette
@@ -2895,6 +2916,7 @@ oxidado (de hacer algo) → rigi
 oxidado (metal) → ragiko
 oxidar[se] → ragiai
 ozono → ozone
+paciencia → pacenza
 pactar → pactoi
 pacto → pacto
 padrastro → inestpatrono
@@ -3157,6 +3179,7 @@ plataforma → plataforma
 platino → silverino
 plato → plato
 playa → plaia
+plomo → blono
 pluma (animal) → felisa
 pluma (boligrafo) → pluma
 plutonio → plutonio
@@ -3205,9 +3228,11 @@ pose → pose
 poseer → posesai
 posesivo (lengua) → posesive
 poseído → poseso
+posibilitar → posiblai, posibilai, posibilitai
 posible → posibla
 posición → posaieo
 posponer → posposai
+postal → postal
 posterior → enterier
 pozo → racoia
 practicar → praktikai
@@ -3229,7 +3254,7 @@ prefijo → prefikso
 pregunta → kuastion, kuasta
 preguntar → kuastionei
 premiar → premire
-premio → premio
+premio → premio, prizo
 prender → fokai
 prendido → foke
 prensa → prenza
@@ -3305,6 +3330,7 @@ proteger → protectai
 protegido → protecto
 proteina → proteina
 proverbio → proverbio
+provincia → provenza
 prueba → proba
 prímula → acuprila
 príncipe → prince
@@ -3367,6 +3393,7 @@ rango → range
 ranunculus → ranuncula
 rascar → kikroi
 rata → rata
+ratio → ratio
 ratón (animal) → roido
 ratón (ordenador) → mouse
 rayar → raiaire
@@ -3394,7 +3421,7 @@ recetar → recetei
 rechazado → retsaiko
 rechazar → retsaire
 recibimiento → recepta
-recibir → receptei
+recibir → receptei, recebai
 reciente → reciento
 recipiente → recipente
 recluir → reklui
@@ -3474,6 +3501,7 @@ representación → representatio
 representar → representei
 reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
+reptar → aurandaire, okroi
 república → republika
 resistencia → resistentia
 resistir → resistai
@@ -3561,7 +3589,6 @@ sabana (bioma) → xabana
 saber → onetai
 sabiduría → onatia
 sabor → zapor
-saborear → zaporrai
 sabroso → zaproso
 sacacorchos → retrakorkoit
 sacar → retrai
@@ -3654,10 +3681,11 @@ serio → serio
 serpiente → serpento
 serrería → madratela
 servidor → sirveidoro
-servir → sirvei
+servir (servicio) → servei
+servir (uso de algo) → sirvei
 sesenta → sekseien
 sesión → sesia
-seta → tsampinna
+seta, champiñón → tsampinna
 setenta → septoen
 sexo → sexo
 sexto → sekseix
@@ -3784,6 +3812,7 @@ símbolo → simbolo
 síndrome → sindroma
 sólido → solido
 tabaco → tavake
+taberna → ingotela, taverna, taberna
 tabique → privono
 tabla → tablo
 tablero → tablote
@@ -3793,6 +3822,7 @@ taiga → taiga, karzufisi
 taladro → talatro
 talar → tsopar, tambar
 talco → talco
+talla → rango
 tallin → taline
 tallo → rute
 tamaño → tamanno
@@ -3910,6 +3940,7 @@ todo momento, siempre → ertsai
 todo → aldex
 todos (personas) → aldexet
 todos sitios, todos lados → aldetela, aldelocato
+todoterreno → aldeterranno, forbafor
 tomar → tomei
 tomate → tomako
 tono → tona
@@ -4073,6 +4104,8 @@ variar → varei
 varios → eixamete, vari
 varita → vando
 varsovia → varsova
+vasallaje → vasaia
+vasallo → vasaio
 vasija → vasiya
 vaso → cupa
 vecinal → neiborako
@@ -4093,6 +4126,8 @@ vender → ventei
 venecia → veniza
 veneno → venemo, ponzo
 venezuela → venezola
+venganza → revenga, revenganze
+vengarse → revengai
 venir → narei
 ventana → vendexa
 ventilador → vendoioro
@@ -4164,6 +4199,7 @@ volante (papel) → piprako
 volar → blai
 volcán → volkano
 volver → barei
+vomitar, potar → resoltai, pukai, pukaire
 vosotros → zure
 voz → voz
 vuelo → blaia
