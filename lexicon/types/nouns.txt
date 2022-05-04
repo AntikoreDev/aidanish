@@ -157,8 +157,7 @@ aceite → asoa
 aceitera → asonexo
 aceleración → acelereitio
 acelerador → aceleoro
-acero → akero
-acero → azero
+acero → akero, azero, acero
 acogida → akaina
 acompañamiento → akompanniretio
 acondición → akonditia
@@ -224,6 +223,7 @@ aldea → aldea
 aldeano → aldeano
 aleatoriedad → rungia
 alegría → aibe
+alfajor → almodratso
 alfombra → corta
 alimentación → flomo, nisigo
 alimento → flomiga, nisingo
@@ -516,6 +516,7 @@ caja → cuba
 cala (flor) → belania
 calabazín → cumba
 calamar → kalatrono
+calamidad → calamitas
 calavera → antsoarko
 calcetín → poitexo
 calculadora → kalculoro
@@ -570,7 +571,7 @@ captura → kapta
 capullo (mariposa) → cucula
 capullo → fasoa
 cara → fazia
-caracol → itsa
+caracol → itsa, cargo
 carbon → karbona, cocola
 carburante → carburanto
 carburo → carburo
@@ -631,6 +632,7 @@ centaurea (flor) → centara
 centella → centela
 centenario → ozenore
 centeno → surtso
+centrifugadora → zentrifugaioro
 centro → zentro
 cepillo de dientes → dentabrutsa
 cepillo → sebrutsa
@@ -639,7 +641,6 @@ cerdo → porko, pigo
 cerebro  → mentio
 cereza → roxuba
 cero → zuro
-centrifugadora → zentrifugaioro
 cerradura → klavika
 cerrajero → klavikette
 cerrojo → kerranda
@@ -750,8 +751,8 @@ compañero de cárcel → cartselenko
 compañero de piso → blokenko
 compañero → kompannette, enko
 compañía → kompania
-compensación → unlana, compenso
 compendio → compentio
+compensación → unlana, compenso
 complejo (instalaciones) → komplexo
 complemento → komplimento
 complexión → komplexio
@@ -760,15 +761,14 @@ compra → kompra
 comprador → kompraixette
 comprensión → comprendo
 comprobación → tseqe
-condena → condena
 comunidad → comunitatia
 comunismo → comunisma
 concepción → conceptio
 concepto → concepto
-recompensa → reguardo
 concha → akontse
 condado → contia
 conde → condo
+condena → condena
 condición → konditia
 conducto → driveno, condukto
 conductor (objeto) → conduktoro
@@ -847,6 +847,7 @@ cristianismo → kristianisma
 cronómetro → klokometera
 cruasán → croasan
 cruce → crosa
+crucificción → crosafiktio 
 cruz → crosa
 cráneo → craneo
 crédito (de crear algo) → credito
@@ -900,6 +901,7 @@ célula → celula
 césped → briaxa
 círculo → circlo
 cóctel → coktel
+código postal → postalcodiko, postalcoda
 código → codiko
 cólera → xolera
 dado → dize
@@ -980,6 +982,7 @@ digito → digito
 dimensión → dimensia
 dinamita → dinamita
 dinero, pasta → moneta
+dinosaurio → dinosauro
 diorita → diorita
 dios → deis
 diosa → deisa
@@ -1037,6 +1040,8 @@ elefante → estsondo
 embarcadero → embarcatero
 embarco → embarco
 emisor → emitero
+emoción (emocionar) → emozio
+emoción (sentimiento) → emotia
 empalme → apalme
 empanada → ebritaita
 empanadilla → ebritaitita
@@ -1143,6 +1148,7 @@ estar de pie, estante → estante
 estatua → estatua
 estaño → tenno
 este → este
+esternocleidomastoideo → esternocleidomastoideo
 estilo → estila
 estima → estima
 estimación → estimatio
@@ -1159,12 +1165,13 @@ estúpido → esporgo
 eternidad → ertsekoidae, ertse
 etnia → etnia
 eucalipto → arsuce
-evento → evento.
+evento → evento
 exageración → hurro
 examen → examen
 examinación → examinatia
 excitación → enuse
 excusa → excusa
+experimento → testo, testifica, experimento
 explanada → planiuno
 explosivo → explodoro
 explosión → bombeia
@@ -1173,7 +1180,6 @@ expresión → expresio
 extensión → extentia
 extintor → ignoextingoro
 extraño, desconocido → estranne
-esternocleidomastoideo → esternocleidomastoideo
 extremo → extremo
 eyaculación → guma
 falda → fuana
@@ -1479,7 +1485,6 @@ jarrón, florero → diarra
 jaula → xolda
 jazmín (flor) → terisna
 jefe → jefe, printsiale, antso, casca
-calamidad → calamitas
 jerarquía → jiderarqia
 jersey → jersey, tuske
 jirafa → terke, oxpisotsa
@@ -1633,6 +1638,7 @@ marioneta → pupeto
 mariposa → blaigia
 mariquita → zigarra
 marisco → arraina
+marrón → marro, brunno, bronzo 
 martillo → martexo
 masa → masa
 masacre → masacria
@@ -1724,6 +1730,8 @@ mito → misto
 mitómano → mitomane
 mochila → esaibaga
 moco → muco
+moda → siska
+modalidad → modole
 moderador → moderaiette
 modificación → modifikatio
 modo → modo
@@ -1765,6 +1773,7 @@ musgo → moso
 máquina → matsina
 máscara → lufazia, maske
 médico → medikarette
+módulo → modulo
 móvil → mobila
 música → musika
 música → musikette
@@ -1858,6 +1867,7 @@ otoño → autonno
 otra vez → retai
 oveja → omejo
 ozono → ozone
+paciencia → pacenza
 pacto → pacto
 padrastro → inestpatrono
 padre (formal) → patrono
@@ -2051,6 +2061,7 @@ plataforma → plataforma
 platino → silverino
 plato → plato
 playa → plaia
+plomo → blono
 pluma (animal) → felisa
 pluma (boligrafo) → pluma
 plutonio → plutonio
@@ -2080,6 +2091,7 @@ portero → portette
 pose → pose
 posesivo (lengua) → posesive
 posición → posaieo
+postal → postal
 pozo → racoia
 pradera → ergiara
 prado → ergia
@@ -2091,7 +2103,7 @@ predicción → prediktio
 preferencia → sesaia
 prefijo → prefikso
 pregunta → kuastion, kuasta
-premio → premio
+premio → premio, prizo
 prensa → prenza
 preocupación → lana
 preparación → preparatio
@@ -2132,6 +2144,7 @@ prostituta → putarra
 protección → protectia
 proteina → proteina
 proverbio → proverbio
+provincia → provenza
 prueba → proba
 prímula → acuprila
 príncipe → prince
@@ -2174,6 +2187,7 @@ rana → acroa
 rango → range
 ranunculus → ranuncula
 rata → rata
+ratio → ratio
 ratón (animal) → roido
 ratón (ordenador) → mouse
 rayo → raio
@@ -2195,6 +2209,7 @@ recipiente → recipente
 recogedor (objeto) → rekainoro
 recogedor (persona) - rekaixette
 recogida → rekaina
+recompensa → reguardo
 recorte → rekuta
 recto → recto
 rector → rektor
@@ -2333,7 +2348,7 @@ serpiente → serpento
 serrería → madratela
 servidor → sirveidoro
 sesión → sesia
-seta → tsampinna
+seta, champiñón → tsampinna
 sexo → sexo
 seña → sinna
 señal → sinna
@@ -2396,6 +2411,7 @@ símbolo → simbolo
 síndrome → sindroma
 sólido → solido
 tabaco → tavake
+taberna → ingotela, taverna, taberna
 tabique → privono
 tabla → tablo
 tablero → tablote
@@ -2404,6 +2420,7 @@ taco → taco
 taiga → taiga, karzufisi
 taladro → talatro
 talco → talco
+talla → rango
 tallo → rute
 tamaño → tamanno
 tambor → tampol
@@ -2481,6 +2498,7 @@ tiza → zirra
 toalla → toaia
 toallita → toaita
 tobillo → kidna
+todoterreno → aldeterranno, forbafor
 tomate → tomako
 tono → tona
 tonto → erko, silki
@@ -2588,6 +2606,8 @@ valor (tener fuerza de voluntad) → valia
 valor (valor de algo) → valua
 variable → variable
 varita → vando
+vasallaje → vasaia
+vasallo → vasaio
 vasija → vasiya
 vaso → cupa
 vecindario → neiborotela
@@ -2602,6 +2622,7 @@ vena → sigraconve, siger
 venda → ladepipra, bande
 vendedor → ventette
 veneno → venemo, ponzo
+venganza → revenga, revenganze
 ventana → vendexa
 ventilador → vendoioro
 ventrilocuo → vintrelocuo
