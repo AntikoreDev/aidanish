@@ -69,6 +69,11 @@ actor
 actoras
 acuarai
 acuine
+acuma
+acumai
+acumo
+acumula
+acumulo
 acuokemno
 acuprila
 adei
@@ -280,6 +285,7 @@ amikeso
 amikia
 amiko
 amilone
+ampico
 amplero
 amputai
 amputatio
@@ -703,6 +709,8 @@ bun
 bunaria
 bunfaza
 buno
+buntsai
+buntso
 bunyo
 buqe
 burge
@@ -799,6 +807,7 @@ cientsologia
 cifra
 cifrato
 cifrei
+cigarro
 ciklisma
 ciklo
 cilindro
@@ -919,6 +928,7 @@ contribe
 control
 controlei
 convai
+convalidai
 conve
 conyuge
 cope
@@ -950,6 +960,10 @@ crosafikai
 crosafiktio
 crosai
 crucibla
+crustai
+cruste
+crustela
+crusto
 crutsa
 cuacai
 cuaqio
@@ -962,6 +976,9 @@ culdai
 culdei
 culto
 cumba
+cumo
+cumul
+cumulo
 cunna
 cunno
 cuorette
@@ -1053,6 +1070,7 @@ desexai
 desexkrabaire
 desexkraboro
 desexo
+desextela
 desfro
 desfroi
 deskriptei
@@ -1086,6 +1104,7 @@ deze
 dezeai
 dezei
 dezente
+dezo
 diaga
 diagnostikai
 diagnostiko
@@ -1747,7 +1766,9 @@ furno
 furra
 furre
 furrei
+furrette
 furrisa
+furro
 fusei
 fuseitela
 fusil
@@ -1829,6 +1850,8 @@ granita
 granja
 grata
 gravita
+grax
+graxkubo
 graze
 grazei
 grazeizero
@@ -2093,9 +2116,12 @@ intrudo
 invikso
 invitatio
 invitei
+inzai
 inze
 inzei
 inzertidumbre
+inzo
+inzono
 iornada
 irakoa
 irihei
@@ -2158,6 +2184,7 @@ jokaiette
 jokaizara
 jokaizera
 joko
+jokotela
 juca
 jukse
 juksei
@@ -2238,7 +2265,7 @@ kerranda
 keska
 kidna
 kieva
-kieve. cumo
+kieve
 kievei
 kikroi
 kindara
@@ -2393,6 +2420,7 @@ lazer
 legas
 legenda
 leguma
+leko
 lekta
 lektei
 lekteoro
@@ -2712,6 +2740,7 @@ mola
 moldo
 moldoi
 moltoxo
+monde
 mondo
 mondola
 moneta
@@ -2722,6 +2751,8 @@ monorroda
 monstro
 montai
 montanna
+monte
+montinna
 monto
 mopai
 mope
@@ -3017,6 +3048,7 @@ pansexualita
 pansexualo
 pantera
 panto
+papa
 paquete
 parada
 parafilia
@@ -3031,6 +3063,7 @@ pardonai
 pare
 parei
 parisa
+parke
 parrafo
 parroqia
 parta
@@ -3050,6 +3083,7 @@ pastenno
 pastika
 pastoro
 pastoso
+patata
 patriska
 patronna
 patrono
@@ -3269,6 +3303,7 @@ postal
 postalcoda
 postalcodiko
 posto
+potata
 potia
 praiso
 praisoi
@@ -3284,6 +3319,8 @@ predikei
 prediktio
 prediqette
 prefikso
+pregardai
+pregardo
 premio
 premire
 prenza
@@ -3457,6 +3494,8 @@ rantio
 ranuncula
 rata
 ratio
+ration
+rationai
 reactai
 reactoro
 reaktai
@@ -3485,6 +3524,7 @@ redaioro
 redaixette
 redario
 redoi
+refai
 refera
 referai
 refleksei
@@ -3760,9 +3800,12 @@ silverino
 silvo
 simbolo
 simo
+simple
+simpo
 sindroma
 sinna
 sinnai
+sinzero
 sira
 sire
 sirena
@@ -3888,6 +3931,7 @@ tarenai
 tarra
 tarro
 tarta
+tata
 tavake
 taverna
 teirnai
@@ -4138,6 +4182,7 @@ undizei
 undizio
 undoi
 undono
+unfai
 unfinai
 unfinaloko
 unfiniko
@@ -4196,6 +4241,10 @@ vakante
 vale
 valei
 valia
+validai
+valita
+valito
+valo
 valua
 valuai
 valuako
@@ -4399,6 +4448,7 @@ zerto
 zeu
 zigar
 zigarra
+zigarro
 zima
 zimisyoixo
 zintaire
@@ -4417,6 +4467,11 @@ zone
 zoologiko
 zoraite
 zoranno
+zorrai
+zorrera
+zorrere
+zorro
+zorrotela
 zovisai
 zu
 zugra

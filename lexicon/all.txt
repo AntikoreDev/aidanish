@@ -2,6 +2,7 @@ a la derecha, hacia la derecha → aldereite
 a la izquierda, hacia la izquierda → alzoraite
 a punto de terminar → afinale
 a → a
+aacumular → acumai, buntsai
 abadía → abia
 abajo → aur
 abalconado → evokinde
@@ -124,6 +125,7 @@ actualizar → airposai
 actuar → aktoai
 acuario → acoario
 acuerdo → akordo
+acumulación → acumo, acuma, acumula, acumulo, cumul, cumulo
 acusado → akusako
 acusar → akusai
 acusativo → akusative
@@ -521,6 +523,7 @@ barato → atsoso
 barcelona → barcelona
 barco → barco
 barra → cana, baferro
+barrendero → furrette
 barrer → furrei
 barrera → barrera
 barricada → barraca
@@ -533,6 +536,7 @@ bastantes → bixa
 bastilla → bastila
 bastión → baluaro, bastiraa
 bastón → baton
+basura → grax
 batalla → bataila
 batido → socrema
 batido → socremeko
@@ -746,6 +750,7 @@ canal → kanala
 canalizar → kanalaize
 cancelación → kanzelatio
 cancelar → kanzelei
+cancha → kempo, jokotela
 canción → qanzio
 candelabro → candalabro
 cangrejo → kraba
@@ -851,7 +856,7 @@ cena → hinge, yantaro
 cenar → hingei
 cencerro → beletro
 cencerro, campana → campela
-ceniza → axa
+ceniza → axa, inzo
 centaurea (flor) → centara
 centella → centela
 centellear → centelai
@@ -866,6 +871,7 @@ cepillo de dientes → dentabrutsa
 cepillo → sebrutsa
 cera → equa
 cerca → neare
+cerda (pelo) → furro
 cerdo → porko, pigo
 cerebro → mentio
 cereza → roxuba
@@ -923,6 +929,7 @@ ciervo → perlo
 cifra → cifra
 cifrado → cifrato
 cifrar→ cifrei
+cigarro, cigarrillo → zigarro, cigarro, inzono
 cilindro → cilindro
 cima → zima
 cimitarra → escimitarra
@@ -1125,7 +1132,7 @@ contribución → contribe
 contribuir → contribai
 control → control
 controlar → controlei
-convalidar → convai
+convalidar → convai, convalidai
 conversación → pairetio
 conversión → konversio
 convertido → konversaioko
@@ -1164,6 +1171,7 @@ cosquilla → rakia, tiko, tikle
 costa → koasta
 costar (precio) → kostei
 costar (tiempo) → xitempoi
+costilla → crustela
 costra → ruxga
 costura → ehelo
 coyote → cuxate
@@ -1195,6 +1203,9 @@ cruasán → croasan
 cruce → crosa
 crucificar → crosafikai
 crucificción → crosafiktio
+crujido → cruste
+crujiente → crusto
+crujir → crustai
 cruz → crosa
 cruzar → crosai
 cráneo → craneo
@@ -1366,20 +1377,20 @@ desconocido → unmiseioko
 descorchar → unarkutsai
 describir → deskriptei
 desde → daze
-desear → dezeai
+desear → dezeai, pregardai
 desechado → desexo
-desechar → desexai
-desecho → desexo
+desechar → desexai, zorrai
+desecho, basura → desexo, zorro
 desembarcar → desbarcai
 desembarco → desbarco
 desembocadura (río) → rioke
 desengrasador → torqette
 desengrasante → torqera
 desengrasar → torqei
-deseo → agux
+deseo → dezo, pregardo, agux
 desfilar → deslinai
 desfile → deslina
-deshacer → undoi
+deshacer → undoi, unfai
 deshecho → undono
 desierto → deserto
 desinstalar → uninstalai
@@ -1942,7 +1953,7 @@ fuerza → forza
 fuga → fuga
 fular → fulard
 fumador → esmokaiette
-fumar → esmokai
+fumar → esmokai, inzai
 fumigar → fumigai
 funcionar → funzai
 fundición → fuseitela
@@ -2071,7 +2082,7 @@ hablar sin saber → farlai
 hablar → paire
 hacer reir → sigisai
 hacer un tour → turei
-hacer → doi
+hacer → doi, fai
 hacerse una paja → oargai
 hacia → haiza
 hackear → hackei
@@ -2687,11 +2698,11 @@ monociclo → monorroda
 monstruo → monstro
 montar (montar algo) → montai
 montar (montar en algo) → overai
-montaña → montanna
-monte → monto
-montículo → kieva
-montón → kieve. cumo
-montón → plenti
+montaña → montanna, ampico
+monte → monto, monde, monte
+montículo → kieva, montinna
+montón (cosas) → buntso, cumo, kieve
+montón (es un montón!) → plenti
 monóculo → monoklo
 moqueta → mokete, moqete
 mora → blurra
@@ -2950,6 +2961,7 @@ pantalón → panto
 pantano → saguala
 pantera → pantera
 papel → pipra
+papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela
 papelería → pipratela
 paquete (insulto) → tsusta
 paquete (insulto) → tsusta
@@ -2969,6 +2981,7 @@ parir → parei
 paris → parisa
 parking, aparcamiento → parakia
 parpadear → exorei
+parque → parke, jokotela
 parrilla → grila
 parroquia → parroqia
 parte → parte
@@ -2997,7 +3010,7 @@ pastor → pastoro
 pastoso → pastoso
 pata (animal) → pezna
 patada → poitsa
-patata → torkopa
+patata → torkopa, tata, papa, potata, patata
 patear → poitsire
 patio → enkampe, kampe
 pato → ana
@@ -3122,6 +3135,7 @@ picar (bicho) → estungai
 picar (minar) →
 pico (animal) → pike
 pico (herramienta) → pikote
+pico (montaña) → ampico
 pie → poi
 piedra → petro, petra
 piel → pelde
@@ -3343,6 +3357,7 @@ pueblo → popula
 puede ser → paidi sei
 puente → ponto
 puercoespín → pigotira
+puerro → leko
 puerta → porta
 puerto → porto
 puesta de sol → solarga, solposai
@@ -3385,6 +3400,8 @@ quince → diziqinco
 quinto → qincoix
 quitar → removai
 quizá → qiza
+racionar → rationai
+ración → ration
 radio (aparato) → radio
 radio (elemento) → radio
 rama → brianke
@@ -3464,7 +3481,7 @@ región → regiono
 regla → rekla
 regresar → retornai
 regreso, retorno → retorno
-rehacer → redoi
+rehacer → redoi, refai
 reina → reine
 reinado → reina
 reino → renno
@@ -3709,11 +3726,11 @@ silenciar → esparei
 silencio → esparo
 silencioso → esparoso
 silla → senda
-simple → sampla
-simpático → amaiso
+simple → simple, sampla
+simpático → amaiso, simpo
 sin embargo → orne
 sin → nokoi
-sincero → etristuro
+sincero → etristuro, sinzero
 sirena (mitología) → meimare
 sirena (objeto) → sirena
 sistema → sistema
@@ -4093,6 +4110,8 @@ vagón → bagon, wagon
 vajilla → vadixa
 vale → bai
 valer → valei
+validar → validai
+validez → valita
 valla → berja, fenza
 valle → vale
 valor (tener fuerza de voluntad) → valia
@@ -4149,6 +4168,7 @@ verificar → verifei
 verruga → burgua
 versión → versiona
 versus → versus
+vertedero → zorrotela, desextela
 verter → verdai
 vestido → venaza, dreso, gouno, zitaba
 vestimenta → venaza
@@ -4206,6 +4226,7 @@ vuelo → blaia
 vuelta → vira
 vuestro → zurei
 vulva → vulve
+válido → valo, valito
 váscula → vascula
 váter, retrete → batro, baxete, vater
 vía → kemno
