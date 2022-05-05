@@ -1,25 +1,25 @@
 # Tiempo
 ahora → nau
 ya → aia
-antes → alde
+antes → ande
 después → enter
-ayer → aldehen
+ayer → andehen
 mañana → enterehen
-hoy → nauhen.
-entonces → urte.
-antes de ayer → pre→aldehen.
-pasado mañana → pos→enterehen.
+hoy → nauhen
+entonces → urte
+antes de ayer → pre-andehen
+pasado mañana → pos-enterehen
 anoche → anito.
 anteanoche → pre→anito.
 todavía → enoun
-siempre → ertsai.
-aún → oun.
+siempre → ertsai
+aún → oun
 ya no → nomais
-jamás, nunca → nontsai.
-temprano → yonto.
-tarde → egente.
-luego → ogenter.
-pronto → ayenter.
+jamás, nunca → nontsai
+temprano → yonto
+tarde → egente
+luego → ogenter
+pronto → ayenter
 mientras → engeri
 
 # Lugar

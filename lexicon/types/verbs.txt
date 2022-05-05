@@ -581,7 +581,7 @@ numerar → numai
 obtener → elokrai
 ocultar → jidei
 ocupar → osalei
-ocurrir → idurei, zaine
+ocurrir → idurei, zaine, engerei
 odiar → rutrai
 ofender → ofensire
 ofrecer → ofrerai
