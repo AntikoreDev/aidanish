@@ -168,6 +168,7 @@ air
 aira
 airei
 airgaizera
+airnara
 airo
 airoei
 airoie
@@ -227,6 +228,7 @@ akusative
 akutai
 akutoro
 akuttere
+ala
 alan
 alarme
 albanea
@@ -409,6 +411,7 @@ artefactum
 arteria
 articlo
 articulo
+artsa
 artsipelago
 aseire
 asenda
@@ -471,6 +474,7 @@ auram
 aurandaire
 aurei
 aurio
+aurnara
 aurnome
 aurora
 aurvaluako
@@ -765,6 +769,8 @@ carburai
 carburanto
 carburo
 carde
+cardo
+cardoi
 cargo
 carica
 caricai
@@ -785,6 +791,7 @@ catrilloe
 catro
 catroen
 catroix
+caugo
 causa
 causai
 celar
@@ -988,10 +995,13 @@ curso
 cursogra
 cuxate
 da
+da alde forma
+dabetranara
 dafuma
 dai
 daine
 daita
+dala
 dama
 damaine
 damon
@@ -999,6 +1009,7 @@ danze
 danzeire
 danzeplane
 daotan
+daotanara
 darai
 dario
 data
@@ -1053,6 +1064,7 @@ depresia
 depresion
 deproxei
 dereite
+dereitenara
 derivai
 derrame
 derramei
@@ -1308,7 +1320,9 @@ elara
 elasto
 elde
 elektriko
+elektrikonio direktia
 elektrikono
+elektrikono maila
 elektritia
 elektronno
 elkara
@@ -1318,6 +1332,8 @@ elme
 elocato
 elokrai
 em
+em akordo
+em tempeoit
 embalai
 embarcai
 embarcatero
@@ -1339,6 +1355,8 @@ emperos
 empotrai
 empotratio
 en
+en ei
+en real
 en tempeo
 encanto
 enciklopedia
@@ -1354,6 +1372,7 @@ enginaire
 engineria
 enginero
 enginio
+eni
 enkampe
 enkantai
 enkerraire
@@ -1381,6 +1400,7 @@ entraine
 entratela
 entregai
 entrei
+entrei en sesia
 entropia
 entsave
 enuse
@@ -1567,6 +1587,7 @@ etsoi
 europa
 evento
 evokai
+evokai sesai
 evokatela
 evoke
 evokinda
@@ -1822,6 +1843,7 @@ ginome
 girufa
 gisa
 gisai
+gisette
 gistomo
 gitarra
 gizalda
@@ -2008,6 +2030,7 @@ icone
 icor
 idea
 ideai
+ideait-mixa
 idurei
 igerne
 igernei
@@ -2068,6 +2091,7 @@ influai
 influentia
 informa
 informei
+infuzio
 ingerai
 ingeriun
 ingo
@@ -2080,6 +2104,7 @@ initiai
 initiaxette
 initio
 injisai
+injise
 injurai
 inklinai
 inmortal
@@ -2123,6 +2148,7 @@ inzertidumbre
 inzo
 inzono
 iornada
+ipsogirgirigarigarei
 irakoa
 irihei
 iriheia
@@ -2212,6 +2238,7 @@ kalculoro
 kale
 kaleire
 kaleirisa
+kalekemno
 kaler
 kaleria
 kalerkista
@@ -2236,6 +2263,7 @@ karbona
 karga
 kargaize
 kargaoro
+karico
 karitatoso
 karnirette
 karno
@@ -2390,6 +2418,7 @@ kurioso
 kuta
 kutsa
 kuxa
+la
 labe
 laboro
 lade
@@ -2876,6 +2905,7 @@ nomais
 nombrai
 nome
 non
+non entreiet
 non lanai
 none
 noneatio
@@ -2883,6 +2913,7 @@ nonei
 nonete
 nonien
 nonio
+nonixa
 nono
 nonoix
 nontsai
@@ -2955,6 +2986,7 @@ onix
 onnete
 onoi
 onterra
+onterraloi
 onterrarge
 onterriko
 opaine
@@ -3271,6 +3303,7 @@ porfevo
 porko
 porko flubila
 porpura
+porqarei
 porta
 portabekit
 portafliaga
@@ -3612,6 +3645,7 @@ retornai
 retorno
 retra
 retrai
+retrai nai valia
 retrakorkoit
 retro
 retroi
@@ -3711,6 +3745,7 @@ sagei
 sagetia
 saguala
 sainto
+sainto valentino
 saintotela
 saire
 saivai
@@ -3848,6 +3883,7 @@ sozialei
 sozialneta
 soziata
 sozio
+st. valentino
 suarda
 submarine
 subnormailo
@@ -4234,6 +4270,7 @@ utila
 utilidae
 utso
 vaden
+vadeo
 vadixa
 vadixaguaioro
 vaka
@@ -4466,6 +4503,7 @@ zombie
 zone
 zoologiko
 zoraite
+zoraitenara
 zoranno
 zorrai
 zorrera

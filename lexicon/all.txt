@@ -1,6 +1,8 @@
 a la derecha, hacia la derecha → aldereite
 a la izquierda, hacia la izquierda → alzoraite
+a la → ala
 a punto de terminar → afinale
+a veces → em tempeoit
 a → a
 aacumular → acumai, buntsai
 abadía → abia
@@ -81,6 +83,8 @@ acampada → akempa
 acampar → akempei
 acapella → acapela
 acariciar → caricai
+acartonar → cardoi
+acaso → nurne
 acaso → nurne
 acceder → akcisei
 accesibilidad → akcesibila
@@ -94,6 +98,7 @@ aceitoso → asoaso
 aceleración → acelereitio
 acelerador → aceleoro
 acelerar → acelerei
+acera, pavimento → vadeo, kalekemno
 acercar → nearei
 acero → akero, azero, acero
 aclarar (dejar claro un concepto) → isendereim
@@ -133,6 +138,7 @@ acuático → acoatiko
 acuñar → acuine
 adelante → daotan (otan)
 adelgazar → delekai
+además → ademais
 además → ademais
 además → ademais
 adicción → adiktia
@@ -292,6 +298,7 @@ amigo, amiga → amike, amiko, amika
 amistad → amikia
 amistoso → amikeso
 amontonar → kievei
+amor patriótico → onterraloi
 amor → loi
 amplio → amplero
 amputación → amputatio
@@ -393,6 +400,7 @@ arma → arma
 arma → armatia
 armadillo → puntsirra, armado
 armadura → armatsosto
+armar de valor, echarle huevos → retrai nai valia
 armario → orraqe
 armenia → armenia
 armenio → armeno
@@ -427,6 +435,7 @@ aspiradora → aspiraoro
 aspirar → aspirai
 aspirina → anfluga
 astato → astato
+astilla → artsa
 astro → astro
 astronauta → astronatte
 asunto → reaso
@@ -789,7 +798,7 @@ carburante → carburanto
 carburar → carburai
 carburo → carburo
 carcaj → qiava
-carcelero → cartselette
+carcelero → cartselette, caugo
 cardo → tsardo
 carga → karga
 cargador → kargaoro
@@ -798,6 +807,7 @@ caricia → carica
 carisma → tsarisma
 carismático → tsarismatiko
 caritativo → karitatoso
+cariño (referencia a persona amada) → karico
 carnaval → carnavala
 carne → karno
 carnicero → karnirette
@@ -812,6 +822,7 @@ carruaje → azurreje
 carta (texto) → letera
 cartero → leteraette
 cartilla → cartila
+cartón → cardo
 casa → kasa
 cascada → moana
 casco → antsal
@@ -880,6 +891,7 @@ cero → zuro
 cerrado → kerraiso
 cerradura → klavika
 cerrajero → klavikette
+cerrar sesión → evokai sesai
 cerrar → kerrai
 cerrojo → kerranda
 cerveza → birraza
@@ -943,6 +955,7 @@ cisne → aista
 cisterna → cesterna
 ciudad → ciuta, ciutatela
 claridad → klaritatio
+claro (refiriendote a algo que es claro) → klaro (ejemplo: ¡claro que si me importan!)
 claro → klaro
 claro → klaro
 clase → klase
@@ -1156,6 +1169,7 @@ corona → korona
 corpa → corpe
 correcto → korrektoko
 corredor → zurrette
+correo electrónico → elektrikono maila
 correo → maila
 correr → zurrai
 corrida (cualquier significado no sexual) → zurrata
@@ -1296,7 +1310,10 @@ darse cuenta → indorai
 dato → data
 dañar → daxai, injurai
 daño → daxa
+de acuerdo → em akordo
+de la → dala
 de nada → non lanai
+de todas formas → da alde forma
 de → da
 debajo → berora
 deber (algo que debes) → dute
@@ -1473,6 +1490,7 @@ diploma → diploma
 diplomático → diplomaxette
 dirección (hacia algo) → dirija
 dirección (lugar) → direktia
+dirección de correo → elektrikonio direktia
 directiva → directiva
 directo → dirijtiko
 director → dirijette
@@ -1567,6 +1585,7 @@ ejemplo → exemplo
 ejercer → ecersai
 ejercicio → exersizo
 el → ei
+el, los → ei
 electricidad → elektritia
 electrón → elektronno
 electrónico → elektrikono
@@ -1606,6 +1625,9 @@ empotrar → empotrai
 empresa → enterprisa, kompania
 empujar → pujai
 empuje → puja
+en el → en ei, eni
+en fin → baine
+en serio → en real
 en → en, em
 encantar → enkantai
 encanto → enxanto, encanto
@@ -2083,7 +2105,14 @@ hablar → paire
 hacer reir → sigisai
 hacer un tour → turei
 hacer → doi, fai
+hacerrisas → gisette (persona que intenta hacer gracia de manera común pero solo es molesto)
 hacerse una paja → oargai
+hacia abajo → aurnara
+hacia arriba → airnara
+hacia atrás → dabetranara
+hacia delante → daotanara
+hacia la derecha → dereitenara
+hacia la izquierda → zoraitenara
 hacia → haiza
 hackear → hackei
 hada → farura
@@ -2230,6 +2259,7 @@ información → informa
 informar → informei
 infracción → frakza
 infravalorado → aurvaluako
+infusión → infuzio
 ingeniar → enginaire
 ingeniero → enginero
 ingeniería → engineria
@@ -2237,6 +2267,7 @@ ingenio → enginio
 inglaterra → angloterra
 inglés → anglo
 inhalar → inselei
+iniciar sesión → entrei en sesia
 iniciar, comenzar, empezar → initiai
 inicio → initio
 inmortal → inmortal
@@ -2339,6 +2370,7 @@ juzgar → juksei
 júpiter → ivpiter
 koala → koala
 kosovo → kosovo
+la, las → la
 laberinto → mace
 labio → labe
 lado → sero
@@ -2426,6 +2458,7 @@ llevar → yeveire
 llorar → lakrimai, acoatai
 llover → pluvai, acoatei
 lluvia de balas → baletrumbe
+lluvia de ideas → ideait-mixa
 lluvia → pluva, acoata
 lo que sea → oraben
 lo → xo (cosa)
@@ -2795,6 +2828,7 @@ nivel → levela
 niña → nenna
 niño → kindo, infante, nenno
 niños (conjunto) → kindara
+no te metas → non entreiet
 no → non
 noche → nito
 nogal → nuzelara
@@ -3222,8 +3256,9 @@ polígono → moltoxo
 pompa → bobal, pompe
 poner → posai
 por cierto → por zerto
+por cierto → por zerto
 por defecto → nurdefekto
-por favor → porfevo
+por favor → porqarei, porfevo
 por lo que → soqe
 por qué → por qa
 por → por
@@ -3382,6 +3417,7 @@ péndulo → pendulo
 pórtico → portecum
 público → publiko
 público → publiko
+que se jodan, a la mierda → injise
 que → qa
 quebrar → qibrai
 quedada → quaro
@@ -3392,6 +3428,7 @@ quemador → ignodoxoro
 quemadura → ignodaxo
 quemar → tsizirrei, ignodaxai
 querer → qarei
+quererte tanto a ti mismo hasta el punto de necesitar atención médica → ipsogirgirigarigarei (broma de april fools)
 queso en polvo → pulverfruge
 queso → fruge
 quiebra → qibra
@@ -3636,6 +3673,7 @@ salvaje → savaxo
 salvapantallas → visayagaizere
 salvar → saivai
 salón → asteitela
+san valentín → st. valentino, sainto valentino
 sanar → sanai
 sancionar → sanziarei
 sandalía → sande
@@ -3650,6 +3688,7 @@ sargento → sarjento
 sartén → emfriteoro
 saturno → saturno
 sauce llorón → zaprusa
+se fueron (relacionado a sentimientos o conceptos) → dexaire
 se → eir
 secador → drioro
 secar → driai
@@ -3731,6 +3770,7 @@ simpático → amaiso, simpo
 sin embargo → orne
 sin → nokoi
 sincero → etristuro, sinzero
+siquiera, ni siquiera → nonixa
 sirena (mitología) → meimare
 sirena (objeto) → sirena
 sistema → sistema
@@ -3848,6 +3888,7 @@ tambor → tampol
 tamizar → tamizei
 tampoco → nonete
 tan → asle, tan
+tan → tan
 tan → tan
 tanque , vehiculo de guerra → basta
 tanto → tante
@@ -4252,6 +4293,7 @@ zorro → zunio, fokso
 zumbido → biz
 zumo → xugino, bubo
 zurdo → zoranno
+¡mira! → siet (ejemplo: mira, estoy haciendo un trabajo de ciencias)
 ácaro → atiko
 áfrica → afrika
 águila → egila
