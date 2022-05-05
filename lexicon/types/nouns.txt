@@ -579,7 +579,7 @@ carbon → karbona, cocola
 carburante → carburanto
 carburo → carburo
 carcaj → qiava
-carcelero → cartselette
+carcelero → cartselette, caugo
 cardo → tsardo
 carga → karga
 cargador → kargaoro
@@ -1437,6 +1437,7 @@ incertidumbre → inzertidumbre
 incienso → incenso
 incomodidad → inconforta
 incubación → incube
+infusión → infuzio
 inculto → ivorte
 industria → industria
 infierno → inferno
@@ -1933,6 +1934,7 @@ paso → pisa
 pasta (comida) → fixolo
 pastel → kutsa, boglo
 pastilla → gobo
+astilla → artsa
 pastor → pastoro
 pata (animal) → pezna
 patada → poitsa
@@ -2056,6 +2058,7 @@ pizzería → pizzatela
 piña → pinna, anani
 placenta → ecombe
 placer → pleasa
+acera, pavimento → vadeo, kalekemno
 plaga de justiniano → plaga dai justiniano
 plaga → plaga
 plan → plan
@@ -2445,6 +2448,7 @@ tarrina → tarra
 tarro → tarro
 tarta → tarta
 tarántula → tarantula
+cartón → cardo
 taza → ukisa
 teatro → aktotela, tetero
 tecla → tekla

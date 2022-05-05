@@ -727,6 +727,7 @@ reportar → reportei
 representar → representei
 reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
+acartonar → cardoi
 reptar → aurandaire, okroi
 resistir → resistai
 resolver →  resolei

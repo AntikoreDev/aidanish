@@ -1,12 +1,10 @@
 a → a
-al → aei
 ante → ante
 bajo → vao
 cabe → kabe
 con → koi
 contra → kuntroi, ainsta
 de → da
-del → dai
 desde → daze
 durante → koante
 en → en, em
