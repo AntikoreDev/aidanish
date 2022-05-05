@@ -235,11 +235,9 @@ albanea
 albanexe
 albinisma
 albino
-alde
 aldea
 aldeano
 aldeforma
-aldehen
 aldelocato
 aldereite
 aldetela
@@ -299,6 +297,8 @@ anarqiko
 andaiata
 andaire
 andaivo
+ande
+andehen
 andesita
 andorra
 andorreo
@@ -504,7 +504,7 @@ ayato
 ayatotela
 ayatuko
 aye
-ayenter.
+ayenter
 ayette
 azaharo
 aze
@@ -1287,7 +1287,7 @@ efektibo
 efizente
 eforma
 egentai
-egente.
+egente
 egila
 egipto
 egra
@@ -1367,6 +1367,7 @@ endemos
 enderei
 enderia
 eneryia
+engerei
 engeri
 enginaire
 engineria
@@ -1434,7 +1435,6 @@ errairiko
 ersai
 ersokio
 ertsai
-ertsai.
 ertse
 ertseko
 ertsekoidae
@@ -2838,7 +2838,7 @@ nataire
 natatia
 naturala
 nau
-nauhen.
+nauhen
 navaia
 neare
 nearei
@@ -2917,7 +2917,6 @@ nonixa
 nono
 nonoix
 nontsai
-nontsai.
 noperso
 norkeo
 norkia
@@ -2961,7 +2960,7 @@ ofizina
 ofizio
 oforma
 ofrerai
-ogenter.
+ogenter
 ogo
 oi
 oitio
@@ -3020,7 +3019,7 @@ otempo
 oter
 otertseqe
 otsorra
-oun.
+oun
 ounqa
 ounqe
 oupa
@@ -3317,7 +3316,7 @@ porto
 portona
 portugal
 portuguesa
-pos
+pos-enterehen
 posai
 posaieo
 pose
@@ -3344,6 +3343,7 @@ praisotela
 praisoxette
 praktikai
 pre
+pre-andehen
 precai
 precaia
 predicado
@@ -4253,7 +4253,7 @@ urbo
 urda
 uretra
 ursunna
-urte.
+urte
 urtica
 uruguai
 urzugra
@@ -4459,7 +4459,7 @@ yigoiko
 yoi
 yoiko
 yoixo
-yonto.
+yonto
 yordea
 yuolo
 zager

@@ -331,8 +331,8 @@ anotar → anotai
 ante → ante
 anteanoche → pre→anito.
 anterior → aldonko, prevo
-antes de ayer → pre→aldehen.
-antes → alde
+antes de ayer → pre-andehen
+antes → ande
 antibiótico → antibiotiko
 antifaz → antifaz
 antigua y barbuda → antigua e barbuda
@@ -485,7 +485,7 @@ avisado → avistoko
 avisar → avistei
 aviso → avisto
 avión → avionno
-ayer → aldehen
+ayer → andehen
 ayuda → lade
 ayudar → ladei
 azafrán (flor) → aziala
@@ -499,7 +499,7 @@ añadir → adoi
 añalejo → relicrolista
 año → yaro, anio
 añorar → annorai
-aún → oun.
+aún → oun
 baba → clia
 babear → clire
 bacon → bacon
@@ -1682,7 +1682,7 @@ entendimiento → enderia
 enterrar → enterrei
 entidad → entita
 entierro → enterro
-entonces → urte.
+entonces → urte
 entrada → entratela
 entrar → entrei
 entre → eintre
@@ -2189,7 +2189,7 @@ hostelero → hostexette
 hostelerías → hosta
 hostia → portona
 hotel → hostala
-hoy → nauhen.
+hoy → nauhen
 hueso → hoso
 huevo → ovo
 huir → ezurrai
@@ -2328,7 +2328,7 @@ jacinto (flor) → irsis
 jade → jade
 jalapeño → jalapenno
 jamás → nontsai
-jamás, nunca → nontsai.
+jamás, nunca → nontsai
 jamón → iamon
 japonés → japonesa
 japón → japonia
@@ -2479,7 +2479,7 @@ los → eirer
 lucha → fista
 luchar → fistai
 luciérnaga → blailita
-luego → ogenter.
+luego → ogenter
 lugar → locata, itela
 lujo → luxo
 lujoso → luxoso
@@ -2889,7 +2889,7 @@ ocupación → osala
 ocupado → osalo
 ocupado → osalo
 ocupar → osalei
-ocurrir → idurei, zaine
+ocurrir → idurei, zaine, engerei
 océano → oxtomare
 odiar → rutrai
 odio → rutro
@@ -3023,7 +3023,7 @@ partida (juego) → jokaizara
 partido (juego, deporte) → jokaizera
 partido (político) → partero
 partir → partei, brokai
-pasado mañana → pos→enterehen.
+pasado mañana → pos-enterehen
 pasado → pasato
 pasado → pasato
 pasamontañas → balakava
@@ -3366,7 +3366,7 @@ promesa → priosa
 prometer → priosai
 promover → promovai
 pronosticar → pronostikaire
-pronto → ayenter.
+pronto → ayenter
 pronóstico → pronostiko
 propio → prope
 proponer → petiai
@@ -3753,7 +3753,7 @@ señora → sira
 si (afirmación) → ai
 si (condicional) → si, se
 si → ai
-siempre → ertsai.
+siempre → ertsai
 sierra → xerra
 siete → septo
 siete → septo
@@ -3896,7 +3896,7 @@ tantos → naitoxe
 tapar → supai
 taparabos → sujenasoit
 tardar → egentai
-tarde → egente.
+tarde → egente
 tarde → taren
 tardío → enterino
 tarjeta, carta de naipe → carde
@@ -3927,7 +3927,7 @@ tema → subyecto
 temblar → gaxei
 temblor → brusta
 temperatura → tempera
-temprano → yonto.
+temprano → yonto
 temática → subyectata
 tender → ibsoi
 tendero, vendedor → venteixette
