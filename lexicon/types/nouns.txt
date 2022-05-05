@@ -389,6 +389,7 @@ banquete → banqete
 baraja → baraja
 barco → barco
 barra → cana, baferro
+barrendero → furrette
 barrera → barrera
 barricada → barraca
 barrido → furre
@@ -398,6 +399,7 @@ base → base
 bastilla → bastila
 bastión → baluaro, bastiraa
 bastón → baton
+basura → grax
 batalla → bataila
 batido → socrema
 bauxita → bauksit
@@ -547,6 +549,7 @@ campeón → tsampeon
 campo → kempo
 canal → kanala
 cancelación → kanzelatio
+cancha → kempo, jokotela
 canción → qanzio
 candelabro → candalabro
 cangrejo → kraba
@@ -627,7 +630,7 @@ cementerio → mortotela
 cena → hinge, yantaro
 cencerro → beletro
 cencerro, campana → campela
-ceniza → axa
+ceniza → axa, inzo
 centaurea (flor) → centara
 centella → centela
 centenario → ozenore
@@ -637,6 +640,7 @@ centro → zentro
 cepillo de dientes → dentabrutsa
 cepillo → sebrutsa
 cera → equa
+cerda (pelo) → furro
 cerdo → porko, pigo
 cerebro  → mentio
 cereza → roxuba
@@ -688,6 +692,7 @@ circunstancia → zirkuntantia
 ciruela → pluma
 cisne → aista
 cisterna → cesterna
+cigarro, cigarrillo → zigarro, cigarro, inzono
 ciudad → ciuta, ciutatela
 claridad → klaritatio
 clase → klase
@@ -940,12 +945,12 @@ desarrollo → deurrayo
 desastre → disastra
 descanso → hixe
 descenso → densenno
-desecho → desexo
+desecho, basura → desexo, zorro
 desembarco → desbarco
 desembocadura (río) → rioke
 desengrasador → torqette
 desengrasante → torqera
-deseo → agux
+deseo → dezo, pregardo, agux
 desfile → deslina
 desierto → deserto
 deslizador → esleiner
@@ -1743,11 +1748,12 @@ monitor → dorimeder
 mono → monki, aco
 monociclo → monorroda
 monstruo → monstro
-montaña → montanna
-monte → monto
-montículo → kieva
-montón → kieve. cumo
-montón → plenti 
+montaña → montanna, ampico
+monte → monto, monde, monte
+montículo → kieva, montinna
+acumulación → acumo, acuma, acumula, acumulo, cumul, cumulo
+montón (cosas) → buntso, cumo, kieve
+montón (es un montón!) → plenti 
 monóculo → monoklo
 moqueta → mokete, moqete
 mora → blurra
@@ -1899,6 +1905,7 @@ pantalón → panto
 pantano → saguala
 pantera → pantera
 papel → pipra
+papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela
 papelería → pipratela
 paquete (insulto) → tsusta
 paquete (objeto) → paketara
@@ -1910,6 +1917,7 @@ paraguas → pluvaoro
 parasol → estosol
 pariente → pai
 parking, aparcamiento → parakia
+parque → parke, jokotela
 parrilla → grila
 parroquia → parroqia
 parte → parte
@@ -1928,7 +1936,7 @@ pastilla → gobo
 pastor → pastoro
 pata (animal) → pezna
 patada → poitsa
-patata → torkopa
+patata → torkopa, tata, papa, potata, patata
 patio → enkampe, kampe
 pato → ana
 patria → onterra
@@ -2012,6 +2020,7 @@ piano → piano
 picadura → estundaxe
 pico (animal) → pike
 pico (herramienta) → pikote
+pico (montaña) → ampico
 pie → poi
 piedra → petro, petra
 piel → pelde
@@ -2096,6 +2105,8 @@ pozo → racoia
 pradera → ergiara
 prado → ergia
 precio, coste → kosta
+crujido → cruste
+costilla → crustela
 precisión → prezisio
 predicado → predicado
 predicador → prediqette
@@ -2151,6 +2162,7 @@ príncipe → prince
 psicópata → psicopata
 pua → pika
 pueblo → popula
+puerro → leko
 puente → ponto
 puercoespín → pigotira
 puerta → porta
@@ -2250,6 +2262,7 @@ resistencia → resistentia
 resolución → resoleitio
 respeto → respeto
 respiración → rispera
+ración → ration
 respuesta → reposta
 resultado → resola
 reto → testa
@@ -2602,6 +2615,7 @@ vagón → bagon, wagon
 vajilla → vadixa
 valla → berja, fenza
 valle → vale
+validez → valita
 valor (tener fuerza de voluntad) → valia
 valor (valor de algo) → valua
 variable → variable
@@ -2634,6 +2648,7 @@ vergüenza → combro
 verificación → verifia
 verruga → burgua
 versión → versiona
+vertedero → zorrotela, desextela
 vestido → venaza, dreso, gouno, zitaba
 vestimenta → venaza
 veto → bana, paina, paine

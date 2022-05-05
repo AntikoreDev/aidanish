@@ -282,6 +282,7 @@ mentira → musta
 mentiroso → mustager
 minúsculo → miskolo
 mirado → avisoko
+crujiente → crusto
 mismo → mesmo
 misterioso → edariko
 modificado → modifikako
@@ -386,12 +387,13 @@ separado → unyoiko
 serio → serio
 siguiente → arenko
 silencioso → esparoso
-simple → sampla
-simpático → amaiso
-sincero → etristuro
+simple → simple, sampla 
+simpático → amaiso, simpo
+sincero → etristuro, sinzero
 soberbio → superbo
 sobrevalorado → airvaluako
 social → sozial
+válido → valo, valito
 solo → ekoro
 sordo → sorda
 soñador → pentsieko

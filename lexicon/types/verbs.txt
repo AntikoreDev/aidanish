@@ -30,6 +30,7 @@ acordar (de acuerdo) → akordai
 acordar (recordar) → akordai
 activar → aktivei
 actualizar → airposai
+aacumular → acumai, buntsai
 actuar → aktoai
 acusar → akusai
 acuñar → acuine
@@ -226,7 +227,8 @@ contraer → contraine
 contratar → asignai
 contribuir → contribai
 controlar → controlei
-convalidar → convai
+convalidar → convai, convalidai
+validar → validai
 convertir → konversai
 copiar → kopai
 correr → zurrai
@@ -238,6 +240,7 @@ costar (tiempo) → xitempoi
 crear → createi
 crecer → egrai, krekai
 creer → beleize
+crujir → crustai
 criar → krai
 crucificar → crosafikai
 cruzar → crosai
@@ -282,12 +285,12 @@ desconchar → descontsai
 desconectar → desconektai
 descorchar → unarkutsai
 describir → deskriptei
-desear → dezeai
-desechar → desexai
+desear → dezeai, pregardai
+desechar → desexai, zorrai
 desembarcar → desbarcai
 desengrasar → torqei
 desfilar → deslinai
-deshacer → undoi
+deshacer → undoi, unfai
 desinstalar → uninstalai
 deslizar → eslei
 desmayarse → dizkoiai
@@ -420,6 +423,7 @@ expulsar → aztai
 extender → extendaire
 extinguir → extingei
 extraer → tractaine
+racionar → rationai
 extrañar → estrannai
 eyacular → gumoi
 facilitar → fazilai
@@ -441,7 +445,7 @@ fregar → mopai
 frenar → freine, detrei
 freír → fritei
 frotar → frotsai
-fumar → esmokai
+fumar → esmokai, inzai
 fumigar → fumigai
 funcionar → funzai
 fundir → fusei
@@ -464,7 +468,7 @@ hablar sin saber → farlai
 hablar → paire
 hacer reir → sigisai
 hacer un tour → turei
-hacer → doi
+hacer → doi, fai
 hacerse una paja → oargai
 hackear → hackei
 hechizar → xizai
@@ -706,7 +710,7 @@ refrescar → refreskei
 regalar → regalei
 regar → rekai
 regresar → retornai
-rehacer → redoi
+rehacer → redoi, refai
 reir → gisai
 relucir húmedo → acolaine
 relucir → enlitai
