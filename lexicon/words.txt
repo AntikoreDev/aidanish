@@ -248,6 +248,8 @@ aldonko
 alfilago
 alfilai
 alfilatio
+alicatai
+alicator
 alie
 aliniai
 aliniatio
@@ -564,6 +566,7 @@ basta
 bastila
 bastiraa
 bataila
+batailon
 batino
 baton
 batro
@@ -741,6 +744,8 @@ calanula
 calendula
 calikso
 calvo
+calza
+calzo
 camera
 camiso
 camolo
@@ -1132,6 +1137,7 @@ dieteko
 dietexette
 diferei
 diferikei
+digital
 digito
 dijerai
 dikerei
@@ -1531,7 +1537,10 @@ establezei
 establezimento
 estadia
 estaire
+estan
 estandai
+estandar
+estando
 estantaro
 estante
 estantsa
@@ -2010,6 +2019,7 @@ hunco
 hundaire
 hundiko
 hundo
+hunga
 hunko
 huragere
 hurakana
@@ -2297,7 +2307,9 @@ kieve
 kievei
 kikroi
 kindara
+kindeka
 kindo
+kinko
 kirko
 kisa
 kispa
@@ -3607,6 +3619,9 @@ remastereize
 remoneiata
 remonetai
 removai
+reneva
+renevai
+renevo
 renevoi
 renno
 rentiei
@@ -4184,6 +4199,7 @@ tubia
 tula
 tumba
 tumor
+tunga
 tunna
 tunsten
 tupla
@@ -4397,6 +4413,7 @@ web
 webpagena
 wikipedia
 wiski
+wolfram
 xa
 xabana
 xafla

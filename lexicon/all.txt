@@ -243,6 +243,7 @@ alguna forma → aforma
 alguno → aione
 algún lugar → atela, alocato
 algún momento, alguna vez → atempo
+alicatar → alicatai
 alimentación → flomo, nisigo
 alimentar → nisigerei, flomai
 alimento → flomiga, nisingo
@@ -506,7 +507,7 @@ bacon → bacon
 badén → batino
 bahía → baheia
 bailar → danzeire
-baile → danze
+baile, danza → danze
 bajada → aura
 bajar → aurei
 bajo → pikoso
@@ -718,7 +719,7 @@ calabazín → cumba
 calamar → kalatrono
 calamidad → calamitas
 calavera → antsoarko
-calcetín → poitexo
+calcetín → poitexo, calzo, calza
 calculadora → kalculoro
 calcular → kalculei
 calefacción, calefactor → kaleria
@@ -734,7 +735,7 @@ callejero → estratoge
 calor → kaler
 calvo → calvo
 calzarse → apoire
-calzoncillo → carkazono
+calzoncillo → carkazono, hunga
 caléndula → calendula
 cama → dormebas
 camaleón → jideor
@@ -1478,6 +1479,7 @@ diferir → diferei
 dificultad → derrenno
 difícil → derrenko
 digerir → dijerai
+digital → digital
 digito → digito
 dimensión → dimensia
 dinamita → dinamita
@@ -1821,6 +1823,7 @@ estrés → anorro
 estudiante → estarette
 estudiar → estarei
 estudio → estaro
+estándar → estandar
 estómago → ingeriun
 estúpido → esporgo
 eternidad → ertsekoidae, ertse
@@ -1887,7 +1890,7 @@ feo → utego
 feo → utego
 feria → faira
 festejar → partai, faire, festai
-fetiche → fetixa
+fetiche → fetixa, kinko
 feto → feto
 fez → fez
 fibra → fibre
@@ -2084,7 +2087,7 @@ guardar → gaize
 guardia → guarda
 guarida → guardia
 guay → yuolo
-guerra → gerra
+guerra → gerra, batailon
 guerrero de fuego → antias
 guiar → redai
 guijarro → giarra
@@ -2173,7 +2176,7 @@ homicida → homicida
 homicidio → homicidio
 homosexual → homosexualo
 homsexualidad → homosexualita
-hongo → likena, fungo
+hongo → likena, fungo, tunga
 hora → hora
 horizonte → horizone
 hormiga → nekroandaivo
@@ -2826,6 +2829,7 @@ ningún → none
 nitrogeno → nitroieno
 nivel → levela
 niña → nenna
+niñez → kindeka
 niño → kindo, infante, nenno
 niños (conjunto) → kindara
 no te metas → non entreiet
@@ -3396,7 +3400,7 @@ puerro → leko
 puerta → porta
 puerto → porto
 puesta de sol → solarga, solposai
-puesto → posto
+puesto → posto, estando, estan
 pulgada → pulgada
 pulida → polita
 pulmón → polmona
@@ -3544,7 +3548,8 @@ remunerar → remonetai
 rendición → purna
 rendirse → purnai
 reno → kirko
-renovar → renevoi
+renovación → renevo, reneva
+renovar → renevoi, renevai
 reparación → repaira
 repentino → repentoso
 repetidor → repeteoro
@@ -3741,7 +3746,7 @@ servir (servicio) → servei
 servir (uso de algo) → sirvei
 sesenta → sekseien
 sesión → sesia
-seta, champiñón → tsampinna
+seta, champiñón → tsampinna, tunga
 setenta → septoen
 sexo → sexo
 sexto → sekseix
@@ -3929,6 +3934,7 @@ temblor → brusta
 temperatura → tempera
 temprano → yonto
 temática → subyectata
+tenazas, alicates → alicator
 tender → ibsoi
 tendero, vendedor → venteixette
 tenedor → tinera, trintso
@@ -4100,7 +4106,7 @@ tulipán → atulipa
 tumba → tumba
 tumor → tumor
 tundra → kolfisi
-tungsteno → tunsten
+tungsteno, wolframio → tunsten, wolfram
 tupla → tupla
 turismo → turisma
 turista → turista
