@@ -17,5 +17,5 @@ Lets make a poem:
 
 *Roixait sei roxo*<br>
 *Violetit sei anil*<br>
-*Fliagai sei ganai*<br>
+*Fliaga sei ganai*<br>
 *Baba sei zu*<br>
