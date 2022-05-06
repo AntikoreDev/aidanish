@@ -449,7 +449,7 @@ fumar → esmokai, inzai
 fumigar → fumigai
 funcionar → funzai
 fundir → fusei
-ganar → gonai
+ganar → ganai, gonai
 gastar → gastai
 gemir → kemir
 generar → espaunaire

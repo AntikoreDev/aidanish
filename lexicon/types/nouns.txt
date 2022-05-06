@@ -1029,7 +1029,7 @@ dolor → dole
 dormitorio → dormeiun
 dos → dois
 dragón → dracono
-droga →  drojo
+droga →  drojo, drogo
 dromedario → dorgo
 ducha → tsoaga
 duda → duba
