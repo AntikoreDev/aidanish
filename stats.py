@@ -9,6 +9,7 @@ def Run():
 		"longest": None,
 		"shortest": None,
 		"letters": {},
+		"ends": {},
 		"total": 0,
 	}
 
@@ -25,16 +26,29 @@ def Run():
 
 		langdata["total"] += 1
 
+		lastletter = None
 		for l in w:
 			if (l in " -.,ç"):
 				continue
+			lastletter = l
 			langdata["letters"].update({
 				l: langdata["letters"].get(l, 0) + 1
 			})
 
+		if (lastletter):
+			langdata["ends"].update({
+				lastletter: langdata["ends"].get(lastletter, 0) + 1
+			})
+
+
 	string = []
 	for letter in langdata["letters"].keys():
 		string.append("{}: {}".format(letter.upper(), langdata["letters"].get(letter, 0)))
+
+	ends = []
+	for letter in langdata["ends"].keys():
+		if (langdata["ends"][letter] > 25):
+			ends.append(letter.upper())
 
 	string.sort()
 
@@ -45,6 +59,8 @@ def Run():
 	print()
 	print("Longest word: {} ({})".format(langdata["longest"], len(langdata["longest"])))
 	print("Shortest word: {} ({})".format(langdata["shortest"], len(langdata["shortest"])))
+	print()
+	print("Ends: [\"{}".format("\", \"".join(ends)) + "\"]")
 
 
 
