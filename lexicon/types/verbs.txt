@@ -1,3 +1,4 @@
+aacumular → acumai, buntsai
 abandonar → ekorei, lostigai
 abanicar → cuendei
 abarcar → hombai
@@ -17,6 +18,7 @@ abundar → abontai
 aburrir → aborrai
 acampar → akempei
 acariciar → caricai
+acartonar → cardoi
 acceder → akcisei
 acelerar → acelerei
 acercar → nearei
@@ -30,7 +32,6 @@ acordar (de acuerdo) → akordai
 acordar (recordar) → akordai
 activar → aktivei
 actualizar → airposai
-aacumular → acumai, buntsai
 actuar → aktoai
 acusar → akusai
 acuñar → acuine
@@ -59,6 +60,7 @@ alargar → longei
 alcanzar → arrai
 aleatorizar → rungiai
 alegrar → aibelai
+alicatar → alicatai
 alimentar → nisigerei, flomai
 alinear → aliniai
 aliviar → alivai
@@ -228,7 +230,6 @@ contratar → asignai
 contribuir → contribai
 controlar → controlei
 convalidar → convai, convalidai
-validar → validai
 convertir → konversai
 copiar → kopai
 correr → zurrai
@@ -240,9 +241,9 @@ costar (tiempo) → xitempoi
 crear → createi
 crecer → egrai, krekai
 creer → beleize
-crujir → crustai
 criar → krai
 crucificar → crosafikai
+crujir → crustai
 cruzar → crosai
 cubrir → kubrai
 cuidar → culdei
@@ -423,7 +424,6 @@ expulsar → aztai
 extender → extendaire
 extinguir → extingei
 extraer → tractaine
-racionar → rationai
 extrañar → estrannai
 eyacular → gumoi
 facilitar → fazilai
@@ -687,6 +687,7 @@ quedar → quaroi
 quemar → tsizirrei, ignodaxai
 querer → qarei
 quitar → removai
+racionar → rationai
 rascar → kikroi
 rayar → raiaire
 razonar → reasoi
@@ -720,14 +721,13 @@ remasterizar → remastereize
 remover → removai
 remunerar → remonetai
 rendirse → purnai
-renovar → renevoi
+renovar → renevoi, renevai
 repetir → repetei
 replicar → reproxei
 reportar → reportei
 representar → representei
 reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
-acartonar → cardoi
 reptar → aurandaire, okroi
 resistir → resistai
 resolver →  resolei
@@ -841,6 +841,7 @@ turnar → turnoi
 unir → yoi
 usar → usei
 valer → valei
+validar → validai
 valorar → valuai
 variar → varei
 vendar → bandei

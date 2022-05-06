@@ -1,6 +1,3 @@
-
-
-
 a punto de terminar → afinale
 abalconado → evokinde
 abandonado → ekoreko
@@ -123,6 +120,7 @@ convertido → konversaioko
 cornudo → cornato
 correcto → korrektoko
 corto → coto
+crujiente → crusto
 culpable → riaxeso
 culto → litero
 curioso → kurioso
@@ -146,6 +144,7 @@ diario → hena
 dietético → dieteko
 diferente → nequalo
 difícil → derrenko
+digital → digital
 directo → dirijtiko
 discreto → diskreto
 disponible → disve
@@ -282,7 +281,6 @@ mentira → musta
 mentiroso → mustager
 minúsculo → miskolo
 mirado → avisoko
-crujiente → crusto
 mismo → mesmo
 misterioso → edariko
 modificado → modifikako
@@ -393,7 +391,6 @@ sincero → etristuro, sinzero
 soberbio → superbo
 sobrevalorado → airvaluako
 social → sozial
-válido → valo, valito
 solo → ekoro
 sordo → sorda
 soñador → pentsieko
@@ -430,6 +427,7 @@ verde → berde
 verificado → verifeko
 viejo → igerne, elde
 vivo → vitoso
+válido → valo, valito
 áspero → coarsa
 épico → epikar
 único → uniko

@@ -157,6 +157,7 @@ aceite → asoa
 aceitera → asonexo
 aceleración → acelereitio
 acelerador → aceleoro
+acera, pavimento → vadeo, kalekemno
 acero → akero, azero, acero
 acogida → akaina
 acompañamiento → akompanniretio
@@ -173,6 +174,7 @@ actuación → aktoatio
 actualización → airposo
 acuario → acoario
 acuerdo → akordo
+acumulación → acumo, acuma, acumula, acumulo, cumul, cumulo
 acusativo → akusative
 adicción → adiktia
 adición → ado
@@ -330,6 +332,7 @@ aspiración → aspira
 aspiradora → aspiraoro
 aspirina → anfluga
 astato → astato
+astilla → artsa
 astro → astro
 astronauta → astronatte
 asunto → reaso
@@ -370,7 +373,7 @@ baba → clia
 bacon → bacon
 badén → batino
 bahía → baheia
-baile → danze
+baile, danza → danze
 bajada → aura
 bala → bale
 balanza → balante
@@ -520,7 +523,7 @@ calabazín → cumba
 calamar → kalatrono
 calamidad → calamitas
 calavera → antsoarko
-calcetín → poitexo
+calcetín → poitexo, calzo, calza
 calculadora → kalculoro
 calefacción, calefactor → kaleria 
 calendario → henlista
@@ -529,7 +532,7 @@ calle (referencia general) → estrato
 calle → kale
 callejero → estratoge
 calor → kaler
-calzoncillo → carkazono
+calzoncillo → carkazono, hunga
 caléndula → calendula
 cama → dormebas
 camaleón → jideor
@@ -597,6 +600,7 @@ carruaje → azurreje
 carta (texto) → letera
 cartero → leteraette
 cartilla → cartila
+cartón → cardo
 casa → kasa
 cascada → moana
 casco → antsal
@@ -683,6 +687,7 @@ científico → cientsette
 ciervo → perlo
 cifra → cifra
 cifrado → cifrato
+cigarro, cigarrillo → zigarro, cigarro, inzono
 cilindro → cilindro
 cima → zima
 cimitarra → escimitarra
@@ -692,7 +697,6 @@ circunstancia → zirkuntantia
 ciruela → pluma
 cisne → aista
 cisterna → cesterna
-cigarro, cigarrillo → zigarro, cigarro, inzono
 ciudad → ciuta, ciutatela
 claridad → klaritatio
 clase → klase
@@ -827,6 +831,7 @@ cosa → koixa
 cosecha → cropo
 cosquilla → rakia, tiko, tikle
 costa → koasta
+costilla → crustela
 costra → ruxga
 costura → ehelo
 coyote → cuxate
@@ -853,6 +858,7 @@ cronómetro → klokometera
 cruasán → croasan
 cruce → crosa
 crucificción → crosafiktio 
+crujido → cruste
 cruz → crosa
 cráneo → craneo
 crédito (de crear algo) → credito
@@ -1165,6 +1171,7 @@ estructura → estrukta
 estrés → anorro
 estudiante → estarette
 estudio → estaro
+estándar → estandar
 estómago → ingeriun
 estúpido → esporgo
 eternidad → ertsekoidae, ertse
@@ -1196,7 +1203,7 @@ fecha → daita
 felicidad → aibela
 feo → utego
 feria → faira
-fetiche → fetixa
+fetiche → fetixa, kinko
 feto → feto
 fez → fez
 fibra → fibre
@@ -1335,7 +1342,7 @@ guardado → gaiza
 guardador → gaizeoro
 guardia → guarda
 guarida → guardia
-guerra → gerra
+guerra → gerra, batailon
 guerrero de fuego → antias
 guijarro → giarra
 guisante → pite
@@ -1394,7 +1401,7 @@ homicida → homicida
 homicidio → homicidio
 homosexual → homosexualo
 homsexualidad → homosexualita
-hongo → likena, fungo
+hongo → likena, fungo, tunga
 hora → hora
 horizonte → horizone
 hormiga → nekroandaivo
@@ -1437,7 +1444,6 @@ incertidumbre → inzertidumbre
 incienso → incenso
 incomodidad → inconforta
 incubación → incube
-infusión → infuzio
 inculto → ivorte
 industria → industria
 infierno → inferno
@@ -1446,6 +1452,7 @@ inflación → inflatio
 influencia → influentia
 información → informa
 infracción → frakza
+infusión → infuzio
 ingeniero → enginero
 ingeniería → engineria
 ingenio → enginio
@@ -1752,7 +1759,6 @@ monstruo → monstro
 montaña → montanna, ampico
 monte → monto, monde, monte
 montículo → kieva, montinna
-acumulación → acumo, acuma, acumula, acumulo, cumul, cumulo
 montón (cosas) → buntso, cumo, kieve
 montón (es un montón!) → plenti 
 monóculo → monoklo
@@ -1806,6 +1812,7 @@ nigromante → nekromante
 nitrogeno → nitroieno
 nivel → levela
 niña → nenna
+niñez → kindeka
 niño → kindo, infante, nenno
 niños (conjunto) → kindara
 noche → nito
@@ -1934,7 +1941,6 @@ paso → pisa
 pasta (comida) → fixolo
 pastel → kutsa, boglo
 pastilla → gobo
-astilla → artsa
 pastor → pastoro
 pata (animal) → pezna
 patada → poitsa
@@ -2058,7 +2064,6 @@ pizzería → pizzatela
 piña → pinna, anani
 placenta → ecombe
 placer → pleasa
-acera, pavimento → vadeo, kalekemno
 plaga de justiniano → plaga dai justiniano
 plaga → plaga
 plan → plan
@@ -2108,8 +2113,6 @@ pozo → racoia
 pradera → ergiara
 prado → ergia
 precio, coste → kosta
-crujido → cruste
-costilla → crustela
 precisión → prezisio
 predicado → predicado
 predicador → prediqette
@@ -2165,13 +2168,13 @@ príncipe → prince
 psicópata → psicopata
 pua → pika
 pueblo → popula
-puerro → leko
 puente → ponto
 puercoespín → pigotira
+puerro → leko
 puerta → porta
 puerto → porto
 puesta de sol → solarga, solposai
-puesto → posto
+puesto → posto, estando, estan
 pulgada → pulgada
 pulmón  → polmona
 pulpo → pulpusa
@@ -2195,6 +2198,7 @@ quemadura → ignodaxo
 queso en polvo → pulverfruge
 queso → fruge
 quiebra → qibra
+ración → ration
 radio (aparato) → radio
 radio (elemento) → radio
 rama → brianke
@@ -2257,6 +2261,7 @@ remo → esguela
 remolacha → grosatsa
 rendición → purna
 reno → kirko
+renovación → renevo, reneva
 reparación → repaira
 repetidor → repeteoro
 representación → representatio
@@ -2265,7 +2270,6 @@ resistencia → resistentia
 resolución → resoleitio
 respeto → respeto
 respiración → rispera
-ración → ration
 respuesta → reposta
 resultado → resola
 reto → testa
@@ -2364,7 +2368,7 @@ serpiente → serpento
 serrería → madratela
 servidor → sirveidoro
 sesión → sesia
-seta, champiñón → tsampinna
+seta, champiñón → tsampinna, tunga
 sexo → sexo
 seña → sinna
 señal → sinna
@@ -2448,7 +2452,6 @@ tarrina → tarra
 tarro → tarro
 tarta → tarta
 tarántula → tarantula
-cartón → cardo
 taza → ukisa
 teatro → aktotela, tetero
 tecla → tekla
@@ -2468,6 +2471,7 @@ tema → subyecto
 temblor → brusta
 temperatura → tempera
 temática → subyectata
+tenazas, alicates → alicator
 tendero, vendedor → venteixette
 tenedor → tinera, trintso
 tenis → tenis
@@ -2586,7 +2590,7 @@ tulipán → atulipa
 tumba → tumba
 tumor → tumor
 tundra → kolfisi
-tungsteno → tunsten
+tungsteno, wolframio → tunsten, wolfram
 tupla → tupla
 turismo → turisma
 turista → turista
@@ -2617,9 +2621,9 @@ vacío → aucuo
 vago → sugarra
 vagón → bagon, wagon
 vajilla → vadixa
+validez → valita
 valla → berja, fenza
 valle → vale
-validez → valita
 valor (tener fuerza de voluntad) → valia
 valor (valor de algo) → valua
 variable → variable
