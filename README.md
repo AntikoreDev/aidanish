@@ -12,3 +12,10 @@ Running `stats.py` will show the stats for the language, you must run `main.py` 
 Running `keys.py` will show you a list of 3 letter keys that can be used for word games in the language. You can put a number argument to set the amount of words that must fulfill the keys to be displayed. Defaults to 20.
 
 The script `parse.py` is used by the previous scripts and must not be used on their own
+
+Lets make a poem:
+
+*Roixait sei roxo*<br>
+*Violetit sei anil*<br>
+*Fliagai sei ganai*<br>
+*Baba sei zu*<br>
