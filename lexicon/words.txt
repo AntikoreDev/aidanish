@@ -244,7 +244,6 @@ aldetela
 aldeterranno
 aldex
 aldexet
-aldonko
 alfilago
 alfilai
 alfilatio
@@ -302,6 +301,7 @@ andaivo
 ande
 andehen
 andesita
+andonko
 andorra
 andorreo
 androido
@@ -1243,6 +1243,7 @@ drioro
 drivai
 driveno
 drivette
+drogo
 drojo
 druxai
 druxeto
@@ -1811,6 +1812,7 @@ gaizecuba
 gaizeoro
 galila
 galina
+ganai
 garda
 gardaxette
 gardenia

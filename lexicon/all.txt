@@ -331,7 +331,7 @@ anomalía → anomalia
 anotar → anotai
 ante → ante
 anteanoche → pre→anito.
-anterior → aldonko, prevo
+anterior → andonko, prevo
 antes de ayer → pre-andehen
 antes → ande
 antibiótico → antibiotiko
@@ -1553,7 +1553,7 @@ dos → dois
 dos → dois
 dragón → dracono
 drenar → drenai
-droga → drojo
+droga → drojo, drogo
 dromedario → dorgo
 ducha → tsoaga
 duchar → tsoagai
@@ -1999,7 +1999,7 @@ gallina → conto
 gamba → ximbrarisa
 ganadero → eskiate
 ganadería → eskiaro
-ganar → gonai
+ganar → ganai, gonai
 gandúl → sugarriyo
 gandúl → sugarriyo
 ganso → guse
