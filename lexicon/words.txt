@@ -514,6 +514,8 @@ aze da
 azero
 aziala
 azkribei
+azna
+aznai
 aztai
 azurreje
 bacon
@@ -1430,10 +1432,13 @@ equo
 erbusto
 erbusto da deserto
 ereasei
+erga
 ergia
 ergiara
 ergonomia
 ergonomo
+ergota
+ergote
 eriodo
 erko
 erra
@@ -2443,6 +2448,7 @@ laia
 laira
 laire
 laka
+lakata
 lakrima
 lakrimai
 lama
@@ -2559,6 +2565,7 @@ lufaz
 lufazia
 luna
 lunia
+lurge
 luva
 luxo
 luxoso
@@ -3543,6 +3550,9 @@ rata
 ratio
 ration
 rationai
+raz
+razna
+razoro
 reactai
 reactoro
 reaktai

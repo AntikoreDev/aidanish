@@ -416,7 +416,9 @@ arrepentimiento → repentia
 arrepentirse → repentai
 arriba → air
 arriesgar → riskai
+arrocera → razoro
 arrodillarse → gidillai
+arroz → raz
 arte → arte
 artefacto → artefactum, artefacto
 arteria → arteria, atokla
@@ -753,6 +755,8 @@ campanero → campelette
 campeonato → tsampeonato
 campesino → campesette
 campeón → tsampeon
+campo de arroz → razna
+campo de cultivo, cosechas → azna
 campo → kempo
 canadá → canadia
 canadá → kanada
@@ -851,6 +855,7 @@ cautivar → kautivai
 cautividad → kautivita
 cautivo → kautivita
 cavar → kavaire
+caverna → ergote
 caviar → haviar
 caza → junze
 cazador → junzette
@@ -1180,7 +1185,7 @@ corte → kuta
 corto → coto
 cosa → koixa
 cosecha → cropo
-cosechar → cropai
+cosechar, cultivar → cropai, aznai
 coser → ehelai
 cosquilla → rakia, tiko, tikle
 costa → koasta
@@ -1262,7 +1267,7 @@ cuerno → corno
 cuerpo → corpo
 cuervo → corvo
 cuestión → kuastion
-cueva → encova
+cueva → encova, erga
 cuidado → culda
 cuidar → culdei
 culo → anusa
@@ -2382,6 +2387,7 @@ ladrillo → brico, kuxa
 ladrón → rovette, rovago
 lago → laka
 lagrima → lakrima
+laguna → lurge, lakata
 langostino → ximpo
 lanza → espara
 lapislázuli → lapislazuli
@@ -2692,6 +2698,7 @@ mimo (persona) → memo
 mina → mine
 minar → mineire
 minero → minerette
+minero, cavernícola → ergota
 minería → minatia
 minoría → pikoloro
 minuto → minute
