@@ -318,6 +318,8 @@ arqueología → arqeologia
 arranque → arrantsa
 arreglo → reparo
 arrepentimiento → repentia
+arrocera → razoro
+arroz → raz
 arte → arte
 artefacto → artefactum, artefacto
 arteria → arteria, atokla
@@ -549,6 +551,8 @@ campanero → campelette
 campeonato → tsampeonato
 campesino → campesette
 campeón → tsampeon
+campo de arroz → razna
+campo de cultivo, cosechas → azna
 campo → kempo
 canal → kanala
 cancelación → kanzelatio
@@ -619,6 +623,7 @@ catastrofe → combe
 cauce → calikso
 causa → causa
 cautividad → kautivita
+caverna → ergote
 caviar → haviar
 caza → junze
 cazador → junzette
@@ -884,7 +889,7 @@ cuerno → corno
 cuerpo → corpo
 cuervo → corvo
 cuestión → kuastion
-cueva → encova
+cueva → encova, erga
 cuidado → culda
 culo → anusa
 culpa → riaxa
@@ -1522,6 +1527,7 @@ ladrillo → brico, kuxa
 ladrón → rovette, rovago
 lago → laka
 lagrima → lakrima
+laguna → lurge, lakata
 langostino → ximpo
 lanza → espara
 lapislázuli → lapislazuli
@@ -1731,6 +1737,7 @@ mimo (cariño) → carica, memi
 mimo (persona) → memo
 mina → mine
 minero → minerette
+minero, cavernícola → ergota
 minería → minatia
 minoría → pikoloro
 minuto → minute

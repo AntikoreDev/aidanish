@@ -234,7 +234,7 @@ convertir → konversai
 copiar → kopai
 correr → zurrai
 cortar → akutai
-cosechar → cropai
+cosechar, cultivar → cropai, aznai
 coser → ehelai
 costar (precio) → kostei
 costar (tiempo) → xitempoi
