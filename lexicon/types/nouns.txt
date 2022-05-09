@@ -1348,6 +1348,8 @@ gorro → gorro
 grabación → grabatio, recordo
 gracia →  graze
 grado → grado
+grafeno → grafeno
+grafito → grafeto
 gramática → gramatica
 granito → granita
 granizo → aigecombe
@@ -1585,8 +1587,10 @@ libertad → libertia
 librería → izbotela
 libreta → izboiko
 libro → izboto
+licantropía → licantropia
 licencia → licensa
 licenciado → licenso
+licántropo → licantropo, licantropette
 lija → liya, afile
 limpiador → likraoro
 limpieza → likratia
@@ -1803,8 +1807,6 @@ mono → monki, aco
 monociclo → monorroda
 monografía → monografia, monografica
 monográfo → monografette
-grafeno → grafeno
-grafito → grafeto
 monstruo → monstro
 montaña → montanna, ampico
 monte → monto, monde, monte
@@ -2319,8 +2321,6 @@ renovación → renevo, reneva
 reparación → repaira
 repetidor → repeteoro
 representación → representatio
-licantropía → licantropia
-licántropo → licantropo, licantropette
 república → republika
 resistencia → resistentia
 resolución → resoleitio
