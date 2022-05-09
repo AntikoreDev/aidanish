@@ -1004,6 +1004,7 @@ crutsa
 cuacai
 cuaqio
 cuba
+cubavorto
 cucula
 cuenda
 cuendei
@@ -1858,6 +1859,7 @@ gas
 gasola
 gastai
 gaxei
+gazai
 gel
 gelai
 gelaioro

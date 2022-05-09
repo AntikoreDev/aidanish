@@ -401,7 +401,6 @@ arma → arma
 arma → armatia
 armadillo → puntsirra, armado
 armadura → armatsosto
-armar de valor, echarle huevos → retrai nai valia
 armario → orraqe
 armenia → armenia
 armenio → armeno
@@ -1593,6 +1592,7 @@ día → hen
 dólar → dolar
 ebullición, evaporación → inherba
 echar → etsoi
+echarse alguien los huevos a tuto, armar de valor, echarle huevos → retrai nai valia
 ecología → ecologia
 ecológico → ecologike
 ecuador → equator
@@ -1649,6 +1649,7 @@ empujar → pujai
 empuje → puja
 en el → en ei, eni
 en fin → baine
+en persona → en real
 en serio → en real
 en → en, em
 encantar → enkantai
@@ -2958,7 +2959,7 @@ ofensa → ofensa
 ofensivo → ofensoko
 oficina → ofizina
 oficio → ofizio
-ofrecer → ofrerai
+ofrecer → ofrerai, gazai
 oir → oi
 ojalar → oixalai
 ojalar → oslai
@@ -3033,6 +3034,7 @@ pagano → pakano
 pagar → paiai
 paja (heno) → likra
 paja (sexo) → oarga
+palabra baúl → cubavorto
 palabra → vorto, palabra
 palabrería → vortatia
 palanca → palanca
