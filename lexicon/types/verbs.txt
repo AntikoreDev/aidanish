@@ -588,7 +588,7 @@ ocupar → osalei
 ocurrir → idurei, zaine, engerei
 odiar → rutrai
 ofender → ofensire
-ofrecer → ofrerai
+ofrecer → ofrerai, gazai
 oir → oi
 ojalar → oixalai
 ojalar → oslai
