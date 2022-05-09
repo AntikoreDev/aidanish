@@ -1925,6 +1925,8 @@ gozoi
 grabai
 grabatio
 grado
+grafeno
+grafeto
 gramatica
 granita
 granja
@@ -2505,6 +2507,7 @@ lango
 langoko
 lanterna
 lapislazuli
+lapito
 laptop
 laptopa
 lasanna
@@ -2545,6 +2548,9 @@ liberai
 libero
 liberso
 libertia
+licantropette
+licantropia
+licantropo
 licensa
 licensaire
 licenso

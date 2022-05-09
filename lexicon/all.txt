@@ -2087,6 +2087,8 @@ gracia → graze
 gracias → grazei
 gracioso → grazero
 grado → grado
+grafeno → grafeno
+grafito → grafeto
 gramática → gramatica
 grande → oxto, grata, magna
 granito → granita
@@ -2457,9 +2459,11 @@ libre → libero, liberso
 librería → izbotela
 libreta → izboiko
 libro → izboto
+licantropía → licantropia
 licencia → licensa
 licenciado → licenso
 licenciar → licensaire
+licántropo → licantropo, licantropette
 liderar → aderei
 ligero → lito
 lija → liya, afile
@@ -2530,7 +2534,7 @@ luz → lita
 lácteo → esneoro
 lámpara → litaoro
 lápida → mortopetro
-lápiz → izkrioro
+lápiz, lapicero → izkrioro, lapito
 láser → lazer
 látigo → latikate
 léxico, lexicon → lexico
