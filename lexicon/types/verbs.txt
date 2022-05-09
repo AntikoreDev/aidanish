@@ -1,4 +1,3 @@
-aacumular → acumai, buntsai
 abandonar → ekorei, lostigai
 abanicar → cuendei
 abarcar → hombai
@@ -33,6 +32,7 @@ acordar (recordar) → akordai
 activar → aktivei
 actualizar → airposai
 actuar → aktoai
+acumular → acumai, buntsai
 acusar → akusai
 acuñar → acuine
 adelgazar → delekai
@@ -98,6 +98,8 @@ arrepentirse → repentai
 arriesgar → riskai
 arrodillarse → gidillai
 ascender → anseine, airei
+asediar → sievai, sievei
+asemejarse → lokai, asemeire
 asentir → asensei
 asignar → asignai
 aspirar → aspirai
@@ -201,6 +203,7 @@ comportarse → unbisei
 comprar → kompraire
 comprender → comprendai
 comprobar → tseqai, testai
+computar → computai
 conceptuar → conceptai
 condenar → condenaire
 condicionar → konditiai
@@ -371,6 +374,7 @@ enfriar → aigei
 engordar → lubai, fataine
 engrasar → asoai
 enlazar → linkei
+enloquecer → lokoi, ankrai, frikoi
 enmarcar → makorai
 enmohecer → moldoi
 enseñar → esaroi
@@ -491,7 +495,7 @@ inclinar → inklinai
 incluir → includei
 incubar → incubai
 influenciar → influai
-informar → informei
+informar → informei, infoi
 ingeniar → enginaire
 inhalar → inselei
 iniciar, comenzar, empezar → initiai
@@ -601,7 +605,7 @@ oxidar[se] → ragiai
 pactar → pactoi
 pagar → paiai
 parar, detener → estoi
-parecer → aseire
+parecer → aseire, lokai
 parir → parei
 parpadear → exorei
 partir → partei, brokai
@@ -671,7 +675,7 @@ proceder → procedei
 procesar → procesai
 procrastinar → procrastinei
 producir → proteire
-programar → prokramai
+programar → prokramai, codai
 progresar → progresei
 prolongar → prolongaire
 prometer → priosai

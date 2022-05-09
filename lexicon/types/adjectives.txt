@@ -258,7 +258,7 @@ literal → literal
 llamado → llamako
 lleno → elloko
 local → locatako
-loco → ankraro, friko
+loco → loko, ankraro, friko
 lujoso → luxoso
 lácteo → esneoro
 magnético → magnetiso
@@ -331,7 +331,7 @@ pesado (peso de una cosa) → pesoko
 plano → plano
 pobre → pora
 polar → polare
-portátil → portatil
+portátil → porto, portatil
 poseído → poseso
 posible → posibla
 posterior → enterier

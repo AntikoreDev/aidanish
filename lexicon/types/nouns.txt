@@ -1,3 +1,4 @@
+
 Abril → Aiprila
 Afganistán → Afganistan
 Afgano → Afgano
@@ -327,6 +328,7 @@ artículo → articulo, articlo
 arándano → aniluba
 ascenso → ansenno
 ascensor → airoro
+asedio → sieva
 asiento → asenda
 asno → ostoro
 aspecto → aspectia
@@ -336,7 +338,11 @@ aspirina → anfluga
 astato → astato
 astilla → artsa
 astro → astro
+astrología → astrologia
 astronauta → astronatte
+astronomía → astronomia
+astrólogo → astrologo, astrologette
+astrónomo → astronomo, astronomette
 asunto → reaso
 ataque al corazón → koraisagra
 ataque → atakte, atake
@@ -428,6 +434,7 @@ bestia → besta
 biblioteca → bibloteka
 bicho → tiko
 bicicleta → birroda
+biología → biologia
 bioma → bioma
 bisabuela → bismeioko
 bisabuelo → bisumoko
@@ -436,6 +443,7 @@ bisexual → bisexualo
 bisexualidad → bisexualita
 bismuto → bismuto
 bisonte → bisonte
+biólogo → biologo, biologette
 bloque → bloke
 bloqueo → lokeo
 boa → zisga
@@ -604,6 +612,8 @@ carruaje → azurreje
 carta (texto) → letera
 cartero → leteraette
 cartilla → cartila
+cartografía → cartografia, cartografica
+cartógrafo → cartografette
 cartón → cardo
 casa → kasa
 cascada → moana
@@ -834,6 +844,7 @@ corrupción → korruptio
 corte → kuta
 cosa → koixa
 cosecha → cropo
+coseno → cosino, coseno
 cosquilla → rakia, tiko, tikle
 costa → koasta
 costilla → crustela
@@ -939,6 +950,8 @@ deidad → deida
 delfín → delfino
 democracia → democratia
 demonio → damon
+dendrología → dendrologia
+dendrólogo → dendrologo, dendrologette
 dentadura → dentatia
 dentista → dentaxette
 dentríficio, pasta dental → dentacrema
@@ -1221,6 +1234,10 @@ fiesta → festa, parta, faira
 figura → figura
 fila → linia
 filo → fila
+filología → filologia
+filosofía → filosofia
+filólogo → filogette
+filósofo → filosofette
 fin de semana → finaolexo
 fin → fin
 final → finale
@@ -1303,8 +1320,13 @@ generador → espaunaoro
 general → general
 genio → genio, ginio
 gente → gente
+geografía → geografia, geografica
+geología → geologia
+geometría → geometria, geometrica
 geranio (flor) → galina
 geranio → alisla
+geógrafo → geografette
+geólogo → geologo, geologette
 gilipollas → sudatso
 gimnasia → gimnasta
 gimnasio → gimnastela
@@ -1313,6 +1335,7 @@ girasol → solavisa
 giro → viro
 glaciar → gielplaniuno
 gloria → gloria
+glosario → glose, lexicon
 gobierno → governo
 gofre → xafla
 golem → golem
@@ -1325,6 +1348,7 @@ gorro → gorro
 grabación → grabatio, recordo
 gracia →  graze
 grado → grado
+gramática → gramatica
 granito → granita
 granizo → aigecombe
 granja → granja
@@ -1455,7 +1479,8 @@ infierno → inferno
 infijo → infikso
 inflación → inflatio
 influencia → influentia
-información → informa
+información → informa, infor, info
+informática, computación → computio
 infracción → frakza
 infusión → infuzio
 ingeniero → enginero
@@ -1545,10 +1570,12 @@ lectura → lekta
 lejía → blanco
 lencería → linzeria
 lengua → lemgo
+lenguaje de programación → codilango, prokramalango
 lentes → lendait
 lerdo → tsafala
 letra (canción) → lerite
 letra (símbolo) → letra
+lexicología → lexicologia, leksicologia
 ley → laia
 leyenda → legenda
 leña → lenna
@@ -1600,6 +1627,7 @@ lápida → mortopetro
 lápiz → izkrioro
 láser → lazer
 látigo → latikate
+léxico, lexicon → lexico
 líder → aderge, xefo
 límite → limite
 línea → linia
@@ -1671,6 +1699,7 @@ matadero → mataioro, mataitela, abatoro
 matarratas → mortorratit
 matemática → matematika
 matemáticas → matematikas
+matemático → matematico
 material → materia
 matraz, probeta → matrace, probacupa
 matrimonio → zimisyoixo
@@ -1682,7 +1711,11 @@ maza → maza
 mazorca (maíz, por ejemplo) → bontso
 maíz → juca
 mañana (hora del día) → manza
+mecanografía → mecanografia, mecanografica
+mecansmo → mecanisma
 mechero → ignoro
+mecánica → mecania, mecano
+mecánico → mecanette
 media → media
 mediana → mediana
 medianoche → mitanito
@@ -1715,12 +1748,16 @@ meseta → meseta
 mestizo → seutse
 metal → metala
 meteorito, meteoro → meteoro
+meteorología → meteorologia, meteologia
+meteorólogo → meteorologo, meteorologette, meteologo, meteologette
 metro (medida) → metro
 metro (medidor) → metroro
 mezcla → mixa
 mezquita → mazquita
+micología → micologia
 microondas → microhuaba
 micrófono → microfono
+micólogo → micologo, micologette
 miedo → terro
 miel →  mela
 miembro (cuerpo) → membro
@@ -1736,6 +1773,7 @@ millón → milloe
 mimo (cariño) → carica, memi 
 mimo (persona) → memo
 mina → mine
+mineralogía → mineralogia
 minero → minerette
 minero, cavernícola → ergota
 minería → minatia
@@ -1748,6 +1786,7 @@ misterio → misteria, edaro
 mitad, medio → mita
 mito → misto
 mitómano → mitomane
+mnemotecnia → mnemotecnia, mnemoteknia
 mochila → esaibaga
 moco → muco
 moda → siska
@@ -1762,6 +1801,8 @@ moneda → pinne
 monitor → dorimeder
 mono → monki, aco
 monociclo → monorroda
+monografía → monografia, monografica
+monográfo → monografette
 monstruo → monstro
 montaña → montanna, ampico
 monte → monto, monde, monte
@@ -1870,7 +1911,8 @@ orangután → ursunna, nono
 orchata → esnika
 orden (de orginazar) → surdo
 orden, ordenación → ordo
-ordenador → computera
+ordenador portátil, portátil → laptopa, laptop, portcomputera
+ordenador, computador → computera
 oreja, oido → oitio
 orfanato → horfanatela
 organismo → organismo
@@ -1881,6 +1923,7 @@ oronja → oronya
 orquesta → orqesta
 orquídea (flor) → ortsida
 ortiga → urtica, migera
+ortografía → ortografia, ortografica
 orégano → parxa
 oscuridad → obskuridae
 oso → aubaso
@@ -2106,6 +2149,8 @@ polén → polen
 polígono → moltoxo
 pompa → bobal, pompe
 por defecto → nurdefekto
+porche → escuara, esquara, arkubre
+pornografía → porno, pornografia
 porro → purro
 portaaviones → portavionnit
 portabandera → portafliaga
@@ -2157,7 +2202,7 @@ profesión → profesio
 profesor → esaroette
 profeta → profeta
 programa → prokrama
-programación → prokramatio
+programación → prokramatio, codin
 progreso → progreso
 promedio → promedia
 promesa → priosa
@@ -2365,6 +2410,8 @@ semana → olekso
 semen → bila
 semilla → semila
 senda → kemno
+seno (matemáticas) → sino, seno
+seno (tetas) → seno, senu
 sentido → senso
 sentimiento → sensira
 septágono → septakono
@@ -2451,6 +2498,7 @@ talla → rango
 tallo → rute
 tamaño → tamanno
 tambor → tampol
+tangente → tangente, tangento
 tanque ,  vehiculo de guerra → basta
 taparabos → sujenasoit
 tarde → taren
@@ -2483,6 +2531,7 @@ tendero, vendedor → venteixette
 tenedor → tinera, trintso
 tenis → tenis
 tensión → tentia
+teología → teologia
 terminal → terminatela, terminal
 termómetro → termometera
 ternera → ternera
@@ -2501,6 +2550,7 @@ teta → burra
 tetronimo → tetronimo
 texto zalgo → zalgo
 texto → izkrebo
+teólogo → teologo, teologette
 tiburón → tsonder, esqalo
 tiempo (clima) → vedo
 tiempo → tempo
@@ -2531,6 +2581,10 @@ tomate → tomako
 tono → tona
 tonto → erko, silki
 topo → talpa, mola
+topografía → topografia, topografica
+topología → topologia, topologica
+topógrafo → topografette
+topólogo → topologette
 tormenta → zundra
 tornado → tornado
 torneo → torneio
@@ -2570,6 +2624,7 @@ tres → triai
 triciclo → trirroda
 tridente → tridento
 trigo → trego
+trigonometría → trigonometria, trigonometrica
 trinchera → trintsera
 tripa → tripa
 trismo → trisma
@@ -2667,6 +2722,8 @@ vertedero → zorrotela, desextela
 vestido → venaza, dreso, gouno, zitaba
 vestimenta → venaza
 veto → bana, paina, paine
+vexilología → vexilogia
+vexilólogo → vexilogette
 vez → meto, vex
 viaje → vixe
 vibrador → vibraibo
@@ -2702,6 +2759,8 @@ volcán → volkano
 voz → voz
 vuelo → blaia
 vuelta → vira
+vulcanología → vulcanologia, volkanologia
+vulcanólgoo → vulcanologo, vulcanologette, volkanologo, volkanologette
 vulva → vulve
 váscula → vascula
 váter, retrete → batro, baxete, vater
@@ -2720,8 +2779,10 @@ zanahoria → carrota
 zapatilla, zapato → poire
 zombie → zombie
 zona → zone
+zoología → zoologia
 zoológico → zoologiko
 zorro → zunio, fokso
+zoólogo → zoologo, zoologette
 zumbido → biz
 zumo → xugino, bubo
 zurdo → zoranno
