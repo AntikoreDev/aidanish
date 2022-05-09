@@ -317,6 +317,7 @@ anima
 animal
 anio
 anito.
+ankrai
 ankraia
 ankraro
 ankratela
@@ -392,6 +393,7 @@ argento
 argeya
 arima
 arketo
+arkubre
 arkutsa
 arkutsaplane
 arma
@@ -416,6 +418,7 @@ articulo
 artsa
 artsipelago
 aseire
+asemeire
 asenda
 asensei
 aserna
@@ -440,7 +443,13 @@ astato
 astei
 asteitela
 astro
+astrologette
+astrologia
+astrologo
 astronatte
+astronomette
+astronomia
+astronomo
 asunna
 ata
 atai
@@ -629,6 +638,9 @@ biatse
 bibloteka
 bila
 billoe
+biologette
+biologia
+biologo
 bioma
 birraza
 birroda
@@ -785,6 +797,9 @@ carkazono
 carnavala
 carrota
 cartila
+cartografette
+cartografia
+cartografica
 cartsela
 cartselenko
 cartselette
@@ -843,7 +858,10 @@ coarsa
 coarsai
 cocaina
 cocola
+codai
 codiko
+codilango
+codin
 codivorto
 coke
 coktel
@@ -888,7 +906,9 @@ composai
 comprei
 comprendai
 comprendo
+computai
 computera
+computio
 comunisma
 comunista
 comunitatia
@@ -954,6 +974,8 @@ corpo
 corta
 corveta
 corvo
+coseno
+cosino
 coto
 craneo
 creata
@@ -1055,6 +1077,9 @@ demandai
 democratia
 democratika
 democrato
+dendrologette
+dendrologia
+dendrologo
 denseine
 densenno
 denta
@@ -1463,6 +1488,7 @@ escimitarra
 escorpio
 escroto
 escuadra
+escuara
 esentia
 esguela
 esguelai
@@ -1538,6 +1564,7 @@ espirita
 esplaxai
 esporgo
 esqalo
+esquara
 esquiro
 establezei
 establezimento
@@ -1692,6 +1719,10 @@ filastra
 file
 filei
 filmo
+filogette
+filologia
+filosofette
+filosofia
 fin
 finale
 finalei
@@ -1778,6 +1809,7 @@ frico
 frikenko
 frikheiga
 friko
+frikoi
 frikostela
 frisbee
 fritei
@@ -1838,6 +1870,14 @@ genera
 general
 genio
 gente
+geografette
+geografia
+geografica
+geologette
+geologia
+geologo
+geometria
+geometrica
 gerafe
 gerra
 gerraxette
@@ -1868,6 +1908,7 @@ gliai
 glima
 glimai
 gloria
+glose
 glutonia
 glutonno
 gobo
@@ -1884,6 +1925,7 @@ gozoi
 grabai
 grabatio
 grado
+gramatica
 granita
 granja
 grata
@@ -2106,6 +2148,9 @@ infizo
 inflatio
 influai
 influentia
+info
+infoi
+infor
 informa
 informei
 infuzio
@@ -2460,6 +2505,8 @@ lango
 langoko
 lanterna
 lapislazuli
+laptop
+laptopa
 lasanna
 latikate
 lauseto
@@ -2470,6 +2517,7 @@ legas
 legenda
 leguma
 leko
+leksicologia
 lekta
 lektei
 lekteoro
@@ -2489,6 +2537,9 @@ letratablo
 letsuga
 levai
 levela
+lexico
+lexicologia
+lexicon
 liarta
 liberai
 libero
@@ -2542,9 +2593,12 @@ locuo
 loi
 loiere
 loimike
+lokai
 lokei
 lokeioto
 lokeo
+loko
+lokoi
 lokrai
 lokro
 londonia
@@ -2660,6 +2714,7 @@ mastufa
 mataioro
 mataire
 mataitela
+matematico
 matematika
 matematikas
 materia
@@ -2676,6 +2731,12 @@ mazeta
 mazquita
 mea
 mearei
+mecanette
+mecania
+mecanisma
+mecano
+mecanografia
+mecanografica
 media
 mediana
 medikar
@@ -2728,7 +2789,13 @@ mesigette
 mesmo
 metairre
 metala
+meteologette
+meteologia
+meteologo
 meteoro
+meteorologette
+meteorologia
+meteorologo
 metera
 metia
 metirra
@@ -2737,6 +2804,9 @@ metrallaro
 metro
 metroro
 mexiko
+micologette
+micologia
+micologo
 microfono
 microhuaba
 migera
@@ -2749,6 +2819,7 @@ milloe
 minatia
 mine
 mineire
+mineralogia
 minerette
 miniga
 minna
@@ -2771,6 +2842,8 @@ mitsisilai
 mixa
 mixei
 mixuia
+mnemotecnia
+mnemoteknia
 moana
 moape
 mobila
@@ -2796,6 +2869,9 @@ mondola
 moneta
 monetareo
 monki
+monografette
+monografia
+monografica
 monoklo
 monorroda
 monstro
@@ -3026,6 +3102,8 @@ orqesta
 orqestai
 orraqe
 orronko
+ortografia
+ortografica
 ortsida
 osala
 osalei
@@ -3322,6 +3400,8 @@ poratia
 porfevo
 porko
 porko flubila
+porno
+pornografia
 porpura
 porqarei
 porta
@@ -3331,6 +3411,7 @@ portakarga
 portatil
 portavionnit
 portavoz
+portcomputera
 portecum
 portette
 porto
@@ -3433,6 +3514,7 @@ progreso
 prokraire
 prokrama
 prokramai
+prokramalango
 prokramatio
 prolongaire
 promedia
@@ -3821,9 +3903,11 @@ senda
 sendai
 sendaia
 sennei
+seno
 sensei
 sensira
 senso
+senu
 septakono
 septembro
 septo
@@ -3849,6 +3933,9 @@ siakara
 sial
 sialato
 siet
+sieva
+sievai
+sievei
 sigai
 siger
 sigisai
@@ -3867,6 +3954,7 @@ simpo
 sindroma
 sinna
 sinnai
+sino
 sinzero
 sira
 sire
@@ -3985,6 +4073,8 @@ tambar
 tamizei
 tampol
 tan
+tangente
+tangento
 tante
 tarantula
 tardo
@@ -4019,6 +4109,9 @@ tentaoro
 tentia
 teo
 teoleko
+teologette
+teologia
+teologo
 terisna
 terke
 termalo
@@ -4074,6 +4167,12 @@ tomako
 tomei
 tona
 tondra
+topografette
+topografia
+topografica
+topologette
+topologia
+topologica
 torkopa
 torkopeler
 tornado
@@ -4137,6 +4236,8 @@ triaien
 triaix
 trianglo
 tridento
+trigonometria
+trigonometrica
 trilloe
 trinkai
 trintsera
@@ -4363,6 +4464,8 @@ verta
 vesperilo
 vesuka
 vex
+vexilogette
+vexilogia
 via
 vibrai
 vibraibo
@@ -4414,10 +4517,16 @@ vokabulatio
 vokal
 volante
 volkano
+volkanologette
+volkanologia
+volkanologo
 vono
 vortatia
 vorto
 voz
+vulcanologette
+vulcanologia
+vulcanologo
 vulve
 wagon
 weabu
@@ -4530,7 +4639,10 @@ zizge
 zobexe
 zombie
 zone
+zoologette
+zoologia
 zoologiko
+zoologo
 zoraite
 zoraitenara
 zoranno
