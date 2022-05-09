@@ -1624,7 +1624,7 @@ luz tenue → glima
 luz → lita
 lámpara → litaoro
 lápida → mortopetro
-lápiz → izkrioro
+lápiz, lapicero → izkrioro, lapito
 láser → lazer
 látigo → latikate
 léxico, lexicon → lexico
@@ -1803,6 +1803,8 @@ mono → monki, aco
 monociclo → monorroda
 monografía → monografia, monografica
 monográfo → monografette
+grafeno → grafeno
+grafito → grafeto
 monstruo → monstro
 montaña → montanna, ampico
 monte → monto, monde, monte
@@ -2317,6 +2319,8 @@ renovación → renevo, reneva
 reparación → repaira
 repetidor → repeteoro
 representación → representatio
+licantropía → licantropia
+licántropo → licantropo, licantropette
 república → republika
 resistencia → resistentia
 resolución → resoleitio
