@@ -1601,6 +1601,7 @@ lirio (flor) → mancuma
 lista → lista
 litera → litera
 literatura → literatia
+llaga, pupa → yaga, yege
 llama → lama
 llamada → llamata
 llanta → xenta
