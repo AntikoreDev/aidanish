@@ -2487,6 +2487,7 @@ listo (preparado) → estedie, preparato
 litera → litera
 literal → literal
 literatura → literatia
+llaga, pupa → yaga, yege
 llama → lama
 llamada → llamata
 llamado → llamako
