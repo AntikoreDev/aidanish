@@ -516,6 +516,7 @@ jugar → jokai
 justificar → iustikai
 juzgar → juksei
 ladrar → guoi
+lanzar → zroi
 lavar → xaguai
 leer → lektei
 levantar → levai, quai
@@ -628,6 +629,7 @@ perder → pardaire
 perdonar → pardonai
 perecer → peretai
 perfeccionar → perfektei
+perforar → perzroi
 permanecer → unfinai
 permitir → permisai
 perseguir → prosecai
