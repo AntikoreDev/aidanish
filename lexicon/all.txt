@@ -2421,6 +2421,7 @@ lagrima → lakrima
 laguna → lurge, lakata
 langostino → ximpo
 lanza → espara
+lanzar → zroi
 lapislázuli → lapislazuli
 largo → longo
 lasaña → lasanna
@@ -3181,6 +3182,7 @@ perezoso (persona) → fiago, fago
 perfeccionar → perfektei
 perfección → perfektio
 perfil → profila
+perforar → perzroi
 pergamino → perge
 periodista → henpixette
 periódico → henpipra

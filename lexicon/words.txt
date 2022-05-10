@@ -3275,6 +3275,7 @@ personalizatio
 personalizei
 pertsa
 pertsonala
+perzroi
 pesa
 pesai
 peskei
@@ -4662,6 +4663,7 @@ zorrere
 zorro
 zorrotela
 zovisai
+zroi
 zu
 zugra
 zugrai
