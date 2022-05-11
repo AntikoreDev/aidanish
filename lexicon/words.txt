@@ -3972,6 +3972,7 @@ paradoksografia
 paradoksografica
 parafilia
 paraguai
+paraisto
 parakai
 parakia
 parapsicologette
@@ -5510,6 +5511,7 @@ verdai
 verifei
 verifeko
 verifia
+verme
 vernia
 vero
 versiona

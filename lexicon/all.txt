@@ -3589,6 +3589,7 @@ partida (juego) → jokaizara
 partido (juego, deporte) → jokaizera
 partido (político) → partero
 partir → partei, brokai
+parásito → paraisto, verme
 pasado mañana → pos-enterehen
 pasado → pasato
 pasado → pasato
