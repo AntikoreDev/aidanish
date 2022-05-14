@@ -54,6 +54,8 @@ anárquico → anarqiko
 apagado → off
 arcano → arcana
 ardiente → igneoso
+aturdido → xake
+aturdidor → xakoro
 avaricioso → avarito
 avergonzado → combrako
 avisado → avistoko
@@ -279,6 +281,7 @@ mediocre → mediocre
 menor → pikoler
 mentira → musta
 mentiroso → mustager
+mestizo → seutse
 minúsculo → miskolo
 mirado → avisoko
 mismo → mesmo

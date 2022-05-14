@@ -1,4 +1,5 @@
 
+
 Abril → Aiprila
 Afganistán → Afganistan
 Afgano → Afgano
@@ -255,10 +256,12 @@ almendra → almondra
 almidón → amilone
 almohada → bexe
 alometría → alometria, alometrica
+alpaca → pulca, kiva
 alquitrán → betarra
 altar → altar
 altavoz, parlante → sonikemitero
 alternativa → alternas
+alterne → alterne, xia
 altimetría → altimetria, altimetrica
 altura → aitora
 alucinación → alutination
@@ -284,6 +287,7 @@ amputación → unmembria
 analogía → analogia
 anarquía → anarqia
 anatomopatólogo → anatomopatologo, anatomopatologette
+anca → anka, anca
 andador → andaivo
 andesita → andesita
 androide → androido
@@ -312,6 +316,7 @@ antiguedad → antiaga
 antilogía → antilogia
 antología → antologia
 antorcha → tortsa
+antro → antro, crumbo
 antropografía → antropografia, antropografica
 antropología → antropologia
 antropometría → antropometria, antropometrica
@@ -362,6 +367,7 @@ arma → armatia
 armadillo → puntsirra, armado
 armadura → armatsosto
 armario → orraqe
+armiño → mantra
 arqueologo → arqeologe
 arqueología → arqeologia
 arqueozoología → arqeozoologia
@@ -379,6 +385,7 @@ arteriología → arteriologia
 artrografía → artrografia, artrografica
 artrología → artrologia
 artículo → articulo, articlo
+arvicolino → arvicolino, arvicolo
 arándano → aniluba
 ascenso → ansenno
 ascensor → airoro
@@ -409,6 +416,7 @@ atardecer → tarena
 atención → atentio
 atril → lekteoro
 atrio → atrio
+aturdimiento → xako
 atún → tunna
 audio → audeo
 audiología → audiologia
@@ -449,7 +457,7 @@ bacon → bacon
 bacteriología → bacteriologia
 bacteriólogo → bacteriologo, bacteriologette
 badén → batino
-bahía → baheia
+bahía → baheia, bahia
 baile, danza → danze
 bajada → aura
 bala → bale
@@ -534,6 +542,7 @@ boa → zisga
 bobo → keke
 boca → oupa
 bocadillo → britango
+bodega → vinotela, celara, birratela
 bola de nieve → aigebola
 boleto → fixola
 boletus → boletus, mastufa
@@ -579,7 +588,7 @@ budismo → budisma
 buey → zarra
 bufanda → bunfaza
 bufón → bulanere, xiabette
-buitre → xikorra
+buitre → xikorra, vorle
 buque → buqe, dunko
 burgo → burge
 burla → bula, vanka
@@ -602,7 +611,7 @@ caballo → ayato
 cabeza → antsasa. casca
 cabina → cabin
 cable → guiro, tokla
-cabra → koato
+cabra → koato, gate, visco
 cabrón → morogo
 caca → nnordo, fecta
 cacahuete, cacahuate → cacauato
@@ -620,7 +629,7 @@ caja fuerte → herrocuba
 caja → cuba
 cala (flor) → belania
 calabazín → cumba
-calamar → kalatrono
+calamar → kalatrono, kalamo
 calamidad → calamitas
 calavera → antsoarko
 calcetín → poitexo, calzo, calza
@@ -653,6 +662,7 @@ campamento → akempo
 campanero → campelette
 campanología → campanologia
 campanólogo → campanologo, campanologette
+campañol → arvino
 campeonato → tsampeonato
 campesino → campesette
 campeón → tsampeon
@@ -692,9 +702,9 @@ cara → fazia
 caracol → itsa, cargo
 caracterología → caracterologia
 caracterólogo → caracterologo, caracterologette
-carbon → karbona, cocola
 carburante → carburanto
 carburo → carburo
+carbón → karbona, cocola
 carcaj → qiava
 carcelero → cartselette, caugo
 carcinología → carcinologia
@@ -784,6 +794,7 @@ chaleco → tselo
 chamarra → burtso
 chaqueta → giaqeta
 charco → culda
+charrán, estérnido → terno
 chat → chat
 chelo → tselo
 chica con derecho → rotsenmeia
@@ -877,6 +888,7 @@ color → kolor, kromato
 colorimetría → colorimetria, colorimetrica
 coma (salud) → coma
 coma (texto) → coma
+comadreja → carriya
 comando → comando
 comba → pulanda
 combinación → combo
@@ -924,12 +936,13 @@ conducto → driveno, condukto
 conductor (objeto) → conduktoro
 conductor (vehículo) → drivette, conduktette
 condón → kundonna
-conejo → isgaro, buno
+conejo → cono, isgaro, buno, danki
 conexión → conektio
 confianza → dibla
 configuración → configo
 confusión → confuzio
 congelador → gelaioro
+cono → cone
 conocimiento → aonatia
 conquiliología → conqiliologia
 conquiliólogo → conqiliologo, conqiliologette
@@ -1046,7 +1059,7 @@ cubrimiento → kubraia
 cucaracha → mustanekro, mikoro
 cuchara → boutsara
 cuchillo → akuttere, nivo
-cuello → pisotsa
+cuello → corlo, pisotsa
 cuenco  → kisa
 cuenta (números) → konta 
 cuenta → akanta
@@ -1067,6 +1080,7 @@ cupón → bone
 cura (antídoto) → kura
 cura ,  sacerdote → praisoxette
 curiosidad → kurioseata
+curruca → surle
 curso → curso
 curva → vira
 cuártel → iritela
@@ -1127,6 +1141,7 @@ depresión (montañas) → depresion
 depresión (sentimientos) → depresia, depreia
 depuración → puratio
 derecha → dereite
+derecho (ley) → dereita
 dermatología → dermatologia
 dermatólogo → dermatologo, dermatologette
 derrame → derrame
@@ -1150,6 +1165,7 @@ deslizador → esleiner
 deslizamiento → esleia
 desmayo → dizkoia
 desnudo → abiare
+despensa → celara
 destello → destelo
 destino → desteno
 destornillador → desexkraboro
@@ -1162,6 +1178,7 @@ determinación → determinatia
 deuda → dutia
 diabetología → diabetologia
 diabetólogo → diabetologo, diabetologette
+diablo de tasmania → tasmania-devila
 diablo → devila
 diagnóstico → diagnostiko
 diagrama → deagrama
@@ -1326,10 +1343,10 @@ equivalente → eqivala
 ergología → ergologia
 ergometría → ergometria, ergometrica
 ergonomía → ergonomia
-erizo → jedogo, pinkiporke
+erizo → jedogo, pinkiporke, pritso
 erotología → erotologia
 erotólogo → erotologo, erotologette
-error → erra, mistaco, faio
+error, fallo → erra, mistaco, faio
 escala → eskala
 escalera → escalatorra
 escama → eskama
@@ -1423,6 +1440,7 @@ estructura → estrukta
 estrés → anorro
 estudiante → estarette
 estudio → estaro
+esturión → estsuela, esturion, cantsa
 estándar → estandar
 estómago → ingeriun
 estúpido → esporgo
@@ -1577,6 +1595,7 @@ fórmula → formula
 fútbol → futbola, poibola
 gafas → visoioroit
 galería → galila
+galgo → galgo
 gallina → conto
 gamba → ximbrarisa
 gammagrafía → gammagrafia, gammagrafica
@@ -1594,6 +1613,7 @@ gastroenterología → gastroenterologia
 gastroenterólogo → gastroenterologo, gastroenterologette
 gato (animal) → kato
 gato (herramienta) → criketa
+gato montés → savakato
 gaviota → tagaro
 gel → gel
 gemelo → gineko
@@ -1668,6 +1688,8 @@ gripe aviar → acriko flubila
 gripe española → espanna flubila
 gripe porcina → porko flubila
 gripe → flubila
+grulla trompetera → trompescuela
+grulla → escuela
 grupo → lude, grupo
 grúa → gruva
 guante → luva
@@ -1730,6 +1752,7 @@ heterosexual → heterosexualo
 heterosexualidad → heterosexualita
 hexágono → hexakono
 hialografía → hialografia, hialografica
+hibernación → bluma, hibernatia
 hidrobiología → hidrobiologia
 hidrogeología → hidrogeologia
 hidrogeólogo → hidrogeologo, hidrogeologette
@@ -1791,6 +1814,7 @@ humano → homo
 humo → esmoke
 humor → zizge
 huracán → hurakana
+hurón → merreca
 huérfano → horfano
 huésped → husxette
 hélice → gingilla
@@ -1819,8 +1843,10 @@ imaginación → imaginatio
 imbécil → sunkrako
 imperio → imperia
 imprenta → izkratasoro
-impresión → impresio
+impresión (impresionar, sorprender) → impresio
+impresión (impresora) → izkro
 impreso → izkrasato
+impresora → izkroro
 impulso → busto
 imán → magneto
 inaccesibilidad → inakcesibila
@@ -1866,6 +1892,7 @@ intervalo → interval
 intestino delgado → piko intestino
 intestino grueso → oxto intestino
 intruso → intrudo
+invernadero → aznatela, invernadero, aigelere
 investigación → edarotio
 investigador → edarotto
 invierno → aigelaria
@@ -1925,7 +1952,6 @@ langostino → ximpo
 lanza → espara
 lapislázuli → lapislazuli
 laringología → laringologia
-parásito → paraisto, verme
 laringólogo → laringologo, laringologette
 lasaña → lasanna
 lata → canna
@@ -1962,6 +1988,7 @@ licantropía → licantropia
 licencia → licensa
 licenciado → licenso
 licántropo → licantropo, licantropette
+ligre → leogra
 lija → liya, afile
 limnología → limnologia
 limpiador → likraoro
@@ -1978,7 +2005,8 @@ litografía → litografia, litografica
 litología → litologia
 litólogo → litologo, litologette
 llaga, pupa → yaga, yege
-llama → lama
+llama (animal) → lama
+llama, llamarada (fuego) → flama
 llamada → llamata
 llanta → xenta
 llanura → planitela
@@ -2141,7 +2169,6 @@ mermelada → iamela
 mes → mes
 mesa → lamadra
 meseta → meseta
-mestizo → seutse
 metal → metala
 metalografía → metalografia, metalografica
 meteorito, meteoro → meteoro
@@ -2345,6 +2372,7 @@ objeto → item
 oca → malira
 oceanografía → oceanografia, oceanografica
 ocho → octo
+ocio → ocio, xia, ozio
 octógono → oktokono
 ocupación → osala
 océano → oxtomare
@@ -2442,7 +2470,7 @@ paliza → puntsatarra
 palma → palme
 palmera (árbol) → irakoa
 palo → apika, cano, cana
-paloma → rago
+paloma → rago, pumo
 pan de molde → anglobrita
 pan → brita
 panadero → britaxette
@@ -2489,6 +2517,7 @@ parte → parte
 partida (juego) → jokaizara
 partido (juego, deporte) → jokaizera
 partido (político) → partero
+parásito → paraisto, verme
 pasado → pasato
 pasamontañas → balakava
 paseo → andaiata
@@ -2667,6 +2696,7 @@ podólogo → podologo, podologette
 poema → poema
 poesía → poesia
 polarimetría → polarimetria, polarimetrica
+poledance → poledance, poledanza, poledanze
 polemología → polemologia
 policía → polizia
 poligrafía → poligrafia, poligrafica
@@ -2675,7 +2705,7 @@ politicólogo → politicologo, politicologette
 politología → politologia
 politólogo → politologo, politologette
 polla → naso
-pollo → acriko
+pollo → acriko, nase
 polo (helado) → polo
 polo → pole
 polvo → pulder
@@ -2794,6 +2824,7 @@ pájaro → payoa, caco
 párpado → exore
 párrafo → parrafo
 péndulo → pendulo
+pícido, pájaro carpintero → madraco, pincano, picide
 pórtico → portecum
 público → publiko
 quedada → quaro
@@ -2814,10 +2845,11 @@ radiología → radiologia
 radiometría → radiometria, radiometrica
 radiotelegrafía → radiotelegrafia, radiotelegrafica
 radiólogo → radiologo, radiologette
-rama → brianke
+rama → brianke, anka
 rana → acroa
 rango → range
 ranunculus → ranuncula
+rata de agua → acorrata
 rata → rata
 ratio → ratio
 ratón (animal) → roido
@@ -3100,7 +3132,9 @@ tabla → tablo
 tablero → tablote
 tacaño → takanno
 taco → taco
+tahr → tare
 taiga → taiga, karzufisi
+takín → takin
 taladro → talatro
 talco → talco
 talla → rango
@@ -3112,6 +3146,7 @@ tanatólogo → tanatologo, tanatologette
 tangente → tangente, tangento
 tanque ,  vehiculo de guerra → basta
 taparabos → sujenasoit
+tapír → tapire
 taquigrafía → taqigrafia, taqigrafica
 taquimecanografía → taqimecanografia, taqimecanografica
 taquimetría → taqimetria, taqimetrica
@@ -3119,6 +3154,7 @@ tarde → taren
 tarjeta, carta de naipe → carde
 tarrina → tarra
 tarro → tarro
+tarsero, tarsio → tarso
 tarta → tarta
 tarántula → tarantula
 tautología → tautologia
@@ -3193,6 +3229,7 @@ tiflotecnología → tiflotecnologia
 tiflólogo → tiflologo, tiflologette
 tifón → tifona
 tigre → tigra
+tigrón → tigron
 tijera → akutoro
 tiki → tiki
 timbre → pistila
@@ -3230,6 +3267,7 @@ topografía → topografia, topografica
 topología → topologia, topologica
 topógrafo → topografette
 topólogo → topologette
+torcecuellos → corloqibre, corlere
 tormenta → zundra
 tornado → tornado
 torneo → torneio
@@ -3264,10 +3302,14 @@ transmutación → transmuta
 transportador (regla) → aconvo
 transporte → conve
 tranvía → ciutrena
+trastero → celara, trastela
+trasto → traste
 trastorno → yiga
-trato → tiska, trao
+tratado → trato, tratado
+trato → tiska, trato, trao
 traumatología → traumatologia
 traumatólogo → traumatologo, traumatologette
+traza → traza
 tren → trena
 trenza → trence
 tres → triai
@@ -3286,6 +3328,7 @@ trituradora → trituoro
 triángulo → trianglo
 trofología → trofologia
 trofólogo → trofologo, trofologette
+troglodítido → olve
 trompa → trompo
 trompeta → trompeta
 tronco → trunko
@@ -3302,6 +3345,7 @@ tsunami → tsunami, tzunami, zunami
 tubería → tubia
 tubo → tube
 tubérculo → tuberculo 
+tucán → tuca, ranfa, tucan
 tuerca → exkronno
 tulipán → atulipa
 tumba → tumba
@@ -3319,6 +3363,7 @@ técnico → texnette
 tímpano → timpano
 tío → benpai
 título → titula
+ualabí → gualabi, walabi
 ubicación → ubikatio, locato
 ufología → ufologia
 ufólogo → ufologo, ufologette
@@ -3334,6 +3379,7 @@ uranometría → uranometria, uranometrica
 urbanización → urbo
 uretra → uretra
 urgenciólogo → urgenciologo, urgenciologette
+urial → bovo, urial
 urografía → urografia, urografica
 urología → urologia
 urólogo → urologo, urologette
@@ -3370,6 +3416,7 @@ velcro → velcro
 velero → sivera
 velocidad → velocita
 vena → sigraconve, siger
+vencejo, salangana → venzo, burlo
 venda → ladepipra, bande
 vendedor → ventette
 veneno → venemo, ponzo
@@ -3397,6 +3444,7 @@ vexilólogo → vexilogette
 vez → meto, vex
 viaje → vixe
 vibrador → vibraibo
+vicuña → vicunna
 vida → vita
 videojuego → vidiojoko
 viejo, anciano → igerne
@@ -3419,6 +3467,7 @@ viscosimetría → viscosimetria, viscosimetrica
 visión → viso
 vista → vista
 visualización → visoatio
+visón → orgon
 vitalidad → vitalita
 vitamina → vitamine
 viuda negra → viutonekro
@@ -3439,10 +3488,12 @@ vulva → vulve
 váscula → vascula
 váter, retrete → batro, baxete, vater
 vía → kemno
+víbora → veno
 vídeo → vidio
 web → web
 whisky → wiski
 wikipedia → wikipedia
+wombat → vombat
 xenón → xenon
 xerografía → kserografia, kserografica
 xilografía → ksilografia, ksilografica
@@ -3463,6 +3514,7 @@ zoológico → zoologiko
 zoopsicología → zoopsicologia
 zorro → zunio, fokso
 zoólogo → zoologo, zoologette
+zulo → crumbo
 zumbido → biz
 zumo → xugino, bubo
 zurdo → zoranno

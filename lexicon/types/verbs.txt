@@ -113,6 +113,7 @@ aterrorizar → terurai
 atornillar → exkrabaire
 atrapar → akachai
 atrincherarse → laire
+aturdir → xakai
 aullar → ululai
 aumentar → easairei
 avanzar → enterei
@@ -213,7 +214,7 @@ confiar → diblai, trustoi
 configurar → configei
 confirmar → kaiei
 confundir → confuzei
-congelar → gelai
+congelar, helar → gelai
 conocer (algo) → aonatei
 conocer (persona) → misei
 conquistar → conqerai
@@ -478,6 +479,7 @@ hackear → hackei
 hechizar → xizai
 herir → daxei
 hervir → herbei
+hibernar → blumai, hibernai
 homenajear → homenaiar
 hormiguear → mitsisilai
 hornear → fornai
@@ -786,6 +788,7 @@ silenciar → esparei
 sitiar → sitei
 sobrevivir → survivai
 socializar → sozialei
+solidificar → solidai
 soltar → soltai
 solver → solvai
 sombrear → tsadoi
@@ -837,8 +840,10 @@ transitar → transitei
 transmutar → transmutai
 transportar → aconvoi
 transportar, desplazar → deksplozai
+trastear → trastei, toutseire
 trastornar → yigai
-tratar → traire, tiskai
+tratar → traire, tiskai, tratai
+trazar → trazai
 triplicar → triproxei
 triturar → trituroi
 tronar → trumbai
