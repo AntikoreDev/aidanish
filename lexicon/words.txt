@@ -65,6 +65,7 @@ aconvo
 aconvoi
 acordeon
 acorrata
+acostumai
 acriko
 acriko flubila
 acroa
@@ -1218,6 +1219,7 @@ cosmografica
 cosmologette
 cosmologia
 cosmologo
+costume
 coto
 craneo
 craneologia
@@ -4128,7 +4130,9 @@ personalizatio
 personalizei
 pertsa
 pertsonala
+perzro
 perzroi
+perzroro
 pesa
 pesai
 peskei

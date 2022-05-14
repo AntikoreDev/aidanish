@@ -1027,6 +1027,8 @@ la yordea
 ei sugal
 la bajiba
 ei kolokatio
+ei perzro
+ei perzroro
 la colonia
 la dafuma
 la colonicea
@@ -1165,6 +1167,7 @@ la cosmografica
 la cosmologia
 ei cosmologo
 ei cosmologette
+ei costume
 la rakia
 ei tiko
 ei tikle

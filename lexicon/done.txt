@@ -108,6 +108,7 @@ acondicionar
 acondición
 acordar
 acordeón
+acostumbrar
 acrobacia
 acróbata
 actinometría
@@ -1333,6 +1334,7 @@ costar
 coste
 costilla
 costra
+costumbre
 costura
 coyote
 coño
@@ -3644,6 +3646,8 @@ perezoso
 perfeccionar
 perfección
 perfil
+perforación
+perforadora
 perforar
 perfume
 pergamino

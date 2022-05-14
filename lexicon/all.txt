@@ -114,6 +114,7 @@ acondición → akonditia
 acordar (de acuerdo) → akordai
 acordar (recordar) → akordai
 acordeón → acordeon
+acostumbrar → acostumai
 acrobacia → akrobatia
 acróbata → akroxette
 actinometría → actinometria, actinometrica
@@ -1359,6 +1360,7 @@ costar (precio) → kostei
 costar (tiempo) → xitempoi
 costilla → crustela
 costra → ruxga
+costumbre → costume
 costura → ehelo
 coyote → cuxate
 coño → cunno, vulve
@@ -3724,6 +3726,8 @@ perezoso (persona) → fiago, fago
 perfeccionar → perfektei
 perfección → perfektio
 perfil → profila
+perforación → perzro
+perforadora → perzroro
 perforar → perzroi
 pergamino → perge
 periodista → henpixette
