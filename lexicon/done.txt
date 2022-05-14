@@ -1022,6 +1022,7 @@ cerrar sesión
 cerrojo
 cerveza
 cesta
+cetro
 cetáceo
 chaleco
 chamarra
@@ -1314,6 +1315,7 @@ correo electrónico
 correr
 corrida
 corrupción
+cortador
 cortar
 corte
 corto
@@ -1445,6 +1447,7 @@ curiosear
 curiosidad
 curioso
 curruca
+currículum
 curso
 curva
 cuártel
@@ -1986,6 +1989,7 @@ especialidad
 especializar
 espectador
 espectar
+espectro
 espectrofotometría
 espectrografía
 espectrometría
@@ -4658,6 +4662,7 @@ tomate
 tomografía
 tono
 tonto
+topacio
 topo
 topografía
 topología
@@ -5011,6 +5016,7 @@ zurdo
 áfrica
 águila
 álamo
+ámbar
 ángel
 árabe
 árbol

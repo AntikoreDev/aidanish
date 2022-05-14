@@ -1035,6 +1035,7 @@ cerrar → kerrai
 cerrojo → kerranda
 cerveza → birraza
 cesta → cesta
+cetro → esceptor, cetro, zetro
 cetáceo → cetacio
 chaleco → tselo
 chamarra → burtso
@@ -1341,6 +1342,7 @@ correo → maila
 correr → zurrai
 corrida (cualquier significado no sexual) → zurrata
 corrupción → korruptio
+cortador → kutoro
 cortar → akutai
 corte → kuta
 corto → coto
@@ -1473,6 +1475,7 @@ curiosear → kuriosei
 curiosidad → kurioseata
 curioso → kurioso
 curruca → surle
+currículum → curriculum, curriculo
 curso → curso
 curva → vira
 cuártel → iritela
@@ -2019,9 +2022,10 @@ especialidad → espezialitata
 especializar → espezialitai
 espectador → espekteixette
 espectar → espektei
+espectro → espector
 espectrofotometría → espectrofotometria, espectrofotometrica
-espectrografía → espectrografia, espectrografica
-espectrometría → espectrometria, espectrometrica
+espectrografía → espectrografia, espectrografica, espectorografia, espectorografica
+espectrometría → espectrometria, espectrometrica, espectorometria, espectorometrica
 espectáculo → espectaclo
 espejo → espelekto
 espeleología → espelologia
@@ -3732,7 +3736,7 @@ perforar → perzroi
 pergamino → perge
 periodista → henpixette
 perisología → perisologia
-periódico → henpipra
+periódico → henpipra, nevapipra
 periódico → yere
 perla → perla
 permanecer → unfinai
@@ -4765,6 +4769,7 @@ tomate → tomako
 tomografía → tomografia, tomografica
 tono → tona
 tonto → erko, silki
+topacio → topacio, topazio
 topo → talpa, mola
 topografía → topografia, topografica
 topología → topologia, topologica
@@ -5123,6 +5128,7 @@ zurdo → zoranno
 áfrica → afrika
 águila → egila
 álamo → klisila
+ámbar → ambar
 ángel → anyel
 árabe → arabeka
 árbol → arbotso

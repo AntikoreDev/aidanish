@@ -310,6 +310,7 @@ amanza
 amaranto
 amasterai
 amatista
+ambar
 ambientologette
 ambientologo
 amerika
@@ -1023,6 +1024,7 @@ cesta
 cestai
 cesterna
 cetacio
+cetro
 chat
 chatei
 chip
@@ -1292,6 +1294,8 @@ cunno
 cuorette
 cuoro
 cupa
+curriculo
+curriculum
 curso
 cursogra
 cuxate
@@ -1866,6 +1870,7 @@ escarai
 escatologia
 escenografia
 escenografica
+esceptor
 escimitarra
 escorpio
 escroto
@@ -1927,6 +1932,11 @@ espauna
 espaunaire
 espaunaoro
 espectaclo
+espector
+espectorografia
+espectorografica
+espectorometria
+espectorometrica
 espectrofotometria
 espectrofotometrica
 espectrografia
@@ -3112,6 +3122,7 @@ kurioseata
 kuriosei
 kurioso
 kuta
+kutoro
 kutsa
 kuxa
 la
@@ -3727,6 +3738,7 @@ neurologo
 neva
 nevai
 nevako
+nevapipra
 nevari
 neve
 neven
@@ -5258,6 +5270,8 @@ tomografia
 tomografica
 tona
 tondra
+topacio
+topazio
 topografette
 topografia
 topografica
@@ -5785,6 +5799,7 @@ zentro
 zer
 zertente
 zerto
+zetro
 zeu
 zigar
 zigarra
