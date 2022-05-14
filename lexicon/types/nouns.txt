@@ -789,6 +789,7 @@ cerrajero → klavikette
 cerrojo → kerranda
 cerveza → birraza
 cesta → cesta
+cetro → esceptor, cetro, zetro
 cetáceo → cetacio
 chaleco → tselo
 chamarra → burtso
@@ -881,8 +882,6 @@ colibrí → liarta
 colina → yordea, sugal
 colmena → bajiba
 colocación → kolokatio
-perforación → perzro
-perforadora → perzroro
 colonia (territorio) → colonia
 colonia, perfume → dafuma
 colonización → colonicea
@@ -990,6 +989,7 @@ corredor → zurrette
 correo → maila
 corrida (cualquier significado no sexual) → zurrata
 corrupción → korruptio
+cortador → kutoro
 corte → kuta
 cosa → koixa
 cosecha → cropo
@@ -999,11 +999,11 @@ cosmetólogo → cosmetologo, cosmetologette
 cosmografía → cosmografia, cosmografica
 cosmología → cosmologia
 cosmólogo → cosmologo, cosmologette
-costumbre → costume
 cosquilla → rakia, tiko, tikle
 costa → koasta
 costilla → crustela
 costra → ruxga
+costumbre → costume
 costura → ehelo
 coyote → cuxate
 coño → cunno, vulve
@@ -1085,6 +1085,7 @@ cura (antídoto) → kura
 cura ,  sacerdote → praisoxette
 curiosidad → kurioseata
 curruca → surle
+currículum → curriculum, curriculo
 curso → curso
 curva → vira
 cuártel → iritela
@@ -1386,9 +1387,10 @@ espalda → betranno
 esparto → esparto
 especialidad → espezialitata
 espectador → espekteixette
+espectro → espector
 espectrofotometría → espectrofotometria, espectrofotometrica
-espectrografía → espectrografia, espectrografica
-espectrometría → espectrometria, espectrometrica
+espectrografía → espectrografia, espectrografica, espectorografia, espectorografica
+espectrometría → espectrometria, espectrometrica, espectorometria, espectorometrica
 espectáculo → espectaclo
 espejo → espelekto
 espeleología → espelologia
@@ -2589,10 +2591,12 @@ pereza → fiagia, partsa
 perezoso (animal) → fiager 
 perfección → perfektio
 perfil → profila
+perforación → perzro
+perforadora → perzroro
 pergamino → perge
 periodista → henpixette
 perisología → perisologia
-periódico → henpipra
+periódico → henpipra, nevapipra
 perla → perla
 permiso → permiso
 perro → doerro, hundo
@@ -3266,6 +3270,7 @@ tomate → tomako
 tomografía → tomografia, tomografica
 tono → tona
 tonto → erko, silki
+topacio → topacio, topazio
 topo → talpa, mola
 topografía → topografia, topografica
 topología → topologia, topologica
@@ -3527,6 +3532,7 @@ zurdo → zoranno
 ácaro → atiko
 águila → egila
 álamo → klisila
+ámbar → ambar
 ángel → anyel
 árbol → arbotso
 ático → airgaizera
