@@ -962,6 +962,7 @@ ei cifrato
 ei zigarro
 ei cigarro
 ei inzono
+la suanda
 ei cilindro
 la zima
 la escimitarra
