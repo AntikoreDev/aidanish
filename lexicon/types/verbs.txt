@@ -729,6 +729,7 @@ remasterizar → remastereize
 remover → removai
 remunerar → remonetai
 rendirse → purnai
+acostumbrar → acostumai
 renovar → renevoi, renevai
 repetir → repetei
 replicar → reproxei

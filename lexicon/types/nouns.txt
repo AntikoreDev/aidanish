@@ -881,6 +881,8 @@ colibrí → liarta
 colina → yordea, sugal
 colmena → bajiba
 colocación → kolokatio
+perforación → perzro
+perforadora → perzroro
 colonia (territorio) → colonia
 colonia, perfume → dafuma
 colonización → colonicea
@@ -997,6 +999,7 @@ cosmetólogo → cosmetologo, cosmetologette
 cosmografía → cosmografia, cosmografica
 cosmología → cosmologia
 cosmólogo → cosmologo, cosmologette
+costumbre → costume
 cosquilla → rakia, tiko, tikle
 costa → koasta
 costilla → crustela
