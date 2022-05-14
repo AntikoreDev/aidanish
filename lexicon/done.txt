@@ -1069,6 +1069,7 @@ cifrado
 cifrar
 cigarrillo
 cigarro
+cigüeña
 cilindro
 cima
 cimitarra

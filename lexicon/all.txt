@@ -1083,6 +1083,7 @@ cifra → cifra
 cifrado → cifrato
 cifrar→ cifrei
 cigarro, cigarrillo → zigarro, cigarro, inzono
+cigüeña → suanda
 cilindro → cilindro
 cima → zima
 cimitarra → escimitarra
