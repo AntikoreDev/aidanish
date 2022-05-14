@@ -64,6 +64,7 @@ aconveioro
 aconvo
 aconvoi
 acordeon
+acorrata
 acriko
 acriko flubila
 acroa
@@ -164,6 +165,7 @@ aigeisa
 aigela
 aigelai
 aigelaria
+aigelere
 aigeloso
 aikala
 aikalai
@@ -289,6 +291,7 @@ alometrica
 altar
 alternas
 alternaso
+alterne
 alternei
 altimetria
 altimetrica
@@ -333,6 +336,7 @@ anarqia
 anarqiko
 anatomopatologette
 anatomopatologo
+anca
 andaiata
 andaire
 andaivo
@@ -372,6 +376,7 @@ anima
 animal
 anio
 anito.
+anka
 ankrai
 ankraia
 ankraro
@@ -402,6 +407,7 @@ antologette
 antologia
 antologo
 antonine pesta
+antro
 antropografia
 antropografica
 antropologette
@@ -502,6 +508,9 @@ artsipelago
 artsivologette
 artsivologia
 artsivologo
+arvicolino
+arvicolo
+arvino
 aseire
 asemeire
 asenda
@@ -632,6 +641,7 @@ aziala
 azkribei
 azna
 aznai
+aznatela
 aztai
 azurreje
 bacon
@@ -642,6 +652,7 @@ baferro
 baga
 bagon
 baheia
+bahia
 bai
 bain
 bainarei
@@ -776,6 +787,7 @@ biotecnologette
 biotecnologia
 biotecnologo
 biotipologia
+birratela
 birraza
 birroda
 bisexualita
@@ -802,6 +814,8 @@ bloke
 blokenko
 bloneto
 blono
+bluma
+blumai
 blurra
 bluta
 bobal
@@ -824,6 +838,7 @@ bote
 botelo
 botonna
 boutsara
+bovo
 braine
 brankia
 braqigrafia
@@ -877,6 +892,7 @@ buqe
 burge
 burgesa
 burgua
+burlo
 burra
 burrito
 burtso
@@ -937,6 +953,7 @@ canoia
 cansenda
 cantena
 cantimpla
+cantsa
 capa
 capela
 capital
@@ -965,6 +982,7 @@ caricai
 carkazono
 carnavala
 carpologia
+carriya
 carrota
 cartila
 cartografette
@@ -993,6 +1011,7 @@ causai
 cecografia
 cecografica
 celar
+celara
 celiaco
 celula
 centara
@@ -1124,6 +1143,7 @@ conduktai
 conduktette
 condukto
 conduktoro
+cone
 conektai
 conektio
 conekto
@@ -1134,6 +1154,7 @@ conforte
 confortei
 confuzei
 confuzio
+cono
 conqerai
 conqeror
 conqiliologette
@@ -1175,6 +1196,9 @@ coprologia
 cordo
 coreografia
 coreografica
+corlere
+corlo
+corloqibre
 cornato
 corno
 corografia
@@ -1240,6 +1264,7 @@ crosafikai
 crosafiktio
 crosai
 crucibla
+crumbo
 crustai
 cruste
 crustela
@@ -1284,6 +1309,7 @@ dala
 dama
 damaine
 damon
+danki
 danze
 danzeire
 danzeplane
@@ -1359,6 +1385,7 @@ depreia
 depresia
 depresion
 deproxei
+dereita
 dereite
 dereitenara
 derivai
@@ -1842,6 +1869,7 @@ escorpio
 escroto
 escuadra
 escuara
+escuela
 esentia
 esguela
 esguelai
@@ -1992,9 +2020,11 @@ estriga
 estrukta
 estserra
 estsondo
+estsuela
 estundaxe
 estungai
 estungo
+esturion
 etanol
 etempo
 etika
@@ -2154,6 +2184,7 @@ fixoa
 fixola
 fixolo
 fizo
+flama
 flamencologette
 flamencologia
 flamencologo
@@ -2293,6 +2324,7 @@ gaiza
 gaize
 gaizecuba
 gaizeoro
+galgo
 galila
 galina
 gammagrafia
@@ -2310,6 +2342,7 @@ gastai
 gastroenterologette
 gastroenterologia
 gastroenterologo
+gate
 gaxei
 gazai
 gel
@@ -2432,6 +2465,7 @@ grupo
 gruva
 guacafruki
 guaira
+gualabi
 guarda
 guardia
 guiro
@@ -2523,6 +2557,8 @@ hexego
 hexinra
 hialografia
 hialografica
+hibernai
+hibernatia
 hidranyea
 hidrobiologia
 hidrogeologette
@@ -2771,6 +2807,7 @@ intro
 introverto
 intrudai
 intrudo
+invernadero
 invikso
 invitatio
 invitei
@@ -2827,6 +2864,8 @@ izkriba
 izkribatia
 izkribei
 izkrioro
+izkro
+izkroro
 izoya
 jade
 jalapenno
@@ -2873,6 +2912,7 @@ kaiei
 kailo
 kaina
 kaine
+kalamo
 kalatrono
 kalculei
 kalculoro
@@ -2948,6 +2988,7 @@ kirko
 kisa
 kispa
 kispai
+kiva
 klaga
 klagai
 klaritatio
@@ -3122,6 +3163,7 @@ lemgo
 lendait
 lenna
 lento
+leogra
 leon
 lerite
 lerra
@@ -3238,6 +3280,7 @@ mace
 macrofotografia
 macrofotografica
 madra
+madraco
 madrakuxette
 madrasaivaixette
 madratela
@@ -3293,6 +3336,7 @@ mansio
 manteca
 mantega
 mantikora
+mantra
 mantse
 manza
 manzai
@@ -3406,6 +3450,7 @@ mercadologette
 mercadologia
 mercadologo
 mercuria
+merreca
 mertai
 mertaioro
 mertaitela
@@ -3609,6 +3654,7 @@ narer
 narratologette
 narratologia
 narratologo
+nase
 naso
 natahen
 natai
@@ -3763,6 +3809,7 @@ obskuridae
 obskuro
 oceanografia
 oceanografica
+ocio
 octambo
 octo
 octoen
@@ -3802,6 +3849,7 @@ oleografia
 oleografica
 oliuma
 olocato
+olve
 omejo
 omeleto
 on
@@ -3835,6 +3883,7 @@ organismo
 organografia
 organografica
 organologia
+orgon
 origai
 origelo
 origo
@@ -3905,6 +3954,7 @@ ozen
 ozeno
 ozenore
 ozenoso
+ozio
 ozone
 pacenza
 pacto
@@ -4107,6 +4157,7 @@ petroxette
 petsula
 pezna
 piano
+picide
 pictografia
 pictografica
 pieza
@@ -4129,6 +4180,7 @@ pikseterroi
 pikto
 piloko
 pilotufeso
+pincano
 pingino
 pinkai
 pinkiporke
@@ -4214,6 +4266,9 @@ polare
 polarimetria
 polarimetrica
 pole
+poledance
+poledanza
+poledanze
 polemologia
 polen
 poligrafia
@@ -4340,6 +4395,7 @@ printsiale
 priosa
 priosai
 prison
+pritso
 priuzei
 privono
 prizai
@@ -4421,10 +4477,12 @@ pula
 pulai
 pulaioro
 pulanda
+pulca
 pulder
 pulgada
 pulpusa
 pulverfruge
+pumo
 punto
 puntsai
 puntsatarra
@@ -4506,6 +4564,7 @@ rakia
 rakoso
 rame
 ranaire
+ranfa
 range
 rango
 ranta
@@ -4774,6 +4833,7 @@ satiable
 satiarei
 saturno
 sauza
+savakato
 savaxo
 se
 sebrutsa
@@ -4933,6 +4993,7 @@ solar
 solarga
 solasta
 solavisa
+solidai
 solido
 solnata
 solposai
@@ -5002,6 +5063,7 @@ sur
 suramerika
 surdai
 surdo
+surle
 surtso
 surviva
 survivai
@@ -5020,6 +5082,7 @@ tai
 taiga
 taine
 takanno
+takin
 talatro
 talco
 taline
@@ -5035,6 +5098,7 @@ tanatologo
 tangente
 tangento
 tante
+tapire
 taqigrafia
 taqigrafica
 taqimecanografia
@@ -5043,12 +5107,15 @@ taqimetria
 taqimetrica
 tarantula
 tardo
+tare
 taren
 tarena
 tarenai
 tarra
 tarro
+tarso
 tarta
+tasmania-devila
 tata
 tautologia
 tavake
@@ -5110,6 +5177,7 @@ termometera
 termometria
 termometrica
 ternera
+terno
 terra
 terracota
 terraforma
@@ -5145,6 +5213,7 @@ tiflologo
 tiflotecnologia
 tifona
 tigra
+tigron
 tiki
 tikle
 tiko
@@ -5207,6 +5276,7 @@ tortite
 tortoisa
 tortsa
 totem
+toutseire
 toutsoi
 tractaine
 trafikai
@@ -5239,7 +5309,13 @@ trapitsa
 tras
 trasta
 trastai
+traste
+trastei
+trastela
 trastoso
+tratado
+tratai
+trato
 traumatologette
 traumatologia
 traumatologo
@@ -5248,6 +5324,8 @@ travaxeko
 travaxette
 travaxo
 traxhia
+traza
+trazai
 trego
 trei
 trena
@@ -5280,6 +5358,7 @@ trituroi
 trofologette
 trofologia
 trofologo
+trompescuela
 trompeta
 trompo
 trone
@@ -5338,6 +5417,8 @@ tsusta
 tube
 tuberculo
 tubia
+tuca
+tucan
 tula
 tumba
 tumor
@@ -5421,6 +5502,7 @@ urda
 uretra
 urgenciologette
 urgenciologo
+urial
 urografia
 urografica
 urologette
@@ -5497,6 +5579,7 @@ venereologia
 venereologo
 venezola
 veniza
+veno
 ventei
 venteixette
 ventette
@@ -5504,6 +5587,7 @@ ventriculografia
 ventriculografica
 ventura
 venux
+venzo
 verba
 verdad
 verdadeko
@@ -5525,6 +5609,7 @@ vexilogia
 via
 vibrai
 vibraibo
+vicunna
 vidio
 vidiojoko
 vih
@@ -5532,6 +5617,7 @@ vila
 vinagra
 vinilo
 vino
+vinotela
 vintre
 vintrelocuo
 violeta
@@ -5551,6 +5637,7 @@ virus
 visado
 visaya
 visayagaizere
+visco
 viscosimetria
 viscosimetrica
 visitei
@@ -5583,7 +5670,9 @@ volkanologia
 volkanologo
 volumetria
 volumetrica
+vombat
 vono
+vorle
 vortatia
 vorto
 voz
@@ -5592,6 +5681,7 @@ vulcanologia
 vulcanologo
 vulve
 wagon
+walabi
 weabu
 web
 webpagena
@@ -5604,6 +5694,10 @@ xafla
 xaguai
 xaguata
 xaguatoro
+xakai
+xake
+xako
+xakoro
 xakto
 xata
 xatai
@@ -5617,6 +5711,7 @@ xenome
 xenon
 xenta
 xerra
+xia
 xiabeloso
 xiabette
 xiaga

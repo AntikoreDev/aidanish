@@ -272,6 +272,7 @@ almendra
 almidón
 almohada
 alometría
+alpaca
 alquitrán
 alrededor
 altar
@@ -279,6 +280,7 @@ altavoz
 alternar
 alternativa
 alternativo
+alterne
 alterno
 altimetría
 alto
@@ -321,6 +323,7 @@ américa
 analogía
 anarquía
 anatomopatólogo
+anca
 anciano
 andador
 andar
@@ -369,6 +372,7 @@ antilogía
 antipático
 antología
 antorcha
+antro
 antropografía
 antropología
 antropometría
@@ -445,6 +449,7 @@ armar de valor
 armario
 armenia
 armenio
+armiño
 arqueologo
 arqueología
 arqueozoología
@@ -470,6 +475,7 @@ arteriología
 artrografía
 artrología
 artículo
+arvicolino
 arándano
 ascender
 ascenso
@@ -519,6 +525,10 @@ atril
 atrincherarse
 atrio
 atrás
+aturdido
+aturdidor
+aturdimiento
+aturdir
 atún
 audio
 audiología
@@ -688,6 +698,7 @@ boa
 bobo
 boca
 bocadillo
+bodega
 bola
 bola de nieve
 boleto
@@ -845,6 +856,7 @@ campana
 campanero
 campanología
 campanólogo
+campañol
 campeonato
 campesino
 campeón
@@ -894,10 +906,10 @@ caracol
 caracterología
 caracterólogo
 caramelo
-carbon
 carburante
 carburar
 carburo
+carbón
 carcaj
 carcelero
 carcinología
@@ -1015,6 +1027,7 @@ chamarra
 champiñón
 chaqueta
 charco
+charrán
 chat
 chatear
 chelo
@@ -1132,6 +1145,7 @@ color
 colorear
 colorimetría
 coma
+comadreja
 comando
 comba
 combinación
@@ -1226,6 +1240,7 @@ congelado
 congelador
 congelar
 conjuro
+cono
 conocer
 conocido
 conocimiento
@@ -1426,6 +1441,7 @@ curar
 curiosear
 curiosidad
 curioso
+curruca
 curso
 curva
 cuártel
@@ -1521,6 +1537,7 @@ deprisa
 depuración
 depurar
 derecha
+derecho
 derivar
 dermatología
 dermatólogo
@@ -1579,6 +1596,7 @@ desnudar
 desnudo
 despacio
 despedir
+despensa
 despertar
 desplazar
 después
@@ -1608,6 +1626,7 @@ deuda
 diabetología
 diabetólogo
 diablo
+diablo de tasmania
 diagnosticar
 diagnóstico
 diagrama
@@ -2044,7 +2063,9 @@ estrés
 estudiante
 estudiar
 estudio
+esturión
 estándar
+estérnido
 estómago
 estúpido
 eternidad
@@ -2103,6 +2124,7 @@ eyacular
 facilitar
 falda
 fallar
+fallo
 falso
 falta
 faltar
@@ -2257,6 +2279,7 @@ fórmula
 fútbol
 gafas
 galería
+galgo
 galleta
 gallina
 gamba
@@ -2278,6 +2301,7 @@ gastar
 gastroenterología
 gastroenterólogo
 gato
+gato montés
 gaviota
 gel
 gemelo
@@ -2368,6 +2392,8 @@ gripe porcina
 gritar
 grosero
 grueso
+grulla
+grulla trompetera
 grupo
 grúa
 guante
@@ -2428,6 +2454,7 @@ hechizar
 hechizo
 hecho
 helado
+helar
 helecho
 heliconia
 heliografía
@@ -2457,6 +2484,8 @@ heterosexual
 heterosexualidad
 hexágono
 hialografía
+hibernación
+hibernar
 hidrobiología
 hidrogeología
 hidrogeólogo
@@ -2530,6 +2559,7 @@ humano
 humo
 humor
 huracán
+hurón
 huérfano
 huésped
 hélice
@@ -2574,6 +2604,7 @@ impresionante
 impresionar
 impresión
 impreso
+impresora
 imprimir
 impulsar
 impulso
@@ -2652,6 +2683,7 @@ intestino grueso
 introvertido
 intrusear
 intruso
+invernadero
 investigación
 investigador
 investigar
@@ -2789,6 +2821,7 @@ licenciar
 licántropo
 liderar
 ligero
+ligre
 lija
 lijar
 limitado
@@ -2818,6 +2851,7 @@ llama
 llamada
 llamado
 llamar
+llamarada
 llanta
 llanura
 llave
@@ -3322,6 +3356,7 @@ oceanografía
 oceanía
 ochenta
 ocho
+ocio
 octavo
 octubre
 octógono
@@ -3741,6 +3776,7 @@ poesía
 polaco
 polar
 polarimetría
+poledance
 polemología
 policía
 poligrafía
@@ -3934,9 +3970,11 @@ puñal
 página
 página web
 pájaro
+pájaro carpintero
 párpado
 párrafo
 péndulo
+pícido
 pórtico
 público
 que
@@ -3978,6 +4016,7 @@ rango
 ranunculus
 rascar
 rata
+rata de agua
 ratio
 ratón
 rayar
@@ -4197,6 +4236,7 @@ sagrado
 sakura
 sal
 salado
+salangana
 salchicha
 saldo
 salida
@@ -4360,6 +4400,7 @@ soga
 sol
 solar
 soldado
+solidificar
 solo
 soltar
 solución
@@ -4445,7 +4486,9 @@ tabla
 tablero
 tacaño
 taco
+tahr
 taiga
+takín
 taladro
 talar
 talco
@@ -4466,6 +4509,7 @@ tanto
 tantos
 tapar
 taparabos
+tapír
 taquigrafía
 taquimecanografía
 taquimetría
@@ -4475,6 +4519,8 @@ tardío
 tarjeta
 tarrina
 tarro
+tarsero
+tarsio
 tarta
 tarántula
 tautología
@@ -4567,6 +4613,7 @@ tiflotecnología
 tiflólogo
 tifón
 tigre
+tigrón
 tijera
 tiki
 timbre
@@ -4611,6 +4658,7 @@ topografía
 topología
 topógrafo
 topólogo
+torcecuellos
 tormenta
 tornado
 torneo
@@ -4659,13 +4707,19 @@ transportar
 transporte
 tranvía
 tras
+trastear
+trastero
+trasto
 trastornante
 trastornar
 trastorno
+tratado
 tratar
 trato
 traumatología
 traumatólogo
+traza
+trazar
 trece
 treinta
 tren
@@ -4689,6 +4743,7 @@ triturar
 triángulo
 trofología
 trofólogo
+troglodítido
 trompa
 trompeta
 tronar
@@ -4708,6 +4763,7 @@ tu/tuyo
 tubería
 tubo
 tubérculo
+tucán
 tuerca
 tulipán
 tumba
@@ -4727,6 +4783,7 @@ tímpano
 tío
 título
 tú
+ualabí
 ubicación
 ucrania
 ufología
@@ -4752,6 +4809,7 @@ urbanización
 urbano
 uretra
 urgenciólogo
+urial
 urografía
 urología
 uruguay
@@ -4802,6 +4860,7 @@ velcro
 velero
 velocidad
 vena
+vencejo
 venda
 vendar
 vendedor
@@ -4849,6 +4908,7 @@ viajar
 viaje
 vibrador
 vibrar
+vicuña
 vida
 videojuego
 viejo
@@ -4877,6 +4937,7 @@ vislumbrar
 vista
 visualización
 visualizar
+visón
 vitalidad
 vitamina
 viuda
@@ -4905,11 +4966,13 @@ válido
 váscula
 váter
 vía
+víbora
 vídeo
 web
 whisky
 wikipedia
 wolframio
+wombat
 xenón
 xerografía
 xilografía
@@ -4934,6 +4997,7 @@ zoológico
 zoopsicología
 zorro
 zoólogo
+zulo
 zumbido
 zumo
 zurdo
