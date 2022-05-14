@@ -877,8 +877,7 @@ campimetría → campimetria, campimetrica
 campo de arroz → razna
 campo de cultivo, cosechas → azna
 campo → kempo
-canadá → canadia
-canadá → kanada
+canadá → canadia, kanada
 canal → kanala
 canalizar → kanalaize
 cancelación → kanzelatio

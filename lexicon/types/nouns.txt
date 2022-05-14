@@ -30,8 +30,7 @@ Brasil → Brazil
 Brasileño → Brazilenno
 Bucarest → Bukaresti
 Bélgica → Belgia
-Canadá → Canadia
-Canadá → Kanada
+Canadá → Canadia, Kanada
 Chile → Tsile
 China → Tsina
 Chino → Tsineo
