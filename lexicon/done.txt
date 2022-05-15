@@ -805,6 +805,9 @@ cacografía
 cacología
 cactus
 cada
+caducado
+caducar
+caducidad
 caer
 café
 cagada
@@ -893,6 +896,7 @@ canto
 caoba
 capa
 capaz
+capellán
 capilla
 capital
 capitalismo
@@ -1116,9 +1120,11 @@ cocina
 cocinado
 cocinar
 cocinero
+coco
 cocodrilo
 cocotología
 codicología
+codorniz
 cofre
 coger
 cogida
@@ -1144,6 +1150,7 @@ colonización
 colonizado
 colonizar
 colono
+coloquial
 color
 colorear
 colorimetría
@@ -1308,6 +1315,7 @@ cornudo
 corografía
 corona
 corpa
+correcaminos
 correcto
 corredor
 correo
@@ -1889,6 +1897,7 @@ enloquecer
 enmarcar
 enmohecer
 enología
+enrollar
 enrutador
 ensalada
 enseñar
@@ -1896,6 +1905,7 @@ ensordecer
 ensuciar
 entender
 entendimiento
+entero
 enterrar
 entidad
 entierro
@@ -1916,6 +1926,7 @@ envío
 enzima
 enzimología
 enólogo
+eperlano
 epidemia
 epidemiología
 epidemiólogo
@@ -1934,6 +1945,7 @@ ergonómico
 erizo
 erotología
 erotólogo
+errata
 error
 esa
 esas
@@ -2009,6 +2021,7 @@ espina
 espirometría
 esposa
 espuma
+espátula
 espíar
 espíritu
 esquema
@@ -2106,6 +2119,9 @@ excusar
 exobiología
 experimentar
 experimento
+expiración
+expirado
+expirar
 explanada
 explicar
 explosivo
@@ -2129,12 +2145,14 @@ extrovertido
 eyaculación
 eyacular
 facilitar
+faisán
 falda
 fallar
 fallo
 falso
 falta
 faltar
+fama
 familia
 familiar
 farmacología
@@ -2146,6 +2164,7 @@ febrero
 fecha
 felicidad
 feliz
+femenino
 fenología
 fenomenología
 fenomenólogo
@@ -2234,6 +2253,7 @@ fracción
 fractal
 fragmentar
 fragmento
+frailecillo
 francia
 francotirador
 francés
@@ -2289,6 +2309,7 @@ galería
 galgo
 galleta
 gallina
+gallo
 gamba
 gammagrafía
 ganadero
@@ -2364,6 +2385,7 @@ goma
 gordo
 gorila
 gorra
+gorrión
 gorro
 gozar
 grabación
@@ -2377,6 +2399,7 @@ grafito
 grafología
 grafía
 grafólogo
+grajo
 gramática
 grande
 granito
@@ -2385,6 +2408,7 @@ granja
 granulometría
 grasa
 gratis
+grave
 gravedad
 gravimetría
 graznar
@@ -2403,6 +2427,7 @@ grulla
 grulla trompetera
 grupo
 grúa
+guacamole
 guante
 guapo
 guardabosques
@@ -2447,6 +2472,7 @@ hada
 hagiografía
 halcón
 hambre
+hambriento
 hambruna
 hamburguesa
 hamster
@@ -2755,6 +2781,7 @@ justo
 juzgado
 juzgar
 júpiter
+ketchup
 kinesiología
 kinesiólogo
 koala
@@ -2803,9 +2830,11 @@ lengua
 lenguaje
 lenguaje de programación
 lentes
+lento
 lerdo
 letra
 levantar
+leve
 lexicografía
 lexicología
 lexicon
@@ -2891,6 +2920,7 @@ loro
 los
 lucha
 luchar
+lucio
 luciérnaga
 luego
 lugar
@@ -2939,6 +2969,7 @@ maldito
 malherbología
 maligno
 malo
+maloliente
 mamar
 mamografía
 mamut
@@ -2987,6 +3018,7 @@ mariquita
 marisco
 mariólogo
 marrón
+marsopa
 marte
 martes
 martillo
@@ -2997,6 +3029,7 @@ masacre
 mascarada
 mascarilla
 mascota
+masculino
 masilla
 masivo
 masterización
@@ -3195,6 +3228,7 @@ mortero
 mosca
 moscú
 mosquete
+mostaza
 mostrar
 mostrar flash
 motivo
@@ -3267,6 +3301,7 @@ negar
 negativamente
 negativo
 negro
+nematodo
 nenúfar
 neología
 neonatología
@@ -3396,6 +3431,7 @@ oler
 olla
 olmo
 olor
+oloroso
 olvidado
 olvidar
 olvido
@@ -3425,6 +3461,7 @@ orfanato
 organismo
 organografía
 organología
+orgía
 origen
 original
 originar
@@ -3557,6 +3594,7 @@ parásito
 pasado
 pasado mañana
 pasamontañas
+pasaporte
 pasar
 pasear
 paseo
@@ -3588,6 +3626,8 @@ patólogo
 pausado
 pausar
 pavimento
+pavo
+pavo real
 payaso
 paz
 país
@@ -3613,6 +3653,7 @@ pelaje
 pelar
 pelear
 peletero
+pelicano
 peligrar
 peligro
 peligroso
@@ -3642,6 +3683,7 @@ perca
 percha
 perder
 perdido
+perdiz
 perdonar
 perdón
 perecer
@@ -3656,6 +3698,7 @@ perforar
 perfume
 pergamino
 periodista
+periquito
 perisología
 periódico
 perla
@@ -3722,6 +3765,7 @@ pinchar
 pinche
 pincho
 pingüino
+pinnipedo
 pino
 pintar
 pintura
@@ -3878,6 +3922,7 @@ prever
 previsión
 previsualización
 previsualizar
+primate
 primatología
 primatólogo
 primavera
@@ -3968,6 +4013,7 @@ pulgada
 pulida
 pulmón
 pulpo
+puma
 punto
 punto de mira
 pupa
@@ -3993,6 +4039,7 @@ quedada
 quedar
 quedar sin
 quehacer
+quelea
 quemador
 quemadura
 quemar
@@ -4008,6 +4055,7 @@ quinesiólogo
 quinto
 quitar
 quizá
+quokka
 racionar
 ración
 radio
@@ -4137,6 +4185,7 @@ representar
 reproducir
 reprografía
 reptar
+reptil
 república
 resistencia
 resistir
@@ -4189,8 +4238,11 @@ roca
 roce
 rodar
 rodilla
+roedor
 rojo
 rol
+rollito
+rollo
 roma
 romance
 romero
@@ -4245,6 +4297,7 @@ sagrado
 sakura
 sal
 salado
+salamandra
 salangana
 salchicha
 saldo
@@ -4331,6 +4384,7 @@ serigrafía
 serio
 serología
 serpiente
+serpiente cascabel
 serrería
 servidor
 servir
@@ -4563,6 +4617,9 @@ tema
 temblar
 temblor
 temperatura
+templado
+templar
+templo
 temprano
 temática
 tenazas
@@ -4612,6 +4669,7 @@ teñir
 teólogo
 tia
 tiburón
+ticket
 tiempo
 tienda
 tierno
@@ -4750,6 +4808,7 @@ triste
 tristeza
 trituradora
 triturar
+tritón
 triángulo
 trofología
 trofólogo
@@ -4858,6 +4917,7 @@ vasallo
 vascólogo
 vasija
 vaso
+vasto
 vecinal
 vecindario
 vecino
@@ -4921,6 +4981,7 @@ vibrar
 vicuña
 vida
 videojuego
+vieira
 viejo
 viento
 vientre
@@ -4997,6 +5058,7 @@ yunque
 zanahoria
 zapatilla
 zapato
+zarigüeya
 zincografía
 zombie
 zona

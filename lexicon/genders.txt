@@ -1012,9 +1012,11 @@ ei kozido
 la koxineitela
 la koxina
 ei koxinette
+ei coco
 la crocus
 la cocotologia
 la codicologia
+ei cortso
 la gaizecuba
 la kaina
 ei zobexe
@@ -1151,6 +1153,7 @@ la corografia
 la corografica
 la korona
 ei corpe
+la rantande
 ei zurrette
 la maila
 la zurrata
@@ -1575,6 +1578,7 @@ la enzima
 la enzimologia
 ei enologo
 ei enologette
+ei zancobo
 la epidemos
 la epidemiologia
 ei epidemiologo
@@ -1664,6 +1668,8 @@ la espirometria
 la espirometrica
 la meixa
 la hixa
+ei platintso
+la esplata
 la espirita
 la eskeme
 la eskina
@@ -1748,6 +1754,7 @@ la exobiologia
 ei testo
 la testifica
 ei experimento
+ei expiratio
 ei planiuno
 ei explodoro
 la bombeia
@@ -1758,8 +1765,10 @@ ei ignoextingoro
 la estranne
 ei extremo
 la guma
+ei fanso
 la fuana
 la faita
+la fama
 ei pailako
 la pai
 la farmacologia
@@ -1861,6 +1870,7 @@ la fototipografica
 ei fraktio
 la fractal
 ei fracto
+ei frato
 la ardespaire
 la zance
 la fraseologia
@@ -1908,7 +1918,9 @@ ei visoioroit
 la galila
 ei galgo
 ei conto
+ei contino
 la ximbrarisa
+ei ambo
 la gammagrafia
 la gammagrafica
 la eskiate
@@ -1988,6 +2000,7 @@ ei prusaioro
 la goma
 la korila
 la capa
+ei plomo
 ei gorro
 ei grabatio
 ei recordo
@@ -2000,6 +2013,7 @@ la grafia
 la grafica
 ei grafologo
 ei grafologette
+ei proke
 la gramatica
 la granita
 la aigecombe
@@ -2022,6 +2036,7 @@ la escuela
 ei lude
 ei grupo
 la gruva
+la guacamole
 la luva
 la madrasaivaixette
 la gaiza
@@ -2047,7 +2062,9 @@ la hagiografia
 la hagiografica
 ei halokun
 la zugra
+la fame
 la urzugra
+la famina
 la burgesa
 la peirala
 la milia
@@ -2324,6 +2341,7 @@ la jungla
 la junta
 la iustika
 ei jukse
+ei ketchup
 la kinesiologia
 ei kinesiologo
 ei kinesiologette
@@ -2432,7 +2450,9 @@ ei siguro
 la rame
 la longoteda
 ei locuo
+ei pargo
 la fista
+ei lutio
 la blailita
 la locata
 la itela
@@ -2526,6 +2546,8 @@ ei mariologette
 ei marro
 ei brunno
 ei bronzo
+ei osobe
+la ansabar
 ei martexo
 la masa
 la masacria
@@ -2729,6 +2751,8 @@ ei morfologette
 la morta
 ei blainekro
 ei muskete
+la mostara
+la merla
 ei motivo
 la motorroda
 la motorroda
@@ -2784,6 +2808,7 @@ la nefrologia
 ei nefrologo
 ei nefrologette
 ei noneatio
+la serle
 la nufara
 la neologia
 la neonatologia
@@ -2918,6 +2943,8 @@ ei organismo
 la organografia
 la organografica
 la organologia
+la orgia
+la anxia
 la aserna
 la ornitologia
 la tuputa
@@ -3057,6 +3084,7 @@ ei paraisto
 la verme
 ei pasato
 la balakava
+la pasporte
 la andaiata
 ei paizo
 la rakempisa
@@ -3085,6 +3113,8 @@ la patrologia
 la patronna
 ei patologo
 ei patologette
+ei cocolito
+ei cocol
 ei payaso
 la xiabette
 la paz
@@ -3110,6 +3140,7 @@ la pelde
 ei cuoro
 ei peltro
 ei cuorette
+ei pelico
 la perila
 la peia
 ei cailo
@@ -3132,6 +3163,7 @@ la eskada
 la pertsa
 la colca
 la colga
+ei lombo
 la diskaire
 ei pardon
 la fiagia
@@ -3143,6 +3175,7 @@ ei perzro
 ei perzroro
 la perge
 ei henpixette
+la beke
 la perisologia
 la henpipra
 la nevapipra
@@ -3201,6 +3234,7 @@ la adkoxine
 la koxinlada
 ei pinko
 ei pingino
+la escua
 ei pino
 la pintaia
 ei pikto
@@ -3337,6 +3371,8 @@ la pretecnologia
 la endeba
 ei prevo
 ei previso
+la primate
+ei primero
 la primatologia
 ei primatologo
 ei primatologette
@@ -3411,6 +3447,7 @@ la estan
 la pulgada
 la polmona
 la pulpusa
+ei pambo
 la nesiga
 ei punto
 la tritura
@@ -3430,6 +3467,7 @@ ei portecum
 ei publiko
 ei quaro
 ei doidute
+ei porve
 ei ignodoxoro
 ei ignodaxo
 ei pulverfruge
@@ -3438,6 +3476,7 @@ la qibra
 la qinesiologia
 ei qinesiologo
 ei qinesiologette
+la cuoca
 ei ration
 ei radio
 ei radio
@@ -3525,6 +3564,7 @@ ei repeteoro
 ei representatio
 la reprografia
 la reprografica
+ei reptile
 la republika
 la resistentia
 ei resoleitio
@@ -3560,8 +3600,11 @@ ei robot
 la roca
 ei rotse
 la gidilla
+ei rodento
 ei roixo
 ei rol
+la roloki
+ei rolo
 la romanze
 ei romo
 ei rone
@@ -3592,6 +3635,7 @@ ei sacrifitio
 ei roixeral
 la sale
 la sial
+ei zirno
 ei karnolon
 ei saldo
 la evokatela
@@ -3655,6 +3699,7 @@ la eskarratia
 la serigrafia
 la serigrafica
 la serologia
+ei crotalo
 ei serpento
 la madratela
 ei sirveidoro
@@ -3841,6 +3886,7 @@ ei telefono
 ei subyecto
 la brusta
 la tempera
+ei templo
 la subyectata
 la alicator
 ei venteixette
@@ -3884,6 +3930,9 @@ ei teologo
 ei teologette
 ei tsonder
 ei esqalo
+ei tike
+ei tiqe
+ei ticket
 ei vedo
 ei tempo
 la kompraitela
@@ -4017,6 +4066,7 @@ la trisma
 la tristaga
 la tristekia
 ei trituoro
+la uale
 ei trianglo
 la trofologia
 ei trofologo
@@ -4174,6 +4224,7 @@ ei vibraibo
 la vicunna
 la vita
 ei vidiojoko
+la cola
 ei igerne
 ei vendo
 ei vintre
@@ -4242,6 +4293,7 @@ ei yero
 la herrunna
 la carrota
 ei poire
+ei berno
 la zincografia
 la zincografica
 ei zombie
@@ -4370,6 +4422,7 @@ la baine
 ei beliko
 la bluta
 ei fuzo
+ei expiro
 ei kalerkoso
 ei unpaireoso
 ei calvo
@@ -4392,6 +4445,7 @@ ei kozido
 ei koxineioto
 ei colinte
 ei coloniko
+ei coloqio
 ei comburente
 la komerziale
 la kompatible
@@ -4460,6 +4514,8 @@ ei rekluido
 ei dutiako
 ei rutsuko
 ei ebilo
+ei folo
+ei ello
 ei ergonomo
 la espezial
 ei hexego
@@ -4471,6 +4527,7 @@ ei anorrieren
 ei errairiko
 ei ertseko
 ei xakto
+ei expiro
 ei explodiko
 ei exposto
 ei estranno
@@ -4478,6 +4535,7 @@ ei extremo
 ei extroverto
 ei fakro
 ei aibelo
+ei femenine
 ei utego
 ei filaso
 ei finiko
@@ -4504,10 +4562,12 @@ ei oxto
 la grata
 la magna
 ei atsoko
+la grave
 ei uskoro
 ei groso
 ei emelo
 ei yuolo
+ei fameno
 ei heigaro
 ei heruo
 ei hemo
@@ -4544,6 +4604,9 @@ ei iusto
 ei longo
 ei invikso
 ei foreno
+ei lento
+ei levo
+la leve
 ei libero
 ei liberso
 ei lito
@@ -4555,6 +4618,7 @@ ei estedie
 ei preparato
 la literal
 ei llamako
+ei ello
 ei elloko
 ei locatako
 ei loko
@@ -4569,9 +4633,11 @@ ei heuntsado
 ei mairato
 ei heunxo
 ei heune
+ei heunesle
 ei marxito
 la martiala
 ei itsoso
+la masculine
 ei masivo
 la oxtorra
 ei oxtorer
@@ -4607,6 +4673,7 @@ ei obeo
 ei osalo
 ei osalo
 ei ofensoko
+ei eslo
 ei supardo
 ei oblivo
 ei husko
@@ -4711,6 +4778,7 @@ ei supto
 ei piskizo
 ei enterino
 la texnologika
+ei tempero
 ei termalo
 ei fino
 la terranal
@@ -4730,6 +4798,7 @@ la vakante
 ei vatio
 la sugarra
 ei valuako
+ei vasto
 ei neiborako
 la verta
 ei verdadeko

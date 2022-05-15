@@ -313,6 +313,7 @@ amatista
 ambar
 ambientologette
 ambientologo
+ambo
 amerika
 ametria
 ametrica
@@ -391,6 +392,7 @@ anorrei
 anorrieren
 anorro
 anotai
+ansabar
 anseine
 ansenno
 antartika
@@ -422,6 +424,7 @@ antsasa. casca
 antso
 antsoarko
 anusa
+anxia
 anyel
 aonatei
 aonatia
@@ -724,6 +727,7 @@ beilai
 beilaoro
 beilaxette
 beixize
+beke
 beko
 belania
 belei
@@ -747,6 +751,7 @@ berde
 berja
 berlina
 berline
+berno
 bero
 berora
 besai
@@ -1068,7 +1073,10 @@ clugra
 coarsa
 coarsai
 cocaina
+coco
+cocol
 cocola
+cocolito
 cocotologia
 codai
 codicologia
@@ -1078,6 +1086,7 @@ codin
 codivorto
 coke
 coktel
+cola
 colaborai
 colapsai
 colapso
@@ -1093,6 +1102,7 @@ colonia
 colonicea
 colonicei
 coloniko
+coloqio
 colorimetria
 colorimetrica
 colta
@@ -1184,6 +1194,7 @@ contento
 contesta
 contestai
 contia
+contino
 conto
 contraine
 contribai
@@ -1209,6 +1220,7 @@ corografica
 corpe
 corpo
 corta
+cortso
 corveta
 corvo
 coseno
@@ -1267,6 +1279,7 @@ crosa
 crosafikai
 crosafiktio
 crosai
+crotalo
 crucibla
 crumbo
 crustai
@@ -1291,6 +1304,7 @@ cumul
 cumulo
 cunna
 cunno
+cuoca
 cuorette
 cuoro
 cupa
@@ -1474,6 +1488,7 @@ diferikei
 digital
 digito
 dijerai
+dikei
 dikerei
 dikero
 diktionario
@@ -1709,6 +1724,7 @@ elektrikono maila
 elektritia
 elektronno
 elkara
+ello
 elloi
 elloko
 elme
@@ -1874,6 +1890,7 @@ esceptor
 escimitarra
 escorpio
 escroto
+escua
 escuadra
 escuara
 escuela
@@ -1964,6 +1981,7 @@ espigoto
 espirita
 espirometria
 espirometrica
+esplata
 esplaxai
 esporgo
 esqalo
@@ -2085,6 +2103,9 @@ exore
 exorei
 experimentai
 experimento
+expirai
+expiratio
+expiro
 explodei
 explodiko
 explodoro
@@ -2115,6 +2136,11 @@ faitai
 fakro
 fakro gid
 falai
+fama
+fame
+fameno
+famina
+fanso
 fargo
 fargustarra
 farla
@@ -2135,6 +2161,7 @@ febrero
 fecta
 felisa
 feltro
+femenine
 fenologia
 fenomenologette
 fenomenologia
@@ -2231,6 +2258,8 @@ fola
 folai
 folda
 folklore
+folo
+foloi
 fondo
 fonetika
 fonoaudiologette
@@ -2283,6 +2312,7 @@ frakza
 francea
 francesa
 fraseologia
+frato
 freine
 frenologette
 frenologia
@@ -2457,6 +2487,7 @@ granja
 granulometria
 granulometrica
 grata
+grave
 gravimetria
 gravimetrica
 gravita
@@ -2476,6 +2507,7 @@ groso
 grupo
 gruva
 guacafruki
+guacamole
 guaira
 gualabi
 guarda
@@ -2559,6 +2591,7 @@ heterosexualo
 heun
 heune
 heunei
+heunesle
 heunodo
 heuntsado
 heunxo
@@ -2984,6 +3017,7 @@ kerrai
 kerraiso
 kerranda
 keska
+ketchup
 kidna
 kieva
 kieve
@@ -3188,7 +3222,9 @@ letra
 letratablo
 letsuga
 levai
+leve
 levela
+levo
 lexico
 lexicologia
 lexicon
@@ -3266,6 +3302,7 @@ loko
 lokoi
 lokrai
 lokro
+lombo
 londonia
 longara
 longei
@@ -3285,6 +3322,7 @@ lufazia
 luna
 lunia
 lurge
+lutio
 luva
 luxo
 luxoso
@@ -3378,6 +3416,7 @@ masa
 masacria
 masacrire
 mascarila
+masculine
 masivo
 masiya
 maske
@@ -3463,6 +3502,7 @@ mercadologette
 mercadologia
 mercadologo
 mercuria
+merla
 merreca
 mertai
 mertaioro
@@ -3623,6 +3663,7 @@ mortorratit
 mortotela
 mosku
 moso
+mostara
 motivo
 motor
 motorroda
@@ -3897,6 +3938,7 @@ organismo
 organografia
 organografica
 organologia
+orgia
 orgon
 origai
 origelo
@@ -3925,6 +3967,7 @@ osalei
 osalo
 oslai
 osmosis
+osobe
 osteologette
 osteologia
 osteologo
@@ -4014,6 +4057,7 @@ paleopatologia
 paleopatologo
 palinologia
 palme
+pambo
 panala
 pancras
 panda
@@ -4058,6 +4102,7 @@ parei
 paremiologette
 paremiologia
 paremiologo
+pargo
 parisa
 parke
 parrafo
@@ -4072,6 +4117,7 @@ partsai
 parxa
 parza
 pasato
+pasporte
 pasta
 pastai
 pastaixe
@@ -4102,6 +4148,7 @@ peirala
 pelai
 pelde
 peler
+pelico
 peltro
 pendei
 pendulo
@@ -4251,9 +4298,11 @@ planoi
 planta
 plantaire
 plataforma
+platintso
 plato
 pleasa
 plenti
+plomo
 pluga
 plugai
 pluma
@@ -4337,6 +4386,7 @@ porto
 portona
 portugal
 portuguesa
+porve
 pos-enterehen
 posai
 posaieo
@@ -4399,10 +4449,12 @@ prezisio
 preziso
 prige
 prigei
+primate
 primatologette
 primatologia
 primatologo
 primer
+primero
 primertela
 prince
 princese
@@ -4439,6 +4491,7 @@ profeta
 profila
 progresei
 progreso
+proke
 prokraire
 prokrama
 prokramai
@@ -4584,6 +4637,7 @@ ranfa
 range
 rango
 ranta
+rantande
 rante
 rante aktio
 rantio
@@ -4702,6 +4756,7 @@ reprovai
 reprovatio
 reprovo
 reproxei
+reptile
 republika
 resetei
 resistai
@@ -4765,11 +4820,16 @@ robot
 roca
 roda
 rodai
+rodento
 roido
 roixa
 roixeral
 roixo
 rol
+rolai
+rolo
+roloi
+roloki
 roma
 romanea
 romaneo
@@ -4909,6 +4969,7 @@ sequencia
 serigrafia
 serigrafica
 serio
+serle
 sero
 serologia
 serpento
@@ -5160,6 +5221,9 @@ teleportai
 televisoi
 tempeo
 tempera
+temperai
+tempero
+templo
 tempo
 tempora
 tenda
@@ -5224,6 +5288,7 @@ texnette
 texnologia
 texnologika
 tiai,
+ticket
 tiflologette
 tiflologia
 tiflologo
@@ -5231,6 +5296,7 @@ tiflotecnologia
 tifona
 tigra
 tigron
+tike
 tiki
 tikle
 tiko
@@ -5245,6 +5311,7 @@ tipografica
 tipologia
 tipometria
 tipometrica
+tiqe
 tira
 tisiologette
 tisiologia
@@ -5455,6 +5522,7 @@ turno
 turnoi
 tuske
 tzunami
+uale
 uba
 ubikatio
 ufologette
@@ -5581,6 +5649,7 @@ vascologette
 vascologo
 vascula
 vasiya
+vasto
 vater
 vatio
 vedo
@@ -5784,6 +5853,7 @@ zaine
 zakerro
 zalgo
 zance
+zancobo
 zangela
 zapor
 zaporrai
@@ -5810,6 +5880,7 @@ zincografia
 zincografica
 zintaire
 zirkuntantia
+zirno
 zirra
 zirraplane
 zisai
