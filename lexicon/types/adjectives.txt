@@ -81,6 +81,7 @@ bueno → baine
 bélico → beliko
 cabezón, terco (insulto) → bluta
 cabrón → fuzo
+caducado → expiro
 caliente → kalerkoso
 callado → unpaireoso
 calvo → calvo
@@ -103,6 +104,7 @@ cocido → kozido
 cocinado → koxineioto
 colindante → colinte
 colonizado → coloniko
+coloquial → coloqio
 comburente → comburente
 comercial → komerziale
 compatible → kompatible
@@ -171,6 +173,7 @@ encerrado → rekluido
 endeudado → dutiako
 enfadado → rutsuko
 enfermo → ebilo
+entero → folo, ello
 ergonómico → ergonomo
 especial → espezial
 espeso → hexego
@@ -182,6 +185,7 @@ estresante → anorrieren
 estropeado → errairiko
 eterno → ertseko
 exacto → xakto
+expirado → expiro
 explosivo → explodiko
 expuesto → exposto
 extraño → estranno
@@ -189,6 +193,7 @@ extremo → extremo
 extrovertido → extroverto
 falso → fakro
 feliz, alegre → aibelo
+femenino → femenine
 feo → utego
 filoso → filaso
 finito → finiko
@@ -210,10 +215,12 @@ gordo → lubo, fato
 gracioso → grazero
 grande → oxto, grata, magna
 gratis → atsoko
+grave → grave
 grosero → uskoro
 grueso → groso
 guapo → Emelo
 guay → yuolo
+hambriento → fameno
 hogareño → heigaro
 húmedo y profundo → heruo
 húmedo → hemo
@@ -249,6 +256,9 @@ justo → iusto
 largo → longo
 lascivo → invikso
 lejano → foreno
+lento →
+lento → lento, levo
+leve → leve
 libre → libero, liberso
 ligero → lito
 limitado → limiteko
@@ -258,7 +268,7 @@ listo (persona inteligente) → listo
 listo (preparado) → estedie, preparato
 literal → literal
 llamado → llamako
-lleno → elloko
+lleno → ello, elloko
 local → locatako
 loco → loko, ankraro, friko
 lujoso → luxoso
@@ -270,9 +280,11 @@ malasombra → heuntsado
 maldito → mairato
 maligno → heunxo
 malo → heune
+maloliente → heunesle
 marchito → marxito
 marcial → martiala
 marrón → itsoso
+masculino → masculine
 masivo → masivo
 maximo → oxtorra
 mayor → oxtorer
@@ -308,6 +320,7 @@ obvio → obeo
 ocupado → osalo
 ocupado → osalo
 ofensivo → ofensoko
+oloroso → eslo
 olvidado → supardo, oblivo, husko
 original → origelo
 oscuro → obskuro
@@ -404,6 +417,7 @@ supto → supto
 sutil → piskizo
 tardío → enterino
 tecnológica → texnologika
+templado → tempero
 termal → termalo
 terminado → fino
 terrenal → terranal
@@ -423,6 +437,7 @@ vacante → vakante
 vacío → vatio
 vago → sugarra
 valorado → valuako
+vasto → vasto
 vecinal → neiborako
 verdad → verta
 verdadero → verdadeko

@@ -29,6 +29,7 @@ acompañar → akompannire
 acondicionar → akonditiai
 acordar (de acuerdo) → akordai
 acordar (recordar) → akordai
+acostumbrar → acostumai
 activar → aktivei
 actualizar → airposai
 actuar → aktoai
@@ -145,6 +146,7 @@ bromear → rusiai
 burlar → bulai
 buscar → findai
 caber → kuai
+caducar → expirai
 caer → argai
 cagar → mertai
 calcular → kalculei
@@ -262,6 +264,7 @@ dañar → daxai, injurai
 deber → dutei
 decepcionar → deteptionei
 decidir → dezei
+decir (coloquial) → dikei
 decir → dikerei
 declarar → declaire
 defender → defendei
@@ -378,6 +381,7 @@ enlazar → linkei
 enloquecer → lokoi, ankrai, frikoi
 enmarcar → makorai
 enmohecer → moldoi
+enrollar → roloi, rolai
 enseñar → esaroi
 ensordecer → sordai
 ensuciar → druxai
@@ -421,6 +425,7 @@ examinar → examinai, testai
 excitar → enusei
 excusar → excusai
 experimentar → experimentai, testai, testei
+expirar → expirai
 explicar → esplaxai, espelai
 explotar → bombeire, explodei
 exportar → exportei
@@ -470,7 +475,7 @@ guiar → redai
 gustar → gustoi
 haber → harei
 hablar sin saber → farlai
-hablar → paire
+hablar → paire, falai
 hacer reir → sigisai
 hacer un tour → turei
 hacer → doi, fai
@@ -530,7 +535,7 @@ limitar → limitei
 limpiar → likrai
 llamar → llamai
 llegar → irihei
-llenar → elloi
+llenar → elloi, foloi
 llevar → yeveire
 llorar → lakrimai, acoatai
 llover → pluvai, acoatei
@@ -729,7 +734,6 @@ remasterizar → remastereize
 remover → removai
 remunerar → remonetai
 rendirse → purnai
-acostumbrar → acostumai
 renovar → renevoi, renevai
 repetir → repetei
 replicar → reproxei
@@ -819,6 +823,7 @@ tardar → egentai
 tejer → beilai
 teletransportar → teleportai
 temblar → gaxei
+templar → temperai
 tender → ibsoi
 tener → taine
 tensar → tentai
