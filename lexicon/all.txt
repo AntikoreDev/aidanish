@@ -186,6 +186,7 @@ afilar → alfilai
 afirmación → aiatio
 afirmar → aiei
 afortunado → helera
+afónico → afono
 agachar → prigei
 agache → prige
 agencia → agentia
@@ -641,7 +642,7 @@ batido → socremeko
 batimetría → batimetria, batimetrica
 batología → batologia
 bauxita → bauksit
-baya → eruba
+baya → eruba, baia
 bazar → bazar, baziar
 bazooka → bazuka
 bañar → baxei
@@ -1218,6 +1219,8 @@ complemento → komplimento
 completar → kompletai
 completo → kompleto
 complexión → komplexio
+complicado → complico
+complicar → complicai
 componer → composai
 comportamiento → unba
 comportarse → unbisei
@@ -1294,6 +1297,8 @@ constelación → constelatio
 construcción → tenda
 constructor, arquitecto → tendaxette
 construir → tendai
+contactar → contactai
+contacto → contacto
 contactología → contactologia
 contactólogo → contactologo, contactologette
 contaminación → drigatio
@@ -1450,7 +1455,7 @@ cubrir → kubrai
 cucaracha → mustanekro, mikoro
 cuchara → boutsara
 cuchillo → akuttere, nivo
-cuello → corlo, pisotsa
+cuello → corlo, pisotsa, otso
 cuenco → kisa
 cuenta (números) → konta
 cuenta → akanta
@@ -1820,6 +1825,8 @@ ecólogo → ecologo, ecologette
 edafología → edafologia
 edafólogo → edafologo, edafologette
 edición → editio
+edificar → tendoi
+edificio → tendo
 editar → editei
 editor (persona) → editette
 editor (programa u objeto) → editoro
@@ -2692,6 +2699,8 @@ incienso → incenso
 inclinar → inklinai
 incluir → includei
 incomodidad → inconforta
+incordiar → prokei, tsordai
+incordio → proko
 incubación → incube
 incubar → incubai
 inculto → ivorte
@@ -3202,9 +3211,10 @@ miembro (cuerpo) → membro
 miembro (de un grupo) → membro
 mientras → engeri
 mierda → merto, keska
-miga → minna
+miga → minna, aya
 mil → ailla
 mil → ailla
+milagro → miraclo, miraculo, miracolo
 milenio → aillano
 milicia → milizia
 militar → miliette
@@ -3889,8 +3899,9 @@ planetoide → planetoido
 planimetría → planimetria, planimetrica
 plano → plane
 plano → plano
+planta (flor) → planta
 planta petrolífera → nekrasoatela
-planta → planta
+planta, piso, suelo → pisoc
 plantar → plantaire
 plata → silvo
 plataforma → plataforma
@@ -4160,6 +4171,7 @@ rama → brianke, anka
 rana → acroa
 rango → range
 ranunculus → ranuncula
+rascacielos → kailokikro
 rascar → kikroi
 rata de agua → acorrata
 rata → rata

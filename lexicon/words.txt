@@ -127,6 +127,7 @@ afinale
 afixe
 afizio
 afizionette
+afono
 aforma
 afrika
 afuska
@@ -631,6 +632,7 @@ axi
 axiologia
 axonometria
 axonometrica
+aya
 ayatela
 ayato
 ayatotela
@@ -659,6 +661,7 @@ bagon
 baheia
 bahia
 bai
+baia
 bain
 bainarei
 bainaro
@@ -1127,6 +1130,8 @@ compensaire
 compenso
 compentio
 complekso
+complicai
+complico
 composai
 comprei
 comprendai
@@ -1184,6 +1189,8 @@ consortso
 constai
 constanto
 constelatio
+contactai
+contacto
 contactologette
 contactologia
 contactologo
@@ -2955,6 +2962,7 @@ kadro
 kafe
 kaiei
 kailo
+kailokikro
 kaina
 kaine
 kalamo
@@ -3573,6 +3581,9 @@ miniga
 minna
 minute
 miologia
+miraclo
+miracolo
+miraculo
 mirator
 mirmecologette
 mirmecologia
@@ -3984,6 +3995,7 @@ otologo
 otorrinolaringologette
 otorrinolaringologia
 otorrinolaringologo
+otso
 otsorra
 oun
 ounqa
@@ -4272,6 +4284,7 @@ pirometrica
 pisa
 piskizo
 piso
+pisoc
 pisoi
 pisotsa
 pistatso
@@ -4492,6 +4505,8 @@ profila
 progresei
 progreso
 proke
+prokei
+proko
 prokraire
 prokrama
 prokramai
@@ -5229,6 +5244,8 @@ tempora
 tenda
 tendai
 tendaxette
+tendo
+tendoi
 tenis
 tenno
 tenta
@@ -5496,6 +5513,7 @@ tsoagai
 tsoklo
 tsonder
 tsopar
+tsordai
 tsosto
 tsugo
 tsunami

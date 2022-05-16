@@ -178,6 +178,7 @@ afilar
 afirmación
 afirmar
 afortunado
+afónico
 agachar
 agache
 agencia
@@ -1197,6 +1198,8 @@ complemento
 completar
 completo
 complexión
+complicado
+complicar
 componer
 comportamiento
 comportarse
@@ -1273,6 +1276,8 @@ constelación
 construcción
 constructor
 construir
+contactar
+contacto
 contactología
 contactólogo
 contaminación
@@ -1790,6 +1795,8 @@ ecólogo
 edafología
 edafólogo
 edición
+edificar
+edificio
 editar
 editor
 efectivo
@@ -2650,6 +2657,8 @@ incienso
 inclinar
 incluir
 incomodidad
+incordiar
+incordio
 incubación
 incubar
 inculto
@@ -3148,6 +3157,7 @@ mientras
 mierda
 miga
 mil
+milagro
 milenio
 milicia
 militar
@@ -4071,6 +4081,7 @@ rama
 rana
 rango
 ranunculus
+rascacielos
 rascar
 rata
 rata de agua

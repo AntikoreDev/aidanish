@@ -537,6 +537,7 @@ la baola
 la bolacesta
 ei bambo
 ei banko
+ei tendo
 la sendaia
 la banda
 la indaksa
@@ -568,6 +569,7 @@ la batimetrica
 la batologia
 ei bauksit
 la eruba
+la baia
 la bazar
 la baziar
 la bazuka
@@ -1129,6 +1131,8 @@ ei containio
 ei contento
 ei conteksto
 ei codivorto
+ei kailokikro
+ei contacto
 ei contribe
 ei control
 ei pairetio
@@ -1255,6 +1259,7 @@ la akuttere
 ei nivo
 ei corlo
 la pisotsa
+ei otso
 la kisa
 la konta
 la akanta
@@ -2014,6 +2019,7 @@ la grafica
 ei grafologo
 ei grafologette
 ei proke
+ei proko
 la gramatica
 la granita
 la aigecombe
@@ -2666,10 +2672,14 @@ ei membro
 ei merto
 la keska
 la minna
+la aya
 la ailla
 ei aillano
 la milizia
 ei miliette
+ei miraclo
+ei miraculo
+ei miracolo
 la mila
 ei milloe
 la mimeografia
@@ -3278,6 +3288,7 @@ la planimetrica
 la plane
 la nekrasoatela
 la planta
+ei pisoc
 ei silvo
 la plataforma
 ei silverino
@@ -4450,12 +4461,14 @@ ei comburente
 la komerziale
 la kompatible
 ei complekso
+ei complico
 ei kompleto
 la comunista
 la comunista
 la komuna
 ei condeno
 ei conekto
+ei afono
 la afuska
 ei gelatio
 ei miseioko
