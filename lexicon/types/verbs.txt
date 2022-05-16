@@ -201,6 +201,7 @@ compartimentalizar → kompartilazei
 compartir → beixize
 compensar → unlanai, compensaire
 completar → kompletai
+complicar → complicai
 componer → composai
 comportarse → unbisei
 comprar → kompraire
@@ -225,6 +226,7 @@ conservar → conservai
 consolar → consoi
 constar → constai
 construir → tendai
+contactar → contactai
 contaminar → drigai
 contar (con algo) → akoixei 
 contar (contar a alguien algo) → rekoixei
@@ -345,6 +347,7 @@ dudar → dubai
 duplicar → duproxei
 durar → dulai
 echar → etsoi
+edificar → tendoi
 editar → editei
 ejercer → ecersai
 elevar → levai, airoei, quai
@@ -500,6 +503,7 @@ impulsar → bustai
 incar → hincai
 inclinar → inklinai
 incluir → includei
+incordiar → prokei, tsordai
 incubar → incubai
 influenciar → influai
 informar → informei, infoi

@@ -490,7 +490,7 @@ batido → socrema
 batimetría → batimetria, batimetrica
 batología → batologia
 bauxita → bauksit
-baya → eruba
+baya → eruba, baia
 bazar → bazar, baziar
 bazooka → bazuka
 bañera → bax
@@ -956,6 +956,7 @@ consorte, cónyuge → conyuge
 constelación → constelatio
 construcción → tenda
 constructor, arquitecto → tendaxette
+contacto → contacto
 contactología → contactologia
 contactólogo → contactologo, contactologette
 contaminación → drigatio
@@ -1063,7 +1064,7 @@ cubrimiento → kubraia
 cucaracha → mustanekro, mikoro
 cuchara → boutsara
 cuchillo → akuttere, nivo
-cuello → corlo, pisotsa
+cuello → corlo, pisotsa, otso
 cuenco  → kisa
 cuenta (números) → konta 
 cuenta → akanta
@@ -1273,6 +1274,7 @@ ecólogo → ecologo, ecologette
 edafología → edafologia
 edafólogo → edafologo, edafologette
 edición → editio
+edificio → tendo
 editor (persona) → editette
 editor (programa u objeto) → editoro
 egiptología → egiptologia
@@ -1870,6 +1872,7 @@ inaccesibilidad → inakcesibila
 incertidumbre → inzertidumbre
 incienso → incenso
 incomodidad → inconforta
+incordio → proko
 incubación → incube
 inculto → ivorte
 industria → industria
@@ -2216,8 +2219,9 @@ mielografía → mielografia, mielografica
 miembro (cuerpo) → membro
 miembro (de un grupo) → membro
 mierda → merto, keska
-miga → minna
+miga → minna, aya
 mil → ailla
+milagro → miraclo, miraculo, miracolo
 milenio → aillano
 milicia → milizia
 militar → miliette
@@ -2706,8 +2710,9 @@ planeta → planeta
 planetoide → planetoido
 planimetría → planimetria, planimetrica
 plano → plane
+planta (flor) → planta
 planta petrolífera → nekrasoatela
-planta → planta
+planta, piso, suelo → pisoc
 plata → silvo
 plataforma → plataforma
 platino → silverino
@@ -2885,6 +2890,7 @@ rama → brianke, anka
 rana → acroa
 rango → range
 ranunculus → ranuncula
+rascacielos → kailokikro
 rata de agua → acorrata
 rata → rata
 ratio → ratio

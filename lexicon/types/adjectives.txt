@@ -31,6 +31,7 @@ adicto → adikto
 adoptado → adoptocorrecto
 afilado → alfilago
 afortunado → helera
+afónico → afono
 agresivo → agresibo
 agrio → xigro
 albino → albino
@@ -110,6 +111,7 @@ comercial → komerziale
 compatible → kompatible
 complejo → complekso
 completo → kompleto
+complicado → complico
 comunista → comunista
 comunista → comunista
 común → komuna
