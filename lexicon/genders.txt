@@ -141,6 +141,7 @@ ei inestumoko
 ei umoko
 la abontia
 ei aborraitio
+ei bertso
 la akacea
 la akademia
 la academos
@@ -153,6 +154,7 @@ la asoa
 ei asonexo
 ei acelereitio
 ei aceleoro
+ei acento
 ei vadeo
 ei kalekemno
 ei akero
@@ -238,10 +240,14 @@ la aidanesa
 ei aerakonditiaoro
 la aer
 ei garlo
+ei ajolote
 ei rikro
 la alarme
 la albinisma
 ei albino
+ei bolkar
+la bolakar
+ei bolakarno
 la bazerra
 ei etanol
 ei altsol
@@ -454,7 +460,10 @@ la aspectia
 la aspira
 ei aspiraoro
 la anfluga
+la bertsa
 ei astato
+ei bertsilo
+la manga
 la artsa
 ei astro
 la astrobiologia
@@ -537,7 +546,6 @@ la baola
 la bolacesta
 ei bambo
 ei banko
-ei tendo
 la sendaia
 la banda
 la indaksa
@@ -563,6 +571,8 @@ la bastiraa
 ei baton
 la grax
 la bataila
+la bate
+ei batero
 la socrema
 la batimetria
 la batimetrica
@@ -723,6 +733,10 @@ la cacografica
 la cacologia
 la cactia
 la kada
+la kafetela
+la café
+la cafeteria
+la kafeteria
 la kafe
 ei mertato
 la arga
@@ -861,6 +875,7 @@ la cartometrica
 la cartografette
 ei cardo
 la kasa
+ei domo
 la moana
 la antsal
 la asunna
@@ -939,6 +954,7 @@ la meia
 ei rotsenhone
 ei hone
 la tsimeneia
+la tsimitsanga
 ei itsimp
 la pinna
 la tsintsila
@@ -1123,6 +1139,7 @@ ei conyuge
 ei constelatio
 la tenda
 la tendaxette
+ei contacto
 la contactologia
 ei contactologo
 ei contactologette
@@ -1131,8 +1148,6 @@ ei containio
 ei contento
 ei conteksto
 ei codivorto
-ei kailokikro
-ei contacto
 ei contribe
 ei control
 ei pairetio
@@ -1474,6 +1489,8 @@ ei doktor
 ei dokumento
 ei dodo
 ei dole
+ei dominio
+ei domo
 ei dormeiun
 la dois
 la dosimetria
@@ -1509,6 +1526,7 @@ la edafologia
 ei edafologo
 ei edafologette
 ei editio
+ei tendo
 ei editette
 ei editoro
 la egiptologia
@@ -1673,6 +1691,7 @@ la espirometria
 la espirometrica
 la meixa
 la hixa
+ei fomo
 ei platintso
 la esplata
 la espirita
@@ -2019,7 +2038,6 @@ la grafica
 ei grafologo
 ei grafologette
 ei proke
-ei proko
 la gramatica
 la granita
 la aigecombe
@@ -2082,6 +2100,8 @@ la harpea
 ei xicero
 ei xizo
 ei facto
+la gelatela
+la gelateria
 ei freskingo
 ei gelato
 la ferna
@@ -2145,6 +2165,7 @@ ei eko
 la hinduisma
 la hipermetria
 la hipermetrica
+la hipnosis
 la ayatela
 la hipologia
 la huragere
@@ -2249,6 +2270,7 @@ la inakcesibila
 ei inzertidumbre
 ei incenso
 la inconforta
+ei proko
 ei incube
 ei ivorte
 la industria
@@ -2513,6 +2535,7 @@ ei modo
 la maniga
 la manega
 ei mango
+la mania
 la frikostela
 la ankratela
 la frikheiga
@@ -2549,6 +2572,7 @@ la zigarra
 la arraina
 ei mariologo
 ei mariologette
+la marmota
 ei marro
 ei brunno
 ei bronzo
@@ -2674,12 +2698,12 @@ la keska
 la minna
 la aya
 la ailla
-ei aillano
-la milizia
-ei miliette
 ei miraclo
 ei miraculo
 ei miracolo
+ei aillano
+la milizia
+ei miliette
 la mila
 ei milloe
 la mimeografia
@@ -2996,6 +3020,7 @@ ei pacto
 ei inestpatrono
 ei patrono
 la honpai
+la paella
 la paia
 ei pakano
 la paidologia
@@ -3286,8 +3311,8 @@ ei planetoido
 la planimetria
 la planimetrica
 la plane
-la nekrasoatela
 la planta
+la nekrasoatela
 ei pisoc
 ei silvo
 la plataforma
@@ -3339,6 +3364,7 @@ ei bobal
 ei pompe
 ei pomologo
 ei pomologette
+ei pontso
 ei nurdefekto
 la escuara
 la esquara
@@ -3461,6 +3487,8 @@ la pulpusa
 ei pambo
 la nesiga
 ei punto
+ei puntuatio
+ei puntuo
 la tritura
 la puta
 ei estavoro
@@ -3503,9 +3531,11 @@ ei radiologo
 ei radiologette
 la brianke
 la anka
+la ramen
 la acroa
 la range
 la ranuncula
+ei kailokikro
 la acorrata
 la rata
 ei ratio
@@ -3812,6 +3842,7 @@ la supratela
 la surviva
 ei sur
 la sagetia
+la sushi
 ei reprovatio
 ei reprovo
 la sustancea
@@ -3954,10 +3985,12 @@ la tiflotecnologia
 ei tiflologo
 ei tiflologette
 la tifona
+ei tifon
 la tigra
 ei tigron
 ei akutoro
 la tiki
+ei tilde
 la pistila
 la timbrologia
 ei timbrologo
@@ -4304,6 +4337,7 @@ ei yero
 la herrunna
 la carrota
 ei poire
+la zar
 ei berno
 la zincografia
 la zincografica
@@ -4369,6 +4403,7 @@ ei absoluto
 ei absteno
 la abonte
 ei aborrado
+la bertse
 ei akademiko
 la akcesibla
 ei asoaso
@@ -4382,6 +4417,7 @@ ei adikto
 ei adoptocorrecto
 ei alfilago
 la helera
+ei afono
 ei agresibo
 ei xigro
 ei albino
@@ -4461,14 +4497,13 @@ ei comburente
 la komerziale
 la kompatible
 ei complekso
-ei complico
 ei kompleto
+ei complico
 la comunista
 la comunista
 la komuna
 ei condeno
 ei conekto
-ei afono
 la afuska
 ei gelatio
 ei miseioko
@@ -4491,6 +4526,9 @@ ei dexaireioko
 ei delekio
 la democratika
 ei democrato
+ei fundo
+ei derretido
+ei derrito
 ei disastroso
 ei unmiseioko
 ei desexo
@@ -4498,6 +4536,7 @@ ei undono
 la abiare
 ei boldako
 la determina
+la diagonal
 la hena
 ei dieteko
 ei nequalo
@@ -4581,7 +4620,9 @@ ei groso
 ei emelo
 ei yuolo
 ei fameno
+ei hipnoto
 ei heigaro
+ei horizono
 ei heruo
 ei hemo
 ei equalo
@@ -4614,6 +4655,7 @@ ei jiderarqiko
 ei frikenko
 ei nevako
 ei iusto
+ei kafkiano
 ei longo
 ei invikso
 ei foreno
@@ -4647,6 +4689,7 @@ ei mairato
 ei heunxo
 ei heune
 ei heunesle
+ei maniaco
 ei marxito
 la martiala
 ei itsoso
@@ -4695,6 +4738,7 @@ ei obskuro
 la rigi
 ei ragiko
 la tsusta
+ei paralelo
 ei pasato
 ei pausteriko
 ei pastoso
@@ -4710,6 +4754,7 @@ ei fiago
 ei fago
 la yere
 ei unfinaloko
+ei perpendicular
 la pertsonala
 ei orronko
 ei pesoko
@@ -4733,6 +4778,7 @@ ei protecto
 la entera
 ei proximo
 la polita
+ei puntico
 la pura
 ei puto
 ei publiko
@@ -4817,6 +4863,7 @@ la verta
 ei verdadeko
 la berde
 ei verifeko
+ei vertico
 ei igerne
 la elde
 ei vitoso

@@ -75,6 +75,9 @@ abundar → abontai
 aburrido → aborrado
 aburrimiento → aborraitio
 aburrir → aborrai
+acabado → bertse
+acabado → bertso
+acabar → bertsai
 acacia → akacea
 academia → akademia, academos
 académico → akademiko
@@ -97,6 +100,7 @@ aceitoso → asoaso
 aceleración → acelereitio
 acelerador → aceleoro
 acelerar → acelerei
+acento → acento
 acera, pavimento → vadeo, kalekemno
 acercar → nearei
 acero → akero, azero, acero
@@ -224,6 +228,7 @@ aidanés → aidanesa
 aire acondicionado → aerakonditiaoro
 aire → aer
 ajo → garlo
+ajolote → ajolote
 ajustar → rikrai
 ajuste → rikro
 al lado de → ensero
@@ -235,6 +240,7 @@ albanés → albanexe
 albinismo → albinisma
 albino → albino
 albino → albino
+albóndiga → bolkar, bolakar, bolakarno
 alcanzar → arrai
 alce → bazerra
 alcohol → etanol, altsol
@@ -504,8 +510,11 @@ aspiración → aspira
 aspiradora → aspiraoro
 aspirar → aspirai
 aspirina → anfluga
+asta → bertsa
 astato → astato
+astil → bertsilo, manga
 astilla → artsa
+astillar → artsai
 astro → astro
 astrobiología → astrobiologia
 astrografía → astrografia, astrografica
@@ -637,6 +646,9 @@ bastión → baluaro, bastiraa
 bastón → baton
 basura → grax
 batalla → bataila
+bate → bate
+bateador → batero
+batear → batei
 batido → socrema
 batido → socremeko
 batimetría → batimetria, batimetrica
@@ -822,6 +834,7 @@ cada → kada
 caducado → expiro
 caducar → expirai
 caer → argai
+cafetería → kafetela, café, cafeteria, kafeteria
 café → kafe
 cagada → mertato
 cagar → mertai
@@ -961,7 +974,7 @@ cartografía → cartografia, cartografica
 cartometría → cartometria, cartometrica
 cartógrafo → cartografette
 cartón → cardo
-casa → kasa
+casa → kasa, domo
 cascada → moana
 casco → antsal
 caseta, cabaña → asunna, kasutsa
@@ -1053,6 +1066,7 @@ chico con derecho → rotsenhone
 chico → hone
 chile → tsile
 chimenea → tsimeneia
+chimichanga → tsimitsanga
 chimpancé → itsimp
 china → tsina
 chincheta → pinna
@@ -1590,6 +1604,8 @@ dermatología → dermatologia
 dermatólogo → dermatologo, dermatologette
 derramar → derramei
 derrame → derrame
+derretido → fundo, derretido, derrito
+derretir → derrei, fundei
 derribar → coarsai, derribei
 desactivación → deaktivatio
 desactivar → deaktivei
@@ -1677,6 +1693,7 @@ diablo de tasmania → tasmania-devila
 diablo → devila
 diagnosticar → diagnostikai
 diagnóstico → diagnostiko
+diagonal → diagonal
 diagrama → deagrama
 dialectología → dialectologia
 dialectólogo → dialectologo, dialectologette
@@ -1780,6 +1797,7 @@ dodo → dodo
 doler → dolei
 dolor → dole
 domingo → dominko
+dominio → dominio, domo
 doméstico → domestixo
 donde → donde
 dorar → aurai
@@ -2058,7 +2076,7 @@ espesura → hexegia
 espina → tira
 espirometría → espirometria, espirometrica
 esposa → meixa
-espuma → hixa
+espuma → hixa, fomo
 espátula (animal) → platintso
 espátula (herramienta) → esplata
 espíar → espai
@@ -2536,6 +2554,7 @@ hechicero → xicero
 hechizar → xizai
 hechizo, conjuro → xizo
 hecho → facto
+heladería → gelatela, gelateria
 helado → freskingo, gelato
 helecho → ferna, honko
 heliconia (flor) → gingola
@@ -2586,6 +2605,9 @@ hijo, hija → eko
 hinduismo → hinduisma
 hindú → hindu
 hipermetría → hipermetria, hipermetrica
+hipnosis → hipnosis
+hipnotizado → hipnoto
+hipnotizar → hipnoi
 hipodromo → ayatela
 hipología → hipologia
 hipopótamo → huragere, hipo
@@ -2616,6 +2638,7 @@ homsexualidad → homosexualita
 homólogo → homologo, homologette
 hongo → likena, fungo, tunga
 hora → hora
+horizontal → horizono
 horizonte → horizone
 hormiga → nekroandaivo
 hormiguear → mitsisilai
@@ -2839,6 +2862,7 @@ justo → iusto
 juzgado → jukse
 juzgar → juksei
 júpiter → ivpiter
+kafkiano → kafkiano
 ketchup → ketchup
 kinesiología → kinesiologia
 kinesiólogo → kinesiologo, kinesiologette
@@ -3043,9 +3067,11 @@ manera → modo
 manga (ropa) → maniga
 mango (de utensilios) → manega
 mango (fruta) → mango
+mania → mania
 manicomio → frikostela, ankratela, frikheiga
 manifiesto → manifesto
 manillar → manile
+maniático → maniaco
 mano → man, hano
 mansión → mansio
 manta → kubre
@@ -3077,6 +3103,7 @@ mariposa → blaigia
 mariquita → zigarra
 marisco → arraina
 mariólogo → mariologo, mariologette
+marmota → marmota
 marrón → itsoso
 marrón → marro, brunno, bronzo
 marsopa → osobe, ansabar
@@ -3592,6 +3619,7 @@ pacto → pacto
 padrastro → inestpatrono
 padre (formal) → patrono
 padre → honpai
+paella → paella
 paga → paia
 pagano → pakano
 pagar → paiai
@@ -3651,6 +3679,7 @@ paradoxografía → paradoksografia, paradoksografica
 parafilia → parafilia
 paraguas → pluvaoro
 paraguay → paraguai
+paralelo → paralelo
 parapsicología → parapsicologia
 parapsicólogo → parapsicologo, parapsicologette
 parar, detener → estoi
@@ -3796,6 +3825,7 @@ permanente → unfinaloko
 permiso → permiso
 permitir → permisai
 pero → nur
+perpendicular → perpendicular
 perro → doerro, hundo
 perseguir → prosecai
 perseverancia → persevera
@@ -3948,6 +3978,7 @@ polígono → moltoxo
 pomología → pomologia
 pompa → bobal, pompe
 pomólogo → pomologo, pomologette
+poncho → pontso
 poner → posai
 por cierto → por zerto
 por cierto → por zerto
@@ -4118,6 +4149,8 @@ pulpo → pulpusa
 puma → pambo
 punto de mira, diana → nesiga
 punto → punto
+puntuación → puntuatio, puntuo
+puntuado → puntico
 puro → pura
 puré → tritura
 puta → puta
@@ -4168,6 +4201,7 @@ radiometría → radiometria, radiometrica
 radiotelegrafía → radiotelegrafia, radiotelegrafica
 radiólogo → radiologo, radiologette
 rama → brianke, anka
+ramen → ramen
 rana → acroa
 rango → range
 ranunculus → ranuncula
@@ -4637,6 +4671,7 @@ sur → sur
 surgimiento → sagetia
 surgir → sagei
 suscribir → suscribai
+sushi → sushi
 suspender → reprovai
 suspensión → reprovatio
 suspenso → reprovo
@@ -4792,11 +4827,12 @@ tierra → terra
 tiflología → tiflologia
 tiflotecnología → tiflotecnologia
 tiflólogo → tiflologo, tiflologette
-tifón → tifona
+tifón → tifona, tifon
 tigre → tigra
 tigrón → tigron
 tijera → akutoro
 tiki → tiki
+tilde → tilde
 timbre → pistila
 timbrología → timbrologia
 timbrólogo → timbrologo, timbrologette
@@ -5091,6 +5127,7 @@ versión → versiona
 versus → versus
 vertedero → zorrotela, desextela
 verter → verdai
+vertical → vertico
 vestido → venaza, dreso, gouno, zitaba
 vestimenta → venaza
 vestir → vanaize
@@ -5181,6 +5218,7 @@ yo → na
 yunque → herrunna
 zanahoria → carrota
 zapatilla, zapato → poire
+zar → zar
 zarigüeya → berno
 zincografía → zincografia, zincografica
 zombie → zombie

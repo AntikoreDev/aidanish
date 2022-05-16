@@ -44,6 +44,7 @@ acapela
 aceleoro
 acelerei
 acelereitio
+acento
 acero
 acidimetria
 acidimetrica
@@ -206,6 +207,7 @@ aito-esaroriun
 aitora
 aixai
 aixo
+ajolote
 akacea
 akachai
 akademia
@@ -510,6 +512,7 @@ artrografia
 artrografica
 artrologia
 artsa
+artsai
 artsipelago
 artsivologette
 artsivologia
@@ -707,6 +710,9 @@ bastila
 bastiraa
 bataila
 batailon
+bate
+batei
+batero
 batimetria
 batimetrica
 batino
@@ -757,6 +763,11 @@ berline
 berno
 bero
 berora
+bertsa
+bertsai
+bertse
+bertsilo
+bertso
 besai
 beso
 besta
@@ -832,9 +843,12 @@ bobal
 boglo
 bola
 bolacesta
+bolakar
+bolakarno
 boldai
 boldako
 boletus
+bolkar
 bollo
 bomba
 bombardai
@@ -919,6 +933,8 @@ cacografia
 cacografica
 cacologia
 cactia
+cafeteria
+café
 cailo
 cailoro
 cailoxette
@@ -1421,9 +1437,12 @@ dermatologia
 dermatologo
 derrame
 derramei
+derrei
 derrenko
 derrenno
+derretido
 derribei
+derrito
 dersei
 desbarcai
 desbarco
@@ -1476,6 +1495,7 @@ diabetologo
 diaga
 diagnostikai
 diagnostiko
+diagonal
 dialectologette
 dialectologia
 dialectologo
@@ -1593,7 +1613,9 @@ dolar
 dole
 dolei
 domestixo
+dominio
 dominko
+domo
 donde
 donno
 dorgo
@@ -2267,6 +2289,7 @@ folda
 folklore
 folo
 foloi
+fomo
 fondo
 fonetika
 fonoaudiologette
@@ -2347,6 +2370,8 @@ fuga
 fuksia
 fulard
 fumigai
+fundei
+fundo
 funeral
 fungo
 funzai
@@ -2397,6 +2422,8 @@ gazai
 gel
 gelai
 gelaioro
+gelatela
+gelateria
 gelatio
 gelato
 gelo
@@ -2635,6 +2662,9 @@ hinge
 hingei
 hipermetria
 hipermetrica
+hipnoi
+hipnosis
+hipnoto
 hipo
 hipologette
 hipologia
@@ -2685,6 +2715,7 @@ horcasto
 horfanatela
 horfano
 horizone
+horizono
 horo
 horocuba
 horoscope
@@ -2960,6 +2991,9 @@ kabe
 kada
 kadro
 kafe
+kafetela
+kafeteria
+kafkiano
 kaiei
 kailo
 kailokikro
@@ -3386,7 +3420,10 @@ manda
 mandai
 mandoro
 manega
+manga
 mango
+mania
+maniaco
 manifesto
 maniga
 manile
@@ -3411,6 +3448,7 @@ mariologo
 marka
 markai
 markoro
+marmota
 marro
 marteano
 martexei
@@ -4028,6 +4066,7 @@ ozone
 pacenza
 pacto
 pactoi
+paella
 pagena
 pai
 paia
@@ -4095,6 +4134,7 @@ paraguai
 paraisto
 parakai
 parakia
+paralelo
 parapsicologette
 parapsicologia
 parapsicologo
@@ -4190,6 +4230,7 @@ perla
 perlo
 permisai
 permiso
+perpendicular
 perpetro
 persevera
 perseverai
@@ -4369,6 +4410,7 @@ pomologo
 pompe
 pontai
 ponto
+pontso
 ponzai
 ponzo
 popula
@@ -4567,10 +4609,13 @@ pulgada
 pulpusa
 pulverfruge
 pumo
+puntico
 punto
 puntsai
 puntsatarra
 puntsirra
+puntuatio
+puntuo
 punxai
 punxe
 pupeto
@@ -4647,6 +4692,7 @@ rakempisa
 rakia
 rakoso
 rame
+ramen
 ranaire
 ranfa
 range
@@ -5161,6 +5207,7 @@ surtso
 surviva
 survivai
 suscribai
+sushi
 sustai
 sustancea
 suxiza
@@ -5310,6 +5357,7 @@ tiflologette
 tiflologia
 tiflologo
 tiflotecnologia
+tifon
 tifona
 tigra
 tigron
@@ -5317,6 +5365,7 @@ tike
 tiki
 tikle
 tiko
+tilde
 timbrologette
 timbrologia
 timbrologo
@@ -5499,6 +5548,7 @@ tsesei
 tseso
 tsile
 tsimeneia
+tsimitsanga
 tsina
 tsineo
 tsintsila
@@ -5707,6 +5757,7 @@ vero
 versiona
 versus
 verta
+vertico
 vesperilo
 vesuka
 vex
@@ -5877,6 +5928,7 @@ zapor
 zaporrai
 zaproso
 zaprusa
+zar
 zarra
 zebra
 zegor

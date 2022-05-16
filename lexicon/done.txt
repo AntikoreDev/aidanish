@@ -72,6 +72,8 @@ abundar
 aburrido
 aburrimiento
 aburrir
+acabado
+acabar
 acacia
 academia
 académico
@@ -93,6 +95,7 @@ aceitoso
 aceleración
 acelerador
 acelerar
+acento
 acera
 acercar
 acero
@@ -216,6 +219,7 @@ aidanés
 aire
 aire acondicionado
 ajo
+ajolote
 ajustar
 ajuste
 al
@@ -226,6 +230,7 @@ albania
 albanés
 albinismo
 albino
+albóndiga
 alcanzar
 alce
 alcohol
@@ -498,8 +503,11 @@ aspiración
 aspiradora
 aspirar
 aspirina
+asta
 astato
+astil
 astilla
+astillar
 astro
 astrobiología
 astrografía
@@ -629,6 +637,9 @@ bastión
 bastón
 basura
 batalla
+bate
+bateador
+batear
 batido
 batimetría
 batología
@@ -810,6 +821,7 @@ caducado
 caducar
 caducidad
 caer
+cafetería
 café
 cagada
 cagar
@@ -1044,6 +1056,7 @@ chico
 chico con derecho
 chile
 chimenea
+chimichanga
 chimpancé
 china
 chincheta
@@ -1562,6 +1575,8 @@ dermatología
 dermatólogo
 derramar
 derrame
+derretido
+derretir
 derribar
 desactivación
 desactivar
@@ -1648,6 +1663,7 @@ diablo
 diablo de tasmania
 diagnosticar
 diagnóstico
+diagonal
 diagrama
 dialectología
 dialectólogo
@@ -1749,6 +1765,7 @@ dodo
 doler
 dolor
 domingo
+dominio
 doméstico
 donde
 dorar
@@ -2493,6 +2510,7 @@ hechicero
 hechizar
 hechizo
 hecho
+heladería
 helado
 helar
 helecho
@@ -2546,6 +2564,9 @@ hijo
 hinduismo
 hindú
 hipermetría
+hipnosis
+hipnotizado
+hipnotizar
 hipodromo
 hipología
 hipopótamo
@@ -2576,6 +2597,7 @@ homsexualidad
 homólogo
 hongo
 hora
+horizontal
 horizonte
 hormiga
 hormiguear
@@ -2790,6 +2812,7 @@ justo
 juzgado
 juzgar
 júpiter
+kafkiano
 ketchup
 kinesiología
 kinesiólogo
@@ -2991,9 +3014,11 @@ manejo
 manera
 manga
 mango
+mania
 manicomio
 manifiesto
 manillar
+maniático
 mano
 mansión
 manta
@@ -3026,6 +3051,7 @@ mariposa
 mariquita
 marisco
 mariólogo
+marmota
 marrón
 marsopa
 marte
@@ -3519,6 +3545,7 @@ pactar
 pacto
 padrastro
 padre
+paella
 paga
 pagano
 pagar
@@ -3574,6 +3601,7 @@ paradoxografía
 parafilia
 paraguas
 paraguay
+paralelo
 parapsicología
 parapsicólogo
 parar
@@ -3717,6 +3745,7 @@ permanente
 permiso
 permitir
 pero
+perpendicular
 perpetrar
 perro
 perseguir
@@ -3857,6 +3886,7 @@ polígono
 pomología
 pompa
 pomólogo
+poncho
 poner
 por
 por cierto
@@ -4026,6 +4056,8 @@ pulpo
 puma
 punto
 punto de mira
+puntuación
+puntuado
 pupa
 puro
 puré
@@ -4078,6 +4110,7 @@ radiólogo
 raja
 rajar
 rama
+ramen
 rana
 rango
 ranunculus
@@ -4537,6 +4570,7 @@ sur
 surgimiento
 surgir
 suscribir
+sushi
 suspender
 suspensión
 suspenso
@@ -4694,6 +4728,7 @@ tigre
 tigrón
 tijera
 tiki
+tilde
 timbre
 timbrología
 timbrólogo
@@ -4976,6 +5011,7 @@ versión
 versus
 vertedero
 verter
+vertical
 vestido
 vestimenta
 vestir
@@ -5069,6 +5105,7 @@ yunque
 zanahoria
 zapatilla
 zapato
+zar
 zarigüeya
 zincografía
 zombie
