@@ -15,6 +15,7 @@ abrir → aiprei, apeire
 abstener → abstenai
 abundar → abontai
 aburrir → aborrai
+acabar → bertsai
 acampar → akempei
 acariciar → caricai
 acartonar → cardoi
@@ -104,6 +105,7 @@ asemejarse → lokai, asemeire
 asentir → asensei
 asignar → asignai
 aspirar → aspirai
+astillar → artsai
 asustar → sustai
 atacar → ataktai
 atardecer → tarenai
@@ -129,6 +131,7 @@ bajar → aurei
 balanza → balantai
 barajar → barajai
 barrer → furrei
+batear → batei
 bañar → baxei
 beber → acoi, trinkai
 bendecir → bendizei
@@ -279,6 +282,7 @@ deprimir → deprei
 depurar → purai
 derivar → derivai
 derramar → derramei
+derretir → derrei, fundei
 derribar → coarsai, derribei
 desactivar → deaktivei
 desagrupar → unagrupai, unludei
@@ -488,6 +492,7 @@ hechizar → xizai
 herir → daxei
 hervir → herbei
 hibernar → blumai, hibernai
+hipnotizar → hipnoi
 homenajear → homenaiar
 hormiguear → mitsisilai
 hornear → fornai

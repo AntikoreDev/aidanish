@@ -18,6 +18,7 @@ absoluto → absoluto
 abstenido → absteno
 abundante → abonte
 aburrido → aborrado
+acabado → bertse
 académico → akademiko
 accesible → akcesibla
 aceitoso → asoaso
@@ -139,6 +140,7 @@ dejado → dexaireioko
 delgado → delekio
 democrático → democratika
 demócrata → democrato
+derretido → fundo, derretido, derrito
 desastroso → disastroso
 desconocido → unmiseioko
 desechado → desexo
@@ -146,6 +148,7 @@ deshecho → undono
 desnudo → abiare
 destacado → boldako
 determinada → determina
+diagonal → diagonal
 diario → hena
 dietético → dieteko
 diferente → nequalo
@@ -223,7 +226,9 @@ grueso → groso
 guapo → Emelo
 guay → yuolo
 hambriento → fameno
+hipnotizado → hipnoto
 hogareño → heigaro
+horizontal → horizono
 húmedo y profundo → heruo
 húmedo → hemo
 igual → equalo
@@ -255,6 +260,7 @@ jerárquico → jiderarqiko
 jodida → frikenko
 joven → nevako
 justo → iusto
+kafkiano → kafkiano
 largo → longo
 lascivo → invikso
 lejano → foreno
@@ -283,6 +289,7 @@ maldito → mairato
 maligno → heunxo
 malo → heune
 maloliente → heunesle
+maniático → maniaco
 marchito → marxito
 marcial → martiala
 marrón → itsoso
@@ -329,6 +336,7 @@ oscuro → obskuro
 oxidado (de hacer algo) → rigi
 oxidado (metal) → ragiko
 paquete (insulto) → tsusta
+paralelo → paralelo
 pasado → pasato
 pasteurizado → pausteriko
 pastoso → pastoso
@@ -343,6 +351,7 @@ perdido → pardeyoso
 perezoso (persona) → fiago, fago
 periódico → yere
 permanente → unfinaloko
+perpendicular → perpendicular
 personal → pertsonala
 pesado (persona molesta) → orronko
 pesado (peso de una cosa) → pesoko
@@ -365,6 +374,7 @@ protegido → protecto
 próxima → entera
 próximo → proximo
 pulida → polita
+puntuado → puntico
 puro → pura
 puto → puto
 público → publiko
@@ -445,6 +455,7 @@ verdad → verta
 verdadero → verdadeko
 verde → berde
 verificado → verifeko
+vertical → vertico
 viejo → igerne, elde
 vivo → vitoso
 válido → valo, valito
