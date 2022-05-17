@@ -11,3 +11,11 @@ When it's something that do something → -ivo, -ibo,
 When it's a tool that does other things → -oro
 Adjective to adverb (-mente) → -ien
 Adjective: Suscetible to, it can... → -ble, -bla
+Relative to illnesses and people → -demos
+
+## Other
+
+-grafia, -grafica
+-logia
+-logo, -logette
+-metria, -metrica
