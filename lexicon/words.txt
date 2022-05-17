@@ -100,7 +100,7 @@ adobe
 adoi
 adonis
 adoptei
-adoptocorrecto
+adopto
 adorai
 adoro
 adva
@@ -209,12 +209,12 @@ aixai
 aixo
 ajolote
 akacea
-akachai
 akademia
 akademiko
 akaina
 akaine
 akanta
+akatsai
 akcesibila
 akcesibla
 akcisei
@@ -1242,6 +1242,7 @@ corografia
 corografica
 corpe
 corpo
+correcto
 corta
 cortso
 corveta
@@ -1443,6 +1444,10 @@ derrenno
 derretido
 derribei
 derrito
+derroqai
+derroqe
+derroqista
+derroqo
 dersei
 desbarcai
 desbarco
@@ -1635,6 +1640,7 @@ dria
 driai
 drigai
 drigatio
+drigo
 drioro
 drivai
 driveno
@@ -2151,6 +2157,7 @@ extroverto
 ezer
 ezirutsuei
 ezirutsuko
+ezurra
 ezurrai
 faba
 facto
@@ -2709,6 +2716,8 @@ honko
 honpai
 honperso
 honxa
+hopital
+hopitalai
 hora
 horaviso
 horcasto
@@ -2721,6 +2730,8 @@ horocuba
 horoscope
 horro
 hoso
+hospital
+hospitalai
 hosta
 hostala
 hostexette
@@ -2808,6 +2819,7 @@ incenso
 includei
 inconforta
 inconforte
+incorrecto
 incubai
 incube
 indaksa
@@ -2856,6 +2868,7 @@ injisai
 injise
 injurai
 inklinai
+inkorrektoko
 inmortal
 inmuno
 inmunologette
@@ -3194,6 +3207,8 @@ kundonna
 kuntroi
 kura
 kurai
+kuratela
+kuratelai
 kurioseata
 kuriosei
 kurioso
@@ -3539,6 +3554,8 @@ mena
 menagio
 mende
 menta
+mental
+mente
 mentio
 mentsei
 menu
@@ -4237,6 +4254,7 @@ perseverai
 persiverai
 persivita
 perso
+personal
 personale
 personalizatio
 personalizei
@@ -4260,6 +4278,7 @@ pesta
 pestai
 pesto
 pestoro
+pestoso
 petiai
 petitia
 petra
@@ -4403,6 +4422,9 @@ politologo
 polizia
 polmona
 polo
+polutai
+polutio
+poluto
 pomo
 pomologette
 pomologia
@@ -4530,6 +4552,7 @@ probeko
 probekoien
 probiotiko
 problema
+probo
 procastinai
 proceda
 procedei
@@ -5339,8 +5362,10 @@ terura
 terurai
 terurasta
 tesis
+test
 testa
 testai
+teste
 testei
 testifica
 testo
@@ -5936,6 +5961,7 @@ zentrei
 zentrifugai
 zentrifugaioro
 zentro
+zentso
 zer
 zertente
 zerto

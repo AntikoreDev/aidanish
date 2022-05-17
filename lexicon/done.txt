@@ -530,6 +530,7 @@ atender
 aterrar
 aterrorizar
 atornillar
+atrapado
 atrapar
 atril
 atrincherarse
@@ -1222,6 +1223,7 @@ comprar
 comprender
 comprensión
 comprobación
+comprobado
 comprobar
 computación
 computador
@@ -1294,6 +1296,7 @@ contacto
 contactología
 contactólogo
 contaminación
+contaminado
 contaminar
 contar
 contención
@@ -1578,6 +1581,10 @@ derrame
 derretido
 derretir
 derribar
+derrota
+derrotado
+derrotar
+derrotista
 desactivación
 desactivar
 desagrupación
@@ -2608,6 +2615,8 @@ horno
 horóscopo
 hospedaje
 hospedar
+hospital
+hospitalizar
 hostelero
 hostelerías
 hostia
@@ -2624,6 +2633,7 @@ huracán
 hurón
 huérfano
 huésped
+huída
 hélice
 hígado
 húmedo
@@ -2681,6 +2691,7 @@ incluir
 incomodidad
 incordiar
 incordio
+incorrecto
 incubación
 incubar
 inculto
@@ -3137,6 +3148,7 @@ menos
 mensaje
 mensajear
 menta
+mental
 mente
 mentir
 mentira
@@ -3773,7 +3785,9 @@ pestañear
 peste
 peste antonina
 peste negra
+pestilente
 pesto
+pestoso
 petición
 petrografía
 petroleología
@@ -3880,6 +3894,7 @@ polla
 pollo
 polo
 polonia
+polución
 polvo
 polén
 polígono
@@ -3976,6 +3991,7 @@ principio
 prisa
 probable
 probablemente
+probado
 probar
 probeta
 probiótico
@@ -4705,6 +4721,7 @@ territorio
 terror
 terrorista
 tesis
+test
 teta
 tetralogía
 tetronimo
@@ -5053,6 +5070,7 @@ visitar
 visión
 vislumbrar
 vista
+visto
 visualización
 visualizar
 visón
