@@ -6,7 +6,7 @@ abierto → apero, aipreoso
 abisal → abysal
 abismal → oxtuoro
 abollado → hundiko
-abominable → abomeineko
+abominable → abominable, abomeineko
 abonado (dinero) → abonako
 abonado (tierra) → tsesako
 abonado → abonoko
@@ -380,7 +380,7 @@ preparado (estar preparado para algo) → en tempeo
 principal → printsiale, primer
 probado → probo
 comprobado → teste
-probable → probeko
+probable → probable, probeko
 profundo → sundo
 propio → prope
 protegido → protecto
