@@ -38,7 +38,7 @@ abogado, legista → abvogette
 abollado → hundiko
 abolladura, abollón → hundo
 abollar → hundaire
-abominable → abomeineko
+abominable → abominable, abomeineko
 abonado (dinero) → abonako
 abonado (tierra) → tsesako
 abonado → abonoko
@@ -4081,7 +4081,7 @@ principal → printsiale, primer
 principiante → initiaxette
 principio, comienzo → initio
 prisa → ranta
-probable → probeko
+probable → probable, probeko
 probablemente → probekoien
 probado → probo
 probar (de manera científica) → prostei

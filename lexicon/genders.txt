@@ -4400,6 +4400,7 @@ ei aipreoso
 la abysal
 ei oxtuoro
 ei hundiko
+la abominable
 ei abomeineko
 ei abonako
 ei tsesako
@@ -4795,6 +4796,7 @@ la printsiale
 ei primer
 ei probo
 la teste
+la probable
 ei probeko
 ei sundo
 ei prope
