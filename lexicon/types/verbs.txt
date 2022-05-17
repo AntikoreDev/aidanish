@@ -114,7 +114,7 @@ atender → atendai
 aterrar → terrai, escarai
 aterrorizar → terurai
 atornillar → exkrabaire
-atrapar → akachai
+atrapar → akatsai
 atrincherarse → laire
 aturdir → xakai
 aullar → ululai
@@ -230,7 +230,7 @@ consolar → consoi
 constar → constai
 construir → tendai
 contactar → contactai
-contaminar → drigai
+contaminar → drigai, polutai
 contar (con algo) → akoixei 
 contar (contar a alguien algo) → rekoixei
 contar (números o cosas) → kontoi
@@ -498,6 +498,7 @@ hormiguear → mitsisilai
 hornear → fornai
 hospedar → hustoi
 huir → ezurrai
+hospitalizar → hospitalai, hopitalai, kuratelai
 idear → ideai
 imaginar → imaginei
 imantar → magnetai
@@ -625,7 +626,7 @@ parar, detener → estoi
 parecer → aseire, lokai
 parir → parei
 parpadear → exorei
-partir → partei, brokai
+partir (romper, cortar) → partei, brokai
 pasar (caminar) → paize
 pasar (ocurrir) → zaine
 pasear → paize
@@ -713,6 +714,7 @@ racionar → rationai
 rascar → kikroi
 rayar → raiaire
 razonar → reasoi
+derrotar → derroqai
 reaccionar → reactai, reaktai
 realizar → ereasei
 recaudar → rekauroi
