@@ -1776,8 +1776,6 @@ elme
 elocato
 elokrai
 em
-em akordo
-em tempeoit
 embalai
 embarcai
 embarcatero
@@ -1804,9 +1802,12 @@ emperos
 empotrai
 empotratio
 en
+en akordo
 en ei
+en poco
 en real
 en tempeo
+en tempeoit
 encanto
 encefalografia
 encefalografica

@@ -2,7 +2,7 @@ a la derecha, hacia la derecha → aldereite
 a la izquierda, hacia la izquierda → alzoraite
 a la → ala
 a punto de terminar → afinale
-a veces → em tempeoit
+a veces → en tempeoit
 a → a
 abadía → abia
 abajo → aur
@@ -1543,7 +1543,7 @@ darse cuenta → indorai
 dato → data
 dañar → daxai, injurai
 daño → daxa
-de acuerdo → em akordo
+de acuerdo → en akordo
 de la → dala
 de nada → non lanai
 de todas formas → da alde forma
@@ -3984,6 +3984,7 @@ población → populatio
 pobre → pora
 pobreza → poratia
 poción → potia
+poco a poco → en poco
 poco → piko
 pocos → piko
 poder → pontai
