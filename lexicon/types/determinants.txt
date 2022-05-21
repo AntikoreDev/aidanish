@@ -25,9 +25,7 @@ cualquier cosa → ekoixa
 cualquier forma → eforma
 cualquier momento → etempo
 
-otros (cosas) → otem
-otro (persona) → ote
-otros (personas) → oter
+otro, otros (personas, cosas) → oter
 otra forma → oforma
 otro lugar → otela, olocato
 otra cosa → okoixa
