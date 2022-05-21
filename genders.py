@@ -27,6 +27,9 @@ def Run():
 			word = word.lower().strip()
 			if (" " in word):
 				continue
+
+			if (word.endswith('sis')):
+				words.append("la {}".format(word))
 			
 			end = word[len(word) -1]
 			if (end in male):
