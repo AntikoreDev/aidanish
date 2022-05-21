@@ -4633,8 +4633,7 @@ sitiar → sitei
 situación en la que una persona es vigilada por la posibilidad de que sea un criminal / situación de grave peligro de caza, captura o asesinato → hepsis
 soberbia → superbia
 soberbio → superbo
-sobre → airo
-sobre → overa
+sobre → airo, overa
 sobrevalorado → airvaluako
 sobrevivir → survivai
 sobrino → asineko
