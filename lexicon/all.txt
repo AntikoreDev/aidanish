@@ -38,7 +38,7 @@ abogado, legista → abvogette
 abollado → hundiko
 abolladura, abollón → hundo
 abollar → hundaire
-abominable → abomeineko
+abominable → abominable, abomeineko
 abonado (dinero) → abonako
 abonado (tierra) → tsesako
 abonado → abonoko
@@ -158,7 +158,7 @@ administrador → administreiette
 administrar → administrei
 adobe → adobe
 adonis (flor) → adonis
-adoptado → adoptocorrecto
+adoptado → adopto
 adoptar → adoptei
 adoración → adoro
 adorar → adorai
@@ -539,7 +539,8 @@ atender → atendai
 aterrar → terrai, escarai
 aterrorizar → terurai
 atornillar → exkrabaire
-atrapar → akachai
+atrapado → zentso
+atrapar → akatsai
 atril → lekteoro
 atrincherarse → laire
 atrio → atrio
@@ -577,7 +578,7 @@ aventura → ventura
 avergonzado → combrako
 avergonzar → combroi
 avestruz → otsorra
-avisado → avistoko
+avisado → avisto, avistoko
 avisar → avistei
 aviso → avisto
 avión → avionno
@@ -1246,6 +1247,7 @@ comprar → kompraire
 comprender → comprendai
 comprensión → comprendo
 comprobación → tseqe
+comprobado → teste
 comprobar → tseqai, testai
 computar → computai
 comunicología → comunicologia
@@ -1318,8 +1320,9 @@ contactar → contactai
 contacto → contacto
 contactología → contactologia
 contactólogo → contactologo, contactologette
-contaminación → drigatio
-contaminar → drigai
+contaminación, polución → drigatio, polutio
+contaminado → drigo, poluto
+contaminar → drigai, polutai
 contar (con algo) → akoixei
 contar (contar a alguien algo) → rekoixei
 contar (números o cosas) → kontoi
@@ -1363,7 +1366,7 @@ corografía → corografia, corografica
 corona → korona
 corpa → corpe
 correcaminos → rantande
-correcto → korrektoko
+correcto → correcto, korrektoko
 corredor → zurrette
 correo electrónico → elektrikono maila
 correo → maila
@@ -1616,6 +1619,10 @@ derrame → derrame
 derretido → fundo, derretido, derrito
 derretir → derrei, fundei
 derribar → coarsai, derribei
+derrota → derroqe
+derrotado → derroqo
+derrotar → derroqai
+derrotista → derroqista
 desactivación → deaktivatio
 desactivar → deaktivei
 desagrupación → unagrupatio
@@ -2188,7 +2195,7 @@ excusa → excusa
 excusar → excusai
 exobiología → exobiologia
 experimentar → experimentai, testai, testei
-experimento → testo, testifica, experimento
+experimento, test (científico) → testo, testifica, experimento, test
 expiración, caducidad → expiratio
 expirado → expiro
 expirar → expirai
@@ -2665,6 +2672,8 @@ horno → forno
 horóscopo → horoscope
 hospedaje → huste
 hospedar → hustoi
+hospital → hospital, hopital, kuratela
+hospitalizar → hospitalai, hopitalai, kuratelai
 hostelero → hostexette
 hostelerías → hosta
 hostia → portona
@@ -2681,6 +2690,7 @@ huracán → hurakana
 hurón → merreca
 huérfano → horfano
 huésped → husxette
+huída → ezurra
 hélice → gingilla
 hígado → hexinra
 húmedo y profundo → heruo
@@ -2740,6 +2750,7 @@ incluir → includei
 incomodidad → inconforta
 incordiar → prokei, tsordai
 incordio → proko
+incorrecto → incorrecto, inkorrektoko
 incubación → incube
 incubar → incubai
 inculto → ivorte
@@ -3211,7 +3222,8 @@ menos → menus
 mensaje → mesaje
 mensajear → mesajire
 menta → menta
-mente → mende
+mental → mental
+mente → mende, mente
 mentir, engañar → lerrai
 mentira → musta
 mentira → musta
@@ -3725,7 +3737,7 @@ parte → parte
 partida (juego) → jokaizara
 partido (juego, deporte) → jokaizera
 partido (político) → partero
-partir → partei, brokai
+partir (romper, cortar) → partei, brokai
 parásito → paraisto, verme
 pasado mañana → pos-enterehen
 pasado → pasato
@@ -3857,6 +3869,7 @@ persiana → yera, jerco
 persistencia → persivita
 persistir → persiverai
 persona → perso
+personal → personal
 personal → personale
 personal → pertsonala
 personalización → personalizatio
@@ -3878,6 +3891,7 @@ pestañear → exorei
 peste antonina → antonine pesta
 peste negra → nekro morto
 peste → pesta
+pestilente, pestoso → pestoso
 pesto → pesto
 petrografía → petrografia, petrografica
 petroleología → petroleologia
@@ -4090,8 +4104,9 @@ principal → printsiale, primer
 principiante → initiaxette
 principio, comienzo → initio
 prisa → ranta
-probable → probeko
+probable → probable, probeko
 probablemente → probekoien
+probado → probo
 probar (de manera científica) → prostei
 probar → probai
 probiótico → probiotiko
@@ -4844,6 +4859,7 @@ territorio → territoria
 terror → terura
 terrorista → terurasta
 tesis → tesis
+test (examen) → test
 teta → burra
 tetralogía → tetralogia
 tetronimo → tetronimo
@@ -5210,6 +5226,7 @@ visitar → visitei
 visión → viso
 vislumbrar → zovisai, zintaire
 vista → vista
+visto → viso
 visualización → visoatio
 visón → orgon
 vitalidad → vitalita

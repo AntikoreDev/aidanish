@@ -6,7 +6,7 @@ abierto → apero, aipreoso
 abisal → abysal
 abismal → oxtuoro
 abollado → hundiko
-abominable → abomeineko
+abominable → abominable, abomeineko
 abonado (dinero) → abonako
 abonado (tierra) → tsesako
 abonado → abonoko
@@ -15,6 +15,7 @@ abortado → abortado
 abrasivo → abrasivo
 abrazado → hogoko
 absoluto → absoluto
+contaminado → drigo, poluto
 abstenido → absteno
 abundante → abonte
 aburrido → aborrado
@@ -29,7 +30,8 @@ acusado → akusako
 acuático → acoatiko
 adictivo → adiktoso
 adicto → adikto
-adoptado → adoptocorrecto
+
+adoptado → adopto
 afilado → alfilago
 afortunado → helera
 afónico → afono
@@ -61,7 +63,8 @@ aturdido → xake
 aturdidor → xakoro
 avaricioso → avarito
 avergonzado → combrako
-avisado → avistoko
+avisado → avisto, avistoko
+visto → viso
 azul → anil
 bajo → pikoso
 barato → atsoso
@@ -120,6 +123,8 @@ comunista → comunista
 común → komuna
 condenado → condeno
 conectado → conekto
+derrotado → derroqo
+derrotista → derroqista
 confundido → afuska
 congelado → gelatio
 conocido → miseioko
@@ -128,7 +133,7 @@ constante → constanto
 continuista → enterizo
 convertido → konversaioko
 cornudo → cornato
-correcto → korrektoko
+correcto → correcto, korrektoko
 corto → coto
 crujiente → crusto
 cuaternario → qaternario
@@ -309,11 +314,13 @@ medicinal → medikarer
 mediocre → mediocre 
 menor → pikoler
 mentira → musta
+mental → mental
 mentiroso → mustager
 mestizo → seutse
 minúsculo → miskolo
 mirado → avisoko
 mismo → mesmo
+
 misterioso → edariko
 modificado → modifikako
 monetario → monetareo
@@ -348,6 +355,10 @@ paralelo → paralelo
 pasado → pasato
 pasteurizado → pausteriko
 pastoso → pastoso
+atrapado → zentso
+pestilente, pestoso → pestoso
+personal → personal
+incorrecto → incorrecto, inkorrektoko
 patriótico → onterriko
 pausado → pauxaioko
 peligroso → perilko
@@ -375,7 +386,9 @@ preciso → preziso
 prendido → foke
 preparado (estar preparado para algo) → en tempeo
 principal → printsiale, primer
-probable → probeko
+probado → probo
+comprobado → teste
+probable → probable, probeko
 profundo → sundo
 propio → prope
 protegido → protecto

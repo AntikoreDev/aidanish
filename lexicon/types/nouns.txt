@@ -972,7 +972,7 @@ constructor, arquitecto → tendaxette
 contacto → contacto
 contactología → contactologia
 contactólogo → contactologo, contactologette
-contaminación → drigatio
+contaminación, polución → drigatio, polutio
 contención → containio
 contenido → contento
 contexto → conteksto
@@ -1167,6 +1167,7 @@ derecho (ley) → dereita
 dermatología → dermatologia
 dermatólogo → dermatologo, dermatologette
 derrame → derrame
+derrota → derroqe
 desactivación → deaktivatio
 desagrupación → unagrupatio
 desaparición → unparezeitio
@@ -1495,7 +1496,8 @@ examinación → examinatia
 excitación → enuse
 excusa → excusa
 exobiología → exobiologia
-experimento → testo, testifica, experimento
+experimento, test (científico) → testo, testifica, experimento, test
+test (examen) → test
 expiración, caducidad → expiratio
 explanada → planiuno
 explosivo → explodoro
@@ -2209,7 +2211,7 @@ menaje → furnitia, menagio
 mención → mentio
 mensaje → mesaje
 menta → menta
-mente → mende
+mente → mende, mente
 mentira → musta
 menú → menu
 mercadología → mercadologia
@@ -2662,6 +2664,8 @@ permiso → permiso
 perro → doerro, hundo
 perseverancia → persevera
 persiana → yera, jerco
+huída → ezurra
+hospital → hospital, hopital, kuratela
 persistencia → persivita
 persona → perso
 personal → personale

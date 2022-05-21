@@ -1145,6 +1145,7 @@ la contactologia
 ei contactologo
 ei contactologette
 ei drigatio
+ei polutio
 ei containio
 ei contento
 ei conteksto
@@ -1382,6 +1383,7 @@ la dermatologia
 ei dermatologo
 ei dermatologette
 la derrame
+ei derroqe
 ei deaktivatio
 ei unagrupatio
 ei unparezeitio
@@ -1787,6 +1789,8 @@ la exobiologia
 ei testo
 la testifica
 ei experimento
+ei test
+ei test
 ei expiratio
 ei planiuno
 ei explodoro
@@ -2656,6 +2660,7 @@ ei mentio
 la mesaje
 la menta
 la mende
+la mente
 la musta
 ei menu
 la mercadologia
@@ -3239,6 +3244,10 @@ ei hundo
 la persevera
 la yera
 ei jerco
+la ezurra
+ei hospital
+ei hopital
+la kuratela
 la persivita
 ei perso
 la personale
@@ -4426,6 +4435,7 @@ ei aipreoso
 la abysal
 ei oxtuoro
 ei hundiko
+la abominable
 ei abomeineko
 ei abonako
 ei tsesako
@@ -4435,6 +4445,8 @@ ei abortado
 ei abrasivo
 ei hogoko
 ei absoluto
+ei drigo
+ei poluto
 ei absteno
 la abonte
 ei aborrado
@@ -4449,7 +4461,7 @@ ei akusako
 ei acoatiko
 ei adiktoso
 ei adikto
-ei adoptocorrecto
+ei adopto
 ei alfilago
 la helera
 ei afono
@@ -4482,7 +4494,9 @@ la xake
 ei xakoro
 ei avarito
 ei combrako
+ei avisto
 ei avistoko
+ei viso
 la anil
 ei pikoso
 ei atsoso
@@ -4541,6 +4555,8 @@ la comunista
 la komuna
 ei condeno
 ei conekto
+ei derroqo
+la derroqista
 la afuska
 ei gelatio
 ei miseioko
@@ -4549,6 +4565,7 @@ ei constanto
 ei enterizo
 ei konversaioko
 ei cornato
+ei correcto
 ei korrektoko
 ei coto
 ei crusto
@@ -4746,6 +4763,7 @@ la medikarer
 ei mediocre
 ei pikoler
 la musta
+la mental
 ei mustager
 ei seutse
 ei miskolo
@@ -4787,6 +4805,11 @@ ei paralelo
 ei pasato
 ei pausteriko
 ei pastoso
+ei zentso
+ei pestoso
+ei personal
+ei incorrecto
+ei inkorrektoko
 ei onterriko
 ei pauxaioko
 ei perilko
@@ -4816,6 +4839,9 @@ ei preziso
 ei foke
 la printsiale
 ei primer
+ei probo
+la teste
+la probable
 ei probeko
 ei sundo
 ei prope
