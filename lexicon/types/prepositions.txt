@@ -16,7 +16,7 @@ para → paira
 por → por
 según → ezer
 sin → nokoi
-sobre → airo
+sobre → airo, overa
 tras → tras
 versus → versus
 via → via

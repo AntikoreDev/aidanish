@@ -44,7 +44,6 @@ arriba → air
 a la derecha, hacia la derecha → aldereite
 a la izquierda, hacia la izquierda → alzoraite
 al lado de → ensero
-sobre → overa
 
 # Modo
 abiertamente → aipreiroso
