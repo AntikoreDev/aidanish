@@ -3634,11 +3634,9 @@ otra cosa → okoixa
 otra forma → oforma
 otra vez → aran
 otra vez → retai
-otro (persona) → ote
 otro lugar → otela, olocato
 otro momento → otempo
-otros (cosas) → otem
-otros (personas) → oter
+otro, otros (personas, cosas) → oter
 otólogo → otologo, otologette
 oveja → omejo
 oxidado (de hacer algo) → rigi
