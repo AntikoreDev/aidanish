@@ -1497,7 +1497,6 @@ excitación → enuse
 excusa → excusa
 exobiología → exobiologia
 experimento, test (científico) → testo, testifica, experimento, test
-test (examen) → test
 expiración, caducidad → expiratio
 explanada → planiuno
 explosivo → explodoro
@@ -1848,6 +1847,7 @@ hormigón → concreto
 horno → forno
 horóscopo → horoscope
 hospedaje → huste
+hospital → hospital, hopital, kuratela
 hostelero → hostexette
 hostelerías → hosta
 hostia → portona
@@ -1862,6 +1862,7 @@ huracán → hurakana
 hurón → merreca
 huérfano → horfano
 huésped → husxette
+huída → ezurra
 hélice → gingilla
 hígado → hexinra
 icnografía → icnografia, icnografica
@@ -2664,8 +2665,6 @@ permiso → permiso
 perro → doerro, hundo
 perseverancia → persevera
 persiana → yera, jerco
-huída → ezurra
-hospital → hospital, hopital, kuratela
 persistencia → persivita
 persona → perso
 personal → personale
@@ -3115,6 +3114,7 @@ senología → senologia
 sentido → senso
 sentimiento → sensira
 senólogo → senologo, senologette
+sepsis → sepsis
 septágono → septakono
 sepultura → sepulta
 sequía → dria
@@ -3162,6 +3162,7 @@ sismología → sismologia
 sismólogo → sismologo, sismologette
 sistema solar → solarsistema
 sistema → sistema
+situación en la que una persona es vigilada por la posibilidad de que sea un criminal / situación de grave peligro de caza, captura o asesinato → hepsis
 soberbia → superbia
 sobrino → asineko
 sociedad → soziata
@@ -3310,6 +3311,7 @@ territorio → territoria
 terror → terura
 terrorista → terurasta
 tesis → tesis
+test (examen) → test
 teta → burra
 tetralogía → tetralogia
 tetronimo → tetronimo
