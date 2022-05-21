@@ -963,6 +963,7 @@ conquista → conqitia, conqista
 conquistador → conqeror
 conservación → conservatio
 conservador → conservette
+consola → consola
 consorcio → consortso
 consorte, cónyuge → conyuge
 constelación → constelatio
@@ -1000,6 +1001,7 @@ corpa → corpe
 correcaminos → rantande
 corredor → zurrette
 correo → maila
+correturnos → laborersette, ensekunde
 corrida (cualquier significado no sexual) → zurrata
 corrupción → korruptio
 cortador → kutoro
@@ -1067,6 +1069,7 @@ crónica → cronike
 cuadrado → qatrato
 cuadro → kadro
 cuadrícula → qatratiko, griya
+cuarteto → qarteto
 cuarto (habitación) → itela
 cuarto (tiempo o matemáticas) → quarto
 cuatriciclo → quatroda
@@ -1129,6 +1132,7 @@ dato → data
 daño → daxa
 deber (algo que debes) → dute
 deber (colegio) → esaroidute
+decimal → decimal
 decisión → deze
 decágono → decakono
 decálogo → decalogo, decalogette
@@ -1271,10 +1275,13 @@ droga →  drojo, drogo
 dromedario → dorgo
 ducha → tsoaga
 duda → duba
+duelo → duelo
 dueño, dueña → donno
+duo → duo
 duplografía → duplografia, duplografica
 duración → dula
 dársena → portakarga
+décima → decima
 día → hen
 dólar → dolar
 ebullición, evaporación → inherba
@@ -1361,6 +1368,7 @@ epizootiología → epizootiologia
 epílogo → epilogo, epilogette
 equipo → eqipo
 equivalente → eqivala
+era → era
 ergología → ergologia
 ergometría → ergometria, ergometrica
 ergonomía → ergonomia
@@ -1622,6 +1630,7 @@ fístula → fistula
 fórmula → formula
 fútbol → futbola, poibola
 gafas → visoioroit
+galaxia → galaksis
 galería → galila
 galgo → galgo
 gallina → conto
@@ -2118,6 +2127,7 @@ mansión → mansio
 manta → kubre
 mantarraya → manraia
 manteca → manteca
+mantenimiento → erso
 mantequilla → mantega
 manticora → mantikora
 manutención → ersokio
@@ -2143,6 +2153,7 @@ mariólogo → mariologo, mariologette
 marmota → marmota
 marrón → marro, brunno, bronzo 
 marsopa → osobe, ansabar
+marsupial → marsupial
 martillo → martexo
 masa → masa
 masacre → masacria
@@ -2303,6 +2314,7 @@ morfólogo → morfologo, morfologette
 mortero → morta
 mosca → blainekro
 mosquete → muskete
+mosquito → moskito, mosqito
 mostaza → mostara, merla
 motivo → motivo
 moto → motorroda
@@ -2418,7 +2430,7 @@ ocho → octo
 ocio → ocio, xia, ozio
 octógono → oktokono
 ocupación → osala
-océano → oxtomare
+océano → ozeano, oxtomare
 odio → rutro
 odontología → odontologia
 odontólogo → odontologo, odontologette
@@ -2534,6 +2546,7 @@ pantera → pantera
 papel → pipra
 papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela
 papelería → pipratela
+papilla → papila
 papirología → papirologia
 papirólogo → papirologo, papirologette
 paquete (insulto) → tsusta
@@ -2546,6 +2559,7 @@ parafilia → parafilia
 paraguas → pluvaoro
 parapsicología → parapsicologia
 parapsicólogo → parapsicologo, parapsicologette
+pararayos → pararaio
 parasicología → parasicologia
 parasicólogo → parasicologo, parasicologette
 parasitología → parasitologia
@@ -2629,6 +2643,7 @@ pepino → pepera
 pera → pera
 perca → eskada
 percha → pertsa, colca, colga
+perdición → perditio
 perdiz → lombo
 perdón → diskaire, pardon
 pereza → fiagia, partsa
@@ -2896,6 +2911,7 @@ queso → fruge
 quiebra → qibra
 quinesiología → qinesiologia
 quinesiólogo → qinesiologo, qinesiologette
+quinteto → qinteto
 quokka → cuoca
 ración → ration
 radio (aparato) → radio
@@ -2978,12 +2994,14 @@ repetidor → repeteoro
 representación → representatio
 reprografía → reprografia, reprografica
 reptil → reptile
+repuesto → tsargo
 república → republika
 resistencia → resistentia
 resolución → resoleitio
 respeto → respeto
 respiración → rispera
 respuesta → reposta
+restaurante → restorante
 resultado → resola
 reto → testa
 retrasado → retartato, retardato
@@ -3047,6 +3065,7 @@ saldo → saldo
 salida → evokatela
 saliente → evoke
 salmón → tsugo
+salsa tártara → tartara, tartaruma
 salsa → sauza
 saltador → pulaioro
 saltamontes → herbepulai
@@ -3137,6 +3156,7 @@ sirena (mitología) → meimare
 sirena (objeto) → sirena
 sismología → sismologia
 sismólogo → sismologo, sismologette
+sistema solar → solarsistema
 sistema → sistema
 soberbia → superbia
 sobrino → asineko
@@ -3163,6 +3183,7 @@ sonido → soniko
 sonrisa → sela
 sopa → faba
 soteriología → soteriologia
+spoiler → espoiler, spoiler
 subida → aira
 submarino → submarine
 subnormal → tardo, subnormailo
@@ -3175,7 +3196,7 @@ sufijo → sufikso
 sugerencia → sugestia
 suicida → suicida
 suicidio → suicidio
-sujetador → sujeizo
+sujetador → sujeizo, braz
 sujetapapeles → sujepipra
 sujetavelas → sujecandala
 superavit → superavit
@@ -3189,6 +3210,7 @@ suspenso → reprovo
 sustancia → sustancea
 sustantivo → nambiro
 sustento ,  sostención → soteno
+sustituto → sekundoro
 susurro → huxa
 sábana (cama) → xiaga
 sílaba → silaba
@@ -3232,6 +3254,7 @@ taza → ukisa
 teatro → aktotela, tetero
 teatrología → teatrologia
 teatrólogo → teatrologo, teatrologette
+techo → tecto
 tecla → tekla
 teclado →  teklatablo
 tecnografía → teknografia, teknografica
@@ -3416,6 +3439,7 @@ trueno → trumbe
 trufa → turfa
 tráfico → trafiko
 tránsito → transita
+trío → trio
 tsunami → tsunami, tzunami, zunami
 tubería → tubia
 tubo → tube
@@ -3499,6 +3523,8 @@ venereología → venereologia
 venereólogo → venereologo, venereologette
 venganza → revenga, revenganze
 ventana → vendexa
+ventilador de pie → estanvendo
+ventilador de techo → tecvendo, tectovendoioro, tectovendo
 ventilador → vendoioro
 ventriculografía → ventriculografia, ventriculografica
 ventrilocuo → vintrelocuo
@@ -3521,6 +3547,7 @@ viaje → vixe
 vibrador → vibraibo
 vicuña → vicunna
 vida → vita
+videoconsola → jokonsola
 videojuego → vidiojoko
 vieira → cola
 viejo, anciano → igerne

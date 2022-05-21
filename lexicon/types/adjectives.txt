@@ -34,6 +34,7 @@ afilado → alfilago
 afortunado → helera
 afónico → afono
 agresivo → agresibo
+agridulce → xigrodultse
 agrio → xigro
 albino → albino
 aleatorio → rungo
@@ -69,6 +70,7 @@ bello → belo
 beneficioso → benefitioso
 benigno → bainxo
 bienvenido → bainaro
+binario → binario
 blanco → bianco
 blando → bloneto
 bloqueado → lokeioto
@@ -123,16 +125,19 @@ congelado → gelatio
 conocido → miseioko
 conquistado → conqisto
 constante → constanto
+continuista → enterizo
 convertido → konversaioko
 cornudo → cornato
 correcto → korrektoko
 corto → coto
 crujiente → crusto
+cuaternario → qaternario
 culpable → riaxeso
 culto → litero
 curioso → kurioso
 cómodo → conforte
 decente → dezente
+decimal → dezimal, decimal
 deficiente → defizente
 definido → definite
 definitivo → definite
@@ -212,6 +217,7 @@ fuerte → forte
 futuro → futura
 fácil → fazilo
 galleta → putsa
+galáctico → galaksico
 gandúl → sugarriyo
 general → general
 genial → genelo
@@ -226,6 +232,7 @@ grueso → groso
 guapo → Emelo
 guay → yuolo
 hambriento → fameno
+hexadecimal → heksadezimal, heksadecimal
 hipnotizado → hipnoto
 hogareño → heigaro
 horizontal → horizono
@@ -293,6 +300,7 @@ maniático → maniaco
 marchito → marxito
 marcial → martiala
 marrón → itsoso
+marítimo → maritimo
 masculino → masculine
 masivo → masivo
 maximo → oxtorra
@@ -419,6 +427,7 @@ sincero → etristuro, sinzero
 soberbio → superbo
 sobrevalorado → airvaluako
 social → sozial
+solar → solar
 solo → ekoro
 sordo → sorda
 soñador → pentsieko
@@ -439,8 +448,10 @@ traicionero → trastoso
 tranquilo → einxo
 transcriptiva → transcribiko
 trastornante → yigoiko
+trinario → trinario
 triste → tristeko
 ultimo → elasto
+unario → unario
 unido → yoiko
 uperisado → uperisato
 urbano → urbe

@@ -74,7 +74,7 @@ amamantar → amamantai
 amanecer → manzai
 amar → loi
 amargar → tsagrai
-amartillar → martexei
+amartillar, martillar → martexei
 amañar → amaine
 amontonar → kievei
 amputar → amputai
@@ -747,6 +747,7 @@ renovar → renevoi, renevai
 repetir → repetei
 replicar → reproxei
 reportar → reportei
+repostar → tsargai
 representar → representei
 reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
@@ -758,6 +759,7 @@ respirar → risperei
 responder, contestar → repostai
 restablecer → resetei
 restar → deproxei
+restaurar → restorai
 retener → rentiei
 retirar → retroi
 retrasar → retrai
@@ -824,6 +826,7 @@ suplicar → supraxai
 surgir → sagei
 suscribir → suscribai
 suspender → reprovai
+sustituir → sustibai, sekundoi
 susurrar → huxai
 talar → tsopar, tambar
 tamizar → tamizei
