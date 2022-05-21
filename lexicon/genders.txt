@@ -1134,6 +1134,7 @@ la conqista
 ei conqeror
 ei conservatio
 ei conservette
+la consola
 ei consortso
 ei conyuge
 ei constelatio
@@ -1175,6 +1176,8 @@ ei corpe
 la rantande
 ei zurrette
 la maila
+la laborersette
+ei ensekunde
 la zurrata
 ei korruptio
 ei kutoro
@@ -1261,6 +1264,7 @@ ei qatrato
 ei kadro
 ei qatratiko
 la griya
+ei qarteto
 la itela
 ei quarto
 la quatroda
@@ -1335,6 +1339,7 @@ la data
 la daxa
 ei dute
 ei esaroidute
+la decimal
 la deze
 ei decakono
 ei decalogo
@@ -1504,11 +1509,14 @@ ei drogo
 ei dorgo
 la tsoaga
 la duba
+ei duelo
 ei donno
+ei duo
 la duplografia
 la duplografica
 la dula
 la portakarga
+la decima
 ei hen
 ei dolar
 la inherba
@@ -1616,6 +1624,7 @@ ei epilogo
 ei epilogette
 ei eqipo
 la eqivala
+la era
 la ergologia
 la ergometria
 la ergometrica
@@ -1939,6 +1948,7 @@ la formula
 la futbola
 la poibola
 ei visoioroit
+la galaksis
 la galila
 ei galgo
 ei conto
@@ -2547,6 +2557,7 @@ ei mansio
 ei kubre
 la manraia
 la manteca
+ei erso
 la mantega
 la mantikora
 ei ersokio
@@ -2578,6 +2589,7 @@ ei brunno
 ei bronzo
 ei osobe
 la ansabar
+la marsupial
 ei martexo
 la masa
 la masacria
@@ -2785,6 +2797,8 @@ ei morfologette
 la morta
 ei blainekro
 ei muskete
+ei moskito
+ei mosqito
 la mostara
 la merla
 ei motivo
@@ -2927,6 +2941,7 @@ la xia
 ei ozio
 ei oktokono
 la osala
+ei ozeano
 ei oxtomare
 ei rutro
 la odontologia
@@ -3080,6 +3095,7 @@ la zorrera
 ei zorrere
 la desextela
 la pipratela
+la papila
 la papirologia
 ei papirologo
 ei papirologette
@@ -3095,6 +3111,7 @@ ei pluvaoro
 la parapsicologia
 ei parapsicologo
 la parapsicologette
+ei pararaio
 la parasicologia
 ei parasicologo
 la parasicologette
@@ -3198,6 +3215,7 @@ la eskada
 la pertsa
 la colca
 la colga
+ei perditio
 ei lombo
 la diskaire
 ei pardon
@@ -3515,6 +3533,7 @@ la qibra
 la qinesiologia
 ei qinesiologo
 ei qinesiologette
+ei qinteto
 la cuoca
 ei ration
 ei radio
@@ -3606,12 +3625,14 @@ ei representatio
 la reprografia
 la reprografica
 ei reptile
+ei tsargo
 la republika
 la resistentia
 ei resoleitio
 ei respeto
 la rispera
 la reposta
+la restorante
 la resola
 la testa
 ei retartato
@@ -3682,6 +3703,8 @@ ei saldo
 la evokatela
 ei evoke
 ei tsugo
+la tartara
+la tartaruma
 la sauza
 ei pulaioro
 la herbepulai
@@ -3789,6 +3812,7 @@ la sirena
 la sismologia
 ei sismologo
 ei sismologette
+la solarsistema
 la sistema
 la superbia
 ei asineko
@@ -3821,6 +3845,8 @@ ei soniko
 la sela
 la faba
 la soteriologia
+ei espoiler
+ei spoiler
 la aira
 la submarine
 ei tardo
@@ -3835,6 +3861,7 @@ la sugestia
 la suicida
 ei suicidio
 ei sujeizo
+la braz
 la sujepipra
 la sujecandala
 ei superavit
@@ -3848,6 +3875,7 @@ ei reprovo
 la sustancea
 ei nambiro
 ei soteno
+ei sekundoro
 la huxa
 la xiaga
 la silaba
@@ -3901,6 +3929,7 @@ ei tetero
 la teatrologia
 ei teatrologo
 ei teatrologette
+ei tecto
 la tekla
 ei teklatablo
 la teknografia
@@ -4129,6 +4158,7 @@ ei trumbe
 la turfa
 ei trafiko
 la transita
+ei trio
 la tsunami
 la tzunami
 la zunami
@@ -4237,6 +4267,10 @@ ei venereologette
 la revenga
 la revenganze
 la vendexa
+ei estanvendo
+ei tecvendo
+ei tectovendoioro
+ei tectovendo
 ei vendoioro
 la ventriculografia
 la ventriculografica
@@ -4267,6 +4301,7 @@ ei vixe
 ei vibraibo
 la vicunna
 la vita
+la jokonsola
 ei vidiojoko
 la cola
 ei igerne
@@ -4419,6 +4454,7 @@ ei alfilago
 la helera
 ei afono
 ei agresibo
+ei xigrodultse
 ei xigro
 ei albino
 ei rungo
@@ -4455,6 +4491,7 @@ ei belo
 ei benefitioso
 ei bainxo
 ei bainaro
+ei binario
 ei bianco
 ei bloneto
 ei lokeioto
@@ -4509,16 +4546,20 @@ ei gelatio
 ei miseioko
 ei conqisto
 ei constanto
+ei enterizo
 ei konversaioko
 ei cornato
 ei korrektoko
 ei coto
 ei crusto
+ei qaternario
 ei riaxeso
 ei litero
 ei kurioso
 ei conforte
 la dezente
+la dezimal
+la decimal
 ei defizente
 ei definite
 ei definite
@@ -4603,6 +4644,7 @@ ei forte
 la futura
 ei fazilo
 la putsa
+ei galaksico
 ei sugarriyo
 la general
 ei genelo
@@ -4620,6 +4662,8 @@ ei groso
 ei emelo
 ei yuolo
 ei fameno
+la heksadezimal
+la heksadecimal
 ei hipnoto
 ei heigaro
 ei horizono
@@ -4693,6 +4737,7 @@ ei maniaco
 ei marxito
 la martiala
 ei itsoso
+ei maritimo
 la masculine
 ei masivo
 la oxtorra
@@ -4826,6 +4871,7 @@ ei sinzero
 ei superbo
 ei airvaluako
 ei sozial
+ei solar
 ei ekoro
 la sorda
 ei pentsieko
@@ -4847,8 +4893,10 @@ ei trastoso
 ei einxo
 ei transcribiko
 ei yigoiko
+ei trinario
 ei tristeko
 ei elasto
+ei unario
 ei yoiko
 ei uperisato
 ei urbe

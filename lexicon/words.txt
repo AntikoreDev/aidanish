@@ -789,6 +789,7 @@ bibliotecologo
 bibloteka
 bila
 billoe
+binario
 biobibliografia
 biobibliografica
 bioestratigrafia
@@ -868,6 +869,7 @@ brankia
 braqigrafia
 braqigrafica
 braqilogia
+braz
 brazil
 brazilenno
 briai
@@ -1201,6 +1203,7 @@ conservai
 conservatio
 conservette
 consoi
+consola
 consortso
 constai
 constanto
@@ -1376,6 +1379,8 @@ debila
 decakono
 decalogette
 decalogo
+decima
+decimal
 declaire
 defekto
 defenda
@@ -1488,6 +1493,7 @@ deze
 dezeai
 dezei
 dezente
+dezimal
 dezo
 diabetologette
 diabetologia
@@ -1646,12 +1652,14 @@ druxeto
 druxo
 duba
 dubai
+duelo
 dula
 dulai
 dultse
 dultseza
 dultsina
 dunko
+duo
 duplografia
 duplografica
 duproxei
@@ -1824,6 +1832,7 @@ enologo
 enoun
 enrotare
 ensalada
+ensekunde
 ensero
 enteire
 enter
@@ -1833,6 +1842,7 @@ enterehen
 enterei
 enterier
 enterino
+enterizo
 entero
 enterprisa
 enterrei
@@ -1876,6 +1886,7 @@ equai
 equalo
 equator
 equo
+era
 erbusto
 erbusto da deserto
 ereasei
@@ -1898,6 +1909,7 @@ erra
 errai
 errairiko
 ersai
+erso
 ersokio
 ertsai
 ertse
@@ -2012,6 +2024,7 @@ espirometria
 espirometrica
 esplata
 esplaxai
+espoiler
 esporgo
 esqalo
 esquara
@@ -2028,6 +2041,7 @@ estantaro
 estante
 estantsa
 estantsai
+estanvendo
 estanzia
 estarei
 estarette
@@ -2398,6 +2412,8 @@ gaiza
 gaize
 gaizecuba
 gaizeoro
+galaksico
+galaksis
 galgo
 galila
 galina
@@ -2580,6 +2596,8 @@ hei
 heiga
 heiganimal
 heigaro
+heksadecimal
+heksadezimal
 helera
 heleria
 heliografia
@@ -2973,6 +2991,7 @@ jokaiette
 jokaizara
 jokaizera
 joko
+jokonsola
 jokotela
 juca
 jukse
@@ -3203,6 +3222,7 @@ kutsa
 kuxa
 la
 labe
+laborersette
 laboro
 lade
 ladei
@@ -3445,11 +3465,13 @@ marestrela
 mariologette
 mariologia
 mariologo
+maritimo
 marka
 markai
 markoro
 marmota
 marro
+marsupial
 marteano
 martexei
 martexo
@@ -3710,8 +3732,10 @@ morto
 mortopetro
 mortorratit
 mortotela
+moskito
 mosku
 moso
+mosqito
 mostara
 motivo
 motor
@@ -4057,6 +4081,7 @@ oxtoro
 oxtorra
 oxtuoro
 ozeania
+ozeano
 ozen
 ozeno
 ozenore
@@ -4122,6 +4147,7 @@ pansexualo
 pantera
 panto
 papa
+papila
 papirologette
 papirologia
 papirologo
@@ -4138,6 +4164,7 @@ paralelo
 parapsicologette
 parapsicologia
 parapsicologo
+pararaio
 parasicologette
 parasicologia
 parasicologo
@@ -4218,6 +4245,7 @@ penzei
 penzeiette
 pepera
 pera
+perditio
 peretai
 perfektei
 perfektio
@@ -4640,6 +4668,8 @@ qanzigo
 qanzio
 qanzo
 qarei
+qarteto
+qaternario
 qatratiko
 qatrato
 qeola
@@ -4653,6 +4683,7 @@ qincoix
 qinesiologette
 qinesiologia
 qinesiologo
+qinteto
 qiza
 quai
 quaro
@@ -4829,6 +4860,8 @@ resoltai
 respektei
 respeto
 resta
+restorai
+restorante
 retai
 retardato
 retartato
@@ -4992,6 +5025,8 @@ seksologo
 sekta
 sektion
 sekundo
+sekundoi
+sekundoro
 sela
 selai
 seldo
@@ -5129,6 +5164,7 @@ soka
 sol
 solar
 solarga
+solarsistema
 solasta
 solavisa
 solidai
@@ -5153,6 +5189,7 @@ sozialei
 sozialneta
 soziata
 sozio
+spoiler
 st. valentino
 suanda
 suarda
@@ -5210,6 +5247,7 @@ suscribai
 sushi
 sustai
 sustancea
+sustibai
 suxiza
 suxizo
 taberna
@@ -5255,6 +5293,8 @@ tarra
 tarro
 tarso
 tarta
+tartara
+tartaruma
 tasmania-devila
 tata
 tautologia
@@ -5263,6 +5303,10 @@ taverna
 teatrologette
 teatrologia
 teatrologo
+tecto
+tectovendo
+tectovendoioro
+tecvendo
 teirnai
 teja
 tekla
@@ -5492,9 +5536,11 @@ trigonometria
 trigonometrica
 trilloe
 trilogia
+trinario
 trinkai
 trintsera
 trintso
+trio
 tripa
 triproxei
 trirroda
@@ -5537,6 +5583,8 @@ tsampeon
 tsampeonato
 tsampinna
 tsardo
+tsargai
+tsargo
 tsarisma
 tsarismatiko
 tselo
@@ -5609,6 +5657,7 @@ umoeke
 umoko
 unagrupai
 unagrupatio
+unario
 unarkutsai
 unba
 unbisei
@@ -5876,6 +5925,7 @@ xiaibela
 xiaibelai
 xicero
 xigro
+xigrodultse
 xikara
 xikere
 xikorra
