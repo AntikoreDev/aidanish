@@ -920,6 +920,7 @@ capitalista
 capitán
 captar
 captura
+captura o asesinato
 capturar
 capullo
 cara
@@ -4462,6 +4463,7 @@ sentimiento
 sentir
 senólogo
 separado
+sepsis
 septiembre
 septimo
 septágono
@@ -4531,6 +4533,7 @@ sismólogo
 sistema
 sistema solar
 sitiar
+situación en la que una persona es vigilada por la posibilidad de que sea un criminal / situación de grave peligro de caza
 soberbia
 soberbio
 sobre

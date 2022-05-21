@@ -891,6 +891,7 @@ la biatse
 ei foreviso
 ei forevo
 la katarsis
+la katarsis
 ei combe
 ei catalogo
 la catalogette
@@ -1790,7 +1791,6 @@ ei testo
 la testifica
 ei experimento
 ei test
-ei test
 ei expiratio
 ei planiuno
 ei explodoro
@@ -1952,6 +1952,7 @@ la formula
 la futbola
 la poibola
 ei visoioroit
+la galaksis
 la galaksis
 la galila
 ei galgo
@@ -2180,6 +2181,7 @@ la hinduisma
 la hipermetria
 la hipermetrica
 la hipnosis
+la hipnosis
 la ayatela
 la hipologia
 la huragere
@@ -2223,6 +2225,9 @@ ei concreto
 ei forno
 ei horoscope
 ei huste
+ei hospital
+ei hopital
+la kuratela
 ei hostexette
 la hosta
 la portona
@@ -2238,6 +2243,7 @@ la hurakana
 la merreca
 ei horfano
 ei husxette
+la ezurra
 la gingilla
 la hexinra
 la icnografia
@@ -2351,6 +2357,7 @@ ei diporko
 la moape
 ei sapo
 ei baxugo
+la irsis
 la irsis
 la jade
 ei jalapenno
@@ -3244,10 +3251,6 @@ ei hundo
 la persevera
 la yera
 ei jerco
-la ezurra
-ei hospital
-ei hopital
-la kuratela
 la persivita
 ei perso
 la personale
@@ -3765,6 +3768,8 @@ ei senso
 la sensira
 ei senologo
 ei senologette
+la sepsis
+la sepsis
 ei septakono
 la sepulta
 la dria
@@ -3823,6 +3828,8 @@ ei sismologo
 ei sismologette
 la solarsistema
 la sistema
+la hepsis
+la hepsis
 la superbia
 ei asineko
 la soziata
@@ -4001,6 +4008,8 @@ la territoria
 la terura
 la terurasta
 la tesis
+la tesis
+ei test
 la burra
 la tetralogia
 ei tetronimo
@@ -4420,6 +4429,7 @@ ei indigo
 la legas
 ei oculo
 la oliuma
+la osmosis
 la osmosis
 ei oval
 ei ovulo
