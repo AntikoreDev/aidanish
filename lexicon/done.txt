@@ -3609,6 +3609,7 @@ paloma
 pan
 pan de molde
 panadero
+panadería
 panal
 pancreas
 panda
