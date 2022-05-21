@@ -4747,6 +4747,7 @@ la literal
 ei llamako
 ei ello
 ei elloko
+ei local
 ei locatako
 ei loko
 ei ankraro

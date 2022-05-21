@@ -3366,6 +3366,7 @@ llamai
 llamako
 llamata
 loamai
+local
 locata
 locatako
 locato
