@@ -283,7 +283,7 @@ listo (preparado) → estedie, preparato
 literal → literal
 llamado → llamako
 lleno → ello, elloko
-local → locatako
+local → local, locatako
 loco → loko, ankraro, friko
 lujoso → luxoso
 lácteo → esneoro

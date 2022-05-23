@@ -1348,6 +1348,7 @@ enfado → rutsu
 enfermedad → ebila
 enfermero → ebilaxette
 enfriamiento → aigeisa
+enfermería → ebilatela
 engaño → lerra
 engranaje → giar
 enlace → linke
