@@ -5396,6 +5396,7 @@ telemetria
 telemetrica
 teleologia
 teleportai
+telescope
 televisoi
 tempeo
 tempera

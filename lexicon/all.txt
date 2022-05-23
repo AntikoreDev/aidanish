@@ -4845,6 +4845,7 @@ telefotografía → telefotografia, telefotografica
 telegrafía → telegrafia, telegrafica
 telemetría → telemetria, telemetrica
 teleología → teleologia
+telescopio → telescope
 teletransportar → teleportai
 televisión → televisoi
 teléfono → telefono
