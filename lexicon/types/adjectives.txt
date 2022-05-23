@@ -1,3 +1,5 @@
+
+
 a punto de terminar → afinale
 abalconado → evokinde
 abandonado → ekoreko
@@ -15,7 +17,6 @@ abortado → abortado
 abrasivo → abrasivo
 abrazado → hogoko
 absoluto → absoluto
-contaminado → drigo, poluto
 abstenido → absteno
 abundante → abonte
 aburrido → aborrado
@@ -30,7 +31,6 @@ acusado → akusako
 acuático → acoatiko
 adictivo → adiktoso
 adicto → adikto
-
 adoptado → adopto
 afilado → alfilago
 afortunado → helera
@@ -59,12 +59,12 @@ anárquico → anarqiko
 apagado → off
 arcano → arcana
 ardiente → igneoso
+atrapado → zentso
 aturdido → xake
 aturdidor → xakoro
 avaricioso → avarito
 avergonzado → combrako
 avisado → avisto, avistoko
-visto → viso
 azul → anil
 bajo → pikoso
 barato → atsoso
@@ -118,19 +118,22 @@ compatible → kompatible
 complejo → complekso
 completo → kompleto
 complicado → complico
+comprobado → teste
 comunista → comunista
 comunista → comunista
 común → komuna
 condenado → condeno
 conectado → conekto
-derrotado → derroqo
-derrotista → derroqista
 confundido → afuska
 congelado → gelatio
 conocido → miseioko
 conquistado → conqisto
 constante → constanto
+<<<<<<< Updated upstream
 continuista → enterizo
+=======
+contaminado → drigo, poluto
+>>>>>>> Stashed changes
 convertido → konversaioko
 cornudo → cornato
 correcto → correcto, korrektoko
@@ -151,6 +154,8 @@ delgado → delekio
 democrático → democratika
 demócrata → democrato
 derretido → fundo, derretido, derrito
+derrotado → derroqo
+derrotista → derroqista
 desastroso → disastroso
 desconocido → unmiseioko
 desechado → desexo
@@ -226,6 +231,7 @@ galáctico → galaksico
 gandúl → sugarriyo
 general → general
 genial → genelo
+global → global
 glotón, goloso → glutonno
 gordo → lubo, fato
 gracioso → grazero
@@ -252,6 +258,7 @@ impresionable → impresable
 impresionante → impresivo
 impreso → izkratoso
 inaccesible → inakcesibla
+incorrecto → incorrecto, inkorrektoko
 inculto → unlitero
 incómodo → inconforte
 indecente → undezente
@@ -313,14 +320,13 @@ mayor → oxtorer
 medicinal → medikarer
 mediocre → mediocre 
 menor → pikoler
-mentira → musta
 mental → mental
+mentira → musta
 mentiroso → mustager
 mestizo → seutse
 minúsculo → miskolo
 mirado → avisoko
 mismo → mesmo
-
 misterioso → edariko
 modificado → modifikako
 monetario → monetareo
@@ -355,10 +361,6 @@ paralelo → paralelo
 pasado → pasato
 pasteurizado → pausteriko
 pastoso → pastoso
-atrapado → zentso
-pestilente, pestoso → pestoso
-personal → personal
-incorrecto → incorrecto, inkorrektoko
 patriótico → onterriko
 pausado → pauxaioko
 peligroso → perilko
@@ -371,9 +373,11 @@ perezoso (persona) → fiago, fago
 periódico → yere
 permanente → unfinaloko
 perpendicular → perpendicular
+personal → personal
 personal → pertsonala
 pesado (persona molesta) → orronko
 pesado (peso de una cosa) → pesoko
+pestilente, pestoso → pestoso
 plano → plano
 pobre → pora
 polar → polare
@@ -386,9 +390,8 @@ preciso → preziso
 prendido → foke
 preparado (estar preparado para algo) → en tempeo
 principal → printsiale, primer
-probado → probo
-comprobado → teste
 probable → probable, probeko
+probado → probo
 profundo → sundo
 propio → prope
 protegido → protecto
@@ -481,6 +484,7 @@ verde → berde
 verificado → verifeko
 vertical → vertico
 viejo → igerne, elde
+visto → viso
 vivo → vitoso
 válido → valo, valito
 áspero → coarsa

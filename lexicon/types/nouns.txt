@@ -1,5 +1,3 @@
-
-
 Abril → Aiprila
 Afganistán → Afganistan
 Afgano → Afgano
@@ -282,6 +280,7 @@ ametría → ametria, ametrica
 amigo con derecho → rotsenko
 amigo, amiga → amike, amiko, amika
 amistad → amikia
+amonestación, multa → penalite
 amor → loi
 ampelografía → ampelografia, ampelografica
 ampelología → ampelologia
@@ -374,6 +373,7 @@ armiño → mantra
 arqueologo → arqeologe
 arqueología → arqeologia
 arqueozoología → arqeozoologia
+arquero → arkerette, arkero
 arqueólogo → arqeologo, arqeologette
 arranque → arrantsa
 arreglo → reparo
@@ -419,6 +419,7 @@ ataque al corazón → koraisagra
 ataque → atakte, atake
 atardecer → tarena
 atención → atentio
+atletismo → atletisma, atletismo
 atril → lekteoro
 atrio → atrio
 aturdimiento → xako
@@ -480,6 +481,7 @@ bandera → fliaga
 banquero → bankexette
 banquete → banqete
 baraja → baraja
+barba → berdo
 barco → barco
 barra → cana, baferro
 barrendero → furrette
@@ -515,6 +517,7 @@ beneficio → benefitio
 bengala → bengala
 berenjena → isaloa
 berlina → berlina
+berza → tola
 beso → beso
 bestia → besta
 bibliografía → bibliografia, bibliografica
@@ -524,6 +527,7 @@ bibliotecología → bibliotecologia
 bibliotecólogo → bibliotecologo, bibliotecologette
 bicho → tiko
 bicicleta → birroda
+bigote → mitso, furmo, moustatso, mustatso, vigo
 biobibliografía → biobibliografia, biobibliografica
 bioestratigrafía → bioestratigrafia, bioestratigrafica
 biogeografía → biogeografia, biogeografica
@@ -644,7 +648,7 @@ calcetín → poitexo, calzo, calza
 calcografía → calcografia, calcografica
 calculadora → kalculoro
 calefacción, calefactor → kaleria 
-calendario → henlista
+calendario → henlista, calendaro, calendario
 calentamiento → kaleirisa
 caligrafía → caligrafia, caligrafica
 calle (referencia general) → estrato
@@ -886,6 +890,7 @@ cojín → zobexe
 col → colta
 cola (animal) → urda
 cola (personas) → qeola
+colador → coladoro
 colapso → colapso
 colección → colectia
 colegio, escuela → esaroriun, eskola
@@ -1077,7 +1082,7 @@ cuatro → catro
 cubo → kubo
 cubrimiento → kubraia
 cucaracha → mustanekro, mikoro
-cuchara → boutsara
+cuchara → cuela, boutsara
 cuchillo → akuttere, nivo
 cuello → corlo, pisotsa, otso
 cuenco  → kisa
@@ -1100,6 +1105,7 @@ cupón → bone
 cura (antídoto) → kura
 cura ,  sacerdote → praisoxette
 curiosidad → kurioseata
+curling → curling
 curruca → surle
 currículum → curriculum, curriculo
 curso → curso
@@ -1302,6 +1308,7 @@ egiptología → egiptologia
 egiptólogo → egiptologo, egiptologette
 ejemplo → exemplo
 ejercicio → exersizo
+elección →  electio
 electricidad → elektritia
 electrocardiografía → electrocardiografia, electrocardiografica
 electroencefalografía → electroencefalografia, electroencefalografica
@@ -1689,6 +1696,8 @@ giro → viro
 glaciar → gielplaniuno
 glaciología → glaciologia
 glaciólogo → glaciologo, glaciologette
+globo (juguete) → balun, globe
+globo (terráqueo) → globe
 gloria → gloria
 glosario → glose, lexicon
 glotología → glotologia
@@ -1756,6 +1765,7 @@ habitación → vitaitela
 hada → farura
 hagiografía → hagiografia, hagiografica
 halcón → halokun
+hallowen → halloween
 hambre → zugra, fame
 hambruna → urzugra, famina
 hamburguesa → burgesa
@@ -1825,6 +1835,9 @@ historia → historia
 historiografía → historiografia, historiografica
 historiología → historiologia
 histólogo → histologo, histologette
+hobbista → hobbysette, hobbisette, jobisette
+hobby → hobby, hobbi, jobi
+hockey → hockey, hockei, jokei, jokey
 hogar → heiga
 hoguera → ignixa
 hoja → fola
@@ -2191,7 +2204,8 @@ mecansmo → mecanisma
 mechero → ignoro
 mecánica → mecania, mecano
 mecánico → mecanette
-media → media
+media (calcetín) → terza
+media (matemáticas) → media
 mediana → mediana
 medianoche → mitanito
 medicamento → medikare
@@ -2333,6 +2347,7 @@ mundo → mondo
 mundología → mundologia
 munición → amunitio
 murciélago → vesperilo, murelo
+murmuro → suro
 muro, pared → mura
 museografía → museografia, museografica
 museología → museologia
@@ -2540,6 +2555,7 @@ pancreas → pancras
 panda → panda
 pandemia → pandemos
 panderetólogo → panderetologo, panderetologette
+panel de control → controlpanela
 panel → panela
 pansexual → pansexualo
 pansexualidad → pansexualita
@@ -2548,7 +2564,7 @@ pantalón → panto
 pantano → saguala
 pantera → pantera
 papel → pipra
-papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela
+papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela, zorvero
 papelería → pipratela
 papilla → papila
 papirología → papirologia
@@ -2584,6 +2600,7 @@ parásito → paraisto, verme
 pasado → pasato
 pasamontañas → balakava
 pasaporte → pasporte
+pascua → paske, dominko da resurrectio
 paseo → andaiata
 paseo → paizo
 paso de zebra → rakempisa
@@ -2591,6 +2608,7 @@ paso → pisa
 pasta (comida) → fixolo
 pastel → kutsa, boglo
 pastilla → gobo
+pastillero → gobocupa
 pastor → pastoro
 pata (animal) → pezna
 patada → poitsa
@@ -2753,6 +2771,7 @@ planta, piso, suelo → pisoc
 plata → silvo
 plataforma → plataforma
 platino → silverino
+plato de ducha → tsoage, tsoaglate
 plato → plato
 playa → plaia
 plomo → blono
@@ -2803,6 +2822,9 @@ posesivo (lengua) → posesive
 posición → posaieo
 posología → posologia
 postal → postal
+poste → poste, forco 
+postre → sundo, postre
+postura → poste
 pozo → racoia
 pradera → ergiara
 prado → ergia
@@ -2932,6 +2954,7 @@ rana → acroa
 rango → range
 ranunculus → ranuncula
 rascacielos → kailokikro
+rasta → rasta
 rata de agua → acorrata
 rata → rata
 ratio → ratio
@@ -2995,6 +3018,7 @@ renovación → renevo, reneva
 reología → reologia
 reparación → repaira
 repetidor → repeteoro
+repostería → sundere
 representación → representatio
 reprografía → reprografia, reprografica
 reptil → reptile
@@ -3005,8 +3029,13 @@ resolución → resoleitio
 respeto → respeto
 respiración → rispera
 respuesta → reposta
+<<<<<<< Updated upstream
 restaurante → restorante
+=======
+resto → reste, resto, zorve, deproxo
+>>>>>>> Stashed changes
 resultado → resola
+resurrección → resurrectio
 reto → testa
 retrasado → retartato, retardato
 retraso → retra
@@ -3099,6 +3128,7 @@ segundo → sekundo
 seguridad → securitatia
 seguro (algo que asegura) → secur
 seis → sexei
+selección → selektio
 selenografía → selenografia, selenografica
 sello → seldo
 semana → olekso

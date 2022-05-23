@@ -189,6 +189,7 @@ cocinar → koxinei
 coger → kaine
 colaborar → colaborai
 colapsar → colapsai
+colar → colai
 coleccionar → colectoi
 colgar → colcai, colgai
 colocar → kolokaire
@@ -284,6 +285,7 @@ derivar → derivai
 derramar → derramei
 derretir → derrei, fundei
 derribar → coarsai, derribei
+derrotar → derroqai
 desactivar → deaktivei
 desagrupar → unagrupai, unludei
 desaparecer → unparezei
@@ -354,6 +356,7 @@ echar → etsoi
 edificar → tendoi
 editar → editei
 ejercer → ecersai
+elegir → electoi
 elevar → levai, airoei, quai
 embalar → embalai
 embarcar → embarcai
@@ -497,8 +500,8 @@ homenajear → homenaiar
 hormiguear → mitsisilai
 hornear → fornai
 hospedar → hustoi
-huir → ezurrai
 hospitalizar → hospitalai, hopitalai, kuratelai
+huir → ezurrai
 idear → ideai
 imaginar → imaginei
 imantar → magnetai
@@ -590,6 +593,7 @@ mostrar flash → bliqai
 mostrar → dorimei
 mover → movai
 multiplicar → multiproxei
+murmurar → surai
 mutar → mutai
 nacer → natai
 nadar → nataire
@@ -640,6 +644,7 @@ pegar → pastai
 pelar → pelai
 pelear → faitai
 peligrar → perilai
+penalizar → penalai
 pender → pendei
 pensar → penzei
 perder → pardaire
@@ -671,6 +676,7 @@ posar → posei
 poseer → posesai
 posibilitar → posiblai, posibilai, posibilitai
 posponer → posposai
+practicar un hobby → hobbiai
 practicar → praktikai
 precisar → prezisei
 predecir, predicar → predikei
@@ -714,7 +720,6 @@ racionar → rationai
 rascar → kikroi
 rayar → raiaire
 razonar → reasoi
-derrotar → derroqai
 reaccionar → reactai, reaktai
 realizar → ereasei
 recaudar → rekauroi
@@ -760,8 +765,12 @@ respetar → respektei
 respirar → risperei
 responder, contestar → repostai
 restablecer → resetei
+<<<<<<< Updated upstream
 restar → deproxei
 restaurar → restorai
+=======
+restar → restei, deproxei
+>>>>>>> Stashed changes
 retener → rentiei
 retirar → retroi
 retrasar → retrai
@@ -860,6 +869,7 @@ transitar → transitei
 transmutar → transmutai
 transportar → aconvoi
 transportar, desplazar → deksplozai
+trasnochar → transnitoi
 trastear → trastei, toutseire
 trastornar → yigai
 tratar → traire, tiskai, tratai
