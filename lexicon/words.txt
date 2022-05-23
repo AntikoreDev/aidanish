@@ -480,6 +480,8 @@ argentia
 argento
 argeya
 arima
+arkerette
+arkero
 arketo
 arkubre
 arkutsa
@@ -574,6 +576,8 @@ atempo
 atendai
 atentio
 atiko
+atletisma
+atletismo
 atokla
 atria
 atrio
@@ -684,6 +688,7 @@ balante
 bale
 baletrumbe
 baluaro
+balun
 bambo
 bana
 banai
@@ -758,6 +763,7 @@ bengela
 benpai
 berai
 berde
+berdo
 berja
 berlina
 berline
@@ -790,7 +796,6 @@ bibliotecologo
 bibloteka
 bila
 billoe
-binario
 biobibliografia
 biobibliografica
 bioestratigrafia
@@ -946,6 +951,8 @@ calamitas
 calanula
 calcografia
 calcografica
+calendario
+calendaro
 calendula
 caligrafia
 caligrafica
@@ -1111,6 +1118,8 @@ coke
 coktel
 cola
 colaborai
+coladoro
+colai
 colapsai
 colapso
 colca
@@ -1229,6 +1238,7 @@ contribai
 contribe
 control
 controlei
+controlpanela
 convai
 convalidai
 conve
@@ -1321,6 +1331,7 @@ cuaqio
 cuba
 cubavorto
 cucula
+cuela
 cuenda
 cuendei
 culda
@@ -1337,6 +1348,7 @@ cuoca
 cuorette
 cuoro
 cupa
+curling
 curriculo
 curriculum
 curso
@@ -1436,6 +1448,7 @@ depreia
 depresia
 depresion
 deproxei
+deproxo
 dereita
 dereite
 dereitenara
@@ -1500,7 +1513,6 @@ deze
 dezeai
 dezei
 dezente
-dezimal
 dezo
 diabetologette
 diabetologia
@@ -1628,6 +1640,7 @@ dolei
 domestixo
 dominio
 dominko
+dominko da resurrectio
 domo
 donde
 donno
@@ -1755,6 +1768,8 @@ ekurga
 elara
 elasto
 elde
+electio
+electoi
 electrocardiografia
 electrocardiografica
 electroencefalografia
@@ -1818,6 +1833,7 @@ endeba
 endemos
 enderei
 enderia
+enderizo
 endocrinologette
 endocrinologia
 endocrinologo
@@ -1851,7 +1867,6 @@ enterehen
 enterei
 enterier
 enterino
-enterizo
 entero
 enterprisa
 enterrei
@@ -2329,6 +2344,7 @@ fonometrica
 fonto
 fora
 forbafor
+forco
 fore
 foreno
 foreviso
@@ -2399,6 +2415,7 @@ fundo
 funeral
 fungo
 funzai
+furmo
 furne
 furnei
 furnitia
@@ -2422,7 +2439,6 @@ gaiza
 gaize
 gaizecuba
 gaizeoro
-galaksico
 galaksis
 galgo
 galila
@@ -2514,6 +2530,7 @@ glezai
 gliai
 glima
 glimai
+globe
 gloria
 glose
 glotologia
@@ -2521,6 +2538,7 @@ glutonia
 glutonno
 gnoseologia
 gobo
+gobocupa
 goko
 golem
 goma
@@ -2591,6 +2609,7 @@ haiai
 haita
 haiza
 hali
+halloween
 halokun
 hano
 hanta
@@ -2606,8 +2625,6 @@ hei
 heiga
 heiganimal
 heigaro
-heksadecimal
-heksadezimal
 helera
 heleria
 heliografia
@@ -2712,6 +2729,13 @@ hixa
 hixe
 hixei
 hixtane
+hobbi
+hobbiai
+hobbisette
+hobby
+hobbysette
+hockei
+hockey
 hogei
 hogo
 hogoko
@@ -3002,11 +3026,15 @@ jidei
 jideor
 jiderarqia
 jiderarqiko
+jobi
+jobisette
 joglar
 jokai
 jokaiette
 jokaizara
 jokaizera
+jokei
+jokey
 joko
 jokonsola
 jokotela
@@ -3366,7 +3394,6 @@ llamai
 llamako
 llamata
 loamai
-local
 locata
 locatako
 locato
@@ -3485,7 +3512,6 @@ marestrela
 mariologette
 mariologia
 mariologo
-maritimo
 marka
 markai
 markoro
@@ -3689,6 +3715,7 @@ mitologo
 mitomane
 mitsisila
 mitsisilai
+mitso
 mixa
 mixei
 mixuia
@@ -3764,6 +3791,7 @@ motor
 motorroda
 motorxerra
 mouse
+moustatso
 mova
 movai
 muco
@@ -3785,6 +3813,7 @@ muskete
 musta
 mustager
 mustanekro
+mustatso
 mutai
 mutse
 muzka
@@ -4216,6 +4245,7 @@ partsai
 parxa
 parza
 pasato
+paske
 pasporte
 pasta
 pastai
@@ -4249,6 +4279,8 @@ pelde
 peler
 pelico
 peltro
+penalai
+penalite
 pendei
 pendulo
 penisa
@@ -4514,7 +4546,9 @@ postai
 postal
 postalcoda
 postalcodiko
+poste
 posto
+postre
 potata
 potia
 praiso
@@ -4696,7 +4730,6 @@ qanzio
 qanzo
 qarei
 qarteto
-qaternario
 qatratiko
 qatrato
 qeola
@@ -4761,6 +4794,7 @@ rante
 rante aktio
 rantio
 ranuncula
+rasta
 rata
 ratio
 ration
@@ -4887,8 +4921,12 @@ resoltai
 respektei
 respeto
 resta
+reste
+restei
+resto
 restorai
 restorante
+resurrectio
 retai
 retardato
 retartato
@@ -5059,6 +5097,7 @@ selai
 seldo
 selektei
 selekteioko
+selektio
 selenografia
 selenografica
 semasiologia
@@ -5247,6 +5286,7 @@ sujenasoit
 sujepipra
 sukai
 sukra
+sundere
 sundo
 sunkrako
 supai
@@ -5264,10 +5304,12 @@ suproxei
 supte
 supto
 sur
+surai
 suramerika
 surdai
 surdo
 surle
+suro
 surtso
 surviva
 survivai
@@ -5410,6 +5452,7 @@ terro
 terura
 terurai
 terurasta
+terza
 tesis
 test
 testa
@@ -5471,6 +5514,7 @@ tokla
 toksicologette
 toksicologia
 toksicologo
+tola
 tomako
 tomei
 tomografia
@@ -5527,6 +5571,7 @@ translaioro
 translaixette
 transmuta
 transmutai
+transnitoi
 trante
 trao
 trapa
@@ -5566,7 +5611,6 @@ trigonometria
 trigonometrica
 trilloe
 trilogia
-trinario
 trinkai
 trintsera
 trintso
@@ -5638,6 +5682,8 @@ tsizirrei
 tsizirreitela
 tsoaga
 tsoagai
+tsoage
+tsoaglate
 tsoklo
 tsonder
 tsopar
@@ -5687,7 +5733,6 @@ umoeke
 umoko
 unagrupai
 unagrupatio
-unario
 unarkutsai
 unba
 unbisei
@@ -5848,6 +5893,7 @@ vibraibo
 vicunna
 vidio
 vidiojoko
+vigo
 vih
 vila
 vinagra
@@ -5955,7 +6001,6 @@ xiaibela
 xiaibelai
 xicero
 xigro
-xigrodultse
 xikara
 xikere
 xikorra
@@ -6060,6 +6105,8 @@ zorrera
 zorrere
 zorro
 zorrotela
+zorve
+zorvero
 zovisai
 zroi
 zu

@@ -197,7 +197,6 @@ agredir
 agresivo
 agricultor
 agricultura
-agridulce
 agrietar
 agrio
 agroecología
@@ -319,6 +318,7 @@ amigo
 amigo con derecho
 amistad
 amistoso
+amonestación
 amontonar
 amor
 amor patriótico
@@ -461,6 +461,7 @@ armiño
 arqueologo
 arqueología
 arqueozoología
+arquero
 arqueólogo
 arquitecto
 arrancar
@@ -530,6 +531,7 @@ atención
 atender
 aterrar
 aterrorizar
+atletismo
 atornillar
 atrapado
 atrapar
@@ -621,6 +623,7 @@ banquete
 baraja
 barajar
 barato
+barba
 barcelona
 barco
 barra
@@ -669,6 +672,7 @@ benigno
 berenjena
 berlin
 berlina
+berza
 besar
 beso
 bestia
@@ -681,8 +685,8 @@ bicho
 bicicleta
 bien
 bienvenido
+bigote
 billón
-binario
 biobibliografía
 bioestratigrafía
 biogeografía
@@ -1150,8 +1154,10 @@ cojín
 col
 cola
 colaborar
+colador
 colapsar
 colapso
+colar
 coleccionar
 colección
 colegio
@@ -1443,7 +1449,6 @@ cuanto
 cuarenta
 cuarteto
 cuarto
-cuaternario
 cuatriciclo
 cuatrillón
 cuatro
@@ -1483,6 +1488,7 @@ curar
 curiosear
 curiosidad
 curioso
+curling
 curruca
 currículum
 curso
@@ -1844,6 +1850,7 @@ ejemplo
 ejercer
 ejercicio
 el
+elección
 electricidad
 electrocardiografía
 electroencefalografía
@@ -1852,6 +1859,7 @@ electrometría
 electrón
 electrónico
 elefante
+elegir
 elevar
 ella
 ello/eso
@@ -2355,7 +2363,6 @@ galgo
 galleta
 gallina
 gallo
-galáctico
 gamba
 gammagrafía
 ganadero
@@ -2415,6 +2422,7 @@ giro
 glaciar
 glaciología
 glaciólogo
+globo
 gloria
 glosario
 glotología
@@ -2517,6 +2525,7 @@ hackear
 hada
 hagiografía
 halcón
+hallowen
 hambre
 hambriento
 hambruna
@@ -2562,7 +2571,6 @@ herrería
 hervir
 heterosexual
 heterosexualidad
-hexadecimal
 hexágono
 hialografía
 hibernación
@@ -2601,6 +2609,9 @@ historia
 historiografía
 historiología
 histólogo
+hobbista
+hobby
+hockey
 hogar
 hogareño
 hoguera
@@ -3088,7 +3099,6 @@ martes
 martillar
 martillo
 marzo
-marítimo
 masa
 masacrar
 masacre
@@ -3316,12 +3326,15 @@ muerte
 muerto
 muestra
 mujer
+multa
 multiplicar
 mundial
 mundo
 mundología
 munición
 murciélago
+murmurar
+murmuro
 muro
 museografía
 museología
@@ -3616,6 +3629,7 @@ panda
 pandemia
 panderetólogo
 panel
+panel de control
 pansexual
 pansexualidad
 pantalla
@@ -3670,6 +3684,7 @@ pasado mañana
 pasamontañas
 pasaporte
 pasar
+pascua
 pasear
 paseo
 paso
@@ -3681,6 +3696,7 @@ pastel
 pasteurizado
 pasteurizar
 pastilla
+pastillero
 pastor
 pastoso
 pata
@@ -3737,6 +3753,7 @@ pelota
 pelotudo
 peluquero
 película
+penalizar
 pender
 pene
 pensador
@@ -3887,6 +3904,7 @@ plata
 plataforma
 platino
 plato
+plato de ducha
 playa
 plomo
 pluma
@@ -3958,10 +3976,14 @@ posición
 posología
 posponer
 postal
+poste
 posterior
+postre
+postura
 potar
 pozo
 practicar
+practicar un hobby
 pradera
 prado
 precio
@@ -4159,6 +4181,7 @@ rango
 ranunculus
 rascacielos
 rascar
+rasta
 rata
 rata de agua
 ratio
@@ -4268,6 +4291,7 @@ repetir
 replicar
 reportar
 repostar
+repostería
 representación
 representar
 reproducir
@@ -4290,7 +4314,9 @@ restablecer
 restar
 restaurante
 restaurar
+resto
 resultado
+resurrección
 retener
 retirar
 reto
@@ -4444,6 +4470,7 @@ según
 seis
 seleccionado
 seleccionar
+selección
 selenografía
 sello
 semana
@@ -4877,6 +4904,7 @@ transportar
 transporte
 tranvía
 tras
+trasnochar
 trastear
 trastero
 trasto
@@ -4902,7 +4930,6 @@ trigo
 trigonometría
 trillón
 trilogía
-trinario
 trinchera
 tripa
 triplicar
@@ -4965,7 +4992,6 @@ ultimo
 ultílogo
 un
 una
-unario
 unas
 unido
 unir

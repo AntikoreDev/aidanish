@@ -310,6 +310,7 @@ la amike
 ei amiko
 la amika
 la amikia
+la penalite
 la loi
 la ampelografia
 la ampelografica
@@ -423,6 +424,8 @@ la mantra
 ei arqeologe
 la arqeologia
 la arqeozoologia
+la arkerette
+ei arkero
 ei arqeologo
 ei arqeologette
 la arrantsa
@@ -482,6 +485,8 @@ la atakte
 la atake
 la tarena
 ei atentio
+la atletisma
+ei atletismo
 ei lekteoro
 ei atrio
 ei xako
@@ -554,6 +559,7 @@ la fliaga
 la bankexette
 la banqete
 la baraja
+ei berdo
 ei barco
 la cana
 ei baferro
@@ -595,6 +601,7 @@ ei benefitio
 la bengala
 la isaloa
 la berlina
+la tola
 ei beso
 la besta
 la bibliografia
@@ -606,6 +613,11 @@ ei bibliotecologo
 ei bibliotecologette
 ei tiko
 la birroda
+ei mitso
+ei furmo
+ei moustatso
+ei mustatso
+ei vigo
 la biobibliografia
 la biobibliografica
 la bioestratigrafia
@@ -757,6 +769,8 @@ la calcografica
 ei kalculoro
 la kaleria
 la henlista
+ei calendaro
+ei calendario
 la kaleirisa
 la caligrafia
 la caligrafica
@@ -1042,6 +1056,7 @@ ei zobexe
 la colta
 la urda
 la qeola
+ei coladoro
 ei colapso
 la colectia
 ei esaroriun
@@ -1275,6 +1290,7 @@ ei kubo
 la kubraia
 ei mustanekro
 ei mikoro
+la cuela
 la boutsara
 la akuttere
 ei nivo
@@ -1304,6 +1320,7 @@ ei bone
 la kura
 la praisoxette
 la kurioseata
+ei curling
 ei surle
 ei curriculum
 ei curriculo
@@ -1545,6 +1562,7 @@ ei egiptologo
 ei egiptologette
 ei exemplo
 ei exersizo
+ei electio
 la elektritia
 la electrocardiografia
 la electrocardiografica
@@ -2026,6 +2044,9 @@ ei gielplaniuno
 la glaciologia
 ei glaciologo
 ei glaciologette
+ei balun
+ei globe
+ei globe
 la gloria
 ei glose
 ei lexicon
@@ -2100,6 +2121,7 @@ la farura
 la hagiografia
 la hagiografica
 ei halokun
+ei halloween
 la zugra
 la fame
 la urzugra
@@ -2198,6 +2220,16 @@ la historiografica
 la historiologia
 ei histologo
 ei histologette
+ei hobbysette
+ei hobbisette
+ei jobisette
+ei hobby
+la hobbi
+la jobi
+ei hockey
+la hockei
+la jokei
+ei jokey
 la heiga
 la ignixa
 la fola
@@ -2643,6 +2675,7 @@ ei ignoro
 la mecania
 ei mecano
 la mecanette
+la terza
 la media
 la mediana
 ei mitanito
@@ -2829,6 +2862,7 @@ la mundologia
 ei amunitio
 ei vesperilo
 ei murelo
+ei suro
 la mura
 la museografia
 la museografica
@@ -3095,6 +3129,7 @@ la panda
 la pandemos
 ei panderetologo
 ei panderetologette
+la controlpanela
 la panela
 ei pansexualo
 la pansexualita
@@ -3107,6 +3142,7 @@ ei graxkubo
 la zorrera
 ei zorrere
 la desextela
+ei zorvero
 la pipratela
 la papila
 la papirologia
@@ -3150,6 +3186,7 @@ la verme
 ei pasato
 la balakava
 la pasporte
+la paske
 la andaiata
 ei paizo
 la rakempisa
@@ -3158,6 +3195,7 @@ ei fixolo
 la kutsa
 ei boglo
 ei gobo
+la gobocupa
 ei pastoro
 la pezna
 la poitsa
@@ -3348,6 +3386,8 @@ ei pisoc
 ei silvo
 la plataforma
 ei silverino
+la tsoage
+la tsoaglate
 ei plato
 la plaia
 ei blono
@@ -3413,6 +3453,11 @@ ei posesive
 ei posaieo
 la posologia
 ei postal
+ei poste
+ei forco
+ei sundo
+ei postre
+ei poste
 la racoia
 la ergiara
 la ergia
@@ -3568,6 +3613,7 @@ la acroa
 la range
 la ranuncula
 ei kailokikro
+la rasta
 la acorrata
 la rata
 ei ratio
@@ -3634,6 +3680,7 @@ la reneva
 la reologia
 la repaira
 ei repeteoro
+ei sundere
 ei representatio
 la reprografia
 la reprografica
@@ -3646,7 +3693,12 @@ ei respeto
 la rispera
 la reposta
 la restorante
+la reste
+ei resto
+ei zorve
+ei deproxo
 la resola
+ei resurrectio
 la testa
 ei retartato
 ei retardato
@@ -3747,6 +3799,7 @@ ei sekundo
 la securitatia
 ei secur
 la sexei
+ei selektio
 la selenografia
 la selenografica
 ei seldo
@@ -4455,6 +4508,7 @@ ei aborrako
 ei abortado
 ei abrasivo
 ei hogoko
+ei enderizo
 ei absoluto
 ei drigo
 ei poluto
@@ -4477,7 +4531,6 @@ ei alfilago
 la helera
 ei afono
 ei agresibo
-ei xigrodultse
 ei xigro
 ei albino
 ei rungo
@@ -4516,7 +4569,6 @@ ei belo
 ei benefitioso
 ei bainxo
 ei bainaro
-ei binario
 ei bianco
 ei bloneto
 ei lokeioto
@@ -4573,21 +4625,17 @@ ei gelatio
 ei miseioko
 ei conqisto
 ei constanto
-ei enterizo
 ei konversaioko
 ei cornato
 ei correcto
 ei korrektoko
 ei coto
 ei crusto
-ei qaternario
 ei riaxeso
 ei litero
 ei kurioso
 ei conforte
 la dezente
-la dezimal
-la decimal
 ei defizente
 ei definite
 ei definite
@@ -4672,7 +4720,6 @@ ei forte
 la futura
 ei fazilo
 la putsa
-ei galaksico
 ei sugarriyo
 la general
 ei genelo
@@ -4690,8 +4737,6 @@ ei groso
 ei emelo
 ei yuolo
 ei fameno
-la heksadezimal
-la heksadecimal
 ei hipnoto
 ei heigaro
 ei horizono
@@ -4747,7 +4792,6 @@ la literal
 ei llamako
 ei ello
 ei elloko
-ei local
 ei locatako
 ei loko
 ei ankraro
@@ -4766,7 +4810,6 @@ ei maniaco
 ei marxito
 la martiala
 ei itsoso
-ei maritimo
 la masculine
 ei masivo
 la oxtorra
@@ -4909,7 +4952,6 @@ ei sinzero
 ei superbo
 ei airvaluako
 ei sozial
-ei solar
 ei ekoro
 la sorda
 ei pentsieko
@@ -4931,10 +4973,8 @@ ei trastoso
 ei einxo
 ei transcribiko
 ei yigoiko
-ei trinario
 ei tristeko
 ei elasto
-ei unario
 ei yoiko
 ei uperisato
 ei urbe

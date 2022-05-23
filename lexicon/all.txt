@@ -1,3 +1,9 @@
+<<<<<<< updated upstream
+<<<<<<< updated upstream
+=======
+=======
+>>>>>>> stashed changes
+>>>>>>> stashed changes
 a la derecha, hacia la derecha → aldereite
 a la izquierda, hacia la izquierda → alzoraite
 a la → ala
@@ -206,7 +212,6 @@ agredir → damaine
 agresivo → agresibo
 agricultor → agrikulxette
 agricultura → agrikultura
-agridulce → xigrodultse
 agrietar, rajar → racai
 agrio → xigro
 agroecología → agroecologia
@@ -327,6 +332,7 @@ amigo con derecho → rotsenko
 amigo, amiga → amike, amiko, amika
 amistad → amikia
 amistoso → amikeso
+amonestación, multa → penalite
 amontonar → kievei
 amor patriótico → onterraloi
 amor → loi
@@ -469,6 +475,7 @@ armiño → mantra
 arqueologo → arqeologe
 arqueología → arqeologia
 arqueozoología → arqeozoologia
+arquero → arkerette, arkero
 arqueólogo → arqeologo, arqeologette
 arrancar → arrantsei
 arranque → arrantsa
@@ -538,6 +545,7 @@ atención → atentio
 atender → atendai
 aterrar → terrai, escarai
 aterrorizar → terurai
+atletismo → atletisma, atletismo
 atornillar → exkrabaire
 atrapado → zentso
 atrapar → akatsai
@@ -630,6 +638,7 @@ banquete → banqete
 baraja → baraja
 barajar → barajai
 barato → atsoso
+barba → berdo
 barcelona → barcelona
 barco → barco
 barra → cana, baferro
@@ -679,6 +688,7 @@ benigno → bainxo
 berenjena → isaloa
 berlin → berline
 berlina → berlina
+berza → tola
 besar → besai
 beso → beso
 bestia → besta
@@ -692,8 +702,8 @@ bicicleta → birroda
 bien → bain
 bienvenido → bainarei
 bienvenido → bainaro
+bigote → mitso, furmo, moustatso, mustatso, vigo
 billón → billoe
-binario → binario
 biobibliografía → biobibliografia, biobibliografica
 bioestratigrafía → bioestratigrafia, bioestratigrafica
 biogeografía → biogeografia, biogeografica
@@ -855,7 +865,7 @@ calcografía → calcografia, calcografica
 calculadora → kalculoro
 calcular → kalculei
 calefacción, calefactor → kaleria
-calendario → henlista
+calendario → henlista, calendaro, calendario
 calentamiento → kaleirisa
 calentar → kaleire
 caliente → kalerkoso
@@ -1168,8 +1178,10 @@ col → colta
 cola (animal) → urda
 cola (personas) → qeola
 colaborar → colaborai
+colador → coladoro
 colapsar → colapsai
 colapso → colapso
+colar → colai
 coleccionar → colectoi
 colección → colectia
 colegio, escuela → esaroriun, eskola
@@ -1331,7 +1343,7 @@ contener → containe, koi
 contenido → contento
 contexto → conteksto
 continuar → enterai, pronkai
-continuista → enterizo
+continuista → enderizo
 contra → kuntroi, ainsta
 contraer → contraine
 contraseña → codivorto
@@ -1467,7 +1479,6 @@ cuarteto → qarteto
 cuarto (habitación) → itela
 cuarto (tiempo o matemáticas) → quarto
 cuarto → catroix
-cuaternario → qaternario
 cuatriciclo → quatroda
 cuatrillón → catrilloe
 cuatro → catro
@@ -1477,7 +1488,7 @@ cubo → kubo
 cubrimiento → kubraia
 cubrir → kubrai
 cucaracha → mustanekro, mikoro
-cuchara → boutsara
+cuchara → cuela, boutsara
 cuchillo → akuttere, nivo
 cuello → corlo, pisotsa, otso
 cuenco → kisa
@@ -1508,6 +1519,7 @@ curar → kurai
 curiosear → kuriosei
 curiosidad → kurioseata
 curioso → kurioso
+curling → curling
 curruca → surle
 currículum → curriculum, curriculo
 curso → curso
@@ -1556,7 +1568,6 @@ decente → dezente
 decepcionar → deteptionei
 decidir → dezei
 decimal → decimal
-decimal → dezimal, decimal
 decir (coloquial) → dikei
 decir → dikerei
 decisión → deze
@@ -1877,6 +1888,7 @@ ejercer → ecersai
 ejercicio → exersizo
 el → ei
 el, los → ei
+elección → electio
 electricidad → elektritia
 electrocardiografía → electrocardiografia, electrocardiografica
 electroencefalografía → electroencefalografia, electroencefalografica
@@ -1885,6 +1897,7 @@ electrometría → electrometria, electrometrica
 electrón → elektronno
 electrónico → elektrikono
 elefante → estsondo
+elegir → electoi
 elevar → levai, airoei, quai
 ella → eila
 ello/eso → so
@@ -2395,7 +2408,6 @@ galgo → galgo
 galleta → putsa
 gallina → conto
 gallo → contino
-galáctico → galaksico
 gamba → ximbrarisa, ambo
 gammagrafía → gammagrafia, gammagrafica
 ganadero → eskiate
@@ -2457,6 +2469,8 @@ giro → viro
 glaciar → gielplaniuno
 glaciología → glaciologia
 glaciólogo → glaciologo, glaciologette
+globo (juguete) → balun, globe
+globo (terráqueo) → globe
 gloria → gloria
 glosario → glose, lexicon
 glotología → glotologia
@@ -2560,6 +2574,7 @@ hackear → hackei
 hada → farura
 hagiografía → hagiografia, hagiografica
 halcón → halokun
+hallowen → halloween
 hambre → zugra, fame
 hambriento → fameno
 hambruna → urzugra, famina
@@ -2605,7 +2620,6 @@ herrería → herretela
 hervir → herbei
 heterosexual → heterosexualo
 heterosexualidad → heterosexualita
-hexadecimal → heksadezimal, heksadecimal
 hexágono → hexakono
 hialografía → hialografia, hialografica
 hibernación → bluma, hibernatia
@@ -2642,6 +2656,9 @@ historia → historia
 historiografía → historiografia, historiografica
 historiología → historiologia
 histólogo → histologo, histologette
+hobbista → hobbysette, hobbisette, jobisette
+hobby → hobby, hobbi, jobi
+hockey → hockey, hockei, jokei, jokey
 hogar → heiga
 hogareño → heigaro
 hoguera → ignixa
@@ -3011,7 +3028,7 @@ lluvia → pluva, acoata
 lo que sea → oraben
 lo → xo (cosa)
 lobo → lauseto
-local → local, locatako
+local → locatako
 loco → loko, ankraro, friko
 locura → ankraia
 lodazal → ugrarda
@@ -3140,7 +3157,6 @@ marte → mairte
 martes → martia
 martillo → martexo
 marzo → marzea
-marítimo → maritimo
 masa → masa
 masacrar → masacrire
 masacre → masacria
@@ -3188,7 +3204,8 @@ mecansmo → mecanisma
 mechero → ignoro
 mecánica → mecania, mecano
 mecánico → mecanette
-media → media
+media (calcetín) → terza
+media (matemáticas) → media
 mediana → mediana
 medianoche → mitanito
 mediante → trante
@@ -3387,6 +3404,8 @@ mundo → mondo
 mundología → mundologia
 munición → amunitio
 murciélago → vesperilo, murelo
+murmurar → surai
+murmuro → suro
 muro, pared → mura
 museografía → museografia, museografica
 museología → museologia
@@ -3687,6 +3706,7 @@ pancreas → pancras
 panda → panda
 pandemia → pandemos
 panderetólogo → panderetologo, panderetologette
+panel de control → controlpanela
 panel → panela
 pansexual → pansexualo
 pansexualidad → pansexualita
@@ -3695,7 +3715,7 @@ pantalón → panto
 pantano → saguala
 pantera → pantera
 papel → pipra
-papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela
+papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela, zorvero
 papelería → pipratela
 papilla → papila
 papirología → papirologia
@@ -3745,6 +3765,7 @@ pasamontañas → balakava
 pasaporte → pasporte
 pasar (caminar) → paize
 pasar (ocurrir) → zaine
+pascua → paske, dominko da resurrectio
 pasear → paize
 paseo → andaiata
 paseo → paizo
@@ -3756,6 +3777,7 @@ pastel → kutsa, boglo
 pasteurizado → pausteriko
 pasteurizar → pausterai
 pastilla → gobo
+pastillero → gobocupa
 pastor → pastoro
 pastoso → pastoso
 pata (animal) → pezna
@@ -3813,6 +3835,7 @@ pelotudo → pilotufeso
 pelotudo → pilotufeso
 peluquero → cailoxette
 película → filmo
+penalizar → penalai
 pender → pendei
 pene → penisa
 pensador → penzeiette
@@ -3972,6 +3995,7 @@ plantar → plantaire
 plata → silvo
 plataforma → plataforma
 platino → silverino
+plato de ducha → tsoage, tsoaglate
 plato → plato
 playa → plaia
 plomo → blono
@@ -4047,8 +4071,12 @@ posición → posaieo
 posología → posologia
 posponer → posposai
 postal → postal
+poste → poste, forco
 posterior → enterier
+postre → sundo, postre
+postura → poste
 pozo → racoia
+practicar un hobby → hobbiai
 practicar → praktikai
 pradera → ergiara
 prado → ergia
@@ -4246,6 +4274,7 @@ rango → range
 ranunculus → ranuncula
 rascacielos → kailokikro
 rascar → kikroi
+rasta → rasta
 rata de agua → acorrata
 rata → rata
 ratio → ratio
@@ -4357,6 +4386,7 @@ repetir → repetei
 replicar → reproxei
 reportar → reportei
 repostar → tsargai
+repostería → sundere
 representación → representatio
 representar → representei
 reproducir (vida) → prokraire
@@ -4378,9 +4408,12 @@ responder, contestar → repostai
 respuesta → reposta
 restablecer → resetei
 restar → deproxei
+restar → restei, deproxei
 restaurante → restorante
 restaurar → restorai
+resto → reste, resto, zorve, deproxo
 resultado → resola
+resurrección → resurrectio
 retener → rentiei
 retirar → retroi
 reto → testa
@@ -4534,6 +4567,7 @@ seis → seksei
 seis → sexei
 seleccionado → selekteioko
 seleccionar → selektei
+selección → selektio
 selenografía → selenografia, selenografica
 sello → seldo
 semana → olekso
@@ -4652,7 +4686,6 @@ sofrología → sofrologia
 sofrólogo → sofrologo, sofrologette
 soga → soka
 sol → sol
-solar → solar
 solar, parcela → solar, parza
 soldado, guerrero → gerraxette
 solidificar → solidai
@@ -4984,6 +5017,7 @@ transportar, desplazar → deksplozai
 transporte → conve
 tranvía → ciutrena
 tras → tras
+trasnochar → transnitoi
 trastear → trastei, toutseire
 trastero → celara, trastela
 trasto → traste
@@ -5010,7 +5044,6 @@ trigo → trego
 trigonometría → trigonometria, trigonometrica
 trillón → trilloe
 trilogía → trilogia
-trinario → trinario
 trinchera → trintsera
 tripa → tripa
 triplicar → triproxei
@@ -5073,7 +5106,6 @@ ufólogo → ufologo, ufologette
 ultimo → elasto
 ultílogo → ultilogo, ultilogette
 un, una, uno, unos, unas → am
-unario → unario
 unido → yoiko
 unir → yoi
 universidad → formatio-zentro
