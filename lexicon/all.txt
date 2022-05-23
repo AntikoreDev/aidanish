@@ -1975,6 +1975,7 @@ enfado → rutsu
 enfermar → ebilai
 enfermedad → ebila
 enfermero → ebilaxette
+enfermería → ebilatela
 enfermo → ebilo
 enfrente → imfranto
 enfriamiento → aigeisa
@@ -3028,7 +3029,7 @@ lluvia → pluva, acoata
 lo que sea → oraben
 lo → xo (cosa)
 lobo → lauseto
-local → locatako
+local → local, locatako
 loco → loko, ankraro, friko
 locura → ankraia
 lodazal → ugrarda

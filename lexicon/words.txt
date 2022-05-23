@@ -1696,6 +1696,7 @@ easairei
 ebande
 ebila
 ebilai
+ebilatela
 ebilaxette
 ebilo
 ebritai
@@ -3394,6 +3395,7 @@ llamai
 llamako
 llamata
 loamai
+local
 locata
 locatako
 locato
