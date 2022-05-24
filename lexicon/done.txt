@@ -311,6 +311,10 @@ amartillar
 amatista
 amañar
 ambientólogo
+amenaza
+amenazador
+amenazante
+amenazar
 ametralladora
 ametría
 amiga
@@ -2327,6 +2331,10 @@ fresón
 freír
 frigorífico
 friki
+friki de banderas
+friki de libros
+friki de ordenadores
+friki de videojuegos
 frisbee
 frito
 frotar
@@ -3864,6 +3872,7 @@ pingüino
 pinnipedo
 pino
 pintar
+pintor
 pintura
 pipa
 pira
@@ -4733,6 +4742,7 @@ tejer
 tejido
 tejón
 tela
+tela de araña
 telar
 telefotografía
 telegrafía
@@ -4850,6 +4860,7 @@ tomar
 tomate
 tomografía
 tono
+tono de móvil
 tonto
 topacio
 topo

@@ -326,6 +326,10 @@ amartillar, martillar → martexei
 amatista → amatista
 amañar → amaine
 ambientólogo → ambientologo, ambientologette
+amenaza → zrota
+amenazador → zroto
+amenazante → zrote
+amenazar → zrotei
 ametralladora → metrallaro
 ametría → ametria, ametrica
 amigo con derecho → rotsenko
@@ -440,7 +444,7 @@ aquí → ake, atan
 arabia saudita → arabika saudita
 aracnología → aracnologia
 aracnólogo → aracnologo, aracnologette
-araña → vesuka
+araña → vesuka, aracna
 arboleda → arbotsiun
 arbusto rodante → erbusto da deserto
 arbusto → erbusto
@@ -2366,7 +2370,11 @@ fresia (flor) → calanula
 fresno → katria
 fresón → frerna
 freír → fritei
-friki → weabu
+friki (despectivo) → cix, weabu
+friki de banderas → fliagacix
+friki de libros → izbocix
+friki de ordenadores → computercix
+friki de videojuegos → jokocix, vidiojokocix
 friki, sabido → goko
 frisbee → frisbee
 frito → frito
@@ -2971,9 +2979,9 @@ león → leon
 liberar → liberai
 libertad → libertia
 libre → libero, liberso
-librería → izbotela
-libreta → izboiko
-libro → izboto
+librería → izbotela, libreria
+libreta → izboiko, librete
+libro → izboto, libro
 licantropía → licantropia
 licencia → licensa
 licenciado → licenso
@@ -3425,7 +3433,7 @@ médico → medikarette
 méxico → mexiko
 místico → mistica
 módulo → modulo
-móvil → mobila
+móvil (teléfono) → mobila, fone, fona
 música → musika
 música → musikette
 nacer → natai
@@ -3951,6 +3959,7 @@ pingüino → pingino
 pinnipedo → escua
 pino → pino
 pintar → pintei
+pintor → pintette, pinterette
 pintura (cuadro) → pintaia, pikto
 pintura (objeto) → pinta
 pipa → crutsa
@@ -4328,7 +4337,7 @@ rector → rektor
 recubrimiento, cápsula, protección, trinchera, nido, bunker, guarida → laira
 recuerdo → rekordo, supte
 recurso → rekurso
-red local → neta locatako
+red local → localneta, neta locatako,
 red social → sozialneta
 red → neta
 redondo → circloko
@@ -4839,6 +4848,7 @@ tejedora (persona) → beilaxette
 tejer → beilai
 tejido → beila
 tejón → usetse
+tela de araña → vesukila, vesuila, aracneta
 tela → ila
 telar → ilaoro
 telefotografía → telefotografia, telefotografica
@@ -4959,6 +4969,7 @@ todólogo → todologo, todologette
 tomar → tomei
 tomate → tomako
 tomografía → tomografia, tomografica
+tono de móvil → fonetona
 tono → tona
 tonto → erko, silki
 topacio → topacio, topazio

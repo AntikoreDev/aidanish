@@ -460,6 +460,8 @@ apunda
 apunderai
 arabeka
 arabika saudita
+aracna
+aracneta
 aracnologette
 aracnologia
 aracnologo
@@ -1089,6 +1091,7 @@ citrua
 ciuta
 ciutatela
 ciutrena
+cix
 clasifike
 clasifikei
 clia
@@ -1167,6 +1170,7 @@ comprendai
 comprendo
 computai
 computera
+computercix
 computio
 comunicologette
 comunicologia
@@ -2302,6 +2306,7 @@ flash
 flax
 fletsa
 fliaga
+fliagacix
 flogai
 flogo
 floira
@@ -2330,8 +2335,11 @@ folklore
 folo
 foloi
 fomo
+fona
 fondo
+fone
 fonetika
+fonetona
 fonoaudiologette
 fonoaudiologia
 fonoaudiologo
@@ -2995,6 +3003,7 @@ iustikai
 iusto
 ivorte
 ivpiter
+izbocix
 izboiko
 izbotela
 izboto
@@ -3037,6 +3046,7 @@ jokaizera
 jokei
 jokey
 joko
+jokocix
 jokonsola
 jokotela
 juca
@@ -3343,6 +3353,9 @@ liberai
 libero
 liberso
 libertia
+libreria
+librete
+libro
 licantropette
 licantropia
 licantropo
@@ -3396,6 +3409,7 @@ llamako
 llamata
 loamai
 local
+localneta
 locata
 locatako
 locato
@@ -3884,7 +3898,7 @@ nersu
 nesiga
 nesta
 neta
-neta locatako
+neta locatako,
 neumologette
 neumologia
 neumologo
@@ -4391,6 +4405,8 @@ pino
 pinta
 pintaia
 pintei
+pinterette
+pintette
 pipera
 pipra
 piprako
@@ -5886,7 +5902,9 @@ versus
 verta
 vertico
 vesperilo
+vesuila
 vesuka
+vesukila
 vex
 vexilogette
 vexilogia
@@ -5896,6 +5914,7 @@ vibraibo
 vicunna
 vidio
 vidiojoko
+vidiojokocix
 vigo
 vih
 vila
@@ -6112,6 +6131,10 @@ zorve
 zorvero
 zovisai
 zroi
+zrota
+zrote
+zrotei
+zroto
 zu
 zugra
 zugrai

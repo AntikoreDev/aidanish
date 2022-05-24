@@ -397,6 +397,7 @@ la aracnologia
 ei aracnologo
 la aracnologette
 la vesuka
+la aracna
 ei arbotsiun
 ei erbusto
 la gizalda
@@ -1942,7 +1943,13 @@ la rutsia
 la calanula
 la katria
 la frerna
+ei cix
 ei weabu
+ei computercix
+la fliagacix
+ei izbocix
+ei jokocix
+ei vidiojokocix
 ei goko
 ei frisbee
 ei frito
@@ -2482,8 +2489,11 @@ la madrakuxette
 ei leon
 la libertia
 la izbotela
+la libreria
 ei izboiko
+ei librete
 ei izboto
+ei libro
 la licantropia
 la licensa
 ei licenso
@@ -2880,6 +2890,9 @@ la maske
 la medikarette
 ei modulo
 la mobila
+ei fone
+la fona
+la fonetona
 la musika
 ei musikette
 la natatia
@@ -3341,6 +3354,8 @@ ei pinko
 ei pingino
 la escua
 ei pino
+ei pintette
+ei pinterette
 la pintaia
 ei pikto
 la pinta
@@ -3645,6 +3660,7 @@ la laira
 ei rekordo
 ei supte
 ei rekurso
+la localneta
 la sozialneta
 la neta
 ei redario
@@ -4015,6 +4031,9 @@ la beilaxette
 la beila
 ei usetse
 la ila
+la vesukila
+la vesuila
+la aracneta
 ei ilaoro
 la telefotografia
 la telefotografica
@@ -4067,6 +4086,7 @@ la tesis
 la tesis
 ei test
 la burra
+la zrota
 la tetralogia
 ei tetronimo
 ei zalgo
@@ -4628,6 +4648,8 @@ ei miseioko
 ei conqisto
 ei constanto
 ei konversaioko
+ei zrote
+ei zroto
 ei cornato
 ei correcto
 ei korrektoko
