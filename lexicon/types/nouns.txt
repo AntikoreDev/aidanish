@@ -347,7 +347,7 @@ apuñalamiento → estavo
 apólogo → apologo, apologette
 aracnología → aracnologia
 aracnólogo → aracnologo, aracnologette
-araña → vesuka
+araña → vesuka, aracna
 arboleda → arbotsiun
 arbusto rodante → erbusto da deserto
 arbusto → erbusto
@@ -1613,7 +1613,11 @@ fresa → fresa, estserra, rutsia
 fresia (flor) → calanula
 fresno → katria
 fresón → frerna
-friki → weabu
+friki (despectivo) → cix, weabu
+friki de ordenadores → computercix
+friki de banderas → fliagacix
+friki de libros → izbocix
+friki de videojuegos → jokocix, vidiojokocix
 friki, sabido → goko
 frisbee → frisbee
 frito → frito
@@ -2043,9 +2047,9 @@ leña → lenna
 leñador → madrakuxette
 león → leon
 libertad → libertia
-librería → izbotela
-libreta → izboiko
-libro → izboto
+librería → izbotela, libreria
+libreta → izboiko, librete
+libro → izboto, libro
 licantropía → licantropia
 licencia → licensa
 licenciado → licenso
@@ -2360,7 +2364,8 @@ máquina → matsina
 máscara → lufazia, maske
 médico → medikarette
 módulo → modulo
-móvil → mobila
+móvil (teléfono) → mobila, fone, fona
+tono de móvil → fonetona
 música → musika
 música → musikette
 nacimiento → natatia
@@ -2732,6 +2737,8 @@ pincho → pinko
 pingüino → pingino
 pinnipedo → escua
 pino → pino
+pintor → pintette, pinterette
+
 pintura (cuadro) → pintaia, pikto
 pintura (objeto) → pinta
 pipa → crutsa
@@ -2987,7 +2994,7 @@ rector → rektor
 recubrimiento, cápsula, protección, trinchera, nido, bunker, guarida → laira
 recuerdo → rekordo, supte
 recurso → rekurso
-red local → neta locatako
+red local → localneta, neta locatako, 
 red social → sozialneta
 red → neta
 reenvío → redario
@@ -3304,6 +3311,7 @@ tejedora (persona) → beilaxette
 tejido → beila
 tejón → usetse
 tela → ila
+tela de araña → vesukila, vesuila, aracneta
 telar → ilaoro
 telefotografía → telefotografia, telefotografica
 telegrafía → telegrafia, telegrafica
@@ -3346,6 +3354,7 @@ terrorista → terurasta
 tesis → tesis
 test (examen) → test
 teta → burra
+amenaza → zrota
 tetralogía → tetralogia
 tetronimo → tetronimo
 texto zalgo → zalgo

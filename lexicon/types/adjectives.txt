@@ -130,6 +130,8 @@ conocido → miseioko
 conquistado → conqisto
 constante → constanto
 convertido → konversaioko
+amenazante → zrote
+amenazador → zroto
 cornudo → cornato
 correcto → correcto, korrektoko
 corto → coto
