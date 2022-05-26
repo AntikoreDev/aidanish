@@ -4023,7 +4023,7 @@ pobre → pora
 pobreza → poratia
 poción → potia
 poco a poco → en poco
-poco → piko
+poco → piko, poco
 pocos → piko
 poder → pontai
 poder → ponto
