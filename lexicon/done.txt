@@ -3145,6 +3145,7 @@ mayo
 mayonesa
 mayor
 mayoría
+mayúscula
 maza
 mazorca
 maíz
@@ -3252,6 +3253,7 @@ minero
 minería
 minoría
 minuto
+minúscula
 minúsculo
 miología
 mirado

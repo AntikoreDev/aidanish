@@ -3200,6 +3200,7 @@ mayo → maio
 mayonesa → maionesa
 mayor → oxtorer
 mayoría → oxtoro
+mayúscula → alta
 maza → maza
 mazorca (maíz, por ejemplo) → bontso
 maíz → juca
@@ -3316,6 +3317,7 @@ minero, cavernícola → ergota
 minería → minatia
 minoría → pikoloro
 minuto → minute
+minúscula → cota
 minúsculo → miskolo
 miología → miologia
 mirado → avisoko

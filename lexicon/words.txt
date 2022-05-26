@@ -292,6 +292,7 @@ alocato
 aloi
 alometria
 alometrica
+alta
 altar
 alternas
 alternaso
@@ -1269,6 +1270,7 @@ cosmologette
 cosmologia
 cosmologo
 costume
+cota
 coto
 craneo
 craneologia
