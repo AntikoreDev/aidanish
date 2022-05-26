@@ -2763,6 +2763,7 @@ pistola → pistola
 pizarra (escuela) → zirraplane
 pizarra (material) → ekurga
 pizza → pizza
+atajo → arcuto
 pizzería → pizzatela
 piña → pinna, anani
 placenta → ecombe

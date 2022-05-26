@@ -901,5 +901,6 @@ visitar → visitei
 vislumbrar → zovisai, zintaire
 vivir → vivai
 volar → blai
+atajar → arcutai
 volver → barei
 vomitar, potar → resoltai, pukai, pukaire
