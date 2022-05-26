@@ -15,7 +15,7 @@ def Run():
 		if (trans):
 			word = trans.lower().split(', ')
 			for w in word:
-				if (w.strip() not in words):
+				if (w.strip() not in words and " " not in w.strip()):
 					words.append(w.strip())
 
 	words.sort()
