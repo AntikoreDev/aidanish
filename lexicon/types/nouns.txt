@@ -74,6 +74,8 @@ Marzo → marzea
 Mayo → Maio
 Miércoles → xeitore
 Moscú → Mosku
+mayúscula → alta
+minúscula → cota
 Muerte → morto
 México → Mexiko
 Neptuno → neptuno
