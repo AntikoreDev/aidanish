@@ -537,6 +537,8 @@ asustar → sustai
 así de → aze da
 así → aze
 atacar → ataktai
+atajar → arcutai
+atajo → arcuto
 ataque al corazón → koraisagra
 ataque → atakte, atake
 atardecer → tarena

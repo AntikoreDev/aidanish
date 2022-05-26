@@ -3383,6 +3383,7 @@ la pistola
 la zirraplane
 la ekurga
 la pizza
+ei arcuto
 la pizzatela
 la pinna
 la anani

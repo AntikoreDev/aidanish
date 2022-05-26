@@ -527,6 +527,8 @@ asustar
 así
 así de
 atacar
+atajar
+atajo
 ataque
 ataque al corazón
 atardecer
