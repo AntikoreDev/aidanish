@@ -1422,6 +1422,7 @@ creencia → belei
 creer → beleize
 crema → crema
 crematorio → tsizirreitela
+creo → belo
 crepúsculo → horcasto
 cretino → filastra
 cria → kraia
