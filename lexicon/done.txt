@@ -3003,6 +3003,7 @@ lucio
 luciérnaga
 luego
 lugar
+lugar donde se origina una pandemia endemia o epidemia
 lujo
 lujoso
 lujuría
@@ -3320,6 +3321,7 @@ mostaza
 mostrar
 mostrar flash
 motivo
+motivo de guerra
 moto
 motocicleta
 motor
@@ -3596,6 +3598,7 @@ oxidado
 oxidar[se]
 ozono
 paciencia
+paciente cero
 pactar
 pacto
 padrastro
@@ -4013,6 +4016,7 @@ pregunta
 preguntar
 premiar
 premio
+prenda
 prender
 prendido
 prensa

@@ -302,6 +302,7 @@ ei tsagrioso
 la amatista
 ei ambientologo
 ei ambientologette
+la zrota
 ei metrallaro
 la ametria
 la ametrica
@@ -1611,8 +1612,8 @@ la eneryia
 ei rutsu
 la ebila
 la ebilaxette
-la aigeisa
 la ebilatela
+la aigeisa
 la lerra
 la giar
 ei linke
@@ -1945,9 +1946,9 @@ la katria
 la frerna
 ei cix
 ei weabu
-ei computercix
 la fliagacix
 ei izbocix
+ei computercix
 ei jokocix
 ei vidiojokocix
 ei goko
@@ -2892,7 +2893,6 @@ ei modulo
 la mobila
 ei fone
 la fona
-la fonetona
 la musika
 ei musikette
 la natatia
@@ -3488,6 +3488,7 @@ ei kuastion
 la kuasta
 ei premio
 ei prizo
+la perda
 la prenza
 la lana
 ei preparatio
@@ -4030,10 +4031,10 @@ ei beilaoro
 la beilaxette
 la beila
 ei usetse
-la ila
 la vesukila
 la vesuila
 la aracneta
+la ila
 ei ilaoro
 la telefotografia
 la telefotografica
@@ -4086,7 +4087,6 @@ la tesis
 la tesis
 ei test
 la burra
-la zrota
 la tetralogia
 ei tetronimo
 ei zalgo
@@ -4150,6 +4150,7 @@ ei todologette
 ei tomako
 la tomografia
 la tomografica
+la fonetona
 la tona
 ei erko
 la silki

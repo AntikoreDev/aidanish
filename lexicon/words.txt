@@ -69,7 +69,6 @@ acordeon
 acorrata
 acostumai
 acriko
-acriko flubila
 acroa
 actinometria
 actinometrica
@@ -406,7 +405,6 @@ antiaga
 antias
 antibiotiko
 antifaz
-antigua e barbuda
 antiguaneo
 antilogia
 antimaiso
@@ -414,7 +412,6 @@ antio
 antologette
 antologia
 antologo
-antonine pesta
 antro
 antropografia
 antropografica
@@ -424,7 +421,6 @@ antropologo
 antropometria
 antropometrica
 antsal
-antsasa. casca
 antso
 antsoarko
 anusa
@@ -459,7 +455,6 @@ aprovo
 apunda
 apunderai
 arabeka
-arabika saudita
 aracna
 aracneta
 aracnologette
@@ -652,7 +647,6 @@ ayenter
 ayette
 azaharo
 aze
-aze da
 azero
 aziala
 azkribei
@@ -676,10 +670,6 @@ bain
 bainarei
 bainaro
 baine
-baine henit
-baine manzait
-baine nitoit
-baine tarenit
 bainei
 bainodo
 bainxo
@@ -1359,7 +1349,6 @@ curso
 cursogra
 cuxate
 da
-da alde forma
 dabetranara
 dacriologia
 dactiliologia
@@ -1644,7 +1633,6 @@ dolei
 domestixo
 dominio
 dominko
-dominko da resurrectio
 domo
 donde
 donno
@@ -1783,9 +1771,7 @@ electrofisiologia
 electrometria
 electrometrica
 elektriko
-elektrikonio direktia
 elektrikono
-elektrikono maila
 elektritia
 elektronno
 elkara
@@ -1822,12 +1808,6 @@ emperos
 empotrai
 empotratio
 en
-en akordo
-en ei
-en poco
-en real
-en tempeo
-en tempeoit
 encanto
 encefalografia
 encefalografica
@@ -1884,7 +1864,6 @@ entraine
 entratela
 entregai
 entrei
-entrei en sesia
 entropia
 entsave
 enuse
@@ -1917,7 +1896,6 @@ equator
 equo
 era
 erbusto
-erbusto da deserto
 ereasei
 erga
 ergia
@@ -2007,7 +1985,6 @@ esnika
 espageti
 espai
 espanna
-espanna flubila
 espannol
 espara
 esparei
@@ -2078,7 +2055,6 @@ estaro
 estarola
 estarvai
 estatio
-estatioit yoiko
 estatua
 estava
 estavai
@@ -2151,7 +2127,6 @@ eudiometrica
 europa
 evento
 evokai
-evokai sesai
 evokatela
 evoke
 evokinda
@@ -2207,7 +2182,6 @@ faire
 faita
 faitai
 fakro
-fakro gid
 falai
 fama
 fame
@@ -2246,7 +2220,6 @@ festai
 fetixa
 feto
 fever
-fever mallea
 fevo
 fez
 fiager
@@ -3466,7 +3439,6 @@ madrid
 magadia
 magia
 magika
-magika ragika
 magma
 magna
 magnasia
@@ -3492,7 +3464,6 @@ malacologo
 malherbologia
 malira
 mallea
-mallea turfa
 mamaire
 mamografia
 mamografica
@@ -3837,7 +3808,6 @@ na
 nai
 naire
 naito
-naito grazei
 naitoxe
 nambiro
 nanotecnologia
@@ -3878,7 +3848,6 @@ nekrasoa
 nekrasoatela
 nekrasobarco
 nekro
-nekro morto
 nekroandaivo
 nekromante
 nekromantia
@@ -3898,7 +3867,6 @@ nersu
 nesiga
 nesta
 neta
-neta locatako,
 neumologette
 neumologia
 neumologo
@@ -3924,7 +3892,6 @@ nevari
 neve
 neven
 nevo
-nevo york
 nevon
 nevotia
 niki
@@ -3956,8 +3923,6 @@ nome
 nomografia
 nomografica
 non
-non entreiet
-non lanai
 none
 noneatio
 nonei
@@ -4137,7 +4102,6 @@ ovo
 ovulo
 oxpisotsa
 oxto
-oxto intestino
 oxtoai
 oxtokotse
 oxtomare
@@ -4161,7 +4125,6 @@ pagena
 pai
 paia
 paiai
-paidi sei
 paidologia
 pailako
 paina
@@ -4313,6 +4276,7 @@ penzei
 penzeiette
 pepera
 pera
+perda
 perditio
 peretai
 perfektei
@@ -4382,7 +4346,6 @@ pigotira
 pika
 pike
 piko
-piko intestino
 pikoler
 pikolo
 pikoloro
@@ -4435,7 +4398,6 @@ pite
 pizza
 pizzatela
 plaga
-plaga dai justiniano
 plaia
 plan
 plane
@@ -4519,13 +4481,10 @@ ponzo
 popula
 populatio
 por
-por qa
-por zerto
 pora
 poratia
 porfevo
 porko
-porko flubila
 porno
 pornografia
 porpura
@@ -4809,7 +4768,6 @@ rango
 ranta
 rantande
 rante
-rante aktio
 rantio
 ranuncula
 rasta
@@ -4952,7 +4910,6 @@ retornai
 retorno
 retra
 retrai
-retrai nai valia
 retrakorkoit
 retro
 retroi
@@ -5066,7 +5023,6 @@ sagei
 sagetia
 saguala
 sainto
-sainto valentino
 saintotela
 saire
 saivai
@@ -5092,7 +5048,6 @@ se
 sebrutsa
 secur
 securitatia
-securitatia lufazia
 securo
 seda
 sedai
@@ -5275,7 +5230,6 @@ sozialneta
 soziata
 sozio
 spoiler
-st. valentino
 suanda
 suarda
 submarine

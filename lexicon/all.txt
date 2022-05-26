@@ -1,8 +1,5 @@
 <<<<<<< updated upstream
-<<<<<<< updated upstream
 =======
-=======
->>>>>>> stashed changes
 >>>>>>> stashed changes
 a la derecha, hacia la derecha → aldereite
 a la izquierda, hacia la izquierda → alzoraite
@@ -3056,6 +3053,7 @@ luchar → fistai
 lucio → lutio
 luciérnaga → blailita
 luego → ogenter
+lugar donde se origina una pandemia endemia o epidemia → punto zero
 lugar → locata, itela
 lujo → luxo
 lujoso → luxoso
@@ -3391,6 +3389,7 @@ mosquito → moskito, mosqito
 mostaza → mostara, merla
 mostrar flash → bliqai
 mostrar → dorimei
+motivo de guerra → casus belli
 motivo → motivo
 moto → motorroda
 motocicleta → motorroda
@@ -3672,6 +3671,7 @@ oxidado (metal) → ragiko
 oxidar[se] → ragiai
 ozono → ozone
 paciencia → pacenza
+paciente cero → casus index, casus primer
 pactar → pactoi
 pacto → pacto
 padrastro → inestpatrono
@@ -4107,6 +4107,7 @@ pregunta → kuastion, kuasta
 preguntar → kuastionei
 premiar → premire
 premio → premio, prizo
+prenda → perda
 prender → fokai
 prendido → foke
 prensa → prenza
