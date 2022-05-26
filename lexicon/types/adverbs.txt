@@ -58,7 +58,7 @@ todavía → enoun
 deprisa → rantio
 
 # Cantidad
-poco → piko
+poco → piko, poco
 mucho → naito
 muy → moi
 bastante → bixa
