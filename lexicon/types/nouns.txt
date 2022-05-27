@@ -74,8 +74,6 @@ Marzo → marzea
 Mayo → Maio
 Miércoles → xeitore
 Moscú → Mosku
-mayúscula → alta
-minúscula → cota
 Muerte → morto
 México → Mexiko
 Neptuno → neptuno
@@ -293,6 +291,7 @@ analogía → analogia
 anarquía → anarqia
 anatomopatólogo → anatomopatologo, anatomopatologette
 anca → anka, anca
+anchura → faldaia
 andador → andaivo
 andesita → andesita
 androide → androido
@@ -418,6 +417,7 @@ astronomía → astronomia
 astrólogo → astrologo, astrologette
 astrónomo → astronomo, astronomette
 asunto → reaso
+atajo → arcuto
 ataque al corazón → koraisagra
 ataque → atakte, atake
 atardecer → tarena
@@ -1520,7 +1520,8 @@ extraño, desconocido → estranne
 extremo → extremo
 eyaculación → guma
 faisán → fanso
-falda → fuana
+falda → fuana, saia
+falo → falo
 falta → faita
 fama → fama
 familia → pailako
@@ -2015,7 +2016,6 @@ lado → sero
 ladrillo → brico, kuxa
 ladrón → rovette, rovago
 lago → laka
-lagrima → lakrima
 laguna → lurge, lakata
 langostino → ximpo
 lanza → espara
@@ -2103,6 +2103,7 @@ lujuría → luxuria
 luna → luna
 luz tenue → glima
 luz → lita
+lágrima → lacrima, lakrima
 lámpara → litaoro
 lápida → mortopetro
 lápiz, lapicero → izkrioro, lapito
@@ -2204,6 +2205,7 @@ matriz → matriks
 maullido → mauia
 mayonesa → maionesa
 mayoría → oxtoro
+mayúscula → alta
 maza → maza
 mazorca (maíz, por ejemplo) → bontso
 maíz → juca
@@ -2291,6 +2293,7 @@ minero, cavernícola → ergota
 minería → minatia
 minoría → pikoloro
 minuto → minute
+minúscula → cota
 miología → miologia
 mirador → avistela, mirator
 mirmecología → mirmecologia
@@ -2765,7 +2768,6 @@ pistola → pistola
 pizarra (escuela) → zirraplane
 pizarra (material) → ekurga
 pizza → pizza
-atajo → arcuto
 pizzería → pizzatela
 piña → pinna, anani
 placenta → ecombe
@@ -3560,7 +3562,7 @@ vaso → cupa
 vecindario → neiborotela
 vecino → neiboro
 vehículo → vehiklo
-vejez → okoie
+vejez → igernesa, okosa, okoie, eldesa
 vela → candala
 velcro → velcro
 velero → sivera
@@ -3601,7 +3603,7 @@ vida → vita
 videoconsola → jokonsola
 videojuego → vidiojoko
 vieira → cola
-viejo, anciano → igerne
+viejo, anciano → igerne, oko
 viento → vendo
 vientre → vintre
 villa → vila

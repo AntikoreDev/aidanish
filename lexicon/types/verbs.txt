@@ -76,8 +76,10 @@ amar → loi
 amargar → tsagrai
 amartillar, martillar → martexei
 amañar → amaine
+amenazar → zrotei
 amontonar → kievei
 amputar → amputai
+anchar → faldai
 andar → andaire
 anidar → inestai
 anillar → rinkai
@@ -108,6 +110,7 @@ aspirar → aspirai
 astillar → artsai
 asustar → sustai
 atacar → ataktai
+atajar → arcutai
 atardecer → tarenai
 atascar → estorai, astaine
 atender → atendai
@@ -287,7 +290,6 @@ derretir → derrei, fundei
 derribar → coarsai, derribei
 derrotar → derroqai
 desactivar → deaktivei
-amenazar → zrotei
 desagrupar → unagrupai, unludei
 desaparecer → unparezei
 desaprobar → deaprovai
@@ -734,6 +736,7 @@ recomensar → reguardai
 reconocer → kognai
 recordar → rekordai
 recorrer → enzurrai
+recortar → rekutai
 referenciar → referai
 reflejar → espelektei
 reflexionar → refleksei
@@ -766,12 +769,9 @@ respetar → respektei
 respirar → risperei
 responder, contestar → repostai
 restablecer → resetei
-<<<<<<< Updated upstream
 restar → deproxei
-restaurar → restorai
-=======
 restar → restei, deproxei
->>>>>>> Stashed changes
+restaurar → restorai
 retener → rentiei
 retirar → retroi
 retrasar → retrai
@@ -901,6 +901,5 @@ visitar → visitei
 vislumbrar → zovisai, zintaire
 vivir → vivai
 volar → blai
-atajar → arcutai
 volver → barei
 vomitar, potar → resoltai, pukai, pukaire
