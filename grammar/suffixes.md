@@ -13,6 +13,11 @@ Adjective to adverb (-mente) → -ien
 Adjective: Suscetible to, it can... → -ble, -bla
 Relative to illnesses and people → -demos
 
+Noun to adjective: FUll of it → -ido (kolorido, lakrimido)
+Noun to adjective: Scarce of it → -fala (kolorfala, sensofala)
+
+Adjective to noun: The attribute of something → -sa
+
 ## Other
 
 -grafia, -grafica
