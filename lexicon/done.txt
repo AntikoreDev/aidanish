@@ -99,7 +99,9 @@ acento
 acera
 acercar
 acero
+acertar
 acidimetría
+acierto
 aclarar
 acoger
 acogida
@@ -4363,6 +4365,8 @@ retrasado
 retrasar
 retraso
 retrete
+retroceder
+retroceso
 reumatología
 reumatólogo
 reunir

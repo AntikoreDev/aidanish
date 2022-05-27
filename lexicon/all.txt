@@ -104,7 +104,9 @@ acento → acento
 acera, pavimento → vadeo, kalekemno
 acercar → nearei
 acero → akero, azero, acero
+acertar → troi
 acidimetría → acidimetria, acidimetrica
+acierto → tro
 aclarar (dejar claro un concepto) → isendereim
 aclarar (dejar claro un objeto) → aklaroi
 acoger → akaine
@@ -4450,6 +4452,8 @@ reto → testa
 retrasado → retartato, retardato
 retrasar → retrai
 retraso → retra
+retroceder → retrei
+retroceso → retre
 reumatología → reumatologia
 reumatólogo → reumatologo, reumatologette
 reunir → undizei

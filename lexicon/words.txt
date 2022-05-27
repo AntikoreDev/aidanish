@@ -4943,6 +4943,8 @@ retorno
 retra
 retrai
 retrakorkoit
+retre
+retrei
 retro
 retroi
 retsaiko
@@ -5634,9 +5636,11 @@ tritso
 trituoro
 tritura
 trituroi
+tro
 trofologette
 trofologia
 trofologo
+troi
 trompescuela
 trompeta
 trompo
