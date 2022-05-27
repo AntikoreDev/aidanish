@@ -256,7 +256,7 @@ aleatorizar → rungiai
 alegrar → aibelai
 alegría → aibe
 alemania → duxlan
-alemán → duxleano
+alemán → duxlano
 alergología → alergologia
 alergólogo → alergologo, alergologette
 alfajor → almodratso
