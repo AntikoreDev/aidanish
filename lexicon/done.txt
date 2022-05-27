@@ -1838,6 +1838,7 @@ décima
 décimo
 día
 dólar
+e
 ebullición
 echar
 echarle huevos
@@ -3503,6 +3504,7 @@ néctar
 níscalo
 núcleo
 número
+o
 obispo
 objetivo
 objeto

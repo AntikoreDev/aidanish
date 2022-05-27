@@ -1693,6 +1693,7 @@ dutia
 dutiako
 duxlan
 duxleano
+e
 easa
 easairei
 ebande
@@ -3987,6 +3988,7 @@ nutriologia
 nuzel
 nuzelar
 nuzelara
+o
 oarga
 oargai
 obeo

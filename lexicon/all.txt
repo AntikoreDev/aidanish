@@ -1869,6 +1869,7 @@ décima → decima
 décimo → dizix
 día → hen
 dólar → dolar
+e → e
 ebullición, evaporación → inherba
 echar → etsoi
 echarse alguien los huevos a tuto, armar de valor, echarle huevos → retrai nai valia
@@ -3567,6 +3568,7 @@ néctar → nektar
 níscalo → niscalo, mixuia
 núcleo → kora
 número → numo, emesimo
+o → o
 obispo → bispo
 objetivo → asiga
 objeto → item
