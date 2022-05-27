@@ -161,6 +161,7 @@ acento → acento
 acera, pavimento → vadeo, kalekemno
 acero → akero, azero, acero
 acidimetría → acidimetria, acidimetrica
+acierto → tro
 acogida → akaina
 acompañamiento → akompanniretio
 acondición → akonditia
@@ -3052,6 +3053,7 @@ resurrección → resurrectio
 reto → testa
 retrasado → retartato, retardato
 retraso → retra
+retroceso → retre
 reumatología → reumatologia
 reumatólogo → reumatologo, reumatologette
 reunión → undizio

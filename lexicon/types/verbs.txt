@@ -22,6 +22,7 @@ acartonar → cardoi
 acceder → akcisei
 acelerar → acelerei
 acercar → nearei
+acertar → troi
 aclarar (dejar claro un concepto) → isendereim
 aclarar (dejar claro un objeto) → aklaroi
 acoger → akaine
@@ -775,6 +776,7 @@ restaurar → restorai
 retener → rentiei
 retirar → retroi
 retrasar → retrai
+retroceder → retrei
 reunir → undizei
 revivir → revivai
 revocar → revokei
