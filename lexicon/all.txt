@@ -1,6 +1,3 @@
-<<<<<<< updated upstream
-=======
->>>>>>> stashed changes
 a la derecha, hacia la derecha → aldereite
 a la izquierda, hacia la izquierda → alzoraite
 a la → ala

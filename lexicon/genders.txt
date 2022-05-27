@@ -72,8 +72,6 @@ la marzea
 ei maio
 ei xeitore
 ei mosku
-la alta
-la cota
 ei morto
 ei mexiko
 ei neptuno
@@ -326,6 +324,7 @@ ei anatomopatologo
 ei anatomopatologette
 la anka
 la anca
+la faldaia
 ei andaivo
 la andesita
 ei androido
@@ -484,6 +483,7 @@ ei astrologette
 ei astronomo
 ei astronomette
 ei reaso
+ei arcuto
 la koraisagra
 la atakte
 la atake
@@ -1605,7 +1605,6 @@ la encefalografica
 la pluga
 la enciklopedia
 la entsave
-ei falo
 la contesta
 la endemos
 la endocrinologia
@@ -1637,8 +1636,6 @@ la enzimologia
 ei enologo
 ei enologette
 ei zancobo
-la lacrima
-la lakrima
 la epidemos
 la epidemiologia
 ei epidemiologo
@@ -1831,10 +1828,10 @@ la guma
 ei fanso
 la fuana
 la saia
+ei falo
 la faita
 la fama
 ei pailako
-la faldaia
 la pai
 la farmacologia
 la farmacopsicologia
@@ -2560,6 +2557,8 @@ la luxuria
 la luna
 la glima
 la lita
+la lacrima
+la lakrima
 ei litaoro
 ei mortopetro
 ei izkrioro
@@ -2682,6 +2681,7 @@ la matriks
 la mauia
 la maionesa
 ei oxtoro
+la alta
 la maza
 ei bontso
 la juca
@@ -2793,6 +2793,7 @@ la ergota
 la minatia
 ei pikoloro
 ei minute
+la cota
 la miologia
 la avistela
 ei mirator
@@ -3389,7 +3390,6 @@ la pistola
 la zirraplane
 la ekurga
 la pizza
-ei arcuto
 la pizzatela
 la pinna
 la anani
