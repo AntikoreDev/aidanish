@@ -348,6 +348,9 @@ analogía → analogia
 anarquía → anarqia
 anatomopatólogo → anatomopatologo, anatomopatologette
 anca → anka, anca
+anchar → faldai
+ancho → faldo
+anchura → faldaia
 andador → andaivo
 andar → andaire
 andesita → andesita
@@ -1205,6 +1208,7 @@ colono → colone
 coloquial → coloqio
 color → kolor, kromato
 colorear → kromatei, kolorei
+colorido → kolorido
 colorimetría → colorimetria, colorimetrica
 coma (salud) → coma
 coma (texto) → coma
@@ -1826,7 +1830,9 @@ doctoral → doktoralo
 documento → dokumento
 dodo → dodo
 doler → dolei
+dolido → dolo
 dolor → dole
+doloroso → dolido
 domingo → dominko
 dominio → dominio, domo
 doméstico → domestixo
@@ -1847,6 +1853,7 @@ ducha → tsoaga
 duchar → tsoagai
 duda → duba
 dudar → dubai
+dudoso → dubido
 duelo → duelo
 dueño, dueña → donno
 dulce → dultse
@@ -2244,11 +2251,13 @@ eyaculación → guma
 eyacular → gumoi
 facilitar → fazilai
 faisán → fanso
-falda → fuana
+falda → fuana, saia
 fallar → errai
+falo → falo
 falso → fakro
 falta → faita
 faltar → falai
+falto → fala
 fama → fama
 familia → pailako
 familiar → pai
@@ -2266,7 +2275,7 @@ fenología → fenologia
 fenomenología → fenomenologia
 fenomenólogo → fenomenologo, fenomenologette
 feo → utego
-feo → utego
+feo → zunno, zonno, utego
 feria → faira
 festejar → partai, faire, festai
 fetiche → fetixa, kinko
@@ -2548,7 +2557,7 @@ guardador → gaizeoro
 guardar → gaize
 guardia → guarda
 guarida → guardia
-guay → yuolo
+guay → yuolo, colo, legal
 guerra → gerra, batailon
 guerrero de fuego → antias
 guiar → redai
@@ -2931,7 +2940,7 @@ ladrar → guoi
 ladrillo → brico, kuxa
 ladrón → rovette, rovago
 lago → laka
-lagrima → lakrima
+lagrimado → lakrimido
 laguna → lurge, lakata
 langostino → ximpo
 lanza → espara
@@ -2954,6 +2963,7 @@ lechero → esneaxette
 lechuga → letsuga
 lectura → lekta
 leer → lektei
+legal → legal
 lejano → foreno
 lejos → fore
 lejía → blanco
@@ -2961,7 +2971,6 @@ lencería → linzeria
 lengua → lemgo
 lenguaje de programación → codilango, prokramalango
 lentes → lendait
-lento →
 lento → lento, levo
 lerdo → tsafala
 letra (canción) → lerite
@@ -3027,6 +3036,9 @@ llave → klave
 llegada → iriheia
 llegar → irihei
 llenar → elloi, foloi
+lleno de bondad → bainido
+lleno de maldad → heunido
+lleno de vida → vitido
 lleno → ello, elloko
 llevar → yeveire
 llorar → lakrimai, acoatai
@@ -3066,6 +3078,7 @@ lunes → lunia
 luz tenue → glima
 luz → lita
 lácteo → esneoro
+lágrima → lacrima, lakrima
 lámpara → litaoro
 lápida → mortopetro
 lápiz, lapicero → izkrioro, lapito
@@ -3865,7 +3878,7 @@ peonía (flor) → aravita
 peor → heunodo
 pepinillo → frico
 pepino → pepera
-pequeño → pikolo
+pequeño → pikolo, meno
 pera → pera
 perca → eskada
 percha → pertsa, colca, colga
@@ -4339,6 +4352,7 @@ recompensado → reguarde
 reconocer → kognai
 recordar → rekordai
 recorrer → enzurrai
+recortar → rekutai
 recorte → rekuta
 rectal → rectal
 recto → recto
@@ -4670,7 +4684,11 @@ simbología → simbologia
 simetría → simetria, simetrica
 simple → simple, sampla
 simpático → amaiso, simpo
+sin color → kolorfala
+sin duda, indudablemente → dubafala
 sin embargo → orne
+sin sentido → sensofala
+sin vida → vitafala
 sin → nokoi
 sincero → etristuro, sinzero
 sinología → sinologia
@@ -5194,7 +5212,7 @@ vecindario → neiborotela
 vecino → neiboro
 vehículo → vehiklo
 veinte → doisen
-vejez → okoie
+vejez → igernesa, okosa, okoie, eldesa
 vela → candala
 velcro → velcro
 velero → sivera
@@ -5257,8 +5275,8 @@ vida → vita
 videoconsola → jokonsola
 videojuego → vidiojoko
 vieira → cola
-viejo → igerne, elde
-viejo, anciano → igerne
+viejo (adjetivo) → igerne, igerno, elde, oko
+viejo, anciano → igerne, oko
 viento → vendo
 vientre → vintre
 viernes → vernia

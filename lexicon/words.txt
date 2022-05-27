@@ -674,6 +674,7 @@ bainarei
 bainaro
 baine
 bainei
+bainido
 bainodo
 bainxo
 bajiba
@@ -1125,6 +1126,7 @@ colectoi
 colga
 colgai
 colinte
+colo
 colone
 colonia
 colonicea
@@ -1634,6 +1636,8 @@ dokumento
 dolar
 dole
 dolei
+dolido
+dolo
 domestixo
 dominio
 dominko
@@ -1668,7 +1672,9 @@ druxai
 druxeto
 druxo
 duba
+dubafala
 dubai
+dubido
 duelo
 dula
 dulai
@@ -1765,6 +1771,7 @@ ekurga
 elara
 elasto
 elde
+eldesa
 electio
 electoi
 electrocardiografia
@@ -2186,7 +2193,12 @@ faire
 faita
 faitai
 fakro
+fala
 falai
+faldai
+faldaia
+faldo
+falo
 fama
 fame
 fameno
@@ -2658,6 +2670,7 @@ heun
 heune
 heunei
 heunesle
+heunido
 heunodo
 heuntsado
 heunxo
@@ -2817,6 +2830,8 @@ idolologia
 idurei
 igerne
 igernei
+igernesa
+igerno
 igneoso
 ignixa
 igno
@@ -3163,6 +3178,8 @@ kolombia
 kolor
 kolorarico
 kolorei
+kolorfala
+kolorido
 komerzai
 komerziale
 komerzio
@@ -3260,6 +3277,7 @@ la
 labe
 laborersette
 laboro
+lacrima
 lade
 ladei
 ladepipra
@@ -3271,6 +3289,7 @@ laka
 lakata
 lakrima
 lakrimai
+lakrimido
 lama
 lamadra
 lana
@@ -3292,6 +3311,7 @@ lauseto
 lava
 lavanda
 lazer
+legal
 legas
 legenda
 leguma
@@ -3598,6 +3618,7 @@ memo
 mena
 menagio
 mende
+meno
 menta
 mental
 mente
@@ -4003,9 +4024,11 @@ oi
 oitio
 oitosono
 oixalai
+oko
 okoie
 okoire
 okoixa
+okosa
 okroi
 oktokono
 oleksaia
@@ -4855,6 +4878,7 @@ rektio
 rektor
 rekurso
 rekuta
+rekutai
 relatio
 relative
 relicro
@@ -5030,6 +5054,7 @@ sacro
 sagei
 sagetia
 saguala
+saia
 sainto
 saintotela
 saire
@@ -5100,6 +5125,7 @@ senologo
 sensei
 sensira
 senso
+sensofala
 senu
 sepsis
 septakono
@@ -5913,10 +5939,12 @@ visoi
 visoioroit
 vista
 vita
+vitafala
 vitaiko
 vitaitela
 vitalita
 vitamine
+vitido
 vitoso
 vitreqe
 vitro
@@ -6072,6 +6100,7 @@ zizge
 zobexe
 zombie
 zone
+zonno
 zoogeografia
 zoogeografica
 zoografia
@@ -6105,6 +6134,7 @@ zunaire
 zunami
 zundra
 zunio
+zunno
 zure
 zurei
 zurer

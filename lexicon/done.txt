@@ -336,6 +336,9 @@ analogía
 anarquía
 anatomopatólogo
 anca
+anchar
+ancho
+anchura
 anciano
 andador
 andar
@@ -1183,6 +1186,7 @@ colono
 coloquial
 color
 colorear
+colorido
 colorimetría
 coma
 comadreja
@@ -1792,7 +1796,9 @@ doctrina
 documento
 dodo
 doler
+dolido
 dolor
+doloroso
 domingo
 dominio
 doméstico
@@ -1812,6 +1818,7 @@ ducha
 duchar
 duda
 dudar
+dudoso
 duelo
 dueña
 dueño
@@ -2209,9 +2216,11 @@ faisán
 falda
 fallar
 fallo
+falo
 falso
 falta
 faltar
+falto
 fama
 familia
 familiar
@@ -2737,6 +2746,7 @@ inculto
 incómodo
 indecente
 india
+indudablemente
 industria
 infectología
 infierno
@@ -2878,7 +2888,7 @@ ladrar
 ladrillo
 ladrón
 lago
-lagrima
+lagrimado
 laguna
 langostino
 lanza
@@ -2903,6 +2913,7 @@ lechero
 lechuga
 lectura
 leer
+legal
 legista
 lejano
 lejos
@@ -2977,6 +2988,9 @@ llegada
 llegar
 llenar
 lleno
+lleno de bondad
+lleno de maldad
+lleno de vida
 llevar
 llorar
 llover
@@ -3015,6 +3029,7 @@ lunes
 luz
 luz tenue
 lácteo
+lágrima
 lámpara
 lápida
 lápiz
@@ -4246,6 +4261,7 @@ recompensado
 reconocer
 recordar
 recorrer
+recortar
 recorte
 rectal
 recto
@@ -4572,7 +4588,11 @@ simetría
 simple
 simpático
 sin
+sin color
+sin duda
 sin embargo
+sin sentido
+sin vida
 sincero
 sinología
 sintomatología
