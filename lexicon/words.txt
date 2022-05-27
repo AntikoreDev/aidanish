@@ -3013,6 +3013,7 @@ jidei
 jideor
 jiderarqia
 jiderarqiko
+jido
 jobi
 jobisette
 joglar
@@ -4589,6 +4590,8 @@ priosai
 prison
 pritso
 priuzei
+privado
+privato
 privono
 prizai
 prizo

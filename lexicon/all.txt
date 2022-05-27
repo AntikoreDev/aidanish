@@ -3572,6 +3572,7 @@ octavo → octoix
 octubre → octambo
 octógono → oktokono
 ocultar → jidei
+oculto → jido
 ocupación → osala
 ocupado → osalo
 ocupado → osalo
@@ -4056,6 +4057,7 @@ pompa → bobal, pompe
 pomólogo → pomologo, pomologette
 poncho → pontso
 poner → posai
+por ahora → en nau
 por cierto → por zerto
 por cierto → por zerto
 por defecto → nurdefekto
@@ -4148,6 +4150,7 @@ principal → printsiale, primer
 principiante → initiaxette
 principio, comienzo → initio
 prisa → ranta
+privado → privato, privado
 probable → probable, probeko
 probablemente → probekoien
 probado → probo

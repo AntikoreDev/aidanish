@@ -3501,6 +3501,7 @@ octavo
 octubre
 octógono
 ocultar
+oculto
 ocupación
 ocupado
 ocupar
@@ -3966,6 +3967,7 @@ pomólogo
 poncho
 poner
 por
+por ahora
 por cierto
 por defecto
 por favor
@@ -4056,6 +4058,7 @@ principal
 principiante
 principio
 prisa
+privado
 probable
 probablemente
 probado

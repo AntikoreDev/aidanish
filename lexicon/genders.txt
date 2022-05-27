@@ -4928,6 +4928,9 @@ la teste
 la probable
 ei probeko
 ei sundo
+ei privato
+ei privado
+ei jido
 ei prope
 ei protecto
 la entera
