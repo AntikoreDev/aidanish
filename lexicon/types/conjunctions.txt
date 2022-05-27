@@ -3,3 +3,5 @@ si (condicional) → si, se
 porque → debai
 pero → nur
 aunque → ounqe, ounqa
+o → o
+e → e
