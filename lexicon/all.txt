@@ -2139,7 +2139,8 @@ estación (del año) → tempora
 estación (tren) → parada
 estadio → estadia
 estado → estatio
-estados unidos → estatioit yoiko
+estados unidos → estatioit yoiko, usa
+estadounidense → usono
 estafador → lerrako
 estafador → lerrako
 estalactita → espeleoka
@@ -3289,6 +3290,7 @@ metro (medida) → metro
 metro (medidor) → metroro
 metrología → metrologia
 metrólogo → metrologo, metrologette
+metáfora → metafora
 mezcla → mixa
 mezclar → mixei
 mezquita → mazquita

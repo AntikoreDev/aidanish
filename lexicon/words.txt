@@ -3647,6 +3647,7 @@ mesiga
 mesigai
 mesigette
 mesmo
+metafora
 metairre
 metala
 metalografia
@@ -5805,11 +5806,13 @@ urte
 urtica
 uruguai
 urzugra
+usa
 usatsa
 use
 usei
 usetse
 uskoro
+usono
 usuala
 usuario
 utego

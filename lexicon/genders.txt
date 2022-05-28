@@ -42,6 +42,7 @@ ei januaro
 la espanna
 ei espannol
 ei esperanto
+la usa
 la estonia
 la estonesa
 la europa
@@ -1741,6 +1742,7 @@ la tempora
 la parada
 la estadia
 ei estatio
+ei usono
 ei lerrako
 la espeleoka
 la espeleona
@@ -2823,6 +2825,7 @@ ei modifikatio
 ei modo
 la napesta
 ei moldo
+la metafora
 ei tempeo
 la monadologia
 ei pinne

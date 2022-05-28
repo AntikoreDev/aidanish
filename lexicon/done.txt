@@ -2108,6 +2108,7 @@ estación
 estadio
 estado
 estados unidos
+estadounidense
 estafador
 estalactita
 estalagmita
@@ -3236,6 +3237,7 @@ metodología
 metro
 metrología
 metrólogo
+metáfora
 mezcla
 mezclar
 mezquita
