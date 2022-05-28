@@ -43,7 +43,7 @@ Enero → Januaro
 España → Espanna
 Español → Espannol
 Esperanto → esperanto
-Estados Unidos → Estatioit Yoiko
+Estados Unidos → Estatioit Yoiko, USA
 Estonia → Estonia
 Estonio → Estonesa
 Europa → europa
@@ -1453,6 +1453,7 @@ estación (del año) → tempora
 estación (tren) → parada
 estadio → estadia
 estado → estatio
+estadounidense → usono
 estafador → lerrako
 estalactita → espeleoka
 estalagmita → espeleona
