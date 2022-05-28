@@ -697,6 +697,7 @@ bicicleta
 bien
 bienvenido
 bigote
+bilingüe
 billón
 biobibliografía
 bioestratigrafía
@@ -1463,6 +1464,7 @@ cuarenta
 cuarteto
 cuarto
 cuatriciclo
+cuatrilingüe
 cuatrillón
 cuatro
 cuba
@@ -2532,6 +2534,7 @@ haba
 haber
 habilidad
 habitación
+habla
 hablar
 hablar sin saber
 hacer
@@ -3981,6 +3984,7 @@ polonia
 polución
 polvo
 polén
+políglota
 polígono
 pomología
 pompa
@@ -4981,6 +4985,7 @@ triciclo
 tridente
 trigo
 trigonometría
+trilingüe
 trillón
 trilogía
 trinchera

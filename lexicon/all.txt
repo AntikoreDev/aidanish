@@ -708,6 +708,7 @@ bien → bain
 bienvenido → bainarei
 bienvenido → bainaro
 bigote → mitso, furmo, moustatso, mustatso, vigo
+bilingüe → bilingo
 billón → billoe
 biobibliografía → biobibliografia, biobibliografica
 bioestratigrafía → bioestratigrafia, bioestratigrafica
@@ -1487,6 +1488,7 @@ cuarto (habitación) → itela
 cuarto (tiempo o matemáticas) → quarto
 cuarto → catroix
 cuatriciclo → quatroda
+cuatrilingüe → qatrilingo
 cuatrillón → catrilloe
 cuatro → catro
 cuatro → catro
@@ -2574,6 +2576,7 @@ haba → aba
 haber → harei
 habilidad → estila
 habitación → vitaitela
+habla → para
 hablar sin saber → farlai
 hablar → paire, falai
 hacer reir → sigisai
@@ -4066,6 +4069,7 @@ polo → pole
 polonia → polakia
 polvo → pulder
 polén → polen
+políglota → polingo, moltopara
 polígono → moltoxo
 pomología → pomologia
 pompa → bobal, pompe
@@ -5086,6 +5090,7 @@ triciclo → trirroda
 tridente → tridento
 trigo → trego
 trigonometría → trigonometria, trigonometrica
+trilingüe → trilingo
 trillón → trilloe
 trilogía → trilogia
 trinchera → trintsera

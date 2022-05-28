@@ -791,6 +791,7 @@ bibliotecologia
 bibliotecologo
 bibloteka
 bila
+bilingo
 billoe
 biobibliografia
 biobibliografica
@@ -3754,6 +3755,7 @@ mokete
 mola
 moldo
 moldoi
+moltopara
 moltoxo
 monadologia
 monde
@@ -4211,6 +4213,7 @@ papirologette
 papirologia
 papirologo
 paquete
+para
 parada
 paradoksografia
 paradoksografica
@@ -4488,6 +4491,7 @@ poligrafia
 poligrafica
 polimetria
 polimetrica
+polingo
 polita
 politicologette
 politicologo
@@ -4743,6 +4747,7 @@ qarei
 qarteto
 qatratiko
 qatrato
+qatrilingo
 qeola
 qiava
 qibra
@@ -5621,6 +5626,7 @@ tribologia
 tridento
 trigonometria
 trigonometrica
+trilingo
 trilloe
 trilogia
 trinkai

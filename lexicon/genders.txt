@@ -1289,6 +1289,7 @@ ei qatratiko
 la griya
 ei qarteto
 la itela
+la para
 ei quarto
 la quatroda
 ei catro
@@ -2818,6 +2819,11 @@ la mnemotecnia
 la mnemoteknia
 la esaibaga
 ei muco
+ei bilingo
+ei trilingo
+ei qatrilingo
+ei polingo
+la moltopara
 la siska
 ei modole
 la moderaiette
