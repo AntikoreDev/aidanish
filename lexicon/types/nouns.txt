@@ -1080,6 +1080,7 @@ cuadro → kadro
 cuadrícula → qatratiko, griya
 cuarteto → qarteto
 cuarto (habitación) → itela
+habla → para
 cuarto (tiempo o matemáticas) → quarto
 cuatriciclo → quatroda
 cuatro → catro
@@ -2311,6 +2312,10 @@ mitómano → mitomane
 mnemotecnia → mnemotecnia, mnemoteknia
 mochila → esaibaga
 moco → muco
+bilingüe → bilingo
+trilingüe → trilingo
+cuatrilingüe → qatrilingo
+políglota → polingo, moltopara
 moda → siska
 modalidad → modole
 moderador → moderaiette
