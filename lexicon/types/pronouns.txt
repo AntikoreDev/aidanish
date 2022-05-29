@@ -4,7 +4,7 @@ tú → zu
 usted -> zeu
 el → ei
 ella → eila
-ello/eso → so
+ello, eso → so
 nosotros → nare
 vosotros → zure
 ellos → eire
@@ -12,7 +12,7 @@ ellos (objeto, no se usa pero se mantiene por legacy) → soit
 
 # Posesivos
 mi → nai
-tu/tuyo → zui
+tu, tuyo → zui
 suyo (usted) → zeu
 suyo → eie
 nuestro → narei
