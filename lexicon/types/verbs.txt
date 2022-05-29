@@ -231,6 +231,7 @@ conocer (algo) → aonatei
 conocer (persona) → misei
 conquistar → conqerai
 conseguir → elokrai
+consentir → conseine
 conservar → conservai
 consolar → consoi
 constar → constai
@@ -726,6 +727,7 @@ racionar → rationai
 rascar → kikroi
 rayar → raiaire
 razonar → reasoi
+considerar → consei
 reaccionar → reactai, reaktai
 realizar → ereasei
 recaudar → rekauroi

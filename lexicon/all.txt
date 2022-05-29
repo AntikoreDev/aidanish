@@ -1322,9 +1322,11 @@ conquistado → conqisto
 conquistador → conqeror
 conquistar → conqerai
 conseguir → elokrai
+consentir → conseine
 conservación → conservatio
 conservador → conservette
 conservar → conservai
+considerar → consei
 consola → consola
 consolar → consoi
 consorcio → consortso
