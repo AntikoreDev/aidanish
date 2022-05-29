@@ -147,6 +147,7 @@ blindar → blindai
 bloquear → lokei
 bombardear → bombardai
 borrar → prusai
+arder → burnai
 brillar con luz tenue → glimai
 brillar → briai
 bromear → rusiai
