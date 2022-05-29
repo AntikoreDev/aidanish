@@ -1390,6 +1390,7 @@ deaktivei
 deaprovai
 deaprovatio
 debai
+debei
 debila
 decakono
 decalogette

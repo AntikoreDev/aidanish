@@ -1572,6 +1572,7 @@ de → da
 debajo → berora
 deber (algo que debes) → dute
 deber (colegio) → esaroidute
+deber (expresión) → debei
 deber → dutei
 decente → dezente
 decepcionar → deteptionei
