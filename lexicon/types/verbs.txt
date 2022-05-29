@@ -167,6 +167,7 @@ canjear → prizai
 cansar → infizei
 cantar → qanzei
 captar → kaptai
+deber (expresión) → debei
 capturar → kaptai
 carburar → carburai
 cargar → kargaize
