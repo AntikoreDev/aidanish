@@ -1882,7 +1882,7 @@ elefante
 elegir
 elevar
 ella
-ello/eso
+ello
 ellos
 eléctrico
 embalar
@@ -2059,6 +2059,7 @@ ese
 esencia
 eslavo
 esmeralda
+eso
 esos
 espacio
 espacio en blanco
@@ -5018,7 +5019,7 @@ tráfico
 tránsito
 trío
 tsunami
-tu/tuyo
+tu
 tubería
 tubo
 tubérculo
@@ -5035,6 +5036,7 @@ turista
 turnar
 turno
 turrón
+tuyo
 té
 técnica
 técnico

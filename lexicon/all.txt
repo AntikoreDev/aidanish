@@ -1914,7 +1914,7 @@ elefante → estsondo
 elegir → electoi
 elevar → levai, airoei, quai
 ella → eila
-ello/eso → so
+ello, eso → so
 ellos (objeto, no se usa pero se mantiene por legacy) → soit
 ellos → eire
 eléctrico → elektriko
@@ -5124,7 +5124,7 @@ tráfico → trafiko
 tránsito → transita
 trío → trio
 tsunami → tsunami, tzunami, zunami
-tu/tuyo → zui
+tu, tuyo → zui
 tubería → tubia
 tubo → tube
 tubérculo → tuberculo

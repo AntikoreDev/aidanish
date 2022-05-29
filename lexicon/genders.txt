@@ -624,6 +624,7 @@ ei furmo
 ei moustatso
 ei mustatso
 ei vigo
+ei bilingo
 la biobibliografia
 la biobibliografica
 la bioestratigrafia
@@ -1289,9 +1290,9 @@ ei qatratiko
 la griya
 ei qarteto
 la itela
-la para
 ei quarto
 la quatroda
+ei qatrilingo
 ei catro
 ei kubo
 la kubraia
@@ -2133,6 +2134,7 @@ la genera
 la aba
 la estila
 la vitaitela
+la para
 la farura
 la hagiografia
 la hagiografica
@@ -2750,6 +2752,7 @@ ei metroro
 la metrologia
 ei metrologo
 ei metrologette
+la metafora
 la mixa
 la mazquita
 la micetologia
@@ -2819,11 +2822,6 @@ la mnemotecnia
 la mnemoteknia
 la esaibaga
 ei muco
-ei bilingo
-ei trilingo
-ei qatrilingo
-ei polingo
-la moltopara
 la siska
 ei modole
 la moderaiette
@@ -2831,7 +2829,6 @@ ei modifikatio
 ei modo
 la napesta
 ei moldo
-la metafora
 ei tempeo
 la monadologia
 ei pinne
@@ -3463,6 +3460,8 @@ ei polo
 ei pole
 ei pulder
 ei polen
+ei polingo
+la moltopara
 ei moltoxo
 la pomologia
 ei bobal
@@ -4246,6 +4245,7 @@ ei tridento
 ei trego
 la trigonometria
 la trigonometrica
+ei trilingo
 la trilogia
 la trintsera
 la tripa
