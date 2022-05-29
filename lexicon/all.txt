@@ -748,8 +748,7 @@ bola de nieve → aigebola
 boleto → fixola
 boletus → boletus, mastufa
 bollería → bunaria
-bollo → bollo
-bollo → bun
+bollo → bollo, bun
 bolsa → baga
 bolsillo → pokete
 bolígrafo → tentaoro
@@ -1524,7 +1523,7 @@ cumpleaños → henyaro, natahen
 cumplir → kumplaire
 cupón → bone
 cura (antídoto) → kura
-cura , sacerdote → praisoxette
+cura, sacerdote → praisoxette
 curar → kurai
 curiosear → kuriosei
 curiosidad → kurioseata
@@ -3872,7 +3871,7 @@ peluquero → cailoxette
 película → filmo
 penalizar → penalai
 pender → pendei
-pene → penisa
+pene → penisa, sakiya, pikla
 pensador → penzeiette
 pensamiento (mente) → penze
 pensamientos (flor) → siakara
@@ -4897,7 +4896,7 @@ teletransportar → teleportai
 televisión → televisoi
 teléfono → telefono
 tema → subyecto
-temblar → gaxei
+temblar → gaxei, atsei
 temblor → brusta
 temperatura → tempera
 templado → tempero

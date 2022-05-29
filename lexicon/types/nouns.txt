@@ -532,6 +532,7 @@ bibliotecólogo → bibliotecologo, bibliotecologette
 bicho → tiko
 bicicleta → birroda
 bigote → mitso, furmo, moustatso, mustatso, vigo
+bilingüe → bilingo
 biobibliografía → biobibliografia, biobibliografica
 bioestratigrafía → bioestratigrafia, bioestratigrafica
 biogeografía → biogeografia, biogeografica
@@ -562,8 +563,7 @@ bola de nieve → aigebola
 boleto → fixola
 boletus → boletus, mastufa
 bollería → bunaria
-bollo → bollo
-bollo → bun
+bollo → bollo, bun
 bolsa → baga
 bolsillo → pokete
 bolígrafo → tentaoro
@@ -1080,9 +1080,9 @@ cuadro → kadro
 cuadrícula → qatratiko, griya
 cuarteto → qarteto
 cuarto (habitación) → itela
-habla → para
 cuarto (tiempo o matemáticas) → quarto
 cuatriciclo → quatroda
+cuatrilingüe → qatrilingo
 cuatro → catro
 cubo → kubo
 cubrimiento → kubraia
@@ -1108,7 +1108,7 @@ cultura → kultura, viri
 cumpleaños → henyaro, natahen
 cupón → bone
 cura (antídoto) → kura
-cura ,  sacerdote → praisoxette
+cura, sacerdote → praisoxette
 curiosidad → kurioseata
 curling → curling
 curruca → surle
@@ -1773,6 +1773,7 @@ género → genera
 haba → aba
 habilidad → estila
 habitación → vitaitela
+habla → para
 hada → farura
 hagiografía → hagiografia, hagiografica
 halcón → halokun
@@ -2260,6 +2261,7 @@ metro (medida) → metro
 metro (medidor) → metroro
 metrología → metrologia
 metrólogo → metrologo, metrologette
+metáfora → metafora
 mezcla → mixa
 mezquita → mazquita
 micetología → micetologia
@@ -2312,10 +2314,6 @@ mitómano → mitomane
 mnemotecnia → mnemotecnia, mnemoteknia
 mochila → esaibaga
 moco → muco
-bilingüe → bilingo
-trilingüe → trilingo
-cuatrilingüe → qatrilingo
-políglota → polingo, moltopara
 moda → siska
 modalidad → modole
 moderador → moderaiette
@@ -2323,7 +2321,6 @@ modificación → modifikatio
 modo → modo
 mofeta → napesta
 moho → moldo
-metáfora → metafora
 momento → tempeo
 monadología → monadologia
 moneda → pinne
@@ -2674,7 +2671,7 @@ pelota, bola → bola
 pelotudo → pilotufeso
 peluquero → cailoxette
 película → filmo
-pene → penisa
+pene → penisa, sakiya, pikla
 pensamiento (mente) → penze
 pensamientos (flor) → siakara
 pentalogía → pentalogia
@@ -2825,6 +2822,7 @@ polo (helado) → polo
 polo → pole
 polvo → pulder
 polén → polen
+políglota → polingo, moltopara
 polígono → moltoxo
 pomología → pomologia
 pompa → bobal, pompe
@@ -3476,6 +3474,7 @@ triciclo → trirroda
 tridente → tridento
 trigo → trego
 trigonometría → trigonometria, trigonometrica
+trilingüe → trilingo
 trilogía → trilogia
 trinchera → trintsera
 tripa → tripa

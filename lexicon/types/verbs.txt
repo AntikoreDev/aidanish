@@ -96,6 +96,7 @@ aprender → aprendei
 aprobar → aprovai
 apuñalar → estavai
 archivo → filei
+arder → burnai
 arrancar → arrantsei
 arrebañar, rebañar → frotsai
 arreglar, reparar → repaire
@@ -147,7 +148,6 @@ blindar → blindai
 bloquear → lokei
 bombardear → bombardai
 borrar → prusai
-arder → burnai
 brillar con luz tenue → glimai
 brillar → briai
 bromear → rusiai
@@ -168,7 +168,6 @@ canjear → prizai
 cansar → infizei
 cantar → qanzei
 captar → kaptai
-deber (expresión) → debei
 capturar → kaptai
 carburar → carburai
 cargar → kargaize
@@ -273,6 +272,7 @@ dar pereza → partsai
 dar → bei
 darse cuenta → indorai
 dañar → daxai, injurai
+deber (expresión) → debei
 deber → dutei
 decepcionar → deteptionei
 decidir → dezei
@@ -850,7 +850,7 @@ tapar → supai
 tardar → egentai
 tejer → beilai
 teletransportar → teleportai
-temblar → gaxei
+temblar → gaxei, atsei
 templar → temperai
 tender → ibsoi
 tener → taine

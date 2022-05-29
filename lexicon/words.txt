@@ -583,6 +583,7 @@ atria
 atrio
 atronei
 atsai
+atsei
 atsoko
 atsoso
 atulipa
@@ -4381,6 +4382,7 @@ pigo
 pigotira
 pika
 pike
+pikla
 piko
 pikoler
 pikolo
@@ -5072,6 +5074,7 @@ saintotela
 saire
 saivai
 sak
+sakiya
 saldo
 sale
 saluto
