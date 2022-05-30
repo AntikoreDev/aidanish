@@ -623,7 +623,7 @@ caballero (hombre) → vero
 caballero (que monta a caballo) → ayette
 caballito de mar → marayato
 caballo → ayato
-cabeza → antsasa. casca
+cabeza → antsasa, casca
 cabina → cabin
 cable → guiro, tokla
 cabra → koato, gate, visco
