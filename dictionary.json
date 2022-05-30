@@ -12747,6 +12747,14 @@
             }
         ]
     },
+    "deducir": {
+        "entries": [
+            {
+                "meaning": "deduktei",
+                "specification": ""
+            }
+        ]
+    },
     "defecto": {
         "entries": [
             {
@@ -32546,7 +32554,7 @@
     "poder": {
         "entries": [
             {
-                "meaning": "pontai",
+                "meaning": "pontai, paidai",
                 "specification": ""
             },
             {
@@ -38535,6 +38543,14 @@
         "entries": [
             {
                 "meaning": "supraxai",
+                "specification": ""
+            }
+        ]
+    },
+    "suponer": {
+        "entries": [
+            {
+                "meaning": "supoi",
                 "specification": ""
             }
         ]

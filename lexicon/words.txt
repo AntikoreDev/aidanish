@@ -1404,6 +1404,7 @@ decalogo
 decima
 decimal
 declaire
+deduktei
 defekto
 defenda
 defendei
@@ -4165,6 +4166,7 @@ pagena
 pai
 paia
 paiai
+paidai
 paidologia
 pailako
 paina
@@ -5323,6 +5325,7 @@ superavit
 superbia
 superbo
 supervisoi
+supoi
 supratela
 supraxai
 suproxei

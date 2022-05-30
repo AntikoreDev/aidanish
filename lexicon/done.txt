@@ -1562,6 +1562,7 @@ decágono
 decálogo
 dedal
 dedo
+deducir
 defecto
 defender
 defensa
@@ -4703,6 +4704,7 @@ superficie
 supervisar
 supervivencia
 suplicar
+suponer
 supto
 sur
 surgimiento

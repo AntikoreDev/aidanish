@@ -1589,6 +1589,7 @@ decágono → decakono
 decálogo → decalogo, decalogette
 dedal → fakro gid
 dedo → gid
+deducir → deduktei
 defecto → defekto
 defender → defendei
 defensa → defenda
@@ -4049,7 +4050,7 @@ poción → potia
 poco a poco → en poco
 poco → piko, poco
 pocos → piko
-poder → pontai
+poder → pontai, paidai
 poder → ponto
 podología → podologia
 podólogo → podologo, podologette
@@ -4796,6 +4797,7 @@ superficie → supratela
 supervisar → supervisoi
 supervivencia → surviva
 suplicar → supraxai
+suponer → supoi
 supto → supto
 sur → sur
 surgimiento → sagetia
