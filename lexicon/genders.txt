@@ -4770,6 +4770,7 @@ ei zonno
 ei utego
 ei filaso
 ei finiko
+ei quete
 ei estretso
 ei forzaioso
 ei siske

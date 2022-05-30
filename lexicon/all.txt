@@ -5324,6 +5324,7 @@ viudo, viuda → viuto
 vivienda → vivaitela
 vivir → vivai
 vivo → vitoso
+vizco → quete
 vocabulario → vokabulatio
 vocal → vokal
 volante (coche) → volante
