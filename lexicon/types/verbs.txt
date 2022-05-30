@@ -234,6 +234,7 @@ conseguir → elokrai
 consentir → conseine
 conservar → conservai
 consolar → consoi
+deducir → deduktei
 constar → constai
 construir → tendai
 contactar → contactai
@@ -677,7 +678,7 @@ pisar → pisoi
 planear (plan) → planoi
 planear (volar) → planeai
 plantar → plantaire
-poder → pontai
+poder → pontai, paidai
 poner → posai
 posar → posei
 poseer → posesai
@@ -838,6 +839,7 @@ sugerir → sugestei
 sujetar → sujei
 suliveyar, encantar → aloi
 sumar → suproxei
+suponer → supoi
 superar → raize
 supervisar → supervisoi
 suplicar → supraxai
