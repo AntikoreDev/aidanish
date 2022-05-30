@@ -1081,6 +1081,8 @@ cinematografica
 cinologia
 circlo
 circloko
+circo
+circus
 citologette
 citologia
 citologo
@@ -6033,6 +6035,7 @@ xiabette
 xiaga
 xiaibela
 xiaibelai
+xiatela
 xicero
 xigro
 xikara

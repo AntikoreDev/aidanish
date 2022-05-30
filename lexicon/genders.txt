@@ -1025,6 +1025,9 @@ ei citologo
 ei citologette
 la ciuta
 la ciutatela
+ei circo
+la circus
+la xiatela
 ei klaritatio
 la klase
 la clasifike
