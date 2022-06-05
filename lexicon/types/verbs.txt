@@ -247,6 +247,7 @@ continuar → enterai, pronkai
 contraer → contraine
 contratar → asignai
 contribuir → contribai
+tributar → tributai
 controlar → controlei
 convalidar → convai, convalidai
 convertir → konversai
@@ -790,6 +791,7 @@ rimar → rimai
 robar → rovai
 rodar → rodai
 romper → rompeire
+peinar → cailai
 rondar → rondai
 rotar → rotai
 rotular → rotulei
