@@ -1907,6 +1907,14 @@
             }
         ]
     },
+    "ala": {
+        "entries": [
+            {
+                "meaning": "vingo, ala",
+                "specification": ""
+            }
+        ]
+    },
     "alargar": {
         "entries": [
             {
@@ -2219,6 +2227,14 @@
         "entries": [
             {
                 "meaning": "aliniai",
+                "specification": ""
+            }
+        ]
+    },
+    "alita de pollo": {
+        "entries": [
+            {
+                "meaning": "acrivingo",
                 "specification": ""
             }
         ]
@@ -2843,6 +2859,22 @@
         "entries": [
             {
                 "meaning": "faldaia",
+                "specification": ""
+            }
+        ]
+    },
+    "ancla": {
+        "entries": [
+            {
+                "meaning": "ancla",
+                "specification": ""
+            }
+        ]
+    },
+    "anclaje": {
+        "entries": [
+            {
+                "meaning": "anclaxo, fixo, anclo",
                 "specification": ""
             }
         ]
@@ -4035,6 +4067,22 @@
             }
         ]
     },
+    "artesano": {
+        "entries": [
+            {
+                "meaning": "artisette",
+                "specification": ""
+            }
+        ]
+    },
+    "artista": {
+        "entries": [
+            {
+                "meaning": "artista, artisette",
+                "specification": ""
+            }
+        ]
+    },
     "artrografía": {
         "entries": [
             {
@@ -4239,6 +4287,14 @@
         "entries": [
             {
                 "meaning": "astato",
+                "specification": ""
+            }
+        ]
+    },
+    "asteroide": {
+        "entries": [
+            {
+                "meaning": "astre",
                 "specification": ""
             }
         ]
@@ -6039,6 +6095,14 @@
             }
         ]
     },
+    "bolso": {
+        "entries": [
+            {
+                "meaning": "poketo",
+                "specification": ""
+            }
+        ]
+    },
     "bolígrafo": {
         "entries": [
             {
@@ -6855,6 +6919,14 @@
             }
         ]
     },
+    "cafetera": {
+        "entries": [
+            {
+                "meaning": "kafetoro",
+                "specification": ""
+            }
+        ]
+    },
     "cafetería": {
         "entries": [
             {
@@ -6927,7 +6999,7 @@
             }
         ]
     },
-    "calabazín": {
+    "calabacín": {
         "entries": [
             {
                 "meaning": "cumba",
@@ -7959,6 +8031,14 @@
             }
         ]
     },
+    "cartulina": {
+        "entries": [
+            {
+                "meaning": "cartula",
+                "specification": ""
+            }
+        ]
+    },
     "cartógrafo": {
         "entries": [
             {
@@ -8155,6 +8235,14 @@
         "entries": [
             {
                 "meaning": "calikso",
+                "specification": ""
+            }
+        ]
+    },
+    "caucho": {
+        "entries": [
+            {
+                "meaning": "ruba",
                 "specification": ""
             }
         ]
@@ -8495,6 +8583,14 @@
             }
         ]
     },
+    "cereal": {
+        "entries": [
+            {
+                "meaning": "zereal",
+                "specification": ""
+            }
+        ]
+    },
     "cerebro": {
         "entries": [
             {
@@ -8806,7 +8902,7 @@
     "chiste": {
         "entries": [
             {
-                "meaning": "zizga",
+                "meaning": "zizga, tsaska",
                 "specification": ""
             }
         ]
@@ -9083,10 +9179,42 @@
             }
         ]
     },
+    "cinta adhesiva": {
+        "entries": [
+            {
+                "meaning": "amerizinto, anazinto, dukte, zelo",
+                "specification": "pegar objetos"
+            }
+        ]
+    },
     "cinta transportadora": {
         "entries": [
             {
                 "meaning": "aconveioro",
+                "specification": ""
+            }
+        ]
+    },
+    "cinturón de asteroides": {
+        "entries": [
+            {
+                "meaning": "astrezinto",
+                "specification": ""
+            }
+        ]
+    },
+    "cinturón de seguridad": {
+        "entries": [
+            {
+                "meaning": "securzinto",
+                "specification": ""
+            }
+        ]
+    },
+    "cinturón": {
+        "entries": [
+            {
+                "meaning": "zinto",
                 "specification": ""
             }
         ]
@@ -9096,6 +9224,30 @@
             {
                 "meaning": "circo, circus, xiatela",
                 "specification": ""
+            }
+        ]
+    },
+    "circuito": {
+        "entries": [
+            {
+                "meaning": "circuito, tsiclo",
+                "specification": "eléctrico"
+            },
+            {
+                "meaning": "circuito, traka",
+                "specification": "carreras"
+            }
+        ]
+    },
+    "pista": {
+        "entries": [
+            {
+                "meaning": "circuito, traka",
+                "specification": "carreras"
+            },
+            {
+                "meaning": "hanta",
+                "specification": "sobre un misterio"
             }
         ]
     },
@@ -10092,6 +10244,10 @@
             {
                 "meaning": "kompleto",
                 "specification": ""
+            },
+            {
+                "meaning": "kalerhundo, sausixa",
+                "specification": ""
             }
         ]
     },
@@ -10871,6 +11027,14 @@
         "entries": [
             {
                 "meaning": "contento",
+                "specification": ""
+            }
+        ]
+    },
+    "conteo": {
+        "entries": [
+            {
+                "meaning": "konto",
                 "specification": ""
             }
         ]
@@ -12080,6 +12244,14 @@
         ]
     },
     "cuenco": {
+        "entries": [
+            {
+                "meaning": "kisa",
+                "specification": ""
+            }
+        ]
+    },
+    "bol": {
         "entries": [
             {
                 "meaning": "kisa",
@@ -19095,6 +19267,14 @@
             }
         ]
     },
+    "frambuesa": {
+        "entries": [
+            {
+                "meaning": "freruba, frambo",
+                "specification": ""
+            }
+        ]
+    },
     "francia": {
         "entries": [
             {
@@ -21911,6 +22091,22 @@
             }
         ]
     },
+    "hot dog": {
+        "entries": [
+            {
+                "meaning": "kalerhundo, sausixa",
+                "specification": ""
+            }
+        ]
+    },
+    "perrito caliente": {
+        "entries": [
+            {
+                "meaning": "kalerhundo, sausixa",
+                "specification": ""
+            }
+        ]
+    },
     "hotel": {
         "entries": [
             {
@@ -23635,6 +23831,14 @@
             }
         ]
     },
+    "kebab": {
+        "entries": [
+            {
+                "meaning": "kebab",
+                "specification": ""
+            }
+        ]
+    },
     "ketchup": {
         "entries": [
             {
@@ -24271,10 +24475,26 @@
             }
         ]
     },
+    "limpiacristales": {
+        "entries": [
+            {
+                "meaning": "likravitro",
+                "specification": ""
+            }
+        ]
+    },
     "limpiador": {
         "entries": [
             {
                 "meaning": "likraoro",
+                "specification": ""
+            }
+        ]
+    },
+    "limpiaparabrisas": {
+        "entries": [
+            {
+                "meaning": "likraparavendo",
                 "specification": ""
             }
         ]
@@ -25227,6 +25447,14 @@
             }
         ]
     },
+    "mamá": {
+        "entries": [
+            {
+                "meaning": "mama",
+                "specification": ""
+            }
+        ]
+    },
     "mancha": {
         "entries": [
             {
@@ -25335,6 +25563,14 @@
         "entries": [
             {
                 "meaning": "manile",
+                "specification": ""
+            }
+        ]
+    },
+    "maniquí": {
+        "entries": [
+            {
+                "meaning": "uperse, maniki",
                 "specification": ""
             }
         ]
@@ -26247,6 +26483,14 @@
             }
         ]
     },
+    "durazno": {
+        "entries": [
+            {
+                "meaning": "apomo",
+                "specification": ""
+            }
+        ]
+    },
     "melografía": {
         "entries": [
             {
@@ -27111,6 +27355,14 @@
             }
         ]
     },
+    "modelo": {
+        "entries": [
+            {
+                "meaning": "model, modelo",
+                "specification": ""
+            }
+        ]
+    },
     "moderador": {
         "entries": [
             {
@@ -27179,6 +27431,14 @@
         "entries": [
             {
                 "meaning": "moldo",
+                "specification": ""
+            }
+        ]
+    },
+    "molde": {
+        "entries": [
+            {
+                "meaning": "molde",
                 "specification": ""
             }
         ]
@@ -30158,7 +30418,7 @@
     "pantalla": {
         "entries": [
             {
-                "meaning": "visaya",
+                "meaning": "visaya, tele",
                 "specification": ""
             }
         ]
@@ -30183,6 +30443,14 @@
         "entries": [
             {
                 "meaning": "pantera",
+                "specification": ""
+            }
+        ]
+    },
+    "papaya": {
+        "entries": [
+            {
+                "meaning": "papaya",
                 "specification": ""
             }
         ]
@@ -30243,6 +30511,14 @@
             }
         ]
     },
+    "papá": {
+        "entries": [
+            {
+                "meaning": "papa",
+                "specification": ""
+            }
+        ]
+    },
     "paquete": {
         "entries": [
             {
@@ -30275,6 +30551,14 @@
         "entries": [
             {
                 "meaning": "paira",
+                "specification": ""
+            }
+        ]
+    },
+    "parabrisas": {
+        "entries": [
+            {
+                "meaning": "paravendo",
                 "specification": ""
             }
         ]
@@ -30987,6 +31271,14 @@
             }
         ]
     },
+    "peinar": {
+        "entries": [
+            {
+                "meaning": "cailai",
+                "specification": ""
+            }
+        ]
+    },
     "peine": {
         "entries": [
             {
@@ -31543,6 +31835,14 @@
             }
         ]
     },
+    "persa": {
+        "entries": [
+            {
+                "meaning": "persa",
+                "specification": ""
+            }
+        ]
+    },
     "perseguir": {
         "entries": [
             {
@@ -32075,6 +32375,14 @@
             }
         ]
     },
+    "piojo": {
+        "entries": [
+            {
+                "meaning": "pioyo",
+                "specification": ""
+            }
+        ]
+    },
     "pipa": {
         "entries": [
             {
@@ -32199,14 +32507,6 @@
             }
         ]
     },
-    "pista": {
-        "entries": [
-            {
-                "meaning": "hanta",
-                "specification": "sobre un misterio"
-            }
-        ]
-    },
     "pista de baile": {
         "entries": [
             {
@@ -32263,6 +32563,14 @@
         "entries": [
             {
                 "meaning": "pinna, anani",
+                "specification": ""
+            }
+        ]
+    },
+    "placa": {
+        "entries": [
+            {
+                "meaning": "plata",
                 "specification": ""
             }
         ]
@@ -35123,6 +35431,14 @@
             }
         ]
     },
+    "recuento": {
+        "entries": [
+            {
+                "meaning": "rekonto",
+                "specification": ""
+            }
+        ]
+    },
     "recuerdo": {
         "entries": [
             {
@@ -36622,7 +36938,7 @@
     "salchicha": {
         "entries": [
             {
-                "meaning": "karnolon",
+                "meaning": "karnolon, sausoxo, soyo",
                 "specification": ""
             }
         ]
@@ -38047,6 +38363,14 @@
         "entries": [
             {
                 "meaning": "soka",
+                "specification": ""
+            }
+        ]
+    },
+    "soja": {
+        "entries": [
+            {
+                "meaning": "soya",
                 "specification": ""
             }
         ]
@@ -39771,6 +40095,14 @@
             }
         ]
     },
+    "testículo": {
+        "entries": [
+            {
+                "meaning": "testiclo, testiculo",
+                "specification": ""
+            }
+        ]
+    },
     "teta": {
         "entries": [
             {
@@ -40134,7 +40466,7 @@
     "tobillo": {
         "entries": [
             {
-                "meaning": "kidna",
+                "meaning": "kidna, anclo",
                 "specification": ""
             }
         ]
@@ -40907,6 +41239,30 @@
             }
         ]
     },
+    "tribu": {
+        "entries": [
+            {
+                "meaning": "tribu",
+                "specification": ""
+            }
+        ]
+    },
+    "tributar": {
+        "entries": [
+            {
+                "meaning": "tributai",
+                "specification": ""
+            }
+        ]
+    },
+    "tributo": {
+        "entries": [
+            {
+                "meaning": "tributo, tribute",
+                "specification": ""
+            }
+        ]
+    },
     "triciclo": {
         "entries": [
             {
@@ -41363,6 +41719,14 @@
         "entries": [
             {
                 "meaning": "texnette",
+                "specification": ""
+            }
+        ]
+    },
+    "término": {
+        "entries": [
+            {
+                "meaning": "termino",
                 "specification": ""
             }
         ]
@@ -43075,6 +43439,14 @@
             }
         ]
     },
+    "yate": {
+        "entries": [
+            {
+                "meaning": "yate",
+                "specification": ""
+            }
+        ]
+    },
     "yegüa": {
         "entries": [
             {
@@ -43103,6 +43475,14 @@
         "entries": [
             {
                 "meaning": "na",
+                "specification": ""
+            }
+        ]
+    },
+    "yogur": {
+        "entries": [
+            {
+                "meaning": "yogur",
                 "specification": ""
             }
         ]
@@ -43350,7 +43730,7 @@
     "ático": {
         "entries": [
             {
-                "meaning": "airgaizera",
+                "meaning": "atike, airgaizera",
                 "specification": ""
             }
         ]

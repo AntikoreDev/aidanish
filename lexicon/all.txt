@@ -235,6 +235,7 @@ ajustar → rikrai
 ajuste → rikro
 al lado de → ensero
 al → aei
+ala → vingo, ala
 alargar → longei
 alarma → alarme
 albania → albanea
@@ -274,6 +275,7 @@ alimento → flomiga, nisingo
 alineación → aliniatio
 alineado → aliniato
 alinear → aliniai
+alita de pollo → acrivingo
 aliviar → alivai
 allí → alie, alan
 alma → anima
@@ -350,6 +352,8 @@ anca → anka, anca
 anchar → faldai
 ancho → faldo
 anchura → faldaia
+ancla → ancla
+anclaje → anclaxo, fixo, anclo
 andador → andaivo
 andar → andaire
 andesita → andesita
@@ -498,6 +502,8 @@ artefacto → artefactum, artefacto
 arteria → arteria, atokla
 arteriografía → arteriografia, arteriografica
 arteriología → arteriologia
+artesano → artisette
+artista → artista, artisette
 artrografía → artrografia, artrografica
 artrología → artrologia
 artículo → articulo, articlo
@@ -524,6 +530,7 @@ aspirar → aspirai
 aspirina → anfluga
 asta → bertsa
 astato → astato
+asteroide → astre
 astil → bertsilo, manga
 astilla → artsa
 astillar → artsai
@@ -751,6 +758,7 @@ bollería → bunaria
 bollo → bollo, bun
 bolsa → baga
 bolsillo → pokete
+bolso → poketo
 bolígrafo → tentaoro
 bomba → bomba
 bombardear → bombardai
@@ -853,6 +861,7 @@ cada → kada
 caducado → expiro
 caducar → expirai
 caer → argai
+cafetera → kafetoro
 cafetería → kafetela, café, cafeteria, kafeteria
 café → kafe
 cagada → mertato
@@ -862,7 +871,8 @@ caja de herramientas → horocuba
 caja fuerte → herrocuba
 caja → cuba
 cala (flor) → belania
-calabazín → cumba
+calaba
+calabacín → cumba
 calamar → kalatrono, kalamo
 calamidad → calamitas
 calavera → antsoarko
@@ -991,6 +1001,7 @@ cartero → leteraette
 cartilla → cartila
 cartografía → cartografia, cartografica
 cartometría → cartometria, cartometrica
+cartulina → cartula
 cartógrafo → cartografette
 cartón → cardo
 casa → kasa, domo
@@ -1015,6 +1026,7 @@ catastrofe → combe
 catorce → dizicatro
 catálogo → catalogo, catalogette
 cauce → calikso
+caucho → ruba
 causa → causa
 causar → causai
 cautivar → kautivai
@@ -1057,6 +1069,7 @@ cera → equa
 cerca → neare
 cerda (pelo) → furro
 cerdo → porko, pigo
+cereal → zereal
 cerebro → mentio
 cereza → roxuba
 cero → zuro
@@ -1095,7 +1108,7 @@ chip → chip
 chismografía → tsismografia, tsismografica
 chispa → kispa
 chispear → kispai
-chiste → zizga
+chiste → zizga, tsaska
 chistera (sombrero de copa) → tsistera
 chocar → bumpai
 chocolate → xouclate
@@ -1130,8 +1143,14 @@ cincografía → cincografia, cincografica
 cincuenta → qincoen
 cinematografía → cinematografia, cinematografica
 cinología → cinologia
+cinta adhesiva (pegar objetos) → amerizinto, anazinto, dukte, zelo
 cinta transportadora → aconveioro
+cinturón de asteroides → astrezinto
+cinturón de seguridad → securzinto
+cinturón → zinto
 circo → circo, circus, xiatela
+circuito (eléctrico) → circuito, tsiclo
+circuito, pista (carreras) → circuito, traka
 circunstancia → zirkuntantia
 ciruela → pluma
 cisne → aista
@@ -1351,6 +1370,7 @@ contar (números o cosas) → kontoi
 contención → containio
 contener → containe, koi
 contenido → contento
+conteo → konto
 contexto → conteksto
 continuar → enterai, pronkai
 continuista → enderizo
@@ -1503,7 +1523,7 @@ cucaracha → mustanekro, mikoro
 cuchara → cuela, boutsara
 cuchillo → akuttere, nivo
 cuello → corlo, pisotsa, otso
-cuenco → kisa
+cuenco, bol → kisa
 cuenta (números) → konta
 cuenta → akanta
 cuerda → resta
@@ -2367,6 +2387,7 @@ fractal → fractal
 fragmentar → fractai
 fragmento → fracto
 frailecillo (animal) → frato
+frambuesa → freruba, frambo
 francia → francea
 francotirador → ardespaire
 francés → francesa
@@ -2720,6 +2741,7 @@ hospitalizar → hospitalai, hopitalai, kuratelai
 hostelero → hostexette
 hostelerías → hosta
 hostia → portona
+hot dog, completo, perrito caliente → kalerhundo, sausixa
 hotel → hostala
 hoy → nauhen
 hueso → hoso
@@ -2933,6 +2955,7 @@ juzgado → jukse
 juzgar → juksei
 júpiter → ivpiter
 kafkiano → kafkiano
+kebab → kebab
 ketchup → ketchup
 kinesiología → kinesiologia
 kinesiólogo → kinesiologo, kinesiologette
@@ -3012,7 +3035,9 @@ lijar → liyare
 limitado → limiteko
 limitar → limitei
 limnología → limnologia
+limpiacristales → likravitro
 limpiador → likraoro
+limpiaparabrisas → likraparavendo
 limpiar → likrai
 limpieza → likratia
 limpio → likraiso
@@ -3131,6 +3156,7 @@ maloliente → heunesle
 mamar → mamaire
 mamografía → mamografia, mamografica
 mamut → mamuz
+mamá → mama
 mancha → zugra
 manchar → zugrai
 mandar → mandai
@@ -3146,6 +3172,7 @@ mania → mania
 manicomio → frikostela, ankratela, frikheiga
 manifiesto → manifesto
 manillar → manile
+maniquí → uperse, maniki
 maniático → maniaco
 mano → man, hano
 mansión → mansio
@@ -3258,7 +3285,7 @@ megáfono → megafono
 mejor → bainodo
 mejorar → bainei
 mellizo → meliza
-melocotón → apomo
+melocotón, durazno → apomo
 melografía → melografia, melografica
 melón → meloko
 meme → meme
@@ -3368,6 +3395,7 @@ mochila → esaibaga
 moco → muco
 moda → siska
 modalidad → modole
+modelo → model, modelo
 moderador → moderaiette
 moderar → moderai
 modificación → modifikatio
@@ -3377,6 +3405,7 @@ modo → modo
 modular → modulai
 mofeta → napesta
 moho → moldo
+molde → molde
 momento → tempeo
 monadología → monadologia
 moneda → pinne
@@ -3748,22 +3777,25 @@ panel de control → controlpanela
 panel → panela
 pansexual → pansexualo
 pansexualidad → pansexualita
-pantalla → visaya
+pantalla → visaya, tele
 pantalón → panto
 pantano → saguala
 pantera → pantera
+papaya → papaya
 papel → pipra
 papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela, zorvero
 papelería → pipratela
 papilla → papila
 papirología → papirologia
 papirólogo → papirologo, papirologette
+papá → papa
 paquete (insulto) → tsusta
 paquete (insulto) → tsusta
 paquete (objeto) → paketara
 paquete → paquete
 par → pare
 para → paira
+parabrisas → paravendo
 paracaídas → paratsute
 paradoxografía → paradoksografia, paradoksografica
 parafilia → parafilia
@@ -3854,6 +3886,7 @@ pegamento → pasta
 pegar → pastai
 pegatina → pastenno
 pegatina → pastika
+peinar → cailai
 peine → cailoro
 pelador de patatas → torkopeler
 pelador → peler
@@ -3922,6 +3955,7 @@ permitir → permisai
 pero → nur
 perpendicular → perpendicular
 perro → doerro, hundo
+persa → persa
 perseguir → prosecai
 perseverancia → persevera
 perseverar → perseverai
@@ -3991,6 +4025,7 @@ pintar → pintei
 pintor → pintette, pinterette
 pintura (cuadro) → pintaia, pikto
 pintura (objeto) → pinta
+piojo → pioyo
 pipa → crutsa
 pira (fuego) → pire
 piragüa → piragua
@@ -4014,6 +4049,7 @@ pizarra (material) → ekurga
 pizza → pizza
 pizzería → pizzatela
 piña → pinna, anani
+placa → plata
 placenta → ecombe
 placer → pleasa
 plaga de justiniano → plaga dai justiniano
@@ -4369,6 +4405,7 @@ rectal → rectal
 recto → recto
 rector → rektor
 recubrimiento, cápsula, protección, trinchera, nido, bunker, guarida → laira
+recuento → rekonto
 recuerdo → rekordo, supte
 recurso → rekurso
 red local → localneta, neta locatako,
@@ -4555,7 +4592,7 @@ sakura, cerezo → roixeral
 sal → sale, sial
 salado → sialato
 salamandra → zirno
-salchicha → karnolon
+salchicha → karnolon, sausoxo, soyo
 saldo → saldo
 salida → evokatela
 saliente → evoke
@@ -4735,6 +4772,7 @@ sociópata → sociopata
 sofrología → sofrologia
 sofrólogo → sofrologo, sofrologette
 soga → soka
+soja → soya
 sol → sol
 solar, parcela → solar, parza
 soldado, guerrero → gerraxette
@@ -4947,6 +4985,7 @@ terror → terura
 terrorista → terurasta
 tesis → tesis
 test (examen) → test
+testículo → testiclo, testiculo
 teta → burra
 tetralogía → tetralogia
 tetronimo → tetronimo
@@ -4993,7 +5032,7 @@ titular → mantse
 tiza → zirra
 toalla → toaia
 toallita → toaita
-tobillo → kidna
+tobillo → kidna, anclo
 tocar → toutsoi
 tocología → tocologia
 tocólogo → tocologo, tocologette
@@ -5092,6 +5131,9 @@ trenza → trence
 tres → triai
 tres → triai
 tribología → tribologia
+tribu → tribu
+tributar → tributai
+tributo → tributo, tribute
 triciclo → trirroda
 tridente → tridento
 trigo → trego
@@ -5149,6 +5191,7 @@ turrón → bengela
 té → tsa
 técnica → texna
 técnico → texnette
+término → termino
 tímpano → timpano
 tío → benpai
 título → titula
@@ -5359,9 +5402,11 @@ xilófono → xelofono
 ya no → nomais
 ya → aia
 yak → yak
+yate → yate
 yegüa → yequa
 yero, algarroba → yero
 yo → na
+yogur → yogur
 yunque → herrunna
 zanahoria → carrota
 zapatilla, zapato → poire
@@ -5391,7 +5436,7 @@ zurdo → zoranno
 árabe → arabeka
 árbol → arbotso
 áspero → coarsa
-ático → airgaizera
+ático → atike, airgaizera
 épico → epikar
 época → elkara
 ética → etika

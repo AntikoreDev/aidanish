@@ -69,6 +69,7 @@ acordeon
 acorrata
 acostumai
 acriko
+acrivingo
 acroa
 actinometria
 actinometrica
@@ -319,6 +320,7 @@ ambientologette
 ambientologo
 ambo
 amerika
+amerizinto
 ametria
 ametrica
 amika
@@ -343,7 +345,11 @@ anarqia
 anarqiko
 anatomopatologette
 anatomopatologo
+anazinto
 anca
+ancla
+anclaxo
+anclo
 andaiata
 andaire
 andaivo
@@ -512,6 +518,8 @@ arteriografica
 arteriologia
 articlo
 articulo
+artisette
+artista
 artrografia
 artrografica
 artrologia
@@ -554,6 +562,8 @@ astaine
 astato
 astei
 asteitela
+astre
+astrezinto
 astro
 astrobiologia
 astrografia
@@ -576,6 +586,7 @@ atela
 atempo
 atendai
 atentio
+atike
 atiko
 atletisma
 atletismo
@@ -944,6 +955,7 @@ cacologia
 cactia
 cafeteria
 café
+cailai
 cailo
 cailoro
 cailoxette
@@ -1030,6 +1042,7 @@ cartometrica
 cartsela
 cartselenko
 cartselette
+cartula
 casca
 casino
 casta
@@ -1083,6 +1096,7 @@ cinologia
 circlo
 circloko
 circo
+circuito
 circus
 citologette
 citologia
@@ -1686,6 +1700,7 @@ dubafala
 dubai
 dubido
 duelo
+dukte
 dula
 dulai
 dultse
@@ -2292,6 +2307,7 @@ fitografica
 fitologia
 fitopatologia
 fitosociologia
+fixo
 fixoa
 fixola
 fixolo
@@ -2388,6 +2404,7 @@ fractal
 fracto
 fraktio
 frakza
+frambo
 francea
 francesa
 fraseologia
@@ -2397,6 +2414,7 @@ frenologette
 frenologia
 frenologo
 frerna
+freruba
 fresa
 freskingo
 fresko
@@ -3072,6 +3090,7 @@ kadro
 kafe
 kafetela
 kafeteria
+kafetoro
 kafkiano
 kaiei
 kailo
@@ -3087,6 +3106,7 @@ kaleire
 kaleirisa
 kalekemno
 kaler
+kalerhundo
 kaleria
 kalerkista
 kalerkoso
@@ -3129,6 +3149,7 @@ katria
 kautivai
 kautivita
 kavaire
+kebab
 keke
 kemeido
 kemir
@@ -3213,6 +3234,7 @@ komuna
 konditia
 konditiai
 konta
+konto
 kontoi
 konversai
 konversaioko
@@ -3382,7 +3404,9 @@ likra
 likrai
 likraiso
 likraoro
+likraparavendo
 likratia
+likravitro
 limite
 limitei
 limiteko
@@ -3500,6 +3524,7 @@ malacologo
 malherbologia
 malira
 mallea
+mama
 mamaire
 mamografia
 mamografica
@@ -3516,6 +3541,7 @@ mania
 maniaco
 manifesto
 maniga
+maniki
 manile
 manraia
 mansio
@@ -3750,6 +3776,8 @@ moana
 moape
 mobila
 moblo
+model
+modelo
 moderai
 moderaiette
 modifikai
@@ -3762,6 +3790,7 @@ modulo
 moi
 mokete
 mola
+molde
 moldo
 moldoi
 moltopara
@@ -4218,6 +4247,7 @@ pansexualo
 pantera
 panto
 papa
+papaya
 papila
 papirologette
 papirologia
@@ -4244,6 +4274,7 @@ parasitologette
 parasitologia
 parasitologo
 paratsute
+paravendo
 pardaire
 pardeyoso
 pardon
@@ -4336,6 +4367,7 @@ permisai
 permiso
 perpendicular
 perpetro
+persa
 persevera
 perseverai
 persiverai
@@ -4415,6 +4447,7 @@ pintaia
 pintei
 pinterette
 pintette
+pioyo
 pipera
 pipra
 piprako
@@ -4458,6 +4491,7 @@ plano
 planoi
 planta
 plantaire
+plata
 plataforma
 platintso
 plato
@@ -4487,6 +4521,7 @@ poitexo
 poitsa
 poitsire
 pokete
+poketo
 polaka
 polakia
 polare
@@ -4891,6 +4926,7 @@ reklui
 rekluido
 rekluso
 rekoixei
+rekonto
 rekord
 rekordai
 rekordo
@@ -5049,6 +5085,7 @@ rovo
 roxo
 roxomelo
 roxuba
+ruba
 ruby
 rumorologia
 runge
@@ -5097,6 +5134,8 @@ sarjento
 satiable
 satiarei
 saturno
+sausixa
+sausoxo
 sauza
 savakato
 savaxo
@@ -5105,6 +5144,7 @@ sebrutsa
 secur
 securitatia
 securo
+securzinto
 seda
 sedai
 sedara
@@ -5281,6 +5321,8 @@ sotaine
 sotenai
 soteno
 soteriologia
+soya
+soyo
 sozial
 sozialei
 sozialneta
@@ -5415,6 +5457,7 @@ teknografia
 teknografica
 teknologette
 teknologo
+tele
 telefono
 telefotografia
 telefotografica
@@ -5455,6 +5498,7 @@ terke
 termalo
 terminal
 terminatela
+termino
 terminologette
 terminologia
 terminologo
@@ -5490,6 +5534,8 @@ testa
 testai
 teste
 testei
+testiclo
+testiculo
 testifica
 testo
 tetero
@@ -5588,6 +5634,7 @@ trai
 traia
 traine
 traire
+traka
 tramitologia
 transcriba
 transcribei
@@ -5637,6 +5684,10 @@ triaien
 triaix
 trianglo
 tribologia
+tribu
+tributai
+tribute
+tributo
 tridento
 trigonometria
 trigonometrica
@@ -5695,6 +5746,7 @@ tsargai
 tsargo
 tsarisma
 tsarismatiko
+tsaska
 tselo
 tseno
 tseqai
@@ -5702,6 +5754,7 @@ tseqe
 tsesako
 tsesei
 tseso
+tsiclo
 tsile
 tsimeneia
 tsimitsanga
@@ -5802,6 +5855,7 @@ unyoiko
 unzuna
 unzunai
 uperisato
+uperse
 uranio
 urano
 uranografia
@@ -5936,6 +5990,7 @@ vigo
 vih
 vila
 vinagra
+vingo
 vinilo
 vino
 vinotela
@@ -6069,6 +6124,7 @@ yarizboto
 yaro
 yaroia
 yaroko
+yate
 yege
 yequa
 yera
@@ -6078,6 +6134,7 @@ yeveire
 yiga
 yigai
 yigoiko
+yogur
 yoi
 yoiko
 yoixo
@@ -6099,12 +6156,14 @@ zar
 zarra
 zebra
 zegor
+zelo
 zentrei
 zentrifugai
 zentrifugaioro
 zentro
 zentso
 zer
+zereal
 zertente
 zerto
 zetro
@@ -6117,6 +6176,7 @@ zimisyoixo
 zincografia
 zincografica
 zintaire
+zinto
 zirkuntantia
 zirno
 zirra
