@@ -260,6 +260,7 @@ alemania → duxlan
 alemán → duxlano
 alergología → alergologia
 alergólogo → alergologo, alergologette
+aleta → fina
 alfajor → almodratso
 alfombra → corta
 algo → akoixa
@@ -558,6 +559,7 @@ atención → atentio
 atender → atendai
 aterrar → terrai, escarai
 aterrorizar → terurai
+atleta → atlette
 atletismo → atletisma, atletismo
 atornillar → exkrabaire
 atrapado → zentso
@@ -818,6 +820,7 @@ bufanda → bunfaza
 bufón → bulanere, xiabette
 buitre → xikorra, vorle
 buque → buqe, dunko
+burca → burca, burka
 burgo → burge
 burla → bula, vanka
 burlar → bulai
@@ -1112,6 +1115,7 @@ chiste → zizga, tsaska
 chistera (sombrero de copa) → tsistera
 chocar → bumpai
 chocolate → xouclate
+choque → bumpo
 chuche, caramelo → dultsina
 chupada → lika
 chupar → likai
@@ -1421,6 +1425,7 @@ cortar → akutai
 corte → kuta
 corto → coto
 cosa → koixa
+coscorro (pan) → apatsa, apa, britango
 cosecha → cropo
 cosechar, cultivar → cropai, aznai
 coseno → cosino, coseno
@@ -1435,6 +1440,7 @@ costa → koasta
 costar (precio) → kostei
 costar (tiempo) → xitempoi
 costilla → crustela
+costo, coste → koste
 costra → ruxga
 costumbre → costume
 costura → ehelo
@@ -1506,6 +1512,7 @@ cualquiera, cualquier persona → eperso, eixam
 cuando → conde
 cuanto → qanto
 cuarenta → catroen
+cuartel → quartel
 cuarteto → qarteto
 cuarto (habitación) → itela
 cuarto (tiempo o matemáticas) → quarto
@@ -1534,7 +1541,7 @@ cuestión → kuastion
 cueva → encova, erga
 cuidado → culda
 cuidar → culdei
-culo → anusa
+culo → anusa, bango
 culpa → riaxa
 culpable → riaxeso
 culpar → riaxai
@@ -1955,6 +1962,7 @@ emocionar (emoción) → emozai
 emoción (emocionar) → emozio
 emoción (sentimiento) → emotia
 emotivo → emotivo
+empacar, empaquetar → paketai
 empalmar → apalmai
 empalme → apalme
 empanada → ebritaita
@@ -2015,6 +2023,8 @@ enfermedad → ebila
 enfermero → ebilaxette
 enfermería → ebilatela
 enfermo → ebilo
+enfocar → focai
+enfoque → foca
 enfrente → imfranto
 enfriamiento → aigeisa
 enfriar → aigei
@@ -2120,6 +2130,9 @@ espada → raiyoa, suarda
 espadaña → dragonkane
 espagueti → espageti
 espalda → betranno
+espantapájaros → escorraco
+espantar → escorrai
+espanto → escorro
 esparto → esparto
 españa → espanna
 español → espannol
@@ -2356,6 +2369,7 @@ fluir → flogai
 fluorimetría → fluorimetria, fluorimetrica
 fobia → fobia
 foca → purra
+foco → foco
 fogata → fogo
 folclore → folklore
 follar → folai, sukai
@@ -2471,6 +2485,7 @@ gasometría → gasometria, gasometrica
 gastar → gastai
 gastroenterología → gastroenterologia
 gastroenterólogo → gastroenterologo, gastroenterologette
+gatillo → triyo
 gato (animal) → kato
 gato (herramienta) → criketa
 gato montés → savakato
@@ -2620,7 +2635,7 @@ hacia → haiza
 hackear → hackei
 hada → farura
 hagiografía → hagiografia, hagiografica
-halcón → halokun
+halcón → halokun, falcon, falco
 hallowen → halloween
 hambre → zugra, fame
 hambriento → fameno
@@ -2876,6 +2891,7 @@ intelectual → intelektualo
 intencional → intentiente
 intención → intentio
 intentar → trei
+intento → tre
 interesante → interesanta
 interesar → interesai
 internet → interneta
@@ -3032,6 +3048,8 @@ ligero → lito
 ligre → leogra
 lija → liya, afile
 lijar → liyare
+lima (color) → lima, lime
+lima (fruta) → lima
 limitado → limiteko
 limitar → limitei
 limnología → limnologia
@@ -3056,6 +3074,7 @@ literatura → literatia
 litofotografía → litofotografia, litofotografica
 litografía → litografia, litografica
 litología → litologia
+litoral → litoral, litora, inkoastatela
 litólogo → litologo, litologette
 llaga, pupa → yaga, yege
 llama (animal) → lama
@@ -3480,6 +3499,8 @@ musicólogo → musicologo, musicologette
 mutar → mutai
 muy cerrado, casi sin ventanas o puertas → zakerro
 muy → moi
+muñeca (brazo) → intso
+muñeco, muñeca (objeto) → doli, clutso
 mágica → magika
 máquina → matsina
 más → mais
@@ -3875,7 +3896,7 @@ pañuelo → pannola
 pecado → xina
 pecar → xinai
 pecera → pesketela
-pecho → korata
+pecho, torso → korata
 pechuga → same
 pedido → orden
 pedir → precai
@@ -4291,6 +4312,7 @@ pulgada → pulgada
 pulida → polita
 pulmón → polmona
 pulpo → pulpusa
+pulsera → intsina
 puma → pambo
 punto de mira, diana → nesiga
 punto → punto
@@ -4307,6 +4329,7 @@ pájaro → payoa, caco
 párpado → exore
 párrafo → parrafo
 péndulo → pendulo
+pértiga → felto
 pícido, pájaro carpintero → madraco, pincano, picide
 pórtico → portecum
 público → publiko
@@ -4558,6 +4581,7 @@ rozar → rotsai
 rubí → ruby
 rudo → bardo
 rueda → roda
+ruido → noiso, ruido
 ruidoso → audixoso
 rumano → romaneo
 rumanía → romanea
@@ -4716,6 +4740,7 @@ sicopatología → sicopatologia
 sicosociología → sicosociologia
 sicosociólogo → sicosociologo, sicosociologette
 sicólogo → sicologo, sicologette
+sidra → cidra, sidra, sider
 siempre → ertsai
 sierra → xerra
 siete → septo
@@ -4753,6 +4778,7 @@ sistema solar → solarsistema
 sistema → sistema
 sitiar → sitei
 situación en la que una persona es vigilada por la posibilidad de que sea un criminal / situación de grave peligro de caza, captura o asesinato → hepsis
+slime → limo, eslimo, eslime, slime, slimo
 soberbia → superbia
 soberbio → superbo
 sobre → airo, overa
@@ -4932,11 +4958,13 @@ tela → ila
 telar → ilaoro
 telefotografía → telefotografia, telefotografica
 telegrafía → telegrafia, telegrafica
+telekinesis → telekinetis, telekinesis
 telemetría → telemetria, telemetrica
 teleología → teleologia
 telescopio → telescope
 teletransportar → teleportai
-televisión → televisoi
+teletransporte → teleporte
+televisión, televisor → televisoi
 teléfono → telefono
 tema → subyecto
 temblar → gaxei, atsei
@@ -4981,8 +5009,9 @@ terremoto → terraxatai
 terrenal → terranal
 terreno → terranno
 territorio → territoria
-terror → terura
-terrorista → terurasta
+terror → terura, terrura
+terrorista → terurasta, terrurasta
+terrorífico → terruo, teruo
 tesis → tesis
 test (examen) → test
 testículo → testiclo, testiculo
@@ -4993,9 +5022,11 @@ texto zalgo → zalgo
 texto → izkrebo
 teñir → tentai
 teólogo → teologo, teologette
+tibio → templa
 tiburón → tsonder, esqalo
 ticket → tike, tiqe, ticket
 tiempo (clima) → vedo
+tiempo libre → xiatempo, oziotempo, ociotempo
 tiempo → tempo
 tienda → kompraitela
 tierno → aile
@@ -5254,6 +5285,7 @@ valor (tener fuerza de voluntad) → valia
 valor (valor de algo) → valua
 valorado → valuako
 valorar → valuai
+vanidad → vanita
 variable → variable
 variar → varei
 varios → eixamete, vari
@@ -5338,6 +5370,7 @@ viejo, anciano → igerne, oko
 viento → vendo
 vientre → vintre
 viernes → vernia
+viga → felton, ferra
 vih → vih
 villa → vila
 vinagre → vinagra
@@ -5370,6 +5403,7 @@ vivo → vitoso
 vizco → quete
 vocabulario → vokabulatio
 vocal → vokal
+vocina → vocine
 volante (coche) → volante
 volante (papel) → piprako
 volar → blai

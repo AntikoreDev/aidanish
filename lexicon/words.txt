@@ -436,11 +436,13 @@ anxia
 anyel
 aonatei
 aonatia
+apa
 apalmai
 apalme
 apare
 aparezei
 aparezeitio
+apatsa
 apeadela
 apeire
 apero
@@ -590,6 +592,7 @@ atike
 atiko
 atletisma
 atletismo
+atlette
 atokla
 atria
 atrio
@@ -705,6 +708,7 @@ banana
 banda
 bande
 bandei
+bango
 bankexette
 banko
 banqete
@@ -924,6 +928,7 @@ bulai
 bulanere
 bulba
 bumpai
+bumpo
 bun
 bunaria
 bunfaza
@@ -932,9 +937,11 @@ buntsai
 buntso
 bunyo
 buqe
+burca
 burge
 burgesa
 burgua
+burka
 burlo
 burnai
 burra
@@ -1076,6 +1083,7 @@ cetro
 chat
 chatei
 chip
+cidra
 cienciologette
 cienciologo
 cientsa
@@ -1117,6 +1125,7 @@ clire
 cloro
 cloroforme
 clugra
+clutso
 coarsa
 coarsai
 cocaina
@@ -1660,6 +1669,7 @@ dokumento
 dolar
 dole
 dolei
+doli
 dolido
 dolo
 domestixo
@@ -1974,6 +1984,9 @@ escenografica
 esceptor
 escimitarra
 escorpio
+escorraco
+escorrai
+escorro
 escroto
 escua
 escuadra
@@ -2006,6 +2019,8 @@ eslavo
 eslei
 esleia
 esleiner
+eslime
+eslimo
 eslo
 esmarei
 esmareitela
@@ -2221,6 +2236,8 @@ faitai
 fakro
 fala
 falai
+falco
+falcon
 faldai
 faldaia
 faldo
@@ -2249,6 +2266,8 @@ fazilo
 febrero
 fecta
 felisa
+felto
+felton
 feltro
 femenine
 fenologia
@@ -2257,6 +2276,7 @@ fenomenologia
 fenomenologo
 fenza
 ferna
+ferra
 festa
 festai
 fetixa
@@ -2283,6 +2303,7 @@ filologia
 filosofette
 filosofia
 fin
+fina
 finale
 finalei
 finaolexo
@@ -2339,6 +2360,9 @@ fluorimetria
 fluorimetrica
 fluta
 fobia
+foca
+focai
+foco
 fogo
 fokai
 foke
@@ -2944,6 +2968,7 @@ injisai
 injise
 injurai
 inklinai
+inkoastatela
 inkorrektoko
 inmortal
 inmuno
@@ -2979,6 +3004,8 @@ intro
 introverto
 intrudai
 intrudo
+intsina
+intso
 invernadero
 invikso
 invitatio
@@ -3254,6 +3281,7 @@ korrektoko
 korruptio
 kosovo
 kosta
+koste
 kostei
 kotse
 kotsira
@@ -3407,10 +3435,13 @@ likraoro
 likraparavendo
 likratia
 likravitro
+lima
+lime
 limite
 limitei
 limiteko
 limnologia
+limo
 limusina
 linia
 linke
@@ -3435,6 +3466,8 @@ litografica
 litologette
 litologia
 litologo
+litora
+litoral
 liya
 liyare
 llamai
@@ -3981,6 +4014,7 @@ nizagal
 nnordo
 noforma
 nograi
+noiso
 nokoi
 nokoixa
 nokpo
@@ -4039,6 +4073,7 @@ obskuro
 oceanografia
 oceanografica
 ocio
+ociotempo
 octambo
 octo
 octoen
@@ -4187,6 +4222,7 @@ ozeno
 ozenore
 ozenoso
 ozio
+oziotempo
 ozone
 pacenza
 pacto
@@ -4208,6 +4244,7 @@ paiseko
 paize
 paizo
 pakano
+paketai
 paketara
 pal
 palabra
@@ -4811,6 +4848,7 @@ quai
 quaro
 quaroi
 quartada
+quartel
 quarto
 quasar
 quatroda
@@ -5087,6 +5125,7 @@ roxomelo
 roxuba
 ruba
 ruby
+ruido
 rumorologia
 runge
 rungia
@@ -5231,6 +5270,8 @@ sicopatologia
 sicosociologette
 sicosociologia
 sicosociologo
+sider
+sidra
 siet
 sieva
 sievai
@@ -5280,6 +5321,8 @@ sistema
 sitei
 siteiko
 sivera
+slime
+slimo
 so
 soblasnei
 sociobiologette
@@ -5463,16 +5506,20 @@ telefotografia
 telefotografica
 telegrafia
 telegrafica
+telekinesis
+telekinetis
 telemetria
 telemetrica
 teleologia
 teleportai
+teleporte
 telescope
 televisoi
 tempeo
 tempera
 temperai
 tempero
+templa
 templo
 tempo
 tempora
@@ -5524,6 +5571,10 @@ terraxatai
 terraztela
 territoria
 terro
+terruo
+terrura
+terrurasta
+teruo
 terura
 terurai
 terurasta
@@ -5675,6 +5726,7 @@ travaxo
 traxhia
 traza
 trazai
+tre
 trego
 trei
 trena
@@ -5710,6 +5762,7 @@ tritso
 trituoro
 tritura
 trituroi
+triyo
 tro
 trofologette
 trofologia
@@ -5917,6 +5970,7 @@ vanaize
 vando
 vanga
 vangai
+vanita
 vanka
 vao
 varei
@@ -6038,6 +6092,7 @@ vivai
 vivaitela
 vixe
 vixei
+vocine
 voitai
 vokabulatio
 vokal
@@ -6096,6 +6151,7 @@ xiaga
 xiaibela
 xiaibelai
 xiatela
+xiatempo
 xicero
 xigro
 xikara

@@ -2103,6 +2103,14 @@
             }
         ]
     },
+    "aleta": {
+        "entries": [
+            {
+                "meaning": "fina",
+                "specification": ""
+            }
+        ]
+    },
     "alfajor": {
         "entries": [
             {
@@ -4511,6 +4519,14 @@
             }
         ]
     },
+    "atleta": {
+        "entries": [
+            {
+                "meaning": "atlette",
+                "specification": ""
+            }
+        ]
+    },
     "atletismo": {
         "entries": [
             {
@@ -6571,6 +6587,14 @@
         "entries": [
             {
                 "meaning": "buqe, dunko",
+                "specification": ""
+            }
+        ]
+    },
+    "burca": {
+        "entries": [
+            {
+                "meaning": "burca, burka",
                 "specification": ""
             }
         ]
@@ -8927,6 +8951,14 @@
         "entries": [
             {
                 "meaning": "xouclate",
+                "specification": ""
+            }
+        ]
+    },
+    "choque": {
+        "entries": [
+            {
+                "meaning": "bumpo",
                 "specification": ""
             }
         ]
@@ -11431,6 +11463,14 @@
             }
         ]
     },
+    "coscorro": {
+        "entries": [
+            {
+                "meaning": "apatsa, apa, britango",
+                "specification": "pan"
+            }
+        ]
+    },
     "cosecha": {
         "entries": [
             {
@@ -11543,6 +11583,26 @@
         "entries": [
             {
                 "meaning": "crustela",
+                "specification": ""
+            }
+        ]
+    },
+    "costo": {
+        "entries": [
+            {
+                "meaning": "koste",
+                "specification": ""
+            }
+        ]
+    },
+    "coste": {
+        "entries": [
+            {
+                "meaning": "koste",
+                "specification": ""
+            },
+            {
+                "meaning": "kosta",
                 "specification": ""
             }
         ]
@@ -12119,6 +12179,14 @@
             }
         ]
     },
+    "cuartel": {
+        "entries": [
+            {
+                "meaning": "quartel",
+                "specification": ""
+            }
+        ]
+    },
     "cuarteto": {
         "entries": [
             {
@@ -12338,7 +12406,7 @@
     "culo": {
         "entries": [
             {
-                "meaning": "anusa",
+                "meaning": "anusa, bango",
                 "specification": ""
             }
         ]
@@ -15751,6 +15819,22 @@
             }
         ]
     },
+    "empacar": {
+        "entries": [
+            {
+                "meaning": "paketai",
+                "specification": ""
+            }
+        ]
+    },
+    "empaquetar": {
+        "entries": [
+            {
+                "meaning": "paketai",
+                "specification": ""
+            }
+        ]
+    },
     "empalmar": {
         "entries": [
             {
@@ -16227,6 +16311,22 @@
         "entries": [
             {
                 "meaning": "ebilo",
+                "specification": ""
+            }
+        ]
+    },
+    "enfocar": {
+        "entries": [
+            {
+                "meaning": "focai",
+                "specification": ""
+            }
+        ]
+    },
+    "enfoque": {
+        "entries": [
+            {
+                "meaning": "foca",
                 "specification": ""
             }
         ]
@@ -17115,6 +17215,30 @@
         "entries": [
             {
                 "meaning": "betranno",
+                "specification": ""
+            }
+        ]
+    },
+    "espantapájaros": {
+        "entries": [
+            {
+                "meaning": "escorraco",
+                "specification": ""
+            }
+        ]
+    },
+    "espantar": {
+        "entries": [
+            {
+                "meaning": "escorrai",
+                "specification": ""
+            }
+        ]
+    },
+    "espanto": {
+        "entries": [
+            {
+                "meaning": "escorro",
                 "specification": ""
             }
         ]
@@ -19019,6 +19143,14 @@
             }
         ]
     },
+    "foco": {
+        "entries": [
+            {
+                "meaning": "foco",
+                "specification": ""
+            }
+        ]
+    },
     "fogata": {
         "entries": [
             {
@@ -19923,6 +20055,14 @@
         "entries": [
             {
                 "meaning": "gastroenterologo, gastroenterologette",
+                "specification": ""
+            }
+        ]
+    },
+    "gatillo": {
+        "entries": [
+            {
+                "meaning": "triyo",
                 "specification": ""
             }
         ]
@@ -21106,7 +21246,7 @@
     "halcón": {
         "entries": [
             {
-                "meaning": "halokun",
+                "meaning": "halokun, falcon, falco",
                 "specification": ""
             }
         ]
@@ -23191,6 +23331,14 @@
             }
         ]
     },
+    "intento": {
+        "entries": [
+            {
+                "meaning": "tre",
+                "specification": ""
+            }
+        ]
+    },
     "interesante": {
         "entries": [
             {
@@ -24451,6 +24599,18 @@
             }
         ]
     },
+    "lima": {
+        "entries": [
+            {
+                "meaning": "lima, lime",
+                "specification": "color"
+            },
+            {
+                "meaning": "lima",
+                "specification": "fruta"
+            }
+        ]
+    },
     "limitado": {
         "entries": [
             {
@@ -24635,6 +24795,14 @@
         "entries": [
             {
                 "meaning": "litologia",
+                "specification": ""
+            }
+        ]
+    },
+    "litoral": {
+        "entries": [
+            {
+                "meaning": "litoral, litora, inkoastatela",
                 "specification": ""
             }
         ]
@@ -28035,6 +28203,26 @@
             }
         ]
     },
+    "muñeca": {
+        "entries": [
+            {
+                "meaning": "intso",
+                "specification": "brazo"
+            },
+            {
+                "meaning": "doli, clutso",
+                "specification": "objeto"
+            }
+        ]
+    },
+    "muñeco": {
+        "entries": [
+            {
+                "meaning": "doli, clutso",
+                "specification": "objeto"
+            }
+        ]
+    },
     "mágica": {
         "entries": [
             {
@@ -31195,6 +31383,14 @@
             }
         ]
     },
+    "torso": {
+        "entries": [
+            {
+                "meaning": "korata",
+                "specification": ""
+            }
+        ]
+    },
     "pechuga": {
         "entries": [
             {
@@ -33415,14 +33611,6 @@
             }
         ]
     },
-    "coste": {
-        "entries": [
-            {
-                "meaning": "kosta",
-                "specification": ""
-            }
-        ]
-    },
     "precioso": {
         "entries": [
             {
@@ -34503,6 +34691,14 @@
             }
         ]
     },
+    "pulsera": {
+        "entries": [
+            {
+                "meaning": "intsina",
+                "specification": ""
+            }
+        ]
+    },
     "puma": {
         "entries": [
             {
@@ -34627,6 +34823,14 @@
         "entries": [
             {
                 "meaning": "pendulo",
+                "specification": ""
+            }
+        ]
+    },
+    "pértiga": {
+        "entries": [
+            {
+                "meaning": "felto",
                 "specification": ""
             }
         ]
@@ -36655,6 +36859,14 @@
             }
         ]
     },
+    "ruido": {
+        "entries": [
+            {
+                "meaning": "noiso, ruido",
+                "specification": ""
+            }
+        ]
+    },
     "ruidoso": {
         "entries": [
             {
@@ -37899,6 +38111,14 @@
             }
         ]
     },
+    "sidra": {
+        "entries": [
+            {
+                "meaning": "cidra, sidra, sider",
+                "specification": ""
+            }
+        ]
+    },
     "siempre": {
         "entries": [
             {
@@ -38211,6 +38431,14 @@
         "entries": [
             {
                 "meaning": "hepsis",
+                "specification": ""
+            }
+        ]
+    },
+    "slime": {
+        "entries": [
+            {
+                "meaning": "limo, eslimo, eslime, slime, slimo",
                 "specification": ""
             }
         ]
@@ -39659,6 +39887,14 @@
             }
         ]
     },
+    "telekinesis": {
+        "entries": [
+            {
+                "meaning": "telekinetis, telekinesis",
+                "specification": ""
+            }
+        ]
+    },
     "telemetría": {
         "entries": [
             {
@@ -39691,7 +39927,23 @@
             }
         ]
     },
+    "teletransporte": {
+        "entries": [
+            {
+                "meaning": "teleporte",
+                "specification": ""
+            }
+        ]
+    },
     "televisión": {
+        "entries": [
+            {
+                "meaning": "televisoi",
+                "specification": ""
+            }
+        ]
+    },
+    "televisor": {
         "entries": [
             {
                 "meaning": "televisoi",
@@ -40074,7 +40326,7 @@
     "terror": {
         "entries": [
             {
-                "meaning": "terura",
+                "meaning": "terura, terrura",
                 "specification": ""
             }
         ]
@@ -40082,7 +40334,15 @@
     "terrorista": {
         "entries": [
             {
-                "meaning": "terurasta",
+                "meaning": "terurasta, terrurasta",
+                "specification": ""
+            }
+        ]
+    },
+    "terrorífico": {
+        "entries": [
+            {
+                "meaning": "terruo, teruo",
                 "specification": ""
             }
         ]
@@ -40159,6 +40419,14 @@
             }
         ]
     },
+    "tibio": {
+        "entries": [
+            {
+                "meaning": "templa",
+                "specification": ""
+            }
+        ]
+    },
     "tiburón": {
         "entries": [
             {
@@ -40183,6 +40451,14 @@
             },
             {
                 "meaning": "tempo",
+                "specification": ""
+            }
+        ]
+    },
+    "tiempo libre": {
+        "entries": [
+            {
+                "meaning": "xiatempo, oziotempo, ociotempo",
                 "specification": ""
             }
         ]
@@ -42227,6 +42503,14 @@
             }
         ]
     },
+    "vanidad": {
+        "entries": [
+            {
+                "meaning": "vanita",
+                "specification": ""
+            }
+        ]
+    },
     "variable": {
         "entries": [
             {
@@ -42907,6 +43191,14 @@
             }
         ]
     },
+    "viga": {
+        "entries": [
+            {
+                "meaning": "felton, ferra",
+                "specification": ""
+            }
+        ]
+    },
     "vih": {
         "entries": [
             {
@@ -43167,6 +43459,14 @@
         "entries": [
             {
                 "meaning": "vokal",
+                "specification": ""
+            }
+        ]
+    },
+    "vocina": {
+        "entries": [
+            {
+                "meaning": "vocine",
                 "specification": ""
             }
         ]

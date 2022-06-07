@@ -12,11 +12,7 @@ ei andorreo
 la angola
 ei angolaneo
 ei antiguaneo
-ei uperse
-la maniki
 la antartika
-la artista
-la artisette
 la argelia
 ei argelineo
 la argentia
@@ -74,7 +70,6 @@ la madrid
 la mairte
 la martia
 la marzea
-la artisette
 ei maio
 ei xeitore
 ei mosku
@@ -249,6 +244,8 @@ la aer
 ei garlo
 ei ajolote
 ei rikro
+ei vingo
+la ala
 la alarme
 la albinisma
 ei albino
@@ -269,6 +266,7 @@ la aibe
 la alergologia
 ei alergologo
 ei alergologette
+la fina
 ei almodratso
 la corta
 ei flomo
@@ -276,6 +274,7 @@ ei nisigo
 la flomiga
 ei nisingo
 ei aliniatio
+ei acrivingo
 la anima
 ei esmariun
 ei esmaretio
@@ -332,6 +331,10 @@ ei anatomopatologette
 la anka
 la anca
 la faldaia
+la ancla
+ei anclaxo
+ei fixo
+ei anclo
 ei andaivo
 la andesita
 ei androido
@@ -451,6 +454,9 @@ la atokla
 la arteriografia
 la arteriografica
 la arteriologia
+la artisette
+la artista
+la artisette
 la artrografia
 la artrografica
 la artrologia
@@ -475,6 +481,7 @@ ei aspiraoro
 la anfluga
 la bertsa
 ei astato
+la astre
 ei bertsilo
 la manga
 la artsa
@@ -496,6 +503,7 @@ la atakte
 la atake
 la tarena
 ei atentio
+la atlette
 la atletisma
 ei atletismo
 ei lekteoro
@@ -673,8 +681,8 @@ la bunaria
 ei bollo
 ei bun
 la baga
-ei poketo
 ei pokete
+ei poketo
 ei tentaoro
 la bomba
 ei bombardoro
@@ -720,6 +728,8 @@ la xikorra
 ei vorle
 ei buqe
 ei dunko
+la burca
+la burka
 ei burge
 la bula
 la vanka
@@ -760,11 +770,11 @@ la cacografica
 la cacologia
 la cactia
 la kada
+ei kafetoro
 la kafetela
 la café
 la cafeteria
 la kafeteria
-ei kafetoro
 la kafe
 ei mertato
 la arga
@@ -872,7 +882,6 @@ ei carburo
 la karbona
 la cocola
 la qiava
-la cartula
 la cartselette
 ei caugo
 la carcinologia
@@ -903,6 +912,7 @@ la cartografia
 la cartografica
 la cartometria
 la cartometrica
+la cartula
 la cartografette
 ei cardo
 la kasa
@@ -963,9 +973,9 @@ la equa
 ei furro
 ei porko
 ei pigo
+la zereal
 ei mentio
 la roxuba
-la zereal
 ei zuro
 la klavika
 la klavikette
@@ -1000,6 +1010,7 @@ la zizga
 la tsaska
 la tsistera
 ei xouclate
+ei bumpo
 la dultsina
 la lika
 la ciklisma
@@ -1028,31 +1039,30 @@ la cincografica
 la cinematografia
 la cinematografica
 la cinologia
-ei aconveioro
-la zirkuntantia
-la pluma
-la aista
-ei circuito
-la traka
-ei circuito
-ei tsiclo
-la cesterna
-la citologia
-ei citologo
-ei citologette
-ei zinto
-ei astrezinto
-la astre
-ei securzinto
 ei amerizinto
 ei anazinto
 ei dukte
 ei zelo
-la ciuta
-la ciutatela
+ei aconveioro
+ei astrezinto
+ei securzinto
+ei zinto
 ei circo
 la circus
 la xiatela
+ei circuito
+ei tsiclo
+ei circuito
+la traka
+la zirkuntantia
+la pluma
+la aista
+la cesterna
+la citologia
+ei citologo
+ei citologette
+la ciuta
+la ciutatela
 ei klaritatio
 la klase
 la clasifike
@@ -1199,6 +1209,7 @@ ei drigatio
 ei polutio
 ei containio
 ei contento
+ei konto
 ei conteksto
 ei codivorto
 ei contribe
@@ -1206,9 +1217,6 @@ ei control
 ei pairetio
 ei konversio
 ei cope
-ei tribu
-ei tributo
-ei tribute
 la kopea
 ei cope
 la coprologia
@@ -1238,6 +1246,9 @@ ei korruptio
 ei kutoro
 la kuta
 la koixa
+la apatsa
+la apa
+ei britango
 ei cropo
 ei cosino
 ei coseno
@@ -1254,6 +1265,7 @@ ei tiko
 ei tikle
 la koasta
 la crustela
+ei koste
 la ruxga
 ei costume
 ei ehelo
@@ -1319,6 +1331,7 @@ ei qatrato
 ei kadro
 ei qatratiko
 la griya
+ei quartel
 ei qarteto
 la itela
 ei quarto
@@ -1348,6 +1361,7 @@ la encova
 la erga
 la culda
 la anusa
+ei bango
 la riaxa
 ei kultivo
 ei culto
@@ -1539,13 +1553,6 @@ ei desparo
 la disva
 la disposa
 ei alitaro
-ei vingo
-la ala
-ei acrivingo
-la kebab
-ei kalerhundo
-la sausixa
-ei yogur
 ei diskete
 la disrupta
 ei disruptor
@@ -1657,6 +1664,7 @@ ei rutsu
 la ebila
 la ebilaxette
 la ebilatela
+la foca
 la aigeisa
 la lerra
 la giar
@@ -1720,7 +1728,6 @@ la furrisa
 la eskolta
 ei busterre
 ei buste
-ei pioyo
 ei escorpio
 ei eskozo
 la izkriba
@@ -1741,6 +1748,8 @@ la suarda
 la dragonkane
 la espageti
 ei betranno
+ei escorraco
+ei escorro
 ei esparto
 la espezialitata
 ei espekteixette
@@ -1942,6 +1951,7 @@ la fluorimetria
 la fluorimetrica
 la fobia
 la purra
+ei foco
 ei fogo
 ei folklore
 ei fondo
@@ -1976,6 +1986,8 @@ ei fraktio
 la fractal
 ei fracto
 ei frato
+la freruba
+ei frambo
 la ardespaire
 la zance
 la fraseologia
@@ -2051,6 +2063,7 @@ la gasometrica
 la gastroenterologia
 ei gastroenterologo
 ei gastroenterologette
+ei triyo
 ei kato
 la criketa
 ei savakato
@@ -2178,6 +2191,8 @@ la farura
 la hagiografia
 la hagiografica
 ei halokun
+ei falcon
+ei falco
 ei halloween
 la zugra
 la fame
@@ -2262,7 +2277,6 @@ la hipermetrica
 la hipnosis
 la hipnosis
 la ayatela
-la yate
 la hipologia
 la huragere
 ei hipo
@@ -2321,6 +2335,8 @@ la kuratela
 ei hostexette
 la hosta
 la portona
+ei kalerhundo
+la sausixa
 la hostala
 ei hoso
 ei ovo
@@ -2420,6 +2436,7 @@ ei retro
 ei insulso
 ei intelekto
 ei intentio
+la tre
 la interneta
 la interval
 ei intrudo
@@ -2480,6 +2497,7 @@ la jungla
 la junta
 la iustika
 ei jukse
+la kebab
 ei ketchup
 la kinesiologia
 ei kinesiologo
@@ -2551,11 +2569,13 @@ la licantropette
 la leogra
 la liya
 la afile
+la lima
+ei lime
+la lima
 la limnologia
-ei likraoro
 ei likravitro
+ei likraoro
 ei likraparavendo
-ei paravendo
 la likratia
 la limusina
 la lanterna
@@ -2569,6 +2589,9 @@ la litofotografica
 la litografia
 la litografica
 la litologia
+ei litoral
+la litora
+la inkoastatela
 ei litologo
 ei litologette
 la yaga
@@ -2646,8 +2669,6 @@ la mamografia
 la mamografica
 ei mamuz
 la mama
-la papa
-la papaya
 la zugra
 la manda
 ei mandoro
@@ -2662,6 +2683,8 @@ la ankratela
 la frikheiga
 ei manifesto
 la manile
+ei uperse
+la maniki
 la man
 ei hano
 ei mansio
@@ -2838,7 +2861,6 @@ la mimeografica
 la carica
 la memi
 ei memo
-la persa
 ei mine
 la mineralogia
 ei minerette
@@ -2878,6 +2900,7 @@ ei modifikatio
 ei modo
 la napesta
 ei moldo
+ei molde
 ei tempeo
 la monadologia
 ei pinne
@@ -2947,6 +2970,9 @@ ei moso
 la musicologia
 ei musicologo
 ei musicologette
+ei intso
+la doli
+ei clutso
 la matsina
 la lufazia
 la maske
@@ -3196,7 +3222,6 @@ la cana
 ei rago
 ei pumo
 la anglobrita
-ei molde
 la brita
 la britaxette
 la britatela
@@ -3215,6 +3240,7 @@ la tele
 ei panto
 la saguala
 la pantera
+la papaya
 la pipra
 ei graxkubo
 la zorrera
@@ -3226,10 +3252,12 @@ la papila
 la papirologia
 ei papirologo
 ei papirologette
+la papa
 la tsusta
 la paketara
 la paquete
 la pare
+ei paravendo
 la paratsute
 la paradoksografia
 la paradoksografica
@@ -3367,6 +3395,7 @@ la perla
 ei permiso
 ei doerro
 ei hundo
+la persa
 la persevera
 la yera
 ei jerco
@@ -3425,6 +3454,7 @@ ei pinterette
 la pintaia
 ei pikto
 la pinta
+ei pioyo
 la crutsa
 ei pire
 la piragua
@@ -3646,6 +3676,7 @@ la estan
 la pulgada
 la polmona
 la pulpusa
+la intsina
 ei pambo
 la nesiga
 ei punto
@@ -3661,6 +3692,7 @@ ei caco
 ei exore
 ei parrafo
 ei pendulo
+ei felto
 ei madraco
 ei pincano
 ei picide
@@ -3727,10 +3759,9 @@ la rekuta
 ei recto
 ei rektor
 la laira
+ei rekonto
 ei rekordo
 ei supte
-ei rekonto
-ei konto
 ei rekurso
 la localneta
 la sozialneta
@@ -3789,8 +3820,6 @@ ei deproxo
 la resola
 ei resurrectio
 la testa
-ei testiclo
-ei testiculo
 ei retartato
 ei retardato
 la retra
@@ -3833,6 +3862,8 @@ ei rotulaoro
 la rotura
 ei ruby
 la roda
+ei noiso
+ei ruido
 la unzuna
 la rumorologia
 la rota
@@ -3897,7 +3928,6 @@ ei selektio
 la selenografia
 la selenografica
 ei seldo
-la soya
 ei olekso
 la semasiologia
 la bila
@@ -3953,6 +3983,9 @@ ei sicosociologo
 ei sicosociologette
 ei sicologo
 ei sicologette
+la cidra
+la sidra
+ei sider
 la xerra
 ei septo
 la sifilografia
@@ -3979,6 +4012,11 @@ la solarsistema
 la sistema
 la hepsis
 la hepsis
+ei limo
+ei eslimo
+ei eslime
+ei slime
+ei slimo
 la superbia
 ei asineko
 la soziata
@@ -3996,6 +4034,7 @@ la sofrologia
 ei sofrologo
 ei sofrologette
 la soka
+la soya
 ei sol
 ei solar
 la parza
@@ -4117,10 +4156,14 @@ la telefotografia
 la telefotografica
 la telegrafia
 la telegrafica
+la telekinetis
+la telekinesis
+la telekinesis
 la telemetria
 la telemetrica
 la teleologia
 ei telescope
+ei teleporte
 la televisoi
 ei telefono
 ei subyecto
@@ -4138,7 +4181,6 @@ la teologia
 la teratologia
 la terminatela
 la terminal
-ei termino
 la terminologia
 ei terminologo
 ei terminologette
@@ -4160,10 +4202,14 @@ la terraxatai
 ei terranno
 la territoria
 la terura
+la terrura
 la terurasta
+la terrurasta
 la tesis
 la tesis
 ei test
+ei testiclo
+ei testiculo
 la burra
 la tetralogia
 ei tetronimo
@@ -4218,10 +4264,6 @@ la zirra
 la toaia
 la toaita
 la kidna
-ei anclo
-la ancla
-ei anclaxo
-ei fixo
 ei anclo
 la tocologia
 ei tocologo
@@ -4305,6 +4347,9 @@ la trena
 la trence
 la triai
 la tribologia
+ei tribu
+ei tributo
+ei tribute
 la trirroda
 ei tridento
 ei trego
@@ -4354,8 +4399,6 @@ ei tumor
 la kolfisi
 ei tunsten
 ei wolfram
-la freruba
-ei frambo
 la tupla
 la turisma
 la turista
@@ -4364,6 +4407,7 @@ la bengela
 la tsa
 la texna
 la texnette
+ei termino
 ei timpano
 la benpai
 la titula
@@ -4417,6 +4461,7 @@ la fenza
 la vale
 la valia
 la valua
+la vanita
 la variable
 ei vando
 la vasaia
@@ -4492,6 +4537,8 @@ ei igerne
 ei oko
 ei vendo
 ei vintre
+ei felton
+la ferra
 la vila
 la vinagra
 ei vinilo
@@ -4519,6 +4566,7 @@ ei viuto
 la vivaitela
 ei vokabulatio
 ei vokal
+ei vocine
 la volante
 ei piprako
 ei volkano
@@ -4552,8 +4600,10 @@ la ksilografia
 la ksilografica
 ei xelofono
 ei yak
+la yate
 la yequa
 ei yero
+ei yogur
 la herrunna
 la carrota
 ei poire
@@ -4833,7 +4883,6 @@ ei zonno
 ei utego
 ei filaso
 ei finiko
-ei quete
 ei estretso
 ei forzaioso
 ei siske
@@ -5107,6 +5156,9 @@ ei tempero
 ei termalo
 ei fino
 la terranal
+ei terruo
+ei teruo
+la templa
 la aile
 ei travaxeko
 ei trastoso
@@ -5136,6 +5188,7 @@ la elde
 ei oko
 ei viso
 ei vitoso
+ei quete
 ei valo
 ei valito
 la coarsa

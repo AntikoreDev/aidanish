@@ -251,6 +251,7 @@ alemania
 alemán
 alergología
 alergólogo
+aleta
 alfajor
 alfombra
 algarroba
@@ -550,6 +551,7 @@ atención
 atender
 aterrar
 aterrorizar
+atleta
 atletismo
 atornillar
 atrapado
@@ -807,6 +809,7 @@ bufón
 buitre
 bunker
 buque
+burca
 burgo
 burla
 burlar
@@ -1104,6 +1107,7 @@ chiste
 chistera
 chocar
 chocolate
+choque
 chuche
 chupada
 chupar
@@ -1397,6 +1401,7 @@ cortar
 corte
 corto
 cosa
+coscorro
 cosecha
 cosechar
 cosechas
@@ -1412,6 +1417,7 @@ costa
 costar
 coste
 costilla
+costo
 costra
 costumbre
 costura
@@ -1484,6 +1490,7 @@ cualquiera
 cuando
 cuanto
 cuarenta
+cuartel
 cuarteto
 cuarto
 cuatriciclo
@@ -1921,6 +1928,7 @@ emitir
 emocionar
 emoción
 emotivo
+empacar
 empalmar
 empalme
 empanada
@@ -1928,6 +1936,7 @@ empanadilla
 empanado
 empanar
 empapelar
+empaquetar
 empatar
 empatía
 empeorar
@@ -1979,6 +1988,8 @@ enfermedad
 enfermero
 enfermería
 enfermo
+enfocar
+enfoque
 enfrente
 enfriamiento
 enfriar
@@ -2091,6 +2102,9 @@ espada
 espadaña
 espagueti
 espalda
+espantapájaros
+espantar
+espanto
 esparto
 españa
 español
@@ -2323,6 +2337,7 @@ fluir
 fluorimetría
 fobia
 foca
+foco
 fogata
 folclore
 follar
@@ -2435,6 +2450,7 @@ gasometría
 gastar
 gastroenterología
 gastroenterólogo
+gatillo
 gato
 gato montés
 gaviota
@@ -2833,6 +2849,7 @@ intelectual
 intencional
 intención
 intentar
+intento
 interesante
 interesar
 internet
@@ -2989,6 +3006,7 @@ ligero
 ligre
 lija
 lijar
+lima
 limitado
 limitar
 limnología
@@ -3012,6 +3030,7 @@ literatura
 litofotografía
 litografía
 litología
+litoral
 litólogo
 llaga
 llama
@@ -3419,6 +3438,8 @@ musicólogo
 mutar
 muy
 muy cerrado
+muñeca
+muñeco
 mágica
 máquina
 más
@@ -4207,6 +4228,7 @@ pulgada
 pulida
 pulmón
 pulpo
+pulsera
 puma
 punto
 punto de mira
@@ -4225,6 +4247,7 @@ pájaro carpintero
 párpado
 párrafo
 péndulo
+pértiga
 pícido
 pórtico
 público
@@ -4472,6 +4495,7 @@ rozar
 rubí
 rudo
 rueda
+ruido
 ruidoso
 rumano
 rumanía
@@ -4625,6 +4649,7 @@ sicopatología
 sicosociología
 sicosociólogo
 sicólogo
+sidra
 siempre
 sierra
 siete
@@ -4661,6 +4686,7 @@ sistema
 sistema solar
 sitiar
 situación en la que una persona es vigilada por la posibilidad de que sea un criminal / situación de grave peligro de caza
+slime
 soberbia
 soberbio
 sobre
@@ -4836,11 +4862,14 @@ tela de araña
 telar
 telefotografía
 telegrafía
+telekinesis
 telemetría
 teleología
 telescopio
 teletransportar
+teletransporte
 televisión
+televisor
 teléfono
 tema
 temblar
@@ -4888,6 +4917,7 @@ terreno
 territorio
 terror
 terrorista
+terrorífico
 tesis
 test
 testículo
@@ -4899,9 +4929,11 @@ texto zalgo
 teñir
 teólogo
 tia
+tibio
 tiburón
 ticket
 tiempo
+tiempo libre
 tienda
 tierno
 tierra
@@ -4968,6 +5000,7 @@ torno
 toro
 torpedo
 torre
+torso
 torta
 tortilla
 tortita
@@ -5148,6 +5181,7 @@ valle
 valor
 valorado
 valorar
+vanidad
 variable
 variar
 varios
@@ -5231,6 +5265,7 @@ viejo
 viento
 vientre
 viernes
+viga
 vih
 villa
 vinagre
@@ -5266,6 +5301,7 @@ vivo
 vizco
 vocabulario
 vocal
+vocina
 volante
 volar
 volcán
