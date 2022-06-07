@@ -216,7 +216,6 @@ femenino → femenine
 feo → zunno, zonno, utego
 filoso → filaso
 finito → finiko
-vizco → quete
 fino → estretso
 forzado → forzaioso
 fresco (cuando se trata de algo novedoso) → siske, heruo, fresko
@@ -463,6 +462,8 @@ templado → tempero
 termal → termalo
 terminado → fino
 terrenal → terranal
+terrorífico → terruo, teruo
+tibio → templa
 tierno → aile
 trabajador → travaxeko
 traicionero → trastoso
@@ -489,6 +490,7 @@ vertical → vertico
 viejo (adjetivo) → igerne, igerno, elde, oko
 visto → viso
 vivo → vitoso
+vizco → quete
 válido → valo, valito
 áspero → coarsa
 épico → epikar

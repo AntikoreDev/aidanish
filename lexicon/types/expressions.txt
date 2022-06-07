@@ -1,4 +1,3 @@
-
 bienvenido → bainarei
 gracias → grazei
 muchas gracias → naito grazei
@@ -35,3 +34,4 @@ se fueron (relacionado a sentimientos o conceptos) → dexaire
 palabra baúl → cubavorto
 creo → belo
 por ahora → en nau
+tiempo libre → xiatempo, oziotempo, ociotempo
