@@ -31,6 +31,7 @@ Bélgica → Belgia
 Canadá → Canadia, Kanada
 Chile → Tsile
 China → Tsina
+infancia → infantia, kindatia
 Chino → Tsineo
 Colombia → Kolombia
 Copenague → Kopenage
@@ -3664,6 +3665,10 @@ vergüenza → combro
 verificación → verifia
 verruga → burgua
 versión → versiona
+productividad → produktivita
+organización → organizatio
+asociación → asociatio
+federación → federatio
 vertedero → zorrotela, desextela
 vestido → venaza, dreso, gouno, zitaba
 vestimenta → venaza
