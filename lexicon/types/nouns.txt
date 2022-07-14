@@ -1070,6 +1070,7 @@ cretino → filastra
 cria → kraia
 criada → kraiette
 crimen → crimen
+sirviente → sirveinte, servente, titse
 criminal → crimenette
 criminología → criminologia
 criminólogo → criminologo, criminologette

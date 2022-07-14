@@ -524,6 +524,7 @@ asimetría → asimetria, asimetrica
 asiriología → asiriologia
 asiriólogo → asiriologo, asiriologette
 asno → ostoro
+asociación → asociatio
 aspecto → aspectia
 aspiración → aspira
 aspiradora → aspiraoro
@@ -2309,6 +2310,7 @@ favor → fevo
 favorar → favorai
 febrero → febrero
 fecha → daita
+federación → federatio
 felicidad → aibela
 feliz, alegre → aibelo
 femenino → femenine
@@ -2839,6 +2841,7 @@ incómodo → inconforte
 indecente → undezente
 india → hindea
 industria → industria
+infancia → infantia, kindatia
 infectología → infectologia
 infierno → inferno
 infijo → infikso
@@ -3704,6 +3707,7 @@ ordenar (de poner orden a un lugar) → surdai
 oreja, oido → oitio
 orfanato → horfanatela
 organismo → organismo
+organización → organizatio
 organografía → organografia, organografica
 organología → organologia
 orgía → orgia, anxia
@@ -4249,6 +4253,7 @@ procrastinar → procrastinei
 proctología → proctologia
 proctólogo → proctologo, proctologette
 producir → proteire
+productividad → produktivita
 producto → produkto
 profesional → profesionale
 profesión → profesio
@@ -4713,6 +4718,7 @@ serpiente cascabel → crotalo
 serpiente → serpento
 serrería → madratela
 servidor → sirveidoro
+servir (para un jefe tipo mafia) → titsei
 servir (servicio) → servei
 servir (uso de algo) → sirvei
 sesenta → sekseien
@@ -4772,6 +4778,7 @@ sinólogo → sinologo, sinologette
 siquiera, ni siquiera → nonixa
 sirena (mitología) → meimare
 sirena (objeto) → sirena
+sirviente → sirveinte, servente, titse
 sismología → sismologia
 sismólogo → sismologo, sismologette
 sistema solar → solarsistema

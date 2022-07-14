@@ -821,6 +821,7 @@ sepultar → sepultai
 ser → sei
 servir (servicio) → servei
 servir (uso de algo) → sirvei
+servir (para un jefe tipo mafia) → titsei
 señalizar → sinnai
 significar → mearei, daine
 silenciar → esparei

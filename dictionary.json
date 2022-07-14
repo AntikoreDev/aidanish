@@ -4243,6 +4243,14 @@
             }
         ]
     },
+    "asociación": {
+        "entries": [
+            {
+                "meaning": "asociatio",
+                "specification": ""
+            }
+        ]
+    },
     "aspecto": {
         "entries": [
             {
@@ -18659,6 +18667,14 @@
             }
         ]
     },
+    "federación": {
+        "entries": [
+            {
+                "meaning": "federatio",
+                "specification": ""
+            }
+        ]
+    },
     "felicidad": {
         "entries": [
             {
@@ -22903,6 +22919,14 @@
         "entries": [
             {
                 "meaning": "industria",
+                "specification": ""
+            }
+        ]
+    },
+    "infancia": {
+        "entries": [
+            {
+                "meaning": "infantia, kindatia",
                 "specification": ""
             }
         ]
@@ -29859,6 +29883,14 @@
             }
         ]
     },
+    "organización": {
+        "entries": [
+            {
+                "meaning": "organizatio",
+                "specification": ""
+            }
+        ]
+    },
     "organografía": {
         "entries": [
             {
@@ -34175,6 +34207,14 @@
             }
         ]
     },
+    "productividad": {
+        "entries": [
+            {
+                "meaning": "produktivita",
+                "specification": ""
+            }
+        ]
+    },
     "producto": {
         "entries": [
             {
@@ -37902,6 +37942,10 @@
     "servir": {
         "entries": [
             {
+                "meaning": "titsei",
+                "specification": "para un jefe tipo mafia"
+            },
+            {
                 "meaning": "servei",
                 "specification": "servicio"
             },
@@ -38376,6 +38420,14 @@
             {
                 "meaning": "sirena",
                 "specification": "objeto"
+            }
+        ]
+    },
+    "sirviente": {
+        "entries": [
+            {
+                "meaning": "sirveinte, servente, titse",
+                "specification": ""
             }
         ]
     },

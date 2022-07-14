@@ -555,6 +555,7 @@ asletio
 asoa
 asoai
 asoaso
+asociatio
 asonexo
 aspectia
 aspira
@@ -2265,6 +2266,7 @@ fazilai
 fazilo
 febrero
 fecta
+federatio
 felisa
 felto
 felton
@@ -2936,6 +2938,7 @@ inestmeioko
 inestpatrono
 inestumoko
 infante
+infantia
 infectologia
 inferno
 infikso
@@ -3193,6 +3196,7 @@ kieve
 kievei
 kikroi
 kindara
+kindatia
 kindeka
 kindo
 kinesiologette
@@ -4146,6 +4150,7 @@ orden
 ordenai
 ordo
 organismo
+organizatio
 organografia
 organografica
 organologia
@@ -4726,6 +4731,7 @@ procrastinei
 proctologette
 proctologia
 proctologo
+produktivita
 produkto
 profesio
 profesionale
@@ -5246,6 +5252,7 @@ sero
 serologia
 serpento
 servei
+servente
 sesai
 sesaia
 sesia
@@ -5312,6 +5319,7 @@ sire
 sirena
 sirvei
 sirveidoro
+sirveinte
 siska
 siske
 sismologette
@@ -5630,6 +5638,8 @@ tisiologo
 tiska
 tiskai
 titanno
+titse
+titsei
 titula
 toaia
 toaita

@@ -30,6 +30,8 @@ la canadia
 la kanada
 ei tsile
 la tsina
+la infantia
+la kindatia
 ei tsineo
 la kolombia
 la kopenage
@@ -1283,6 +1285,9 @@ la filastra
 la kraia
 la kraiette
 ei crimen
+ei sirveinte
+la servente
+ei titse
 ei crimenette
 la criminologia
 ei criminologo
@@ -4512,6 +4517,10 @@ ei combro
 la verifia
 la burgua
 la versiona
+la produktivita
+ei organizatio
+ei asociatio
+ei federatio
 la zorrotela
 la desextela
 la venaza
