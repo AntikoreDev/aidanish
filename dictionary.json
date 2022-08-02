@@ -875,6 +875,26 @@
             }
         ]
     },
+    "aciano": {
+        "entries": [
+            {
+                "meaning": "anilo",
+                "specification": "flor"
+            }
+        ]
+    },
+    "azulejo": {
+        "entries": [
+            {
+                "meaning": "anilo",
+                "specification": "flor"
+            },
+            {
+                "meaning": "eskala",
+                "specification": "pájaro"
+            }
+        ]
+    },
     "acidimetría": {
         "entries": [
             {
@@ -4971,14 +4991,6 @@
         "entries": [
             {
                 "meaning": "anil",
-                "specification": ""
-            }
-        ]
-    },
-    "azulejo": {
-        "entries": [
-            {
-                "meaning": "eskala",
                 "specification": ""
             }
         ]
@@ -21191,6 +21203,14 @@
         "entries": [
             {
                 "meaning": "oargai",
+                "specification": ""
+            }
+        ]
+    },
+    "hacha": {
+        "entries": [
+            {
+                "meaning": "fasca",
                 "specification": ""
             }
         ]

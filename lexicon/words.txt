@@ -384,6 +384,7 @@ angloterra
 angola
 angolaneo
 anil
+anilo
 aniluba
 anima
 animal
@@ -2257,6 +2258,7 @@ farmacologia
 farmacologo
 farmacopsicologia
 farura
+fasca
 fasoa
 fataine
 fato

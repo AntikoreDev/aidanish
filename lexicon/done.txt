@@ -100,6 +100,7 @@ acera
 acercar
 acero
 acertar
+aciano
 acidimetría
 acierto
 aclarar
@@ -2587,6 +2588,7 @@ hacer reir
 hacer un tour
 hacerrisas
 hacerse una paja
+hacha
 hacia
 hacia abajo
 hacia arriba

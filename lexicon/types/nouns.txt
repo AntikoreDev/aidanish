@@ -468,7 +468,8 @@ azafrán (flor) → aziala
 azahar (flor) → azaharo
 azar → runge
 azul celeste → acoa
-azulejo → eskala
+azulejo (pájaro) → eskala
+aciano, azulejo (flor) → anilo
 azúcar → sukra, sucra
 añalejo → relicrolista
 año → yaro, anio
@@ -1072,6 +1073,7 @@ criada → kraiette
 crimen → crimen
 sirviente → sirveinte, servente, titse
 criminal → crimenette
+hacha → fasca
 criminología → criminologia
 criminólogo → criminologo, criminologette
 criobiología → criobiologia

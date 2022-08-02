@@ -549,6 +549,7 @@ ei azaharo
 ei runge
 la acoa
 la eskala
+ei anilo
 la sukra
 la sucra
 la relicrolista
@@ -1289,6 +1290,7 @@ ei sirveinte
 la servente
 ei titse
 ei crimenette
+la fasca
 la criminologia
 ei criminologo
 ei criminologette

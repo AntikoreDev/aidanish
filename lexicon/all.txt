@@ -105,6 +105,7 @@ acera, pavimento → vadeo, kalekemno
 acercar → nearei
 acero → akero, azero, acero
 acertar → troi
+aciano, azulejo (flor) → anilo
 acidimetría → acidimetria, acidimetrica
 acierto → tro
 aclarar (dejar claro un concepto) → isenderei
@@ -616,7 +617,7 @@ azahar (flor) → azaharo
 azar → runge
 azul celeste → acoa
 azul → anil
-azulejo → eskala
+azulejo (pájaro) → eskala
 azúcar → sukra, sucra
 añadir → adoi
 añalejo → relicrolista
@@ -2627,6 +2628,7 @@ hacer un tour → turei
 hacer → doi, fai
 hacerrisas → gisette (persona que intenta hacer gracia de manera común pero solo es molesto)
 hacerse una paja → oargai
+hacha → fasca
 hacia abajo → aurnara
 hacia arriba → airnara
 hacia atrás → dabetranara
