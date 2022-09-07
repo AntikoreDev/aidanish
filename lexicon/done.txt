@@ -104,6 +104,7 @@ aciano
 acidimetría
 acierto
 aclarar
+acogedor
 acoger
 acogida
 acomodar
@@ -221,6 +222,7 @@ aidanacia
 aidanés
 aire
 aire acondicionado
+ajedrez
 ajo
 ajolote
 ajustar
@@ -254,6 +256,7 @@ alergología
 alergólogo
 aleta
 alfajor
+alfil
 alfombra
 algarroba
 algo
@@ -2095,6 +2098,9 @@ escándalo
 ese
 esencia
 eslavo
+esmaltado
+esmaltar
+esmalte
 esmeralda
 eso
 esos
@@ -2293,6 +2299,7 @@ fetiche
 feto
 fez
 fibra
+ficha
 fideo
 fiebre
 fiebre amarilla
@@ -2514,6 +2521,8 @@ gorila
 gorra
 gorrión
 gorro
+gota
+gotear
 gozar
 grabación
 grabar
@@ -2896,6 +2905,8 @@ jamás
 jamón
 japonés
 japón
+jaque
+jaque mate
 jardinero
 jardín
 jarrón
@@ -2948,6 +2959,7 @@ ladrón
 lago
 lagrimado
 laguna
+lancero
 langostino
 lanza
 lanzar
@@ -3286,6 +3298,7 @@ mermelada
 mes
 mesa
 meseta
+mesita de noche
 mestizo
 metal
 metalografía
@@ -3508,6 +3521,7 @@ nevera
 neólogo
 ni siquiera
 nido
+niebla
 nieta
 nieto
 nieve
@@ -3950,6 +3964,7 @@ petunia
 pez
 peña
 peñasco
+peón
 piano
 picadura
 picar

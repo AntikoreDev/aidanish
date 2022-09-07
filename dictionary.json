@@ -923,6 +923,14 @@
             }
         ]
     },
+    "acogedor": {
+        "entries": [
+            {
+                "meaning": "akaino",
+                "specification": ""
+            }
+        ]
+    },
     "acoger": {
         "entries": [
             {
@@ -1879,6 +1887,14 @@
             }
         ]
     },
+    "ajedrez": {
+        "entries": [
+            {
+                "meaning": "jakon",
+                "specification": ""
+            }
+        ]
+    },
     "ajo": {
         "entries": [
             {
@@ -2136,6 +2152,14 @@
             {
                 "meaning": "almodratso",
                 "specification": ""
+            }
+        ]
+    },
+    "alfil": {
+        "entries": [
+            {
+                "meaning": "espare",
+                "specification": "ajedrez"
             }
         ]
     },
@@ -6781,6 +6805,10 @@
     },
     "caballo": {
         "entries": [
+            {
+                "meaning": "ayette",
+                "specification": "ajedrez"
+            },
             {
                 "meaning": "ayato",
                 "specification": ""
@@ -12796,6 +12824,10 @@
             {
                 "meaning": "dama, mena",
                 "specification": ""
+            },
+            {
+                "meaning": "meila",
+                "specification": "ajedrez"
             }
         ]
     },
@@ -17183,6 +17215,30 @@
             }
         ]
     },
+    "esmaltado": {
+        "entries": [
+            {
+                "meaning": "esmaro",
+                "specification": ""
+            }
+        ]
+    },
+    "esmaltar": {
+        "entries": [
+            {
+                "meaning": "esmaire",
+                "specification": ""
+            }
+        ]
+    },
+    "esmalte": {
+        "entries": [
+            {
+                "meaning": "esmaro",
+                "specification": ""
+            }
+        ]
+    },
     "esmeralda": {
         "entries": [
             {
@@ -17478,7 +17534,7 @@
     "esposa": {
         "entries": [
             {
-                "meaning": "meixa",
+                "meaning": "meixa, meila",
                 "specification": ""
             }
         ]
@@ -18795,6 +18851,14 @@
         "entries": [
             {
                 "meaning": "fibre",
+                "specification": ""
+            }
+        ]
+    },
+    "ficha": {
+        "entries": [
+            {
+                "meaning": "fista",
                 "specification": ""
             }
         ]
@@ -20599,6 +20663,22 @@
         "entries": [
             {
                 "meaning": "gorro",
+                "specification": ""
+            }
+        ]
+    },
+    "gota": {
+        "entries": [
+            {
+                "meaning": "dipo, tipo",
+                "specification": ""
+            }
+        ]
+    },
+    "gotear": {
+        "entries": [
+            {
+                "meaning": "dipai, tipai",
                 "specification": ""
             }
         ]
@@ -23731,6 +23811,22 @@
             }
         ]
     },
+    "jaque": {
+        "entries": [
+            {
+                "meaning": "jake",
+                "specification": "ajedrez"
+            }
+        ]
+    },
+    "jaque mate": {
+        "entries": [
+            {
+                "meaning": "jakemate",
+                "specification": "ajedrez"
+            }
+        ]
+    },
     "jardinero": {
         "entries": [
             {
@@ -24171,6 +24267,14 @@
         "entries": [
             {
                 "meaning": "lurge, lakata",
+                "specification": ""
+            }
+        ]
+    },
+    "lancero": {
+        "entries": [
+            {
+                "meaning": "esparette",
                 "specification": ""
             }
         ]
@@ -26006,7 +26110,7 @@
     "marido": {
         "entries": [
             {
-                "meaning": "honxa",
+                "meaning": "honxa, honse",
                 "specification": ""
             }
         ]
@@ -26927,6 +27031,14 @@
         "entries": [
             {
                 "meaning": "meseta",
+                "specification": ""
+            }
+        ]
+    },
+    "mesita de noche": {
+        "entries": [
+            {
+                "meaning": "nitomadra, nitolamadra, nitolama, nitica, lamadrila",
                 "specification": ""
             }
         ]
@@ -28775,6 +28887,14 @@
             },
             {
                 "meaning": "laira",
+                "specification": ""
+            }
+        ]
+    },
+    "niebla": {
+        "entries": [
+            {
+                "meaning": "nubula",
                 "specification": ""
             }
         ]
@@ -32411,6 +32531,14 @@
             }
         ]
     },
+    "peón": {
+        "entries": [
+            {
+                "meaning": "peon",
+                "specification": ""
+            }
+        ]
+    },
     "piano": {
         "entries": [
             {
@@ -35924,6 +36052,10 @@
             {
                 "meaning": "reine",
                 "specification": ""
+            },
+            {
+                "meaning": "meila",
+                "specification": "ajedrez"
             }
         ]
     },

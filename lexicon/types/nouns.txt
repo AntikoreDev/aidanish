@@ -574,6 +574,7 @@ bola de nieve → aigebola
 boleto → fixola
 boletus → boletus, mastufa
 bollería → bunaria
+niebla → nubula
 bollo → bollo, bun
 bolsa → baga
 bolsillo → pokete
@@ -605,6 +606,13 @@ brisa → briza
 brizna → hebra
 broche → brutsio
 broma → rusa
+ajedrez → jakon
+jaque (ajedrez) → jake
+jaque mate (ajedrez) → jakemate
+reina, dama (ajedrez) → meila
+peón → peon
+caballo (ajedrez) → ayette
+alfil (ajedrez) → espare
 bromatología → bromatologia
 bromatólogo → bromatologo, bromatologette
 bromelia (flor) → estarola
@@ -648,6 +656,7 @@ cacería → junziasa
 cacografía → cacografia, cacografica
 cacología → cacologia
 cactus → cactia
+ficha → fista
 cada → kada
 cafetera → kafetoro
 cafetería → kafetela, café, cafeteria, kafeteria
@@ -1474,7 +1483,7 @@ esperanza → aikala
 espesura → hexegia
 espina → tira
 espirometría → espirometria, espirometrica
-esposa → meixa
+esposa → meixa, meila
 espuma → hixa, fomo
 espátula (animal) → platintso
 espátula (herramienta) → esplata
@@ -2063,6 +2072,7 @@ lago → laka
 laguna → lurge, lakata
 langostino → ximpo
 lanza → espara
+lancero → esparette
 lapislázuli → lapislazuli
 laringología → laringologia
 laringólogo → laringologo, laringologette
@@ -2220,7 +2230,7 @@ marco → makora
 marfíl → utso
 margarita → aukuba
 marica, maricón → zager
-marido → honxa
+marido → honxa, honse
 mariología → mariologia
 marioneta → pupeto
 mariposa → blaigia
@@ -2468,11 +2478,14 @@ neurofisiólogo → neurofisiologo, neurofisiologette
 neurología → neurologia
 neurólogo → neurologo, neurologette
 nevera, frigorífico → ingoesmar
+gota → dipo, tipo
 neólogo → neologo, neologette
 nido → nesta
 nieta → meioeke
 nieto → umoeke
 nieve → aigela
+esmalte → esmaro
+mesita de noche → nitomadra, nitolamadra, nitolama, nitica, lamadrila
 nigromancia → nekromantia
 nigromante → nekromante
 nitrogeno → nitroieno

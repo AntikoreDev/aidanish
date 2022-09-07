@@ -681,6 +681,7 @@ la fixola
 la boletus
 la mastufa
 la bunaria
+la nubula
 ei bollo
 ei bun
 la baga
@@ -715,6 +716,13 @@ la briza
 la hebra
 ei brutsio
 la rusa
+ei jakon
+la jake
+la jakemate
+la meila
+ei peon
+la ayette
+la espare
 la bromatologia
 ei bromatologo
 ei bromatologette
@@ -772,6 +780,7 @@ la cacografia
 la cacografica
 la cacologia
 la cactia
+la fista
 la kada
 ei kafetoro
 la kafetela
@@ -1784,6 +1793,7 @@ la tira
 la espirometria
 la espirometrica
 la meixa
+la meila
 la hixa
 ei fomo
 ei platintso
@@ -2526,6 +2536,7 @@ ei lurge
 la lakata
 ei ximpo
 la espara
+la esparette
 la lapislazuli
 la laringologia
 ei laringologo
@@ -2717,6 +2728,7 @@ ei utso
 la aukuba
 la zager
 la honxa
+ei honse
 la mariologia
 ei pupeto
 la blaigia
@@ -3036,12 +3048,20 @@ la neurologia
 ei neurologo
 ei neurologette
 ei ingoesmar
+ei dipo
+ei tipo
 ei neologo
 ei neologette
 la nesta
 ei meioeke
 ei umoeke
 la aigela
+ei esmaro
+la nitomadra
+la nitolamadra
+la nitolama
+la nitica
+la lamadrila
 la nekromantia
 la nekromante
 ei nitroieno
@@ -4857,6 +4877,8 @@ ei ecologike
 ei efektibo
 ei efizente
 ei elektrikono
+ei esmaro
+ei akaino
 ei elektriko
 ei emotivo
 ei ebrite

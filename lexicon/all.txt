@@ -110,6 +110,7 @@ acidimetría → acidimetria, acidimetrica
 acierto → tro
 aclarar (dejar claro un concepto) → isenderei
 aclarar (dejar claro un objeto) → aklaroi
+acogedor → akaino
 acoger → akaine
 acogida → akaina
 acomodar → confortei
@@ -230,6 +231,7 @@ aidanacia → aidanakia
 aidanés → aidanesa
 aire acondicionado → aerakonditiaoro
 aire → aer
+ajedrez → jakon
 ajo → garlo
 ajolote → ajolote
 ajustar → rikrai
@@ -263,6 +265,7 @@ alergología → alergologia
 alergólogo → alergologo, alergologette
 aleta → fina
 alfajor → almodratso
+alfil (ajedrez) → espare
 alfombra → corta
 algo → akoixa
 alguien → aperso
@@ -844,6 +847,7 @@ búsqueda → findo
 caballero (hombre) → vero
 caballero (que monta a caballo) → ayette
 caballito de mar → marayato
+caballo (ajedrez) → ayette
 caballo → ayato
 cabe → kabe
 caber → kuai
@@ -2125,6 +2129,9 @@ escándalo → estantsa
 ese, esa, esas, esos → eisa
 esencia → esentia
 eslavo → eslava
+esmaltado → esmaro
+esmaltar → esmaire
+esmalte → esmaro
 esmeralda → emeralda
 espacio en blanco → biancara
 espacio → espatio
@@ -2162,7 +2169,7 @@ espeso → hexego
 espesura → hexegia
 espina → tira
 espirometría → espirometria, espirometrica
-esposa → meixa
+esposa → meixa, meila
 espuma → hixa, fomo
 espátula (animal) → platintso
 espátula (herramienta) → esplata
@@ -2325,6 +2332,7 @@ fetiche → fetixa, kinko
 feto → feto
 fez → fez
 fibra → fibre
+ficha → fista
 fideo → fixoa
 fiebre amarilla → fever mallea
 fiebre → fever
@@ -2553,6 +2561,8 @@ gorila → korila
 gorra → capa
 gorrión → plomo
 gorro → gorro
+gota → dipo, tipo
+gotear → dipai, tipai
 gozar → gozei
 grabación → grabatio, recordo
 grabar → grabai, ikrabai, recordai
@@ -2939,6 +2949,8 @@ jamás, nunca → nontsai
 jamón → iamon
 japonés → japonesa
 japón → japonia
+jaque (ajedrez) → jake
+jaque mate (ajedrez) → jakemate
 jardinero → gardaxette
 jardín → garda
 jarrón, florero → diarra
@@ -2994,6 +3006,7 @@ ladrón → rovette, rovago
 lago → laka
 lagrimado → lakrimido
 laguna → lurge, lakata
+lancero → esparette
 langostino → ximpo
 lanza → espara
 lanzar → zroi
@@ -3223,7 +3236,7 @@ marco → makora
 marfíl → utso
 margarita → aukuba
 marica, maricón → zager
-marido → honxa
+marido → honxa, honse
 mariología → mariologia
 marioneta → pupeto
 mariposa → blaigia
@@ -3338,6 +3351,7 @@ mermelada → iamela
 mes → mes
 mesa → lamadra
 meseta → meseta
+mesita de noche → nitomadra, nitolamadra, nitolama, nitica, lamadrila
 mestizo → seutse
 metal → metala
 metalografía → metalografia, metalografica
@@ -3569,6 +3583,7 @@ nevar → aigelai
 nevera, frigorífico → ingoesmar
 neólogo → neologo, neologette
 nido → nesta
+niebla → nubula
 nieta → meioeke
 nieto → umoeke
 nieve → aigela
@@ -4023,6 +4038,7 @@ petunia (flor) → porpura
 pez → pesko
 peña → penna
 peñasco → pennasco
+peón → peon
 piano → piano
 picadura → estundaxe
 picar (bicho) → estungai
@@ -4463,6 +4479,7 @@ regresar → retornai
 regreso, retorno → retorno
 rehacer → redoi, refai
 reina → reine
+reina, dama (ajedrez) → meila
 reinado → reina
 reino → renno
 reir → gisai

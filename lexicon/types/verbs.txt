@@ -71,6 +71,8 @@ almacenar → esmarei
 alternar → alternei
 alucinar → alutinai
 amaestrar → amasterai
+gotear → dipai, tipai
+esmaltar → esmaire
 amamantar → amamantai
 amanecer → manzai
 amar → loi

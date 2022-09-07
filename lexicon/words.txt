@@ -214,6 +214,7 @@ akademia
 akademiko
 akaina
 akaine
+akaino
 akanta
 akatsai
 akcesibila
@@ -1587,8 +1588,10 @@ dinamometria
 dinamometrica
 dinosauro
 diorita
+dipai
 diploma
 diplomaxette
+dipo
 diporko
 dipre
 diproxei
@@ -2024,10 +2027,12 @@ esleiner
 eslime
 eslimo
 eslo
+esmaire
 esmarei
 esmareitela
 esmaretio
 esmariun
+esmaro
 esmokai
 esmokaiette
 esmoke
@@ -2041,7 +2046,9 @@ espai
 espanna
 espannol
 espara
+espare
 esparei
+esparette
 esparo
 esparoso
 esparto
@@ -2817,6 +2824,7 @@ hone
 honko
 honpai
 honperso
+honse
 honxa
 hopital
 hopitalai
@@ -3073,6 +3081,9 @@ izkro
 izkroro
 izoya
 jade
+jake
+jakemate
+jakon
 jalapenno
 januaro
 januo
@@ -3359,6 +3370,7 @@ lakrimai
 lakrimido
 lama
 lamadra
+lamadrila
 lana
 lanai
 landa
@@ -3675,6 +3687,7 @@ meditia
 mediu
 megafono
 meia
+meila
 meileko
 meimare
 meioeke
@@ -4009,9 +4022,13 @@ niscalo
 nisigerei
 nisigo
 nisingo
+nitica
 nito
 nitoi
 nitoia
+nitolama
+nitolamadra
+nitomadra
 nitor
 nitroieno
 nivo
@@ -4054,6 +4071,7 @@ nosologia
 nota
 notela
 novembo
+nubula
 nude
 nufara
 nukra
@@ -4393,6 +4411,7 @@ pentsizei
 penze
 penzei
 penzeiette
+peon
 pepera
 pera
 perda
@@ -5626,7 +5645,9 @@ timbrologia
 timbrologo
 timpano
 tinera
+tipai
 tipe
+tipo
 tipografia
 tipografica
 tipologia
