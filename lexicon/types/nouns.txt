@@ -78,6 +78,7 @@ Moscú → Mosku
 Muerte → morto
 México → Mexiko
 Neptuno → neptuno
+cúrcuma → cucumo
 Noruega → Norkia
 Noruego → Norkeo
 Noviembre → Novembo
@@ -803,6 +804,11 @@ cazuela → xikere
 caña → kanna
 cebolla → onnete
 cebra → zebra
+cañón → cannon
+tarjeta de crédito → bancarde, bankarde
+tarjeta de débito → dute bancarde, dute bankarde
+perejil → kila
+cebolleta → setso
 cecografía → cecografia, cecografica
 cedro → citrua
 celda → celar
@@ -845,6 +851,8 @@ chica con derecho → rotsenmeia
 chica → meia
 chico con derecho → rotsenhone
 chico → hone
+panceta → porketsa
+brocheta → brotsete
 chimenea → tsimeneia
 chimichanga → tsimitsanga
 chimpancé → itsimp
@@ -2219,6 +2227,7 @@ mantequilla → mantega
 manticora → mantikora
 manutención → ersokio
 manzana → menzana, pomo
+manzanilla → pomotsa
 mapa → mapa
 mapache → mapatso, racune
 mar → mare
@@ -3006,6 +3015,7 @@ pulpo → pulpusa
 pulsera → intsina
 puma → pambo
 punto de mira, diana → nesiga
+caso → caso
 punto → punto
 puntuación → puntuatio, puntuo
 puré → tritura
@@ -3109,6 +3119,7 @@ remo → esguela
 remolacha → grosatsa
 rendición → purna
 reno → kirko
+grosella → baretsa
 renovación → renevo, reneva
 reología → reologia
 reparación → repaira
@@ -3524,6 +3535,7 @@ toxicólogo → toksicologo, toksicologette
 trabajador → travaxette
 trabajo → travaxo, laboro
 traducción → translaio
+trabalenguas → mixequeieto
 traductor (objeto) → translaioro
 traductor (persona) → translaixette
 traficación → trafike
@@ -3550,7 +3562,12 @@ traza → traza
 tren → trena
 trenza → trence
 tres → triai
+tres en raya → exo, exou, triaiette
+damas (juego de mesa) → menale
 tribología → tribologia
+trivia → trivia
+quiz → quiz
+piedra papel tijera → petra fola akuto
 tribu → tribu
 tributo → tributo, tribute
 triciclo → trirroda

@@ -314,6 +314,8 @@ descorchar → unarkutsai
 describir → deskriptei
 desear → dezeai, pregardai
 desechar → desexai, zorrai
+atragantar → mixequei
+tragar → quei
 desembarcar → desbarcai
 desengrasar → torqei
 desfilar → deslinai

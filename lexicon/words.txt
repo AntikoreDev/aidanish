@@ -708,10 +708,12 @@ bambo
 bana
 banai
 banana
+bancarde
 banda
 bande
 bandei
 bango
+bankarde
 bankexette
 banko
 banqete
@@ -723,6 +725,7 @@ barcelona
 barco
 bardo
 barei
+baretsa
 barraca
 barrera
 barrila
@@ -916,6 +919,7 @@ bromatologo
 bromo
 bronce
 bronzo
+brotsete
 brunno
 brusta
 brutsa
@@ -1007,6 +1011,7 @@ cancerologo
 candala
 candalabro
 canna
+cannon
 cano
 canoia
 cansenda
@@ -1365,6 +1370,7 @@ cuaqio
 cuba
 cubavorto
 cucula
+cucumo
 cuela
 cuenda
 cuendei
@@ -2209,6 +2215,7 @@ exobiologia
 exogi
 exore
 exorei
+exou
 experimentai
 experimento
 expirai
@@ -3208,6 +3215,7 @@ kieva
 kieve
 kievei
 kikroi
+kila
 kindara
 kindatia
 kindeka
@@ -3706,6 +3714,7 @@ memi
 memo
 mena
 menagio
+menale
 mende
 meno
 menta
@@ -3821,6 +3830,8 @@ mitsisilai
 mitso
 mixa
 mixei
+mixequei
+mixequeieto
 mixuia
 mnemotecnia
 mnemoteknia
@@ -4617,6 +4628,7 @@ pomo
 pomologette
 pomologia
 pomologo
+pomotsa
 pompe
 pontai
 ponto
@@ -4629,6 +4641,7 @@ por
 pora
 poratia
 porfevo
+porketsa
 porko
 porno
 pornografia
@@ -4879,7 +4892,9 @@ quartel
 quarto
 quasar
 quatroda
+quei
 quete
+quiz
 raca
 racai
 raco
@@ -5279,6 +5294,7 @@ sesaia
 sesia
 setegia
 setei
+setso
 seudologia
 seutse
 sexei
@@ -5766,6 +5782,7 @@ trena
 trence
 triai
 triaien
+triaiette
 triaix
 trianglo
 tribologia
@@ -5795,6 +5812,7 @@ tritso
 trituoro
 tritura
 trituroi
+trivia
 triyo
 tro
 trofologette

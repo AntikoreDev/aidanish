@@ -567,6 +567,7 @@ aterrorizar → terurai
 atleta → atlette
 atletismo → atletisma, atletismo
 atornillar → exkrabaire
+atragantar → mixequei
 atrapado → zentso
 atrapar → akatsai
 atril → lekteoro
@@ -802,6 +803,7 @@ brillo → brio
 brisa → briza
 brizna → hebra
 broche → brutsio
+brocheta → brotsete
 broma → rusa
 bromatología → bromatologia
 bromatólogo → bromatologo, bromatologette
@@ -1050,7 +1052,9 @@ cazar → junzei
 cazo → xikara
 cazuela → xikere
 caña → kanna
+cañón → cannon
 cebolla → onnete
+cebolleta → setso
 cebra → zebra
 cecografía → cecografia, cecografica
 cedro → citrua
@@ -1587,6 +1591,7 @@ código postal → postalcodiko, postalcoda
 código → codiko
 cólera → xolera
 cómodo → conforte
+cúrcuma → cucumo
 dacriología → dacriologia
 dactiliología → dactiliologia
 dactilografía → dactilografia, dactilografica
@@ -1594,6 +1599,7 @@ dactilología → dactilologia
 dado → dize
 daga → diaga
 dama → dama, mena
+damas (juego de mesa) → menale
 dar pereza → partsai
 dar → bei
 darse cuenta → indorai
@@ -2598,6 +2604,7 @@ gripe española → espanna flubila
 gripe porcina → porko flubila
 gripe → flubila
 gritar → klizei
+grosella → baretsa
 grosero → uskoro
 grueso → groso
 grulla trompetera → trompescuela
@@ -3222,6 +3229,7 @@ mantequilla → mantega
 manticora → mantikora
 manutención → ersokio
 manzana → menzana, pomo
+manzanilla → pomotsa
 mapa → mapa
 mapache → mapatso, racune
 mar → mare
@@ -3811,6 +3819,7 @@ pan → brita
 panadero → britaxette
 panadería → britatela
 panal → panala
+panceta → porketsa
 pancreas → pancras
 panda → panda
 pandemia → pandemos
@@ -3974,6 +3983,7 @@ perdiz → lombo
 perdonar → pardonai
 perdón → diskaire, pardon
 perecer → peretai
+perejil → kila
 pereza → fiagia, partsa
 perezoso (animal) → fiager
 perezoso (persona) → fiago, fago
@@ -4048,6 +4058,7 @@ pico (herramienta) → pikote
 pico (montaña) → ampico
 pictografía → pictografia, pictografica
 pie → poi
+piedra papel tijera → petra fola akuto
 piedra → petro, petra
 piel → pelde
 pierna → airpoi
@@ -4380,6 +4391,7 @@ quinesiólogo → qinesiologo, qinesiologette
 quinteto → qinteto
 quinto → qincoix
 quitar → removai
+quiz → quiz
 quizá → qiza
 quokka → cuoca
 racionar → rationai
@@ -4953,6 +4965,8 @@ tardar → egentai
 tarde → egente
 tarde → taren
 tardío → enterino
+tarjeta de crédito → bancarde, bankarde
+tarjeta de débito → dute bancarde, dute bankarde
 tarjeta, carta de naipe → carde
 tarrina → tarra
 tarro → tarro
@@ -5137,6 +5151,7 @@ trabajador → travaxeko
 trabajador → travaxette
 trabajar → travaxei
 trabajo → travaxo, laboro
+trabalenguas → mixequeieto
 traducción → translaio
 traducir → translai
 traductor (objeto) → translaioro
@@ -5145,6 +5160,7 @@ traer → brogei
 traficación → trafike
 traficante → trafikaxette
 traficar → trafikai
+tragar → quei
 traicionar → trastai
 traicionero → trastoso
 traición → trasta
@@ -5185,6 +5201,7 @@ trece → dizitriai
 treinta → triaien
 tren → trena
 trenza → trence
+tres en raya → exo, exou, triaiette
 tres → triai
 tres → triai
 tribología → tribologia
@@ -5208,6 +5225,7 @@ tristeza → tristekia
 trituradora → trituoro
 triturar → trituroi
 tritón → uale
+trivia → trivia
 triángulo → trianglo
 trofología → trofologia
 trofólogo → trofologo, trofologette

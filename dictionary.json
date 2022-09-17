@@ -4595,6 +4595,14 @@
             }
         ]
     },
+    "atragantar": {
+        "entries": [
+            {
+                "meaning": "mixequei",
+                "specification": ""
+            }
+        ]
+    },
     "atrapado": {
         "entries": [
             {
@@ -6443,6 +6451,14 @@
         "entries": [
             {
                 "meaning": "brutsio",
+                "specification": ""
+            }
+        ]
+    },
+    "brocheta": {
+        "entries": [
+            {
+                "meaning": "brotsete",
                 "specification": ""
             }
         ]
@@ -8431,10 +8447,26 @@
             }
         ]
     },
+    "cañón": {
+        "entries": [
+            {
+                "meaning": "cannon",
+                "specification": ""
+            }
+        ]
+    },
     "cebolla": {
         "entries": [
             {
                 "meaning": "onnete",
+                "specification": ""
+            }
+        ]
+    },
+    "cebolleta": {
+        "entries": [
+            {
+                "meaning": "setso",
                 "specification": ""
             }
         ]
@@ -12771,6 +12803,14 @@
             }
         ]
     },
+    "cúrcuma": {
+        "entries": [
+            {
+                "meaning": "cucumo",
+                "specification": ""
+            }
+        ]
+    },
     "dacriología": {
         "entries": [
             {
@@ -12828,6 +12868,14 @@
             {
                 "meaning": "meila",
                 "specification": "ajedrez"
+            }
+        ]
+    },
+    "damas": {
+        "entries": [
+            {
+                "meaning": "menale",
+                "specification": "juego de mesa"
             }
         ]
     },
@@ -20967,6 +21015,14 @@
             }
         ]
     },
+    "grosella": {
+        "entries": [
+            {
+                "meaning": "baretsa",
+                "specification": ""
+            }
+        ]
+    },
     "grosero": {
         "entries": [
             {
@@ -25987,6 +26043,14 @@
             }
         ]
     },
+    "manzanilla": {
+        "entries": [
+            {
+                "meaning": "pomotsa",
+                "specification": ""
+            }
+        ]
+    },
     "mapa": {
         "entries": [
             {
@@ -30711,6 +30775,14 @@
             }
         ]
     },
+    "panceta": {
+        "entries": [
+            {
+                "meaning": "porketsa",
+                "specification": ""
+            }
+        ]
+    },
     "pancreas": {
         "entries": [
             {
@@ -32027,6 +32099,14 @@
             }
         ]
     },
+    "perejil": {
+        "entries": [
+            {
+                "meaning": "kila",
+                "specification": ""
+            }
+        ]
+    },
     "pereza": {
         "entries": [
             {
@@ -32591,6 +32671,14 @@
         "entries": [
             {
                 "meaning": "poi",
+                "specification": ""
+            }
+        ]
+    },
+    "piedra papel tijera": {
+        "entries": [
+            {
+                "meaning": "petra fola akuto",
                 "specification": ""
             }
         ]
@@ -35247,6 +35335,14 @@
         "entries": [
             {
                 "meaning": "removai",
+                "specification": ""
+            }
+        ]
+    },
+    "quiz": {
+        "entries": [
+            {
+                "meaning": "quiz",
                 "specification": ""
             }
         ]
@@ -39831,6 +39927,22 @@
             }
         ]
     },
+    "tarjeta de crédito": {
+        "entries": [
+            {
+                "meaning": "bancarde, bankarde",
+                "specification": ""
+            }
+        ]
+    },
+    "tarjeta de débito": {
+        "entries": [
+            {
+                "meaning": "dute bancarde, dute bankarde",
+                "specification": ""
+            }
+        ]
+    },
     "tarjeta": {
         "entries": [
             {
@@ -41323,6 +41435,14 @@
             }
         ]
     },
+    "trabalenguas": {
+        "entries": [
+            {
+                "meaning": "mixequeieto",
+                "specification": ""
+            }
+        ]
+    },
     "traducción": {
         "entries": [
             {
@@ -41379,6 +41499,14 @@
         "entries": [
             {
                 "meaning": "trafikai",
+                "specification": ""
+            }
+        ]
+    },
+    "tragar": {
+        "entries": [
+            {
+                "meaning": "quei",
                 "specification": ""
             }
         ]
@@ -41699,6 +41827,14 @@
             }
         ]
     },
+    "tres en raya": {
+        "entries": [
+            {
+                "meaning": "exo, exou, triaiette",
+                "specification": ""
+            }
+        ]
+    },
     "tres": {
         "entries": [
             {
@@ -41863,6 +41999,14 @@
         "entries": [
             {
                 "meaning": "uale",
+                "specification": ""
+            }
+        ]
+    },
+    "trivia": {
+        "entries": [
+            {
+                "meaning": "trivia",
                 "specification": ""
             }
         ]

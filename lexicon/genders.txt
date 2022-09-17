@@ -78,6 +78,7 @@ ei mosku
 ei morto
 ei mexiko
 ei neptuno
+ei cucumo
 la norkia
 ei norkeo
 ei novembo
@@ -961,6 +962,11 @@ ei xikere
 la kanna
 ei onnete
 la zebra
+ei cannon
+la bancarde
+la bankarde
+la kila
+ei setso
 la cecografia
 la cecografica
 la citrua
@@ -1009,6 +1015,8 @@ la rotsenmeia
 la meia
 ei rotsenhone
 ei hone
+la porketsa
+ei brotsete
 la tsimeneia
 la tsimitsanga
 ei itsimp
@@ -2715,6 +2723,7 @@ la mantikora
 ei ersokio
 la menzana
 ei pomo
+la pomotsa
 la mapa
 ei mapatso
 la racune
@@ -3822,6 +3831,7 @@ la esguela
 la grosatsa
 la purna
 ei kirko
+la baretsa
 ei renevo
 la reneva
 la reologia
@@ -4340,6 +4350,7 @@ la travaxette
 ei travaxo
 ei laboro
 ei translaio
+ei mixequeieto
 ei translaioro
 la translaixette
 la trafike
@@ -4373,7 +4384,13 @@ la traza
 la trena
 la trence
 la triai
+ei exo
+ei exou
+la triaiette
+la menale
 la tribologia
+la trivia
+ei quiz
 ei tribu
 ei tributo
 ei tribute
