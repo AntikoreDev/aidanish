@@ -77,6 +77,10 @@ Miércoles → xeitore
 Moscú → Mosku
 Muerte → morto
 México → Mexiko
+muela → mola
+pendiente (vestir) → kirla
+dvd → dividi, devede, dvd
+cd → cd
 Neptuno → neptuno
 cúrcuma → cucumo
 Noruega → Norkia
@@ -668,7 +672,7 @@ caja de herramientas → horocuba
 caja fuerte → herrocuba
 caja → cuba
 cala (flor) → belania
-calaba
+calabaza → pumka, fai, fain
 calabacín → cumba
 calamar → kalatrono, kalamo
 calamidad → calamitas
@@ -826,10 +830,12 @@ centrifugadora → zentrifugaioro
 centro → zentro
 cepillo de dientes → dentabrutsa
 cepillo → sebrutsa
+ancan → alzamiento
 cera → equa
 cerda (pelo) → furro
 cerdo → porko, pigo
 cereal → zereal
+norteño → tsemika, noro
 cerebro  → mentio
 cereza → roxuba
 cero → zuro
@@ -843,6 +849,8 @@ cetáceo → cetacio
 chaleco → tselo
 chamarra → burtso
 chaqueta → giaqeta
+catenaria → hatena
+andamio → hatena
 charco → culda
 charrán, estérnido → terno
 chat → chat
@@ -941,6 +949,7 @@ colador → coladoro
 colapso → colapso
 colección → colectia
 colegio, escuela → esaroriun, eskola
+caballería → veria, cavalria
 colibrí → liarta
 colina → yordea, sugal
 colmena → bajiba
@@ -1008,7 +1017,7 @@ configuración → configo
 confusión → confuzio
 congelador → gelaioro
 cono → cone
-conocimiento → aonatia
+conocimiento → aonatia, hipe
 conquiliología → conqiliologia
 conquiliólogo → conqiliologo, conqiliologette
 conquista → conqitia, conqista
@@ -1050,6 +1059,7 @@ cordón → cordo
 coreografía → coreografia, coreografica
 corografía → corografia, corografica
 corona → korona
+coro → coro
 corpa → corpe
 correcaminos → rantande
 corredor → zurrette
@@ -1057,6 +1067,7 @@ correo → maila
 correturnos → laborersette, ensekunde
 corrida (cualquier significado no sexual) → zurrata
 corrupción → korruptio
+extranjero → estrane
 cortador → kutoro
 corte → kuta
 cosa → koixa
@@ -2100,6 +2111,7 @@ lencería → linzeria
 lengua → lemgo
 lenguaje de programación → codilango, prokramalango
 lentes → lendait
+riachuelo → lenda, riatsa
 lerdo → tsafala
 letra (canción) → lerite
 letra (símbolo) → letra
@@ -2593,7 +2605,7 @@ ortología → ortologia
 ortotipografía → ortotipografia, ortotipografica
 ortólogo → ortologo, ortologette
 orégano → parxa
-oscuridad → obskuridae
+oscuridad → obskuridae, obskurita
 oso → aubaso
 osteología → osteologia
 osteólogo → osteologo, osteologette
@@ -2796,6 +2808,8 @@ pestaña (ojo) → exogi
 peste antonina → antonine pesta
 peste negra → nekro morto
 peste → pesta
+morsa → tapelo
+cierzo → qualda
 pesto → pesto
 petrografía → petrografia, petrografica
 petroleología → petroleologia
@@ -2906,6 +2920,8 @@ políglota → polingo, moltopara
 polígono → moltoxo
 pomología → pomologia
 pompa → bobal, pompe
+balda → escola
+balde → vanokisa, ropakisa
 pomólogo → pomologo, pomologette
 poncho → pontso
 por defecto → nurdefekto
@@ -2926,7 +2942,7 @@ poste → poste, forco
 postre → sundo, postre
 postura → poste
 pozo → racoia
-pradera → ergiara
+pradera → ergiara, razna
 prado → ergia
 precio, coste → kosta
 precisión → prezisio
@@ -2990,6 +3006,7 @@ prueba → proba
 prímula → acuprila
 príncipe → prince
 prólogo → prologo, prologette
+
 pseudología → pseudologia
 psicobiología → psicobiologia
 psicofisiología → psicofisiologia
@@ -3079,7 +3096,7 @@ recepción (lugar) → receptela
 receptor → receptoro
 receta → receta
 recibimiento → recepta
-recipiente → recipente
+recipiente → recipente, kisa
 recogedor (objeto) → rekainoro
 recogedor (persona) - rekaixette
 recogida → rekaina
@@ -3523,7 +3540,7 @@ tornillo → exkrabo
 torno → torno
 toro → toro
 torpedo → torpedo
-torre → torra
+torre → torra, hatena
 torta → torta
 tortilla → tortilla, omeleto
 tortita → tortite
@@ -3592,6 +3609,7 @@ trompeta → trompeta
 tronco → trunko
 trono → trone
 tropa → tropas
+ropa → ropa, vano
 tropología → tropologia
 trucha → trutsa
 truco → truka, trapitsa

@@ -306,6 +306,8 @@ altruista
 altsol
 alutinai
 alutination
+alzamiento
+alzar
 alzoraite
 am
 amaine
@@ -351,6 +353,7 @@ anca
 ancla
 anclaxo
 anclo
+anco
 andaiata
 andaire
 andaivo
@@ -1060,6 +1063,7 @@ cartselette
 cartula
 casca
 casino
+caso
 casta
 castil
 castrai
@@ -1073,6 +1077,8 @@ catroix
 caugo
 causa
 causai
+cavalria
+cd
 cecografia
 cecografica
 celar
@@ -1291,6 +1297,7 @@ corlo
 corloqibre
 cornato
 corno
+coro
 corografia
 corografica
 corpe
@@ -1546,6 +1553,7 @@ detripai
 detronei
 deurrayai
 deurrayo
+devede
 devila
 dexaire
 dexaireioko
@@ -1645,6 +1653,7 @@ distructor
 disva
 disvai
 disve
+dividi
 divisa
 dixai
 dixo
@@ -1739,6 +1748,7 @@ dutia
 dutiako
 duxlan
 duxlano
+dvd
 e
 easa
 easairei
@@ -1994,6 +2004,7 @@ escenografia
 escenografica
 esceptor
 escimitarra
+escola
 escorpio
 escorraco
 escorrai
@@ -2152,6 +2163,7 @@ estonesa
 estonia
 estorai
 estosol
+estrane
 estrannai
 estranne
 estranno
@@ -2244,6 +2256,7 @@ facto
 fago
 fai
 faiette
+fain
 faio
 faira
 faire
@@ -2257,6 +2270,7 @@ falcon
 faldai
 faldaia
 faldo
+falman
 falo
 fama
 fame
@@ -2687,6 +2701,7 @@ haplografica
 haplologia
 harei
 harpea
+hatena
 haviar
 hebra
 hegoa
@@ -2776,6 +2791,7 @@ hindu
 hinduisma
 hinge
 hingei
+hipe
 hipermetria
 hipermetrica
 hipnoi
@@ -3225,6 +3241,7 @@ kinesiologia
 kinesiologo
 kinko
 kirko
+kirla
 kisa
 kispa
 kispai
@@ -3412,6 +3429,7 @@ lekta
 lektei
 lekteoro
 lemgo
+lenda
 lendait
 lenna
 lento
@@ -4075,6 +4093,7 @@ norkia
 normal
 normalai
 norme
+noro
 norto
 nosografia
 nosografica
@@ -4104,6 +4123,7 @@ oargai
 obeo
 oblivo
 obskuridae
+obskurita
 obskuro
 oceanografia
 oceanografica
@@ -4835,6 +4855,7 @@ pulder
 pulgada
 pulpusa
 pulverfruge
+pumka
 pumo
 puntico
 punto
@@ -4885,6 +4906,7 @@ qinesiologo
 qinteto
 qiza
 quai
+qualda
 quaro
 quaroi
 quartada
@@ -5094,6 +5116,7 @@ revenganze
 revivai
 revokei
 revolver
+riatsa
 riava
 riaxa
 riaxai
@@ -5143,6 +5166,8 @@ romo
 rompeire
 rondai
 rone
+ropa
+ropakisa
 rosar
 rota
 rotai
@@ -5506,6 +5531,7 @@ tanatologo
 tangente
 tangento
 tante
+tapelo
 tapire
 taqigrafia
 taqigrafica
@@ -5852,6 +5878,7 @@ tsarisma
 tsarismatiko
 tsaska
 tselo
+tsemika
 tseno
 tseqai
 tseqe
@@ -6023,6 +6050,8 @@ vanga
 vangai
 vanita
 vanka
+vano
+vanokisa
 vao
 varei
 vari
@@ -6067,6 +6096,7 @@ verba
 verdad
 verdadeko
 verdai
+veria
 verifei
 verifeko
 verifia

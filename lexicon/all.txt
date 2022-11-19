@@ -310,6 +310,7 @@ altruista → altruista
 altura → aitora
 alucinación → alutination
 alucinar → alutinai
+alzado → anco
 amaestrar → amasterai
 amamantar → amamantai
 amanecer → amanza
@@ -354,12 +355,15 @@ analogía → analogia
 anarquía → anarqia
 anatomopatólogo → anatomopatologo, anatomopatologette
 anca → anka, anca
+ancai → alzar
+ancan → alzamiento
 anchar → faldai
 ancho → faldo
 anchura → faldaia
 ancla → ancla
 anclaje → anclaxo, fixo, anclo
 andador → andaivo
+andamio → hatena
 andar → andaire
 andesita → andesita
 andorra → andorra
@@ -645,6 +649,8 @@ bala → bale
 balanza → balantai
 balanza → balante
 balcón → evokinda
+balda → escola
+balde → vanokisa, ropakisa
 ballena → argeya, baola
 baloncesto → bolacesta
 bambú → bambo
@@ -848,6 +854,7 @@ búho → ebande
 búsqueda → findo
 caballero (hombre) → vero
 caballero (que monta a caballo) → ayette
+caballería → veria, cavalria
 caballito de mar → marayato
 caballo (ajedrez) → ayette
 caballo → ayato
@@ -882,8 +889,8 @@ caja de herramientas → horocuba
 caja fuerte → herrocuba
 caja → cuba
 cala (flor) → belania
-calaba
 calabacín → cumba
+calabaza → pumka, fai, fain
 calamar → kalatrono, kalamo
 calamidad → calamitas
 calavera → antsoarko
@@ -1022,6 +1029,7 @@ caseta, cabaña → asunna, kasutsa
 casi → axi
 casilla → kasiya
 casino → casino
+caso → caso
 casta → casta
 castaña → nizaga
 castaño → nizagal
@@ -1034,6 +1042,7 @@ castrar → castrai
 catalejo → foreviso, forevo
 catarsis → katarsis
 catastrofe → combe
+catenaria → hatena
 catorce → dizicatro
 catálogo → catalogo, catalogette
 cauce → calikso
@@ -1053,6 +1062,7 @@ cazo → xikara
 cazuela → xikere
 caña → kanna
 cañón → cannon
+cd → cd
 cebolla → onnete
 cebolleta → setso
 cebra → zebra
@@ -1143,6 +1153,7 @@ científico → cientsette
 cierto (especificando algo) → certo
 cierto → zerto
 ciervo → perlo
+cierzo → qualda
 cifra → cifra
 cifrado → cifrato
 cifrar→ cifrei
@@ -1348,7 +1359,7 @@ cono → cone
 conocer (algo) → aonatei
 conocer (persona) → misei
 conocido → miseioko
-conocimiento → aonatia
+conocimiento → aonatia, hipe
 conquiliología → conqiliologia
 conquiliólogo → conqiliologo, conqiliologette
 conquista → conqitia, conqista
@@ -1418,6 +1429,7 @@ corcho (tapón de botella) → arkutsa
 cordón → cordo
 coreografía → coreografia, coreografica
 cornudo → cornato
+coro → coro
 corografía → corografia, corografica
 corona → korona
 corpa → corpe
@@ -1909,6 +1921,7 @@ duración → dula
 durante → koante
 durar → dulai
 duro → tsosto
+dvd → dividi, devede, dvd
 dársena → portakarga
 débil → debila
 décima → decima
@@ -2297,6 +2310,7 @@ extensión → extentia
 extinguir → extingei
 extintor → ignoextingoro
 extraer → tractaine
+extranjero → estrane
 extrañar → estrannai
 extraño → estranno
 extraño, desconocido → estranne
@@ -3203,6 +3217,7 @@ mamut → mamuz
 mamá → mama
 mancha → zugra
 manchar → zugrai
+manco → falman
 mandar → mandai
 mando (concepto) → manda
 mando (objeto) → mandoro
@@ -3482,6 +3497,7 @@ morfometría → morfometria, morfometrica
 morfólogo → morfologo, morfologette
 morir de hambre → estarvai
 morir → mortei
+morsa → tapelo
 mortal → mortal
 mortero → morta
 mosca → blainekro
@@ -3504,6 +3520,7 @@ mucho → naito
 muchos → naito
 mudo → unpaireko
 mueble → furno, moblo
+muela → mola
 muerte → morto
 muerto → morte
 muestra → dorima
@@ -3618,6 +3635,7 @@ norma → norme
 normal → normal
 normalizar → normalai
 norte → norto
+norteño → tsemika, noro
 noruega → norkia
 noruego → norkeo
 nos → narer
@@ -3755,7 +3773,7 @@ ortotipografía → ortotipografia, ortotipografica
 ortólogo → ortologo, ortologette
 orégano → parxa
 os → zurer
-oscuridad → obskuridae
+oscuridad → obskuridae, obskurita
 oscuro → obskuro
 oso → aubaso
 ostentar → glezai
@@ -3959,6 +3977,7 @@ peluquero → cailoxette
 película → filmo
 penalizar → penalai
 pender → pendei
+pendiente (vestir) → kirla
 pene → penisa, sakiya, pikla
 pensador → penzeiette
 pensamiento (mente) → penze
@@ -4209,7 +4228,7 @@ postura → poste
 pozo → racoia
 practicar un hobby → hobbiai
 practicar → praktikai
-pradera → ergiara
+pradera → ergiara, razna
 prado → ergia
 precio, coste → kosta
 precioso → aibinna
@@ -4444,7 +4463,7 @@ rechazar → retsaire
 recibimiento → recepta
 recibir → receptei, recebai
 reciente → reciento
-recipiente → recipente
+recipiente → recipente, kisa
 recluir → reklui
 recluso → rekluso
 recogedor (objeto) → rekainoro
@@ -4572,6 +4591,7 @@ revólver → revolver
 rey → rein
 rezar → praisoi
 rezo → praiso
+riachuelo → lenda, riatsa
 rico → ritsa
 riesgo → risko
 rifle → rifle
@@ -4605,6 +4625,7 @@ romper → rompeire
 romántico → romantiko
 ron → rone
 rondar → rondai
+ropa → ropa, vano
 rosa → roixa
 rosa → rosar
 rotación → rotatio
@@ -5137,7 +5158,7 @@ tornillo → exkrabo
 torno → torno
 toro → toro
 torpedo → torpedo
-torre → torra
+torre → torra, hatena
 torta → torta
 tortilla → tortilla, omeleto
 tortita → tortite

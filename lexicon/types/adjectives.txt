@@ -14,6 +14,7 @@ abordado → aborrako
 abortado → abortado
 abrasivo → abrasivo
 abrazado → hogoko
+manco → falman
 absoluto → absoluto
 abstenido → absteno
 abundante → abonte
@@ -143,6 +144,7 @@ cómodo → conforte
 decente → dezente
 deficiente → defizente
 definido → definite
+alzado → anco
 definitivo → definite
 dejado → dexaireioko
 delgado → delekio

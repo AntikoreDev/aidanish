@@ -2531,6 +2531,14 @@
             }
         ]
     },
+    "alzado": {
+        "entries": [
+            {
+                "meaning": "anco",
+                "specification": ""
+            }
+        ]
+    },
     "amaestrar": {
         "entries": [
             {
@@ -2891,6 +2899,22 @@
             }
         ]
     },
+    "ancai": {
+        "entries": [
+            {
+                "meaning": "alzar",
+                "specification": ""
+            }
+        ]
+    },
+    "ancan": {
+        "entries": [
+            {
+                "meaning": "alzamiento",
+                "specification": ""
+            }
+        ]
+    },
     "anchar": {
         "entries": [
             {
@@ -2935,6 +2959,14 @@
         "entries": [
             {
                 "meaning": "andaivo",
+                "specification": ""
+            }
+        ]
+    },
+    "andamio": {
+        "entries": [
+            {
+                "meaning": "hatena",
                 "specification": ""
             }
         ]
@@ -5211,6 +5243,22 @@
             }
         ]
     },
+    "balda": {
+        "entries": [
+            {
+                "meaning": "escola",
+                "specification": ""
+            }
+        ]
+    },
+    "balde": {
+        "entries": [
+            {
+                "meaning": "vanokisa, ropakisa",
+                "specification": ""
+            }
+        ]
+    },
     "ballena": {
         "entries": [
             {
@@ -6811,6 +6859,14 @@
             }
         ]
     },
+    "caballería": {
+        "entries": [
+            {
+                "meaning": "veria, cavalria",
+                "specification": ""
+            }
+        ]
+    },
     "caballito de mar": {
         "entries": [
             {
@@ -7091,6 +7147,14 @@
         "entries": [
             {
                 "meaning": "cumba",
+                "specification": ""
+            }
+        ]
+    },
+    "calabaza": {
+        "entries": [
+            {
+                "meaning": "pumka, fai, fain",
                 "specification": ""
             }
         ]
@@ -8207,6 +8271,14 @@
             }
         ]
     },
+    "caso": {
+        "entries": [
+            {
+                "meaning": "caso",
+                "specification": ""
+            }
+        ]
+    },
     "casta": {
         "entries": [
             {
@@ -8299,6 +8371,14 @@
         "entries": [
             {
                 "meaning": "combe",
+                "specification": ""
+            }
+        ]
+    },
+    "catenaria": {
+        "entries": [
+            {
+                "meaning": "hatena",
                 "specification": ""
             }
         ]
@@ -8451,6 +8531,14 @@
         "entries": [
             {
                 "meaning": "cannon",
+                "specification": ""
+            }
+        ]
+    },
+    "cd": {
+        "entries": [
+            {
+                "meaning": "cd",
                 "specification": ""
             }
         ]
@@ -9171,6 +9259,14 @@
         "entries": [
             {
                 "meaning": "perlo",
+                "specification": ""
+            }
+        ]
+    },
+    "cierzo": {
+        "entries": [
+            {
+                "meaning": "qualda",
                 "specification": ""
             }
         ]
@@ -10842,7 +10938,7 @@
     "conocimiento": {
         "entries": [
             {
-                "meaning": "aonatia",
+                "meaning": "aonatia, hipe",
                 "specification": ""
             }
         ]
@@ -11403,6 +11499,14 @@
         "entries": [
             {
                 "meaning": "cornato",
+                "specification": ""
+            }
+        ]
+    },
+    "coro": {
+        "entries": [
+            {
+                "meaning": "coro",
                 "specification": ""
             }
         ]
@@ -15371,6 +15475,14 @@
             }
         ]
     },
+    "dvd": {
+        "entries": [
+            {
+                "meaning": "dividi, devede, dvd",
+                "specification": ""
+            }
+        ]
+    },
     "dársena": {
         "entries": [
             {
@@ -18571,6 +18683,14 @@
         "entries": [
             {
                 "meaning": "tractaine",
+                "specification": ""
+            }
+        ]
+    },
+    "extranjero": {
+        "entries": [
+            {
+                "meaning": "estrane",
                 "specification": ""
             }
         ]
@@ -25843,6 +25963,14 @@
             }
         ]
     },
+    "manco": {
+        "entries": [
+            {
+                "meaning": "falman",
+                "specification": ""
+            }
+        ]
+    },
     "mandar": {
         "entries": [
             {
@@ -28055,6 +28183,14 @@
             }
         ]
     },
+    "morsa": {
+        "entries": [
+            {
+                "meaning": "tapelo",
+                "specification": ""
+            }
+        ]
+    },
     "mortal": {
         "entries": [
             {
@@ -28227,6 +28363,14 @@
         "entries": [
             {
                 "meaning": "furno, moblo",
+                "specification": ""
+            }
+        ]
+    },
+    "muela": {
+        "entries": [
+            {
+                "meaning": "mola",
                 "specification": ""
             }
         ]
@@ -29167,6 +29311,14 @@
         "entries": [
             {
                 "meaning": "norto",
+                "specification": ""
+            }
+        ]
+    },
+    "norteño": {
+        "entries": [
+            {
+                "meaning": "tsemika, noro",
                 "specification": ""
             }
         ]
@@ -30274,7 +30426,7 @@
     "oscuridad": {
         "entries": [
             {
-                "meaning": "obskuridae",
+                "meaning": "obskuridae, obskurita",
                 "specification": ""
             }
         ]
@@ -31904,6 +32056,14 @@
             {
                 "meaning": "pendei",
                 "specification": ""
+            }
+        ]
+    },
+    "pendiente": {
+        "entries": [
+            {
+                "meaning": "kirla",
+                "specification": "vestir"
             }
         ]
     },
@@ -33858,7 +34018,7 @@
     "pradera": {
         "entries": [
             {
-                "meaning": "ergiara",
+                "meaning": "ergiara, razna",
                 "specification": ""
             }
         ]
@@ -35758,7 +35918,7 @@
     "recipiente": {
         "entries": [
             {
-                "meaning": "recipente",
+                "meaning": "recipente, kisa",
                 "specification": ""
             }
         ]
@@ -36795,6 +36955,14 @@
             }
         ]
     },
+    "riachuelo": {
+        "entries": [
+            {
+                "meaning": "lenda, riatsa",
+                "specification": ""
+            }
+        ]
+    },
     "rico": {
         "entries": [
             {
@@ -37051,6 +37219,14 @@
         "entries": [
             {
                 "meaning": "rondai",
+                "specification": ""
+            }
+        ]
+    },
+    "ropa": {
+        "entries": [
+            {
+                "meaning": "ropa, vano",
                 "specification": ""
             }
         ]
@@ -41330,7 +41506,7 @@
     "torre": {
         "entries": [
             {
-                "meaning": "torra",
+                "meaning": "torra, hatena",
                 "specification": ""
             }
         ]

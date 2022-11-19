@@ -77,6 +77,12 @@ ei xeitore
 ei mosku
 ei morto
 ei mexiko
+la mola
+la kirla
+la dividi
+la devede
+ei dvd
+ei cd
 ei neptuno
 ei cucumo
 la norkia
@@ -795,6 +801,9 @@ la horocuba
 la herrocuba
 la cuba
 la belania
+la pumka
+la fai
+la fain
 la cumba
 ei kalatrono
 ei kalamo
@@ -987,11 +996,14 @@ ei zentrifugaioro
 ei zentro
 la dentabrutsa
 la sebrutsa
+ei alzamiento
 la equa
 ei furro
 ei porko
 ei pigo
 la zereal
+la tsemika
+ei noro
 ei mentio
 la roxuba
 ei zuro
@@ -1007,6 +1019,8 @@ ei cetacio
 ei tselo
 ei burtso
 la giaqeta
+la hatena
+la hatena
 la culda
 ei terno
 la chat
@@ -1126,6 +1140,8 @@ ei colapso
 la colectia
 ei esaroriun
 la eskola
+la veria
+la cavalria
 la liarta
 la yordea
 ei sugal
@@ -1207,6 +1223,7 @@ ei confuzio
 ei gelaioro
 ei cone
 la aonatia
+ei hipe
 la conqiliologia
 ei conqiliologo
 ei conqiliologette
@@ -1255,6 +1272,7 @@ la coreografica
 la corografia
 la corografica
 la korona
+ei coro
 ei corpe
 la rantande
 ei zurrette
@@ -1263,6 +1281,7 @@ la laborersette
 ei ensekunde
 la zurrata
 ei korruptio
+la estrane
 ei kutoro
 la kuta
 la koixa
@@ -2566,6 +2585,8 @@ ei lemgo
 ei codilango
 ei prokramalango
 la lendait
+la lenda
+la riatsa
 la tsafala
 ei lerite
 la letra
@@ -3200,6 +3221,7 @@ ei ortologo
 ei ortologette
 la parxa
 ei obskuridae
+la obskurita
 ei aubaso
 la osteologia
 ei osteologo
@@ -3449,6 +3471,8 @@ ei peso
 la tabula
 la exogi
 la pesta
+ei tapelo
+la qualda
 ei pesto
 la petrografia
 la petrografica
@@ -3584,6 +3608,9 @@ ei moltoxo
 la pomologia
 ei bobal
 ei pompe
+la escola
+la vanokisa
+la ropakisa
 ei pomologo
 ei pomologette
 ei pontso
@@ -3611,6 +3638,7 @@ ei postre
 ei poste
 la racoia
 la ergiara
+la razna
 la ergia
 la kosta
 ei prezisio
@@ -3715,6 +3743,7 @@ la pulpusa
 la intsina
 ei pambo
 la nesiga
+ei caso
 ei punto
 ei puntuatio
 ei puntuo
@@ -3788,6 +3817,7 @@ ei receptoro
 la receta
 la recepta
 ei recipente
+la kisa
 ei rekainoro
 la rekaina
 ei reguardo
@@ -4336,6 +4366,7 @@ ei torno
 ei toro
 ei torpedo
 la torra
+la hatena
 la torta
 la tortilla
 ei omeleto
@@ -4418,6 +4449,8 @@ la trompeta
 ei trunko
 ei trone
 la tropas
+la ropa
+ei vano
 la tropologia
 la trutsa
 la truka
@@ -4720,6 +4753,7 @@ ei aborrako
 ei abortado
 ei abrasivo
 ei hogoko
+la falman
 ei absoluto
 ei absteno
 la abonte
@@ -4853,6 +4887,7 @@ ei conforte
 la dezente
 ei defizente
 ei definite
+ei anco
 ei definite
 ei dexaireioko
 ei delekio

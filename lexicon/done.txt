@@ -304,6 +304,7 @@ altruista
 altura
 alucinación
 alucinar
+alzado
 amaestrar
 amamantar
 amanecer
@@ -345,6 +346,8 @@ analogía
 anarquía
 anatomopatólogo
 anca
+ancai
+ancan
 anchar
 ancho
 anchura
@@ -352,6 +355,7 @@ anciano
 ancla
 anclaje
 andador
+andamio
 andar
 andesita
 andorra
@@ -637,6 +641,8 @@ bajo
 bala
 balanza
 balcón
+balda
+balde
 ballena
 baloncesto
 bambú
@@ -835,6 +841,7 @@ búfalo
 búho
 búsqueda
 caballero
+caballería
 caballito de mar
 caballo
 cabaña
@@ -871,6 +878,7 @@ caja de herramientas
 caja fuerte
 cala
 calabacín
+calabaza
 calamar
 calamidad
 calavera
@@ -1013,6 +1021,7 @@ casi
 casi sin ventanas o puertas
 casilla
 casino
+caso
 casta
 castaña
 castaño
@@ -1025,6 +1034,7 @@ castrar
 catalejo
 catarsis
 catastrofe
+catenaria
 catorce
 catálogo
 cauce
@@ -1045,6 +1055,7 @@ cazo
 cazuela
 caña
 cañón
+cd
 cebolla
 cebolleta
 cebra
@@ -1131,6 +1142,7 @@ cienciólogo
 científico
 cierto
 ciervo
+cierzo
 cifra
 cifrado
 cifrar
@@ -1393,6 +1405,7 @@ corcho
 cordón
 coreografía
 cornudo
+coro
 corografía
 corona
 corpa
@@ -1877,6 +1890,7 @@ durante
 durar
 durazno
 duro
+dvd
 dársena
 débil
 décima
@@ -2265,6 +2279,7 @@ extensión
 extinguir
 extintor
 extraer
+extranjero
 extrañar
 extraño
 extremo
@@ -3155,6 +3170,7 @@ mamut
 mamá
 mancha
 manchar
+manco
 mandar
 mando
 manejar
@@ -3419,6 +3435,7 @@ morfometría
 morfólogo
 morir
 morir de hambre
+morsa
 mortal
 mortero
 mosca
@@ -3441,6 +3458,7 @@ mucho
 muchos
 mudo
 mueble
+muela
 muerte
 muerto
 muestra
@@ -3556,6 +3574,7 @@ norma
 normal
 normalizar
 norte
+norteño
 noruega
 noruego
 nos
@@ -3886,6 +3905,7 @@ peluquero
 película
 penalizar
 pender
+pendiente
 pene
 pensador
 pensamiento
@@ -4486,6 +4506,7 @@ revólver
 rey
 rezar
 rezo
+riachuelo
 rico
 riesgo
 rifle
@@ -4518,6 +4539,7 @@ romper
 romántico
 ron
 rondar
+ropa
 rosa
 rotación
 rotar
