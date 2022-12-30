@@ -4859,6 +4859,14 @@
             }
         ]
     },
+    "autopista": {
+        "entries": [
+            {
+                "meaning": "rakemnalea, via rante, viarante, rantevia",
+                "specification": ""
+            }
+        ]
+    },
     "autor": {
         "entries": [
             {
@@ -5343,6 +5351,14 @@
             }
         ]
     },
+    "bar": {
+        "entries": [
+            {
+                "meaning": "bar",
+                "specification": ""
+            }
+        ]
+    },
     "baraja": {
         "entries": [
             {
@@ -5544,6 +5560,26 @@
             {
                 "meaning": "batei",
                 "specification": ""
+            }
+        ]
+    },
+    "batería": {
+        "entries": [
+            {
+                "meaning": "bateria",
+                "specification": "instrumento"
+            },
+            {
+                "meaning": "plika",
+                "specification": "energía"
+            }
+        ]
+    },
+    "pila": {
+        "entries": [
+            {
+                "meaning": "plika",
+                "specification": "energía"
             }
         ]
     },
@@ -6035,6 +6071,14 @@
         "entries": [
             {
                 "meaning": "bisonte",
+                "specification": ""
+            }
+        ]
+    },
+    "bit": {
+        "entries": [
+            {
+                "meaning": "bit, bito",
                 "specification": ""
             }
         ]
@@ -14823,6 +14867,14 @@
             }
         ]
     },
+    "disco duro": {
+        "entries": [
+            {
+                "meaning": "esmarediske",
+                "specification": ""
+            }
+        ]
+    },
     "disco": {
         "entries": [
             {
@@ -14835,6 +14887,14 @@
         "entries": [
             {
                 "meaning": "discografia, discografica",
+                "specification": ""
+            }
+        ]
+    },
+    "discordia": {
+        "entries": [
+            {
+                "meaning": "diskordia",
                 "specification": ""
             }
         ]
@@ -15187,6 +15247,14 @@
         "entries": [
             {
                 "meaning": "dodo",
+                "specification": ""
+            }
+        ]
+    },
+    "dogma": {
+        "entries": [
+            {
+                "meaning": "dogma",
                 "specification": ""
             }
         ]
@@ -15849,6 +15917,10 @@
     },
     "electrón": {
         "entries": [
+            {
+                "meaning": "electron",
+                "specification": ""
+            },
             {
                 "meaning": "elektronno",
                 "specification": ""
@@ -23895,6 +23967,14 @@
             }
         ]
     },
+    "ión": {
+        "entries": [
+            {
+                "meaning": "ion",
+                "specification": ""
+            }
+        ]
+    },
     "jabalí": {
         "entries": [
             {
@@ -25095,6 +25175,14 @@
         "entries": [
             {
                 "meaning": "literatia",
+                "specification": ""
+            }
+        ]
+    },
+    "litio": {
+        "entries": [
+            {
+                "meaning": "litum",
                 "specification": ""
             }
         ]
@@ -28447,6 +28535,14 @@
             }
         ]
     },
+    "muralla": {
+        "entries": [
+            {
+                "meaning": "murala",
+                "specification": ""
+            }
+        ]
+    },
     "murciélago": {
         "entries": [
             {
@@ -28791,6 +28887,22 @@
             }
         ]
     },
+    "nazi": {
+        "entries": [
+            {
+                "meaning": "nazi",
+                "specification": ""
+            }
+        ]
+    },
+    "nazismo": {
+        "entries": [
+            {
+                "meaning": "nazismo",
+                "specification": ""
+            }
+        ]
+    },
     "necesidad": {
         "entries": [
             {
@@ -29043,6 +29155,14 @@
         "entries": [
             {
                 "meaning": "neurologo, neurologette",
+                "specification": ""
+            }
+        ]
+    },
+    "neutrón": {
+        "entries": [
+            {
+                "meaning": "neutron",
                 "specification": ""
             }
         ]
@@ -30884,6 +31004,14 @@
             {
                 "meaning": "rago, pumo",
                 "specification": ""
+            }
+        ]
+    },
+    "palomita": {
+        "entries": [
+            {
+                "meaning": "explojica",
+                "specification": "comida"
             }
         ]
     },
@@ -34863,6 +34991,14 @@
             }
         ]
     },
+    "protón": {
+        "entries": [
+            {
+                "meaning": "proton",
+                "specification": ""
+            }
+        ]
+    },
     "proverbio": {
         "entries": [
             {
@@ -35303,6 +35439,14 @@
             },
             {
                 "meaning": "publiko",
+                "specification": ""
+            }
+        ]
+    },
+    "qubit": {
+        "entries": [
+            {
+                "meaning": "qubit",
                 "specification": ""
             }
         ]
@@ -35903,6 +36047,30 @@
         "entries": [
             {
                 "meaning": "receptei, recebai",
+                "specification": ""
+            }
+        ]
+    },
+    "recicladora": {
+        "entries": [
+            {
+                "meaning": "rezykloro",
+                "specification": ""
+            }
+        ]
+    },
+    "reciclaje": {
+        "entries": [
+            {
+                "meaning": "rezyklatia",
+                "specification": ""
+            }
+        ]
+    },
+    "reciclar": {
+        "entries": [
+            {
+                "meaning": "rezyklei",
                 "specification": ""
             }
         ]
@@ -36659,6 +36827,46 @@
         "entries": [
             {
                 "meaning": "republika",
+                "specification": ""
+            }
+        ]
+    },
+    "residencia": {
+        "entries": [
+            {
+                "meaning": "reisitela",
+                "specification": ""
+            }
+        ]
+    },
+    "residente": {
+        "entries": [
+            {
+                "meaning": "reiso",
+                "specification": ""
+            }
+        ]
+    },
+    "residir": {
+        "entries": [
+            {
+                "meaning": "reise",
+                "specification": ""
+            }
+        ]
+    },
+    "residuo de litio de las baterías": {
+        "entries": [
+            {
+                "meaning": "litumgrax",
+                "specification": ""
+            }
+        ]
+    },
+    "residuo": {
+        "entries": [
+            {
+                "meaning": "guasta, grax",
                 "specification": ""
             }
         ]
@@ -41511,6 +41719,14 @@
             }
         ]
     },
+    "torreta": {
+        "entries": [
+            {
+                "meaning": "torrata, turreta",
+                "specification": ""
+            }
+        ]
+    },
     "torta": {
         "entries": [
             {
@@ -42702,11 +42918,7 @@
     "unión": {
         "entries": [
             {
-                "meaning": "unione",
-                "specification": ""
-            },
-            {
-                "meaning": "yoixo",
+                "meaning": "unione, yoixo",
                 "specification": ""
             }
         ]
@@ -44155,6 +44367,10 @@
         "entries": [
             {
                 "meaning": "kemno",
+                "specification": ""
+            },
+            {
+                "meaning": "via",
                 "specification": ""
             }
         ]

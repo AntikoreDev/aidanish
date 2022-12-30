@@ -594,6 +594,7 @@ autobiografía
 autobús
 autografía
 automóvil
+autopista
 autor
 autólogo
 avance
@@ -653,6 +654,7 @@ bandera
 bandera aidanesa
 banquero
 banquete
+bar
 baraja
 barajar
 barato
@@ -678,6 +680,7 @@ batalla
 bate
 bateador
 batear
+batería
 batido
 batimetría
 batología
@@ -739,6 +742,7 @@ bisexual
 bisexualidad
 bismuto
 bisonte
+bit
 biólogo
 blanco
 blando
@@ -1808,7 +1812,9 @@ dirigir
 disciplina
 disciplinar
 disco
+disco duro
 discografía
+discordia
 discoteca
 discreto
 discriminación
@@ -1854,6 +1860,7 @@ doctoral
 doctrina
 documento
 dodo
+dogma
 doler
 dolido
 dolor
@@ -2918,6 +2925,7 @@ isometría
 italia
 italiano
 izquierda
+ión
 jabalí
 jabón
 jacinto
@@ -3066,6 +3074,7 @@ listo
 litera
 literal
 literatura
+litio
 litofotografía
 litografía
 litología
@@ -3469,6 +3478,7 @@ mundial
 mundo
 mundología
 munición
+muralla
 murciélago
 murmurar
 murmuro
@@ -3509,6 +3519,8 @@ narratólogo
 natural
 navaja
 navidad
+nazi
+nazismo
 necesidad
 necesitar
 necrología
@@ -3541,6 +3553,7 @@ neurofisiología
 neurofisiólogo
 neurología
 neurólogo
+neutrón
 nevado
 nevar
 nevera
@@ -3764,6 +3777,7 @@ palma
 palmera
 palo
 paloma
+palomita
 pan
 pan de molde
 panadero
@@ -4008,6 +4022,7 @@ pierna
 pieza
 piezometría
 pijama
+pila
 pimiento
 pincel
 pincelada
@@ -4248,6 +4263,7 @@ protección
 proteger
 protegido
 proteina
+protón
 proverbio
 provincia
 prueba
@@ -4304,6 +4320,7 @@ pértiga
 pícido
 pórtico
 público
+qubit
 que
 que se jodan
 quebrar
@@ -4378,6 +4395,9 @@ rechazado
 rechazar
 recibimiento
 recibir
+recicladora
+reciclaje
+reciclar
 reciente
 recipiente
 recluir
@@ -4469,6 +4489,11 @@ reptar
 reptil
 repuesto
 república
+residencia
+residente
+residir
+residuo
+residuo de litio de las baterías
 resistencia
 resistir
 resolución
@@ -5059,6 +5084,7 @@ torno
 toro
 torpedo
 torre
+torreta
 torso
 torta
 tortilla

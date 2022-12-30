@@ -721,6 +721,7 @@ bankexette
 banko
 banqete
 baola
+bar
 baraja
 barajai
 barbaro
@@ -740,6 +741,7 @@ bataila
 batailon
 bate
 batei
+bateria
 batero
 batimetria
 batimetrica
@@ -848,6 +850,8 @@ bismuto
 bisonte
 bispo
 bisumoko
+bit
+bito
 bixa
 biz
 blai
@@ -1638,6 +1642,7 @@ disipaire
 diskaire
 diske
 diskete
+diskordia
 diskreto
 disolvai
 disposa
@@ -1674,6 +1679,7 @@ dizkoia
 dizkoiai
 dodo
 doerro
+dogma
 doi
 doidute
 doine
@@ -1838,6 +1844,7 @@ electroencefalografica
 electrofisiologia
 electrometria
 electrometrica
+electron
 elektriko
 elektrikono
 elektritia
@@ -2045,6 +2052,7 @@ eslime
 eslimo
 eslo
 esmaire
+esmarediske
 esmarei
 esmareitela
 esmaretio
@@ -2236,6 +2244,7 @@ expiro
 explodei
 explodiko
 explodoro
+explojica
 exporte
 exportei
 exposto
@@ -2673,6 +2682,7 @@ guaira
 gualabi
 guarda
 guardia
+guasta
 guiro
 guma
 gumoi
@@ -3052,6 +3062,7 @@ inzei
 inzertidumbre
 inzo
 inzono
+ion
 iornada
 ipsogirgirigarigarei
 irakoa
@@ -3512,6 +3523,8 @@ litologia
 litologo
 litora
 litoral
+litum
+litumgrax
 liya
 liyare
 llamai
@@ -3934,6 +3947,7 @@ muco
 multiproxei
 mundologia
 mura
+murala
 murelo
 museografia
 museografica
@@ -3977,6 +3991,8 @@ naturala
 nau
 nauhen
 navaia
+nazi
+nazismo
 neare
 nearei
 necrologia
@@ -4033,6 +4049,7 @@ neurofisiologo
 neurologette
 neurologia
 neurologo
+neutron
 neva
 nevai
 nevako
@@ -4591,6 +4608,7 @@ platintso
 plato
 pleasa
 plenti
+plika
 plomo
 pluga
 plugai
@@ -4821,6 +4839,7 @@ protectia
 protecto
 proteina
 proteire
+proton
 provenza
 proverbio
 proximo
@@ -4914,6 +4933,7 @@ quartel
 quarto
 quasar
 quatroda
+qubit
 quei
 quete
 quiz
@@ -4943,6 +4963,7 @@ raiaire
 raio
 raiyoa
 raize
+rakemnalea
 rakemno
 rakempisa
 rakia
@@ -4956,6 +4977,7 @@ rango
 ranta
 rantande
 rante
+rantevia
 rantio
 ranuncula
 rasta
@@ -5013,6 +5035,9 @@ reguardo
 rein
 reina
 reine
+reise
+reisitela
+reiso
 rekai
 rekaina
 rekaine
@@ -5116,6 +5141,9 @@ revenganze
 revivai
 revokei
 revolver
+rezyklatia
+rezyklei
+rezykloro
 riatsa
 riava
 riaxa
@@ -5743,6 +5771,7 @@ torqei
 torqera
 torqette
 torra
+torrata
 torta
 tortilla
 tortite
@@ -5930,6 +5959,7 @@ turisma
 turista
 turno
 turnoi
+turreta
 tuske
 tzunami
 uale
@@ -6115,6 +6145,7 @@ vex
 vexilogette
 vexilogia
 via
+viarante
 vibrai
 vibraibo
 vicunna

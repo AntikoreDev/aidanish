@@ -600,6 +600,7 @@ autismo → autisma
 autobiografía → autobiografia, autobiografica
 autobús → autobus
 autografía → autografia, autografica
+autopista → rakemnalea, via rante, viarante, rantevia
 autor → autora
 autólogo → autologo, autologette
 avance → entero
@@ -662,6 +663,7 @@ bandera aidanesa → patriska
 bandera → fliaga
 banquero → bankexette
 banquete → banqete
+bar → bar
 baraja → baraja
 barajar → barajai
 barato → atsoso
@@ -687,6 +689,8 @@ batalla → bataila
 bate → bate
 bateador → batero
 batear → batei
+batería (instrumento) → bateria
+batería, pila (energía) → plika
 batido → socrema
 batido → socremeko
 batimetría → batimetria, batimetrica
@@ -750,6 +754,7 @@ bisexual → bisexualo
 bisexualidad → bisexualita
 bismuto → bismuto
 bisonte → bisonte
+bit → bit, bito
 biólogo → biologo, biologette
 blanco → bianco
 blando → bloneto
@@ -1840,8 +1845,10 @@ director → dirijette
 dirigir → dirijei
 disciplina, doctrina → discipula
 disciplinar → disciplaire
+disco duro → esmarediske
 disco → diske
 discografía → discografia, discografica
+discordia → diskordia
 discoteca → discotela, discoteka, disco
 discreto → diskreto
 discriminación → discrima
@@ -1886,6 +1893,7 @@ doctor → doktor
 doctoral → doktoralo
 documento → dokumento
 dodo → dodo
+dogma → dogma
 doler → dolei
 dolido → dolo
 dolor → dole
@@ -1964,6 +1972,7 @@ electrocardiografía → electrocardiografia, electrocardiografica
 electroencefalografía → electroencefalografia, electroencefalografica
 electrofisiología → electrofisiologia
 electrometría → electrometria, electrometrica
+electrón → electron
 electrón → elektronno
 electrónico → elektrikono
 elefante → estsondo
@@ -2960,6 +2969,7 @@ isometría → isometria, isometrica
 italia → italia
 italiano → italeano
 izquierda → zoraite
+ión → ion
 jabalí → diporko
 jabón → moape, sapo, baxugo
 jacinto (flor) → irsis
@@ -3110,6 +3120,7 @@ listo (preparado) → estedie, preparato
 litera → litera
 literal → literal
 literatura → literatia
+litio → litum
 litofotografía → litofotografia, litofotografica
 litografía → litografia, litografica
 litología → litologia
@@ -3530,6 +3541,7 @@ mundial → mondola
 mundo → mondo
 mundología → mundologia
 munición → amunitio
+muralla → murala
 murciélago → vesperilo, murelo
 murmurar → surai
 murmuro → suro
@@ -3571,6 +3583,8 @@ narratólogo → narratologo, narratologette
 natural → naturala
 navaja → navaia
 navidad → neven
+nazi → nazi
+nazismo → nazismo
 necesidad → traia
 necesitar → trai, opaine
 necrología → necrologia
@@ -3603,6 +3617,7 @@ neurofisiología → neurofisiologia
 neurofisiólogo → neurofisiologo, neurofisiologette
 neurología → neurologia
 neurólogo → neurologo, neurologette
+neutrón → neutron
 nevado → aigeloso
 nevar → aigelai
 nevera, frigorífico → ingoesmar
@@ -3832,6 +3847,7 @@ palma → palme
 palmera (árbol) → irakoa
 palo → apika, cano, cana
 paloma → rago, pumo
+palomita (comida) → explojica
 pan de molde → anglobrita
 pan → brita
 panadero → britaxette
@@ -4332,6 +4348,7 @@ protección → protectia
 proteger → protectai
 protegido → protecto
 proteina → proteina
+protón → proton
 proverbio → proverbio
 provincia → provenza
 prueba → proba
@@ -4387,6 +4404,7 @@ pícido, pájaro carpintero → madraco, pincano, picide
 pórtico → portecum
 público → publiko
 público → publiko
+qubit → qubit
 que se jodan, a la mierda → injise
 que → qa
 quebrar → qibrai
@@ -4462,6 +4480,9 @@ rechazado → retsaiko
 rechazar → retsaire
 recibimiento → recepta
 recibir → receptei, recebai
+recicladora → rezykloro
+reciclaje → rezyklatia
+reciclar → rezyklei
 reciente → reciento
 recipiente → recipente, kisa
 recluir → reklui
@@ -4555,6 +4576,11 @@ reptar → aurandaire, okroi
 reptil → reptile
 repuesto → tsargo
 república → republika
+residencia → reisitela
+residente → reiso
+residir → reise
+residuo de litio de las baterías → litumgrax
+residuo → guasta, grax
 resistencia → resistentia
 resistir → resistai
 resolución → resoleitio
@@ -5159,6 +5185,7 @@ torno → torno
 toro → toro
 torpedo → torpedo
 torre → torra, hatena
+torreta → torrata, turreta
 torta → torta
 tortilla → tortilla, omeleto
 tortita → tortite
@@ -5304,8 +5331,7 @@ unido → yoiko
 unir → yoi
 universidad → formatio-zentro
 universo → universo
-unión → unione
-unión → yoixo
+unión → unione, yoixo
 uno → one
 uno → one
 uperisado → uperisato
@@ -5488,6 +5514,7 @@ válido → valo, valito
 váscula → vascula
 váter, retrete → batro, baxete, vater
 vía → kemno
+vía → via
 víbora → veno
 vídeo → vidio
 web → web

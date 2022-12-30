@@ -71,8 +71,6 @@ almacenar → esmarei
 alternar → alternei
 alucinar → alutinai
 amaestrar → amasterai
-gotear → dipai, tipai
-esmaltar → esmaire
 amamantar → amamantai
 amanecer → manzai
 amar → loi
@@ -82,6 +80,7 @@ amañar → amaine
 amenazar → zrotei
 amontonar → kievei
 amputar → amputai
+ancai → alzar
 anchar → faldai
 andar → andaire
 anidar → inestai
@@ -121,6 +120,7 @@ atender → atendai
 aterrar → terrai, escarai
 aterrorizar → terurai
 atornillar → exkrabaire
+atragantar → mixequei
 atrapar → akatsai
 atrincherarse → laire
 aturdir → xakai
@@ -314,8 +314,6 @@ descorchar → unarkutsai
 describir → deskriptei
 desear → dezeai, pregardai
 desechar → desexai, zorrai
-atragantar → mixequei
-tragar → quei
 desembarcar → desbarcai
 desengrasar → torqei
 desfilar → deslinai
@@ -429,6 +427,7 @@ esconder → jidei
 escribir → izkribei
 escuchar → eskotsai
 escurrir → gutarei
+esmaltar → esmaire
 espantar → escorrai
 especializar → espezialitai
 espectar → espektei
@@ -465,7 +464,6 @@ eyacular → gumoi
 facilitar → fazilai
 fallar → errai
 faltar → falai
-ancai → alzar
 favorar → favorai
 festejar → partai, faire, festai
 finalizar → finalei
@@ -493,6 +491,7 @@ generar → espaunaire
 girar, virar → virai
 gobernar → governei
 golpear → puntsai, bumpai
+gotear → dipai, tipai
 gozar → gozei
 grabar → grabai, ikrabai, recordai
 graznar → cuacai, graznai
@@ -745,6 +744,7 @@ receptar → receptei
 recetar → recetei
 rechazar → retsaire
 recibir → receptei, recebai
+reciclar → rezyklei
 recluir → reklui
 recoger → rekaine
 recomensar → reguardai
@@ -778,6 +778,7 @@ representar → representei
 reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
 reptar → aurandaire, okroi
+residir → reise
 resistir → resistai
 resolver →  resolei
 respetar → respektei
@@ -824,9 +825,9 @@ sentar → sendai
 sentir → sensei
 sepultar → sepultai
 ser → sei
+servir (para un jefe tipo mafia) → titsei
 servir (servicio) → servei
 servir (uso de algo) → sirvei
-servir (para un jefe tipo mafia) → titsei
 señalizar → sinnai
 significar → mearei, daine
 silenciar → esparei
@@ -881,6 +882,7 @@ trabajar → travaxei
 traducir → translai
 traer → brogei
 traficar → trafikai
+tragar → quei
 traicionar → trastai
 trampear → trapai
 transcribir → transcribei
