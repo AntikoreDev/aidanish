@@ -1,3 +1,4 @@
+# Aidanish Language
 Aidanish is my own conlang made just for fun.
 All entries are spanish-based, that means all of them are a translation to a spanish word, so you will see `hola -> hai` instead of `hello -> hai`
 
@@ -13,9 +14,12 @@ Running `keys.py` will show you a list of 3 letter keys that can be used for wor
 
 The script `parse.py` is used by the previous scripts and must not be used on their own
 
-Lets make a poem:
+**Lets make a poem:**
 
 *Roixait sei roxo*<br>
 *Violetit sei anil*<br>
 *Fliaga sei ganai*<br>
 *Baba sei zu*<br>
+
+## Contribute
+I don't think I'm accepting pull requests in general for this project, if for some reason people start using this language I'll consider into adding some town speak :) 
