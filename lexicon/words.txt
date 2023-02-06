@@ -1898,6 +1898,7 @@ endocrinologette
 endocrinologia
 endocrinologo
 eneryia
+enfacto
 engerei
 engeri
 enginaire
@@ -2274,11 +2275,13 @@ faitai
 fakro
 fala
 falai
+falante
 falco
 falcon
 faldai
 faldaia
 faldo
+falette
 falman
 falo
 fama
@@ -3987,6 +3990,7 @@ natahen
 natai
 nataire
 natatia
+nativo
 naturala
 nau
 nauhen
@@ -4311,8 +4315,10 @@ pailako
 paina
 paine
 paira
+pairante
 paire
 pairetio
+pairette
 paiseko
 paize
 paizo
@@ -4467,6 +4473,7 @@ perditio
 peretai
 perfektei
 perfektio
+perfekto
 perge
 perila
 perilai
@@ -5287,6 +5294,7 @@ sekreto
 seksei
 sekseien
 sekseix
+sekso
 seksologette
 seksologia
 seksologo

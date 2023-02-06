@@ -1600,6 +1600,7 @@ dañar
 daño
 de
 de acuerdo
+de hecho
 de la
 de nada
 de todas formas
@@ -2619,6 +2620,7 @@ haber
 habilidad
 habitación
 habla
+hablante
 hablar
 hablar sin saber
 hacer
@@ -3516,6 +3518,7 @@ narciso
 nariz
 narratología
 narratólogo
+nativo
 natural
 navaja
 navidad
@@ -3949,6 +3952,7 @@ pereza
 perezoso
 perfeccionar
 perfección
+perfecto
 perfil
 perforación
 perforadora
@@ -5347,6 +5351,7 @@ vibrador
 vibrar
 vicuña
 vida
+video
 videoconsola
 videojuego
 vieira

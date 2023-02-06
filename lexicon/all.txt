@@ -1624,6 +1624,7 @@ dato → data
 dañar → daxai, injurai
 daño → daxa
 de acuerdo → en akordo
+de hecho → enfacto
 de la → dala
 de nada → non lanai
 de todas formas → da alde forma
@@ -2661,6 +2662,7 @@ haber → harei
 habilidad → estila
 habitación → vitaitela
 habla → para
+hablante → pairante, pairette, falante, falette
 hablar sin saber → farlai
 hablar → paire, falai
 hacer reir → sigisai
@@ -3580,6 +3582,7 @@ narciso (flor) → nersu
 nariz → vono
 narratología → narratologia
 narratólogo → narratologo, narratologette
+nativo → nativo
 natural → naturala
 navaja → navaia
 navidad → neven
@@ -4024,6 +4027,7 @@ perezoso (animal) → fiager
 perezoso (persona) → fiago, fago
 perfeccionar → perfektei
 perfección → perfektio
+perfecto → perfekto
 perfil → profila
 perforación → perzro
 perforadora → perzroro
@@ -4804,7 +4808,7 @@ sesión → sesia
 seta, champiñón → tsampinna, tunga
 setenta → septoen
 seudología → seudologia
-sexo → sexo
+sexo → sexo, sekso
 sexología → seksologia
 sexto → sekseix
 sexólogo → seksologo, seksologette
@@ -5453,6 +5457,7 @@ vibrador → vibraibo
 vibrar → vibrai
 vicuña → vicunna
 vida → vita
+video → vidio
 videoconsola → jokonsola
 videojuego → vidiojoko
 vieira → cola

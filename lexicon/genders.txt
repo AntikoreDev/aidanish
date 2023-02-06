@@ -2057,6 +2057,7 @@ ei jokocix
 ei vidiojokocix
 ei goko
 ei frisbee
+ei vidio
 ei frito
 la fruki
 la aige
@@ -2232,9 +2233,14 @@ ei redaioro
 la redaixette
 la genera
 la aba
+ei nativo
 la estila
 la vitaitela
 la para
+la pairante
+la pairette
+la falante
+la falette
 la fasca
 la farura
 la hagiografia
@@ -4062,6 +4068,7 @@ la tsampinna
 la tunga
 la seudologia
 ei sexo
+ei sekso
 la seksologia
 ei seksologo
 ei seksologette
@@ -4951,6 +4958,7 @@ ei xiabeloso
 ei doktoralo
 ei dolo
 ei dolido
+ei perfekto
 ei domestixo
 ei dubido
 ei dultse

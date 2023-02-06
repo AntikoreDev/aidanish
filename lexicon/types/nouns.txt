@@ -670,6 +670,7 @@ cafetera → kafetoro
 cafetería → kafetela, café, cafeteria, kafeteria
 café → kafe
 cagada → mertato
+pesadilla → heupentsi, heupentsio
 caida → arga
 caja de herramientas → horocuba
 caja fuerte → herrocuba
@@ -1695,6 +1696,7 @@ friki de ordenadores → computercix
 friki de videojuegos → jokocix, vidiojokocix
 friki, sabido → goko
 frisbee → frisbee
+video → vidio
 frito → frito
 fruta → fruki
 frío → aige
@@ -1843,9 +1845,11 @@ guía (objeto) → redaioro
 guía (persona) → redaixette
 género → genera
 haba → aba
+nativo → nativo
 habilidad → estila
 habitación → vitaitela
 habla → para
+hablante → pairante, pairette, falante, falette
 hacha → fasca
 hada → farura
 hagiografía → hagiografia, hagiografica
@@ -3311,7 +3315,7 @@ servidor → sirveidoro
 sesión → sesia
 seta, champiñón → tsampinna, tunga
 seudología → seudologia
-sexo → sexo
+sexo → sexo, sekso
 sexología → seksologia
 sexólogo → seksologo, seksologette
 seña → sinna

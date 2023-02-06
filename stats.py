@@ -61,6 +61,7 @@ def Run():
 	print("Shortest word: {} ({})".format(langdata["shortest"], len(langdata["shortest"])))
 	print()
 	print("Ends: [\"{}".format("\", \"".join(ends)) + "\"]")
+	print(("Letters: [\"{}".format("\", \"".join(langdata["letters"].keys())) + "\"]").upper())
 
 
 

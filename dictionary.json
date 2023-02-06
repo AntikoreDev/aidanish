@@ -13083,6 +13083,14 @@
             }
         ]
     },
+    "de hecho": {
+        "entries": [
+            {
+                "meaning": "enfacto",
+                "specification": ""
+            }
+        ]
+    },
     "de la": {
         "entries": [
             {
@@ -21479,6 +21487,14 @@
             }
         ]
     },
+    "hablante": {
+        "entries": [
+            {
+                "meaning": "pairante, pairette, falante, falette",
+                "specification": ""
+            }
+        ]
+    },
     "hablar sin saber": {
         "entries": [
             {
@@ -28863,6 +28879,14 @@
             }
         ]
     },
+    "nativo": {
+        "entries": [
+            {
+                "meaning": "nativo",
+                "specification": ""
+            }
+        ]
+    },
     "natural": {
         "entries": [
             {
@@ -32427,6 +32451,14 @@
         "entries": [
             {
                 "meaning": "perfektio",
+                "specification": ""
+            }
+        ]
+    },
+    "perfecto": {
+        "entries": [
+            {
+                "meaning": "perfekto",
                 "specification": ""
             }
         ]
@@ -38638,7 +38670,7 @@
     "sexo": {
         "entries": [
             {
-                "meaning": "sexo",
+                "meaning": "sexo, sekso",
                 "specification": ""
             }
         ]
@@ -43855,6 +43887,14 @@
         "entries": [
             {
                 "meaning": "vita",
+                "specification": ""
+            }
+        ]
+    },
+    "video": {
+        "entries": [
+            {
+                "meaning": "vidio",
                 "specification": ""
             }
         ]
