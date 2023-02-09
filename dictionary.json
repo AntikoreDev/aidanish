@@ -486,7 +486,7 @@
     "abrazar": {
         "entries": [
             {
-                "meaning": "hogei",
+                "meaning": "hogei, airoize",
                 "specification": ""
             }
         ]
@@ -1394,7 +1394,7 @@
     "advertir": {
         "entries": [
             {
-                "meaning": "varnai",
+                "meaning": "varnai, advertaire",
                 "specification": ""
             }
         ]
@@ -3418,7 +3418,7 @@
     "anunciar": {
         "entries": [
             {
-                "meaning": "advei",
+                "meaning": "advei, advertaire",
                 "specification": ""
             }
         ]
@@ -5391,6 +5391,14 @@
             }
         ]
     },
+    "barbacoa": {
+        "entries": [
+            {
+                "meaning": "barbaqeu",
+                "specification": ""
+            }
+        ]
+    },
     "barcelona": {
         "entries": [
             {
@@ -5410,8 +5418,16 @@
     "barra": {
         "entries": [
             {
-                "meaning": "cana, baferro",
+                "meaning": "cana, baferro, barre",
                 "specification": ""
+            }
+        ]
+    },
+    "barras": {
+        "entries": [
+            {
+                "meaning": "moncanit",
+                "specification": "parque"
             }
         ]
     },
@@ -5691,6 +5707,14 @@
         "entries": [
             {
                 "meaning": "beko",
+                "specification": ""
+            }
+        ]
+    },
+    "bechamel": {
+        "entries": [
+            {
+                "meaning": "betsamel",
                 "specification": ""
             }
         ]
@@ -6323,6 +6347,14 @@
         "entries": [
             {
                 "meaning": "tsoklo",
+                "specification": ""
+            }
+        ]
+    },
+    "bongo": {
+        "entries": [
+            {
+                "meaning": "bongo",
                 "specification": ""
             }
         ]
@@ -8502,7 +8534,7 @@
     "cavar": {
         "entries": [
             {
-                "meaning": "kavaire",
+                "meaning": "kavaire, eirge",
                 "specification": ""
             }
         ]
@@ -9302,7 +9334,7 @@
     "ciervo": {
         "entries": [
             {
-                "meaning": "perlo",
+                "meaning": "perlo, deino",
                 "specification": ""
             }
         ]
@@ -9814,7 +9846,7 @@
     "cocinar": {
         "entries": [
             {
-                "meaning": "koxinei",
+                "meaning": "koxinei, koike",
                 "specification": ""
             }
         ]
@@ -9962,7 +9994,7 @@
     "colar": {
         "entries": [
             {
-                "meaning": "colai",
+                "meaning": "colai, coilei",
                 "specification": ""
             }
         ]
@@ -10002,7 +10034,7 @@
     "colgar": {
         "entries": [
             {
-                "meaning": "colcai, colgai",
+                "meaning": "colcai, colgai, coilei",
                 "specification": ""
             }
         ]
@@ -10254,7 +10286,7 @@
                 "specification": "coloquial"
             },
             {
-                "meaning": "ingerai",
+                "meaning": "ingerai, ingoi",
                 "specification": ""
             }
         ]
@@ -10610,7 +10642,7 @@
     "comprobar": {
         "entries": [
             {
-                "meaning": "tseqai, testai",
+                "meaning": "tseqai, testai, tseiqe",
                 "specification": ""
             }
         ]
@@ -11070,7 +11102,7 @@
     "conservar": {
         "entries": [
             {
-                "meaning": "conservai",
+                "meaning": "conservai, kongaize",
                 "specification": ""
             }
         ]
@@ -11175,6 +11207,14 @@
         "entries": [
             {
                 "meaning": "tendai",
+                "specification": ""
+            }
+        ]
+    },
+    "consumir": {
+        "entries": [
+            {
+                "meaning": "consumire, consumei",
                 "specification": ""
             }
         ]
@@ -11775,6 +11815,14 @@
         "entries": [
             {
                 "meaning": "cosmologo, cosmologette",
+                "specification": ""
+            }
+        ]
+    },
+    "cosplay": {
+        "entries": [
+            {
+                "meaning": "cosplay",
                 "specification": ""
             }
         ]
@@ -12634,7 +12682,7 @@
     "culo": {
         "entries": [
             {
-                "meaning": "anusa, bango",
+                "meaning": "anusa, bango, botso",
                 "specification": ""
             }
         ]
@@ -12795,6 +12843,14 @@
         "entries": [
             {
                 "meaning": "curso",
+                "specification": ""
+            }
+        ]
+    },
+    "cursor": {
+        "entries": [
+            {
+                "meaning": "cursor",
                 "specification": ""
             }
         ]
@@ -13147,6 +13203,14 @@
             },
             {
                 "meaning": "dutei",
+                "specification": ""
+            }
+        ]
+    },
+    "decaer": {
+        "entries": [
+            {
+                "meaning": "decai, porei",
                 "specification": ""
             }
         ]
@@ -13658,7 +13722,7 @@
     "derramar": {
         "entries": [
             {
-                "meaning": "derramei",
+                "meaning": "derramei, porei",
                 "specification": ""
             }
         ]
@@ -16234,7 +16298,7 @@
                 "specification": ""
             },
             {
-                "meaning": "initiai",
+                "meaning": "initiai, comaize",
                 "specification": ""
             }
         ]
@@ -17726,7 +17790,7 @@
                 "specification": "esperar algo"
             },
             {
-                "meaning": "herrei",
+                "meaning": "herrei, haile",
                 "specification": "tiempo"
             }
         ]
@@ -21639,6 +21703,14 @@
             }
         ]
     },
+    "halterofilia": {
+        "entries": [
+            {
+                "meaning": "halterofilia",
+                "specification": ""
+            }
+        ]
+    },
     "hambre": {
         "entries": [
             {
@@ -21847,6 +21919,14 @@
         "entries": [
             {
                 "meaning": "hematologo, hematologette",
+                "specification": ""
+            }
+        ]
+    },
+    "hemofilia": {
+        "entries": [
+            {
+                "meaning": "hemofilia",
                 "specification": ""
             }
         ]
@@ -22123,6 +22203,14 @@
             }
         ]
     },
+    "hierofilia": {
+        "entries": [
+            {
+                "meaning": "hierofilia",
+                "specification": ""
+            }
+        ]
+    },
     "hierro": {
         "entries": [
             {
@@ -22183,6 +22271,14 @@
         "entries": [
             {
                 "meaning": "hindu",
+                "specification": ""
+            }
+        ]
+    },
+    "hiperactividad": {
+        "entries": [
+            {
+                "meaning": "hiperaktivita",
                 "specification": ""
             }
         ]
@@ -23030,8 +23126,12 @@
     "importar": {
         "entries": [
             {
-                "meaning": "hembei, morai",
-                "specification": ""
+                "meaning": "hembei, morai, importai, neize, opaire",
+                "specification": "importancia"
+            },
+            {
+                "meaning": "importai, importei",
+                "specification": "producto"
             }
         ]
     },
@@ -23482,7 +23582,7 @@
     "iniciar": {
         "entries": [
             {
-                "meaning": "initiai",
+                "meaning": "initiai, comaize",
                 "specification": ""
             }
         ]
@@ -23490,7 +23590,7 @@
     "comenzar": {
         "entries": [
             {
-                "meaning": "initiai",
+                "meaning": "initiai, comaize",
                 "specification": ""
             }
         ]
@@ -27207,6 +27307,14 @@
             }
         ]
     },
+    "mentalizar": {
+        "entries": [
+            {
+                "meaning": "mentaire",
+                "specification": ""
+            }
+        ]
+    },
     "mente": {
         "entries": [
             {
@@ -28943,6 +29051,14 @@
             }
         ]
     },
+    "necrofilia": {
+        "entries": [
+            {
+                "meaning": "nekrofilia, necrofilia",
+                "specification": ""
+            }
+        ]
+    },
     "necrología": {
         "entries": [
             {
@@ -30094,7 +30210,7 @@
     "oler": {
         "entries": [
             {
-                "meaning": "eslei",
+                "meaning": "eslei, oloi, oleire",
                 "specification": ""
             }
         ]
@@ -31790,7 +31906,7 @@
     "patria": {
         "entries": [
             {
-                "meaning": "onterra",
+                "meaning": "onterra, patria",
                 "specification": ""
             }
         ]
@@ -31798,7 +31914,7 @@
     "patriarca": {
         "entries": [
             {
-                "meaning": "onterrarge",
+                "meaning": "onterrarge, patriarka",
                 "specification": ""
             }
         ]
@@ -31835,6 +31951,14 @@
             }
         ]
     },
+    "pausa": {
+        "entries": [
+            {
+                "meaning": "haile, hailo, pause, pauxe, pauxa, pausa",
+                "specification": ""
+            }
+        ]
+    },
     "pausado": {
         "entries": [
             {
@@ -31846,7 +31970,7 @@
     "pausar": {
         "entries": [
             {
-                "meaning": "pauxai",
+                "meaning": "pauxai, pausai, haile",
                 "specification": ""
             }
         ]
@@ -31967,6 +32091,14 @@
         "entries": [
             {
                 "meaning": "fargo",
+                "specification": ""
+            }
+        ]
+    },
+    "pedofilia": {
+        "entries": [
+            {
+                "meaning": "pedofilia",
                 "specification": ""
             }
         ]
@@ -32254,7 +32386,7 @@
     "pensar": {
         "entries": [
             {
-                "meaning": "penzei",
+                "meaning": "penzei, mentei, mendei, mentaire",
                 "specification": ""
             }
         ]
@@ -32490,7 +32622,7 @@
     "perforar": {
         "entries": [
             {
-                "meaning": "perzroi",
+                "meaning": "perzroi, peirce",
                 "specification": ""
             }
         ]
@@ -32703,6 +32835,14 @@
         "entries": [
             {
                 "meaning": "pesa",
+                "specification": ""
+            }
+        ]
+    },
+    "pesadilla": {
+        "entries": [
+            {
+                "meaning": "heupentsi, heupentsio",
                 "specification": ""
             }
         ]
@@ -33655,6 +33795,14 @@
             }
         ]
     },
+    "podofilia": {
+        "entries": [
+            {
+                "meaning": "podofilia",
+                "specification": ""
+            }
+        ]
+    },
     "podología": {
         "entries": [
             {
@@ -33955,6 +34103,14 @@
         "entries": [
             {
                 "meaning": "porno, pornografia",
+                "specification": ""
+            }
+        ]
+    },
+    "poro": {
+        "entries": [
+            {
+                "meaning": "poro",
                 "specification": ""
             }
         ]
@@ -35015,7 +35171,7 @@
             }
         ]
     },
-    "proteina": {
+    "proteína": {
         "entries": [
             {
                 "meaning": "proteina",
@@ -39443,6 +39599,14 @@
             }
         ]
     },
+    "somnofilia": {
+        "entries": [
+            {
+                "meaning": "somnofilia",
+                "specification": ""
+            }
+        ]
+    },
     "sonar": {
         "entries": [
             {
@@ -41098,7 +41262,7 @@
     "teta": {
         "entries": [
             {
-                "meaning": "burra",
+                "meaning": "burra, tita",
                 "specification": ""
             }
         ]
@@ -41843,6 +42007,22 @@
             }
         ]
     },
+    "trabajar duro": {
+        "entries": [
+            {
+                "meaning": "tsunkei",
+                "specification": ""
+            }
+        ]
+    },
+    "trabajar forzoso": {
+        "entries": [
+            {
+                "meaning": "tsunkei",
+                "specification": ""
+            }
+        ]
+    },
     "trabajar": {
         "entries": [
             {
@@ -42247,6 +42427,14 @@
         "entries": [
             {
                 "meaning": "trence",
+                "specification": ""
+            }
+        ]
+    },
+    "trepar": {
+        "entries": [
+            {
+                "meaning": "acoaire",
                 "specification": ""
             }
         ]
@@ -43238,7 +43426,7 @@
     "valle": {
         "entries": [
             {
-                "meaning": "vale",
+                "meaning": "vale, imporas, impora",
                 "specification": ""
             }
         ]
@@ -44116,6 +44304,18 @@
             {
                 "meaning": "zovisai, zintaire",
                 "specification": ""
+            },
+            {
+                "meaning": "veige",
+                "specification": ""
+            }
+        ]
+    },
+    "vigilar": {
+        "entries": [
+            {
+                "meaning": "veige",
+                "specification": ""
             }
         ]
     },
@@ -44311,6 +44511,14 @@
         "entries": [
             {
                 "meaning": "zure",
+                "specification": ""
+            }
+        ]
+    },
+    "voyeurista": {
+        "entries": [
+            {
+                "meaning": "voyeurette, voyeur, voyeurista",
                 "specification": ""
             }
         ]
@@ -44639,6 +44847,22 @@
             }
         ]
     },
+    "zoo": {
+        "entries": [
+            {
+                "meaning": "zoo",
+                "specification": ""
+            }
+        ]
+    },
+    "zoofilia": {
+        "entries": [
+            {
+                "meaning": "zoofilia",
+                "specification": ""
+            }
+        ]
+    },
     "zoogeografía": {
         "entries": [
             {
@@ -44723,6 +44947,14 @@
         "entries": [
             {
                 "meaning": "zoranno",
+                "specification": ""
+            }
+        ]
+    },
+    "zócalo": {
+        "entries": [
+            {
+                "meaning": "sokete",
                 "specification": ""
             }
         ]

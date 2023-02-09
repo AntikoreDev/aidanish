@@ -592,9 +592,12 @@ la banqete
 la bar
 la baraja
 ei berdo
+ei barbaqeu
 ei barco
 la cana
 ei baferro
+la barre
+ei moncanit
 ei furrette
 la barrera
 la barraca
@@ -628,6 +631,7 @@ la mertaitela
 ei mertaioro
 ei acoixo
 ei beko
+la betsamel
 la begonna
 la belesa
 ei bendizatio
@@ -707,6 +711,7 @@ ei ignoextingette
 la bulba
 la butanna
 ei tsoklo
+ei bongo
 la oupila
 ei asero
 ei druxeto
@@ -1053,6 +1058,7 @@ ei cienciologo
 ei cienciologette
 ei cientsette
 ei perlo
+ei deino
 la qualda
 la cifra
 ei cifrato
@@ -1292,6 +1298,7 @@ la cosmografica
 la cosmologia
 ei cosmologo
 ei cosmologette
+ei cosplay
 la rakia
 ei tiko
 ei tikle
@@ -1394,6 +1401,7 @@ la erga
 la culda
 la anusa
 ei bango
+ei botso
 la riaxa
 ei kultivo
 ei culto
@@ -1410,6 +1418,7 @@ ei surle
 ei curriculum
 ei curriculo
 ei curso
+ei cursor
 la vira
 la iritela
 la quasar
@@ -1664,6 +1673,7 @@ la electroencefalografica
 la electrofisiologia
 la electrometria
 la electrometrica
+ei electron
 ei elektronno
 ei estsondo
 ei embarcatero
@@ -2057,7 +2067,6 @@ ei jokocix
 ei vidiojokocix
 ei goko
 ei frisbee
-ei vidio
 ei frito
 la fruki
 la aige
@@ -2233,7 +2242,6 @@ ei redaioro
 la redaixette
 la genera
 la aba
-ei nativo
 la estila
 la vitaitela
 la para
@@ -2249,6 +2257,7 @@ ei halokun
 ei falcon
 ei falco
 ei halloween
+la halterofilia
 la zugra
 la fame
 la urzugra
@@ -2279,6 +2288,7 @@ la helmintologia
 la hematologia
 ei hematologo
 ei hematologette
+la hemofilia
 ei tseno
 la hepatologia
 ei hepatologo
@@ -2321,12 +2331,14 @@ ei hidrologo
 ei hidrologette
 ei gelo
 la herba
+la hierofilia
 ei herro
 la higrometria
 la higrometrica
 ei inesteko
 ei eko
 la hinduisma
+la hiperaktivita
 la hipermetria
 la hipermetrica
 la hipnosis
@@ -2517,6 +2529,7 @@ ei islamologette
 la isometria
 la isometrica
 la zoraite
+ei ion
 ei diporko
 la moape
 ei sapo
@@ -3063,11 +3076,14 @@ ei vono
 la narratologia
 ei narratologo
 la narratologette
+ei nativo
 la navaia
 ei neven
 la nazi
 ei nazismo
 la traia
+la nekrofilia
+la necrofilia
 la necrologia
 ei nipomo
 la nefelometria
@@ -3085,7 +3101,6 @@ ei neonatologo
 ei neonatologette
 la neumologia
 la kotsira
-ei neutron
 ei neumologo
 ei neumologette
 la neurobiologia
@@ -3102,6 +3117,7 @@ ei neurofisiologette
 la neurologia
 ei neurologo
 ei neurologette
+ei neutron
 ei ingoesmar
 ei neologo
 ei neologette
@@ -3398,11 +3414,19 @@ la patografia
 la patografica
 la patologia
 la onterra
+la patria
 la onterrarge
+la patriarka
 la patrologia
 la patronna
 ei patologo
 ei patologette
+la haile
+ei hailo
+la pause
+la pauxe
+la pauxa
+la pausa
 ei cocolito
 ei cocol
 ei payaso
@@ -3418,6 +3442,7 @@ la korata
 la same
 ei orden
 ei fargo
+la pedofilia
 la pedologia
 la fargustarra
 la pasta
@@ -3487,6 +3512,8 @@ ei perso
 la personale
 ei personalizatio
 la pesa
+la heupentsi
+ei heupentsio
 la peskoventei
 la peskotela
 ei peskoto
@@ -3598,6 +3625,7 @@ ei populatio
 la poratia
 la potia
 ei ponto
+la podofilia
 la podologia
 ei podologo
 ei podologette
@@ -3641,6 +3669,7 @@ la esquara
 la arkubre
 ei porno
 la pornografia
+ei poro
 ei purro
 ei portavionnit
 la portafliaga
@@ -3728,7 +3757,6 @@ la putarra
 la protectia
 la proteina
 ei proton
-ei electron
 ei proverbio
 la provenza
 la proba
@@ -4152,6 +4180,7 @@ ei tsado
 ei tsadoro
 la tsadoya
 ei horro
+la somnofilia
 ei soniko
 la sela
 la faba
@@ -4320,6 +4349,7 @@ ei test
 ei testiclo
 ei testiculo
 la burra
+la tita
 la tetralogia
 ei tetronimo
 ei zalgo
@@ -4541,7 +4571,6 @@ ei formatio-zentro
 ei universo
 ei unione
 ei yoixo
-ei ion
 ei one
 ei uranio
 la uranografia
@@ -4577,6 +4606,8 @@ la valita
 la berja
 la fenza
 la vale
+la imporas
+la impora
 la valia
 la valua
 la vanita
@@ -4648,6 +4679,7 @@ ei vixe
 ei vibraibo
 la vicunna
 la vita
+ei vidio
 la jokonsola
 ei vidiojoko
 la cola
@@ -4690,6 +4722,9 @@ ei piprako
 ei volkano
 la volumetria
 la volumetrica
+ei voyeurette
+ei voyeur
+la voyeurista
 ei voz
 la blaia
 la vira
@@ -4732,6 +4767,8 @@ la zincografia
 la zincografica
 ei zombie
 ei zone
+ei zoo
+la zoofilia
 la zoogeografia
 la zoogeografica
 la zoografia
@@ -4748,6 +4785,7 @@ ei biz
 ei xugino
 ei bubo
 ei zoranno
+ei sokete
 la afrika
 la arabeka
 ei atiko

@@ -51,6 +51,7 @@ acidimetria
 acidimetrica
 aco
 acoa
+acoaire
 acoakisa
 acoario
 acoata
@@ -107,6 +108,7 @@ adoro
 adva
 advei
 adverba
+advertaire
 aei
 aer
 aerakonditiaoro
@@ -194,6 +196,7 @@ airnara
 airo
 airoei
 airoie
+airoize
 airoro
 airplane
 airpoi
@@ -724,6 +727,7 @@ baola
 bar
 baraja
 barajai
+barbaqeu
 barbaro
 barcelona
 barco
@@ -731,6 +735,7 @@ bardo
 barei
 baretsa
 barraca
+barre
 barrera
 barrila
 base
@@ -806,6 +811,7 @@ bestingoro
 betarra
 betran
 betranno
+betsamel
 bexe
 biancai
 biancara
@@ -890,11 +896,13 @@ bombardoro
 bombeia
 bombeire
 bone
+bongo
 bontso
 bota
 bote
 botelo
 botonna
+botso
 boutsara
 bovo
 braine
@@ -1158,6 +1166,7 @@ codiko
 codilango
 codin
 codivorto
+coilei
 coke
 coktel
 cola
@@ -1185,6 +1194,7 @@ colorimetrica
 colta
 com
 coma
+comaize
 comando
 combe
 combo
@@ -1267,6 +1277,8 @@ consortso
 constai
 constanto
 constelatio
+consumei
+consumire
 contactai
 contacto
 contactologette
@@ -1321,6 +1333,7 @@ cosmografica
 cosmologette
 cosmologia
 cosmologo
+cosplay
 costume
 cota
 coto
@@ -1404,6 +1417,7 @@ curriculo
 curriculum
 curso
 cursogra
+cursor
 cuxate
 da
 dabetranara
@@ -1442,6 +1456,7 @@ deaprovatio
 debai
 debei
 debila
+decai
 decakono
 decalogette
 decalogo
@@ -1459,6 +1474,7 @@ defizientia
 degustai
 degustoi
 deida
+deino
 deis
 deisa
 deksplozai
@@ -1819,6 +1835,7 @@ eione
 eir
 eire
 eirer
+eirge
 eisa
 eita
 eixam
@@ -2702,11 +2719,14 @@ hagiografia
 hagiografica
 hai
 haiai
+haile
+hailo
 haita
 haiza
 hali
 halloween
 halokun
+halterofilia
 hano
 hanta
 haplografia
@@ -2735,6 +2755,7 @@ hematologo
 hembei
 hembo
 hemo
+hemofilia
 hen
 hena
 henata
@@ -2773,6 +2794,8 @@ heunido
 heunodo
 heuntsado
 heunxo
+heupentsi
+heupentsio
 hexakono
 hexegai
 hexegia
@@ -2796,6 +2819,7 @@ hidrometria
 hidrometrica
 hidrotimetria
 hidrotimetrica
+hierofilia
 higrometria
 higrometrica
 hincai
@@ -2805,6 +2829,7 @@ hinduisma
 hinge
 hingei
 hipe
+hiperaktivita
 hipermetria
 hipermetrica
 hipnoi
@@ -2955,6 +2980,10 @@ imagineiko
 imake
 imfranto
 imperia
+impora
+imporas
+importai
+importei
 imposibla
 impresable
 impresei
@@ -3284,6 +3313,7 @@ koasta
 koato
 kognai
 koi
+koike
 koixa
 kokaine
 kolfisi
@@ -3316,6 +3346,7 @@ kompraixette
 komuna
 konditia
 konditiai
+kongaize
 konta
 konto
 kontoi
@@ -3750,10 +3781,13 @@ mena
 menagio
 menale
 mende
+mendei
 meno
 menta
+mentaire
 mental
 mente
+mentei
 mentio
 mentsei
 menu
@@ -3893,6 +3927,7 @@ moldoi
 moltopara
 moltoxo
 monadologia
+moncanit
 monde
 mondo
 mondola
@@ -3999,6 +4034,7 @@ nazi
 nazismo
 neare
 nearei
+necrofilia
 necrologia
 nefelometria
 nefelometrica
@@ -4009,6 +4045,7 @@ nefrologo
 neiborako
 neiboro
 neiborotela
+neize
 nekai
 nekatiko
 nekatikoien
@@ -4018,6 +4055,7 @@ nekrasoatela
 nekrasobarco
 nekro
 nekroandaivo
+nekrofilia
 nekromante
 nekromantia
 nektar
@@ -4185,12 +4223,14 @@ okoixa
 okosa
 okroi
 oktokono
+oleire
 oleksaia
 olekso
 oleografia
 oleografica
 oliuma
 olocato
+oloi
 olve
 omejo
 omeleto
@@ -4213,6 +4253,7 @@ ontologette
 ontologia
 ontologo
 opaine
+opaire
 optemizei
 optometria
 optometrica
@@ -4430,20 +4471,29 @@ patografica
 patologette
 patologia
 patologo
+patria
+patriarka
 patriska
 patrologia
 patronna
 patrono
+pausa
+pausai
+pause
 pausterai
 pausteriko
+pauxa
 pauxai
 pauxaioko
+pauxe
 payaso
 payoa
 paz
+pedofilia
 pedologia
 peia
 peirala
+peirce
 pelai
 pelde
 peler
@@ -4628,6 +4678,7 @@ pluvaoro
 pluviometria
 pluviometrica
 poco
+podofilia
 podologette
 podologia
 podologo
@@ -4685,11 +4736,13 @@ populatio
 por
 pora
 poratia
+porei
 porfevo
 porketsa
 porko
 porno
 pornografia
+poro
 porpura
 porqarei
 porta
@@ -5447,6 +5500,7 @@ sofrologia
 sofrologo
 soit
 soka
+sokete
 sol
 solar
 solarga
@@ -5461,6 +5515,7 @@ soltai
 solva
 solvai
 somatologia
+somnofilia
 sonikemitero
 soniko
 soqe
@@ -5738,6 +5793,7 @@ tisiologia
 tisiologo
 tiska
 tiskai
+tita
 titanno
 titse
 titsei
@@ -5914,6 +5970,7 @@ tsargo
 tsarisma
 tsarismatiko
 tsaska
+tseiqe
 tselo
 tsemika
 tseno
@@ -5946,6 +6003,7 @@ tsordai
 tsosto
 tsugo
 tsunami
+tsunkei
 tsusta
 tube
 tuberculo
@@ -6108,6 +6166,7 @@ vater
 vatio
 vedo
 vehiklo
+veige
 velcro
 velocita
 vena
@@ -6228,6 +6287,9 @@ vono
 vorle
 vortatia
 vorto
+voyeur
+voyeurette
+voyeurista
 voz
 vulcanologette
 vulcanologia
@@ -6367,6 +6429,8 @@ zobexe
 zombie
 zone
 zonno
+zoo
+zoofilia
 zoogeografia
 zoogeografica
 zoografia
