@@ -3715,7 +3715,7 @@ uva → uba
 vaca → vaka
 vacunología → vacunologia
 vacunólogo → vacunologo, vacunologette
-vacío → aucuo
+vacío → aucuo, vacuos
 vago → sugarra
 vagón → bagon, wagon
 vajilla → vadixa

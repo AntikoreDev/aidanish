@@ -5387,7 +5387,7 @@ vaca → vaka
 vacante → vakante
 vacunología → vacunologia
 vacunólogo → vacunologo, vacunologette
-vacío → aucuo
+vacío → aucuo, vacuos
 vacío → vatio
 vago → sugarra
 vago → sugarra
