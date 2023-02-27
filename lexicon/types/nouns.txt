@@ -1273,6 +1273,7 @@ diabetología → diabetologia
 diabetólogo → diabetologo, diabetologette
 diablo de tasmania → tasmania-devila
 diablo → devila
+nostalgia → nostalgia
 diagnóstico → diagnostiko
 diagrama → deagrama
 dialectología → dialectologia
