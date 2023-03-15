@@ -24,6 +24,7 @@ Armenio → Armeno
 Asia → Asia
 Barcelona → Barcelona
 Berlin → Berline
+celo → zelo
 Brasil → Brazil
 Brasileño → Brazilenno
 Bucarest → Bukaresti
@@ -168,6 +169,7 @@ acompañamiento → akompanniretio
 acondición → akonditia
 acordeón → acordeon
 acrobacia → akrobatia
+cordero → temo
 acróbata → akroxette
 actinometría → actinometria, actinometrica
 activación → aktivatio
@@ -312,6 +314,7 @@ andén → vaden
 anemografía → anemografia, anemografica
 anemometría → anemometria, anemometrica
 anestesiología → anestesiologia
+anestesia → anestesia
 anestesiólogo → anestesiologo, anestesiologette
 anfibología → anfibologia
 angelología → angelologia
@@ -1282,12 +1285,14 @@ diamante → diamento
 diana → nesiga
 diario → hengia
 dibujo → dixo
+dibujante → dixette
 diccionario → diktionario
 dicho → dikero
 dictador → dictatoro
 dictadura → dictatura
 diente de león (flor) → sedara
 diente → denta
+orina → urina, urin
 dieta → dieta
 diez → dez
 dificultad → derrenno
@@ -1410,6 +1415,7 @@ enchufe → pluga
 enciclopedia → enciklopedia
 enclave → entsave
 encuesta → contesta
+centella (chispa) → tai
 endemia → endemos
 endocrinología → endocrinologia
 endocrinólogo → endocrinologo, endocrinologette
@@ -1460,6 +1466,7 @@ escala → eskala
 escalera → escalatorra
 escama → eskama
 escarabajo → karabajo
+carabela → carabela
 escatología → escatologia
 escena → estena
 escenografía → escenografia, escenografica
@@ -1475,6 +1482,7 @@ escrito → izkriba
 escritura → izkribatia
 escroto → escroto
 escuadrón → escuadra
+escuadra → escuadra
 escudo → seldo
 escurrida → guta
 escurridor → gutaoro
@@ -1535,6 +1543,7 @@ estante → axele
 estantería → axelva
 estar de pie, estante → estante
 estatua → estatua
+estatura → estatura
 estaño → tenno
 este → este
 estenografía → estenografia, estenografica
@@ -1672,6 +1681,7 @@ fortuna → heleria
 fosforo → fosfuro
 fotobiología → fotobiologia
 fotografía → fotografia, fotografica
+fotograma → framo, frame
 fotogrametría → fotogrametria, fotogrametrica
 fotolitografía → fotolitografia, fotolitografica
 fotometría → fotometria, fotometrica
@@ -1738,7 +1748,8 @@ gardenia (flor) → gardenia
 garra → giarra
 garrapata → giarrapoita
 gas → gas
-gasolina → gasola, nitor
+gasolina → gasola, nitor, nafta
+gasolinera → gasotela, nitortela, naftela
 gasometría → gasometria, gasometrica
 gastroenterología → gastroenterologia
 gastroenterólogo → gastroenterologo, gastroenterologette
@@ -2127,6 +2138,7 @@ leche → esnea
 lechero → esneaxette
 lechuga → letsuga
 lectura → lekta
+lechuza → xendo
 lejía → blanco
 lencería → linzeria
 lengua → lemgo
@@ -2135,6 +2147,8 @@ lentes → lendait
 lerdo → tsafala
 letra (canción) → lerite
 letra (símbolo) → letra
+caníbal → canibal
+canibalismo → canibalisma
 lexicografía → leksicografia, leksicografica
 lexicología → lexicologia, leksicologia
 lexicólogo → leksicologo, leksicologette
@@ -2190,6 +2204,7 @@ lodo → ugra
 logo → logo, logette
 logro → lokro
 lombriz → siguro
+lombarda → lomba
 lomo → rame
 longitud → longoteda
 loro → locuo, pargo
@@ -2700,6 +2715,7 @@ pantalón → panto
 pantano → saguala
 pantera → pantera
 papaya → papaya
+papada → ploka
 papel → pipra
 papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela, zorvero
 papelería → pipratela
@@ -2718,7 +2734,7 @@ parafilia → parafilia
 paraguas → pluvaoro
 parapsicología → parapsicologia
 parapsicólogo → parapsicologo, parapsicologette
-pararayos → pararaio
+pararrayos → pararaio
 parasicología → parasicologia
 parasicólogo → parasicologo, parasicologette
 parasitología → parasitologia
@@ -2803,6 +2819,7 @@ pentágono → pentakono
 peonza → virante, rotaio
 peonía (flor) → aravita
 pepinillo → frico
+pepperoni → pepperoni, peperoni
 pepino → pepera
 pera → pera
 perca → eskada
@@ -2970,6 +2987,7 @@ portabandera → portafliaga
 portabebés → portabekit
 portavoz → portavoz
 portero → portette
+portería → porteria, porta
 pose → pose
 posesivo (lengua) → posesive
 posición → posaieo
@@ -3249,6 +3267,7 @@ rumorología → rumorologia
 ruta → rota
 ráil → riel
 récord → rekord, plusmarka
+cordura → concordia
 régimen → regimeno
 río → acuokemno, riava
 rótulo → rotula
@@ -3511,6 +3530,7 @@ termología → termologia
 termometría → termometria, termometrica
 termómetro → termometera
 ternera → ternera
+ternero → ternero
 ternura → aile
 terracota → terracota
 terraformación → terraforma
@@ -3750,6 +3770,9 @@ venereología → venereologia
 venereólogo → venereologo, venereologette
 venganza → revenga, revenganze
 ventana → vendexa
+ventaja → alanco
+adelanto → alanco
+adelantamiento → alancara
 ventilador de pie → estanvendo
 ventilador de techo → tecvendo, tectovendoioro, tectovendo
 ventilador → vendoioro
@@ -3837,6 +3860,7 @@ yak → yak
 yate → yate
 yegüa → yequa
 yero, algarroba → yero
+alga → kalpa, alga
 yogur → yogur
 yunque → herrunna
 zanahoria → carrota
@@ -3879,6 +3903,7 @@ zócalo → sokete
 óleo → oliuma
 ósmosis → osmosis
 óvalo → oval
+vaquero → vakette, bukaru, cowboy, vakero
 óvulo → ovulo
 óxido → ragi
 úlcera → ulcera

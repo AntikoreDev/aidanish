@@ -16,6 +16,7 @@ abrasivo → abrasivo
 abrazado → hogoko
 manco → falman
 absoluto → absoluto
+tenue → sove
 abstenido → absteno
 abundante → abonte
 aburrido → aborrado
@@ -472,7 +473,8 @@ tibio → templa
 tierno → aile
 trabajador → travaxeko
 traicionero → trastoso
-tranquilo → einxo
+tranquilo → einxo, calmo
+calmado → calmo
 transcriptiva → transcribiko
 trastornante → yigoiko
 triste → tristeko

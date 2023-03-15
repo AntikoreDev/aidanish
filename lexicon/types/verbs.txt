@@ -328,6 +328,7 @@ despedir → adei
 despertar → loteire
 desplazar → loamai
 destacar → boldai
+destellear → taire
 desterrar → desterrai
 destripar (tripas) → detripai
 destripar, spoilear (serie) → enteire
@@ -416,6 +417,7 @@ entrar → entrei
 entregar → entregai
 entrenar → traine, entraine
 entronar → atronei
+atropellar → suparpaize
 envejecer → igernei, okoire
 envenenar → zisai, ponzai
 enviar → darai
@@ -649,6 +651,7 @@ pagar → paiai
 parar, detener → estoi
 parecer → aseire, lokai
 parir → parei
+centellear → taire
 parpadear → exorei
 partir (romper, cortar) → partei, brokai
 pasar (caminar) → paize
@@ -669,7 +672,7 @@ penalizar → penalai
 pender → pendei
 pensar → penzei, mentei, mendei, mentaire
 perder → pardaire
-perdonar → pardonai
+perdonar → pardonai, supardeixe
 perecer → peretai
 perfeccionar → perfektei
 perforar → perzroi, peirce
@@ -788,6 +791,9 @@ resolver →  resolei
 respetar → respektei
 respirar → risperei
 responder, contestar → repostai
+ondear → huaibe
+adelantar → alancai
+atrasar → atrasai
 restablecer → resetei
 restar → deproxei
 restar → restei, deproxei
@@ -837,6 +843,7 @@ significar → mearei, daine
 silenciar → esparei
 sitiar → sitei
 sobrevivir → survivai
+sobrepasar → surpaize
 socializar → sozialei
 solidificar → solidai
 soltar → soltai
