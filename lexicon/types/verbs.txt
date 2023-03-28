@@ -161,7 +161,7 @@ caer → argai
 cagar → mertai
 calcular → kalculei
 calentar → kaleire
-callar → unpaire
+callar → unpaire, noi
 calzarse → apoire
 cambiar → kamboi
 canalizar → kanalaize

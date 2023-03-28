@@ -36,7 +36,7 @@ Hidranyea → Hidrángea
 Honito → Hombre nocturno
 Igernasunna → Casa vieja
 Igerne → Viejo
-Intresola (Sn significad)
+Intresola (Sn significado)
 Introverto → Introvertido
 Jefe → Jefe
 Joglar → Juglar
@@ -97,3 +97,4 @@ Vita → Vida
 Xiabeloso → Divertido
 Xikorra → Buitre
 Zigar → Burro
+Torqero, Torqerette, Torqette → Desengrasador

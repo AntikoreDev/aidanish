@@ -22,6 +22,7 @@ ei armeno
 la asia
 la barcelona
 ei berline
+ei zelo
 la brazil
 ei brazilenno
 la bukaresti
@@ -170,6 +171,7 @@ ei akompanniretio
 la akonditia
 ei acordeon
 la akrobatia
+ei temo
 la akroxette
 la actinometria
 la actinometrica
@@ -352,6 +354,7 @@ la anemografica
 la anemometria
 la anemometrica
 la anestesiologia
+la anestesia
 ei anestesiologo
 ei anestesiologette
 la anfibologia
@@ -1512,6 +1515,7 @@ ei desbarco
 ei rioke
 ei torqette
 la torqera
+ei torqe
 ei dezo
 ei pregardo
 ei agux
@@ -1538,6 +1542,7 @@ ei diabetologo
 ei diabetologette
 la tasmania-devila
 la devila
+la nostalgia
 ei diagnostiko
 la deagrama
 la dialectologia
@@ -1547,12 +1552,15 @@ ei diamento
 la nesiga
 la hengia
 ei dixo
+ei dixette
 ei diktionario
 ei dikero
 ei dictatoro
 la dictatura
 la sedara
 la denta
+la urina
+ei urin
 la dieta
 ei dez
 ei derrenno
@@ -1705,6 +1713,7 @@ la pluga
 la enciklopedia
 la entsave
 la contesta
+la tai
 la endemos
 la endocrinologia
 ei endocrinologo
@@ -1768,6 +1777,7 @@ la eskala
 la escalatorra
 la eskama
 ei karabajo
+la carabela
 la escatologia
 la estena
 la escenografia
@@ -1783,6 +1793,7 @@ ei eskozo
 la izkriba
 la izkribatia
 ei escroto
+la escuadra
 la escuadra
 ei seldo
 la guta
@@ -1856,6 +1867,7 @@ la axele
 la axelva
 la estante
 la estatua
+la estatura
 ei tenno
 la este
 la estenografia
@@ -2029,6 +2041,8 @@ ei fosfuro
 la fotobiologia
 la fotografia
 la fotografica
+ei framo
+la frame
 la fotogrametria
 la fotogrametrica
 la fotolitografia
@@ -2113,6 +2127,10 @@ la giarrapoita
 la gas
 la gasola
 ei nitor
+la nafta
+la gasotela
+la nitortela
+la naftela
 la gasometria
 la gasometrica
 la gastroenterologia
@@ -2607,6 +2625,7 @@ la esnea
 la esneaxette
 la letsuga
 la lekta
+ei xendo
 ei blanco
 la linzeria
 ei lemgo
@@ -2616,6 +2635,8 @@ la lendait
 la tsafala
 ei lerite
 la letra
+la canibal
+la canibalisma
 la leksicografia
 la leksicografica
 la lexicologia
@@ -2688,6 +2709,7 @@ ei logo
 ei logette
 ei lokro
 ei siguro
+la lomba
 la rame
 la longoteda
 ei locuo
@@ -3338,6 +3360,7 @@ ei panto
 la saguala
 la pantera
 la papaya
+la ploka
 la pipra
 ei graxkubo
 la zorrera
@@ -3475,6 +3498,8 @@ la virante
 ei rotaio
 la aravita
 ei frico
+la pepperoni
+la peperoni
 la pepera
 la pera
 la eskada
@@ -3676,6 +3701,8 @@ la portafliaga
 ei portabekit
 ei portavoz
 ei portette
+la porteria
+la porta
 ei pose
 ei posesive
 ei posaieo
@@ -4001,6 +4028,7 @@ la rota
 ei riel
 ei rekord
 la plusmarka
+la concordia
 ei regimeno
 ei acuokemno
 la riava
@@ -4331,6 +4359,7 @@ la termometria
 la termometrica
 la termometera
 la ternera
+ei ternero
 la aile
 la terracota
 la terraforma
@@ -4640,12 +4669,16 @@ la bande
 la ventette
 ei venemo
 ei ponzo
+ei loop
 la venereologia
 ei venereologo
 ei venereologette
 la revenga
 la revenganze
 la vendexa
+ei alanco
+ei alanco
+la alancara
 ei estanvendo
 ei tecvendo
 ei tectovendoioro
@@ -4758,6 +4791,8 @@ ei yak
 la yate
 la yequa
 ei yero
+la kalpa
+la alga
 ei yogur
 la herrunna
 la carrota
@@ -4808,6 +4843,10 @@ la oliuma
 la osmosis
 la osmosis
 ei oval
+la vakette
+ei bukaru
+ei cowboy
+ei vakero
 ei ovulo
 la ragi
 la ulcera
@@ -4832,6 +4871,7 @@ ei abrasivo
 ei hogoko
 la falman
 ei absoluto
+ei sove
 ei absteno
 la abonte
 ei aborrado
@@ -5326,6 +5366,8 @@ la aile
 ei travaxeko
 ei trastoso
 ei einxo
+ei calmo
+ei calmo
 ei transcribiko
 ei yigoiko
 ei tristeko

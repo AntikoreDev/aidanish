@@ -1215,10 +1215,34 @@
             }
         ]
     },
+    "adelantamiento": {
+        "entries": [
+            {
+                "meaning": "alancara",
+                "specification": ""
+            }
+        ]
+    },
+    "adelantar": {
+        "entries": [
+            {
+                "meaning": "alancai",
+                "specification": ""
+            }
+        ]
+    },
     "adelante": {
         "entries": [
             {
                 "meaning": "daotan (otan)",
+                "specification": ""
+            }
+        ]
+    },
+    "adelanto": {
+        "entries": [
+            {
+                "meaning": "alanco",
                 "specification": ""
             }
         ]
@@ -2171,6 +2195,14 @@
             }
         ]
     },
+    "alga": {
+        "entries": [
+            {
+                "meaning": "kalpa, alga",
+                "specification": ""
+            }
+        ]
+    },
     "algo": {
         "entries": [
             {
@@ -3047,6 +3079,14 @@
         "entries": [
             {
                 "meaning": "anemometria, anemometrica",
+                "specification": ""
+            }
+        ]
+    },
+    "anestesia": {
+        "entries": [
+            {
+                "meaning": "anestesia",
                 "specification": ""
             }
         ]
@@ -4651,6 +4691,14 @@
             }
         ]
     },
+    "atrasar": {
+        "entries": [
+            {
+                "meaning": "atrasai",
+                "specification": ""
+            }
+        ]
+    },
     "atril": {
         "entries": [
             {
@@ -4671,6 +4719,14 @@
         "entries": [
             {
                 "meaning": "atrio",
+                "specification": ""
+            }
+        ]
+    },
+    "atropellar": {
+        "entries": [
+            {
+                "meaning": "suparpaize",
                 "specification": ""
             }
         ]
@@ -6064,6 +6120,18 @@
             {
                 "meaning": "izoya",
                 "specification": ""
+            },
+            {
+                "meaning": "torqe",
+                "specification": ""
+            }
+        ]
+    },
+    "pernio": {
+        "entries": [
+            {
+                "meaning": "torqe",
+                "specification": ""
             }
         ]
     },
@@ -6679,6 +6747,14 @@
         "entries": [
             {
                 "meaning": "bukaresti",
+                "specification": ""
+            }
+        ]
+    },
+    "bucle": {
+        "entries": [
+            {
+                "meaning": "loop",
                 "specification": ""
             }
         ]
@@ -7358,7 +7434,7 @@
     "callar": {
         "entries": [
             {
-                "meaning": "unpaire",
+                "meaning": "unpaire, noi",
                 "specification": ""
             }
         ]
@@ -7379,6 +7455,14 @@
         "entries": [
             {
                 "meaning": "estratoge",
+                "specification": ""
+            }
+        ]
+    },
+    "calmado": {
+        "entries": [
+            {
+                "meaning": "calmo",
                 "specification": ""
             }
         ]
@@ -7735,6 +7819,14 @@
             }
         ]
     },
+    "canibalismo": {
+        "entries": [
+            {
+                "meaning": "canibalisma",
+                "specification": ""
+            }
+        ]
+    },
     "canjear": {
         "entries": [
             {
@@ -7835,6 +7927,14 @@
         "entries": [
             {
                 "meaning": "qanzo",
+                "specification": ""
+            }
+        ]
+    },
+    "caníbal": {
+        "entries": [
+            {
+                "meaning": "canibal",
                 "specification": ""
             }
         ]
@@ -7947,6 +8047,14 @@
         "entries": [
             {
                 "meaning": "fazia",
+                "specification": ""
+            }
+        ]
+    },
+    "carabela": {
+        "entries": [
+            {
+                "meaning": "carabela",
                 "specification": ""
             }
         ]
@@ -8667,6 +8775,14 @@
             }
         ]
     },
+    "celo": {
+        "entries": [
+            {
+                "meaning": "zelo",
+                "specification": ""
+            }
+        ]
+    },
     "celíaco": {
         "entries": [
             {
@@ -8738,6 +8854,10 @@
     "centella": {
         "entries": [
             {
+                "meaning": "tai",
+                "specification": "chispa"
+            },
+            {
                 "meaning": "centela",
                 "specification": ""
             }
@@ -8747,6 +8867,10 @@
         "entries": [
             {
                 "meaning": "centelai",
+                "specification": ""
+            },
+            {
+                "meaning": "taire",
                 "specification": ""
             }
         ]
@@ -11563,6 +11687,22 @@
             }
         ]
     },
+    "cordero": {
+        "entries": [
+            {
+                "meaning": "temo",
+                "specification": ""
+            }
+        ]
+    },
+    "cordura": {
+        "entries": [
+            {
+                "meaning": "concordia",
+                "specification": ""
+            }
+        ]
+    },
     "cordón": {
         "entries": [
             {
@@ -12427,6 +12567,22 @@
         "entries": [
             {
                 "meaning": "eperso, eixam",
+                "specification": ""
+            }
+        ]
+    },
+    "cuando juzgamos a una persona por su apariencia o actuación inicial de forma rotunda": {
+        "entries": [
+            {
+                "meaning": "corvo viso",
+                "specification": ""
+            }
+        ]
+    },
+    "cuando una respuesta o solución a un problema/conversación ocurre horas después de que ya no sea necesaria o ya resulte irrelevante.": {
+        "entries": [
+            {
+                "meaning": "torqera penze",
                 "specification": ""
             }
         ]
@@ -14267,6 +14423,14 @@
             }
         ]
     },
+    "destellear": {
+        "entries": [
+            {
+                "meaning": "taire",
+                "specification": ""
+            }
+        ]
+    },
     "destello": {
         "entries": [
             {
@@ -14547,6 +14711,14 @@
             },
             {
                 "meaning": "hengia",
+                "specification": ""
+            }
+        ]
+    },
+    "dibujante": {
+        "entries": [
+            {
+                "meaning": "dixette",
                 "specification": ""
             }
         ]
@@ -15659,6 +15831,22 @@
         "entries": [
             {
                 "meaning": "hen",
+                "specification": ""
+            }
+        ]
+    },
+    "dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento": {
+        "entries": [
+            {
+                "meaning": "aer paire, lude noi",
+                "specification": ""
+            }
+        ]
+    },
+    "simplemente por creer que \"el resto iban\" o \"yo pensaba que x quería\"": {
+        "entries": [
+            {
+                "meaning": "aer paire, lude noi",
                 "specification": ""
             }
         ]
@@ -17415,6 +17603,14 @@
             }
         ]
     },
+    "escuadra": {
+        "entries": [
+            {
+                "meaning": "escuadra",
+                "specification": ""
+            }
+        ]
+    },
     "escuadrón": {
         "entries": [
             {
@@ -18111,6 +18307,14 @@
             }
         ]
     },
+    "estatura": {
+        "entries": [
+            {
+                "meaning": "estatura",
+                "specification": ""
+            }
+        ]
+    },
     "estaño": {
         "entries": [
             {
@@ -18763,6 +18967,14 @@
         "entries": [
             {
                 "meaning": "expresei",
+                "specification": ""
+            }
+        ]
+    },
+    "expresión para referirse a la reciprocidad de un trato entre dos personas": {
+        "entries": [
+            {
+                "meaning": "denta por denta",
                 "specification": ""
             }
         ]
@@ -19731,6 +19943,14 @@
             }
         ]
     },
+    "fotograma": {
+        "entries": [
+            {
+                "meaning": "framo, frame",
+                "specification": ""
+            }
+        ]
+    },
     "fotogrametría": {
         "entries": [
             {
@@ -20426,7 +20646,15 @@
     "gasolina": {
         "entries": [
             {
-                "meaning": "gasola, nitor",
+                "meaning": "gasola, nitor, nafta",
+                "specification": ""
+            }
+        ]
+    },
+    "gasolinera": {
+        "entries": [
+            {
+                "meaning": "gasotela, nitortela, naftela",
                 "specification": ""
             }
         ]
@@ -24803,6 +25031,14 @@
             }
         ]
     },
+    "lechuza": {
+        "entries": [
+            {
+                "meaning": "xendo",
+                "specification": ""
+            }
+        ]
+    },
     "lectura": {
         "entries": [
             {
@@ -25615,6 +25851,14 @@
         "entries": [
             {
                 "meaning": "lokro",
+                "specification": ""
+            }
+        ]
+    },
+    "lombarda": {
+        "entries": [
+            {
+                "meaning": "lomba",
                 "specification": ""
             }
         ]
@@ -29631,6 +29875,14 @@
             }
         ]
     },
+    "nostalgia": {
+        "entries": [
+            {
+                "meaning": "nostalgia",
+                "specification": ""
+            }
+        ]
+    },
     "nota": {
         "entries": [
             {
@@ -30311,6 +30563,14 @@
             }
         ]
     },
+    "ondear": {
+        "entries": [
+            {
+                "meaning": "huaibe",
+                "specification": ""
+            }
+        ]
+    },
     "onomasiología": {
         "entries": [
             {
@@ -30543,6 +30803,14 @@
         "entries": [
             {
                 "meaning": "origai",
+                "specification": ""
+            }
+        ]
+    },
+    "orina": {
+        "entries": [
+            {
+                "meaning": "urina, urin",
                 "specification": ""
             }
         ]
@@ -31299,6 +31567,14 @@
             }
         ]
     },
+    "papada": {
+        "entries": [
+            {
+                "meaning": "ploka",
+                "specification": ""
+            }
+        ]
+    },
     "papaya": {
         "entries": [
             {
@@ -31495,7 +31771,7 @@
             }
         ]
     },
-    "pararayos": {
+    "pararrayos": {
         "entries": [
             {
                 "meaning": "pararaio",
@@ -32455,6 +32731,14 @@
             }
         ]
     },
+    "pepperoni": {
+        "entries": [
+            {
+                "meaning": "pepperoni, peperoni",
+                "specification": ""
+            }
+        ]
+    },
     "pequeño": {
         "entries": [
             {
@@ -32522,7 +32806,7 @@
     "perdonar": {
         "entries": [
             {
-                "meaning": "pardonai",
+                "meaning": "pardonai, supardeixe",
                 "specification": ""
             }
         ]
@@ -32787,6 +33071,14 @@
         "entries": [
             {
                 "meaning": "persiverai",
+                "specification": ""
+            }
+        ]
+    },
+    "persona que se encargaba en época antigua de arreglar puertas y manivelas": {
+        "entries": [
+            {
+                "meaning": "torqette, torqerette",
                 "specification": ""
             }
         ]
@@ -34167,6 +34459,14 @@
         "entries": [
             {
                 "meaning": "portette",
+                "specification": ""
+            }
+        ]
+    },
+    "portería": {
+        "entries": [
+            {
+                "meaning": "porteria, porta",
                 "specification": ""
             }
         ]
@@ -36487,6 +36787,14 @@
         "entries": [
             {
                 "meaning": "circloko",
+                "specification": ""
+            }
+        ]
+    },
+    "reducir de tamaño o cambiar la forma de una palabra para que esta suene mejor": {
+        "entries": [
+            {
+                "meaning": "microvortisma",
                 "specification": ""
             }
         ]
@@ -39339,6 +39647,14 @@
             }
         ]
     },
+    "sobrepasar": {
+        "entries": [
+            {
+                "meaning": "surpaize",
+                "specification": ""
+            }
+        ]
+    },
     "sobrevalorado": {
         "entries": [
             {
@@ -41019,6 +41335,14 @@
             }
         ]
     },
+    "tenue": {
+        "entries": [
+            {
+                "meaning": "sove",
+                "specification": ""
+            }
+        ]
+    },
     "teología": {
         "entries": [
             {
@@ -41135,6 +41459,14 @@
         "entries": [
             {
                 "meaning": "ternera",
+                "specification": ""
+            }
+        ]
+    },
+    "ternero": {
+        "entries": [
+            {
+                "meaning": "ternero",
                 "specification": ""
             }
         ]
@@ -42174,7 +42506,7 @@
     "tranquilo": {
         "entries": [
             {
-                "meaning": "einxo",
+                "meaning": "einxo, calmo",
                 "specification": ""
             }
         ]
@@ -43055,6 +43387,14 @@
             }
         ]
     },
+    "un bucle del que no puedes salir ya que crees que necesitar algo para salir que solo podrás conseguir si sales": {
+        "entries": [
+            {
+                "meaning": "loop klave kerro",
+                "specification": ""
+            }
+        ]
+    },
     "un": {
         "entries": [
             {
@@ -43467,6 +43807,14 @@
             }
         ]
     },
+    "vaquero": {
+        "entries": [
+            {
+                "meaning": "vakette, bukaru, cowboy, vakero",
+                "specification": ""
+            }
+        ]
+    },
     "variable": {
         "entries": [
             {
@@ -43743,6 +44091,14 @@
         "entries": [
             {
                 "meaning": "narei",
+                "specification": ""
+            }
+        ]
+    },
+    "ventaja": {
+        "entries": [
+            {
+                "meaning": "alanco",
                 "specification": ""
             }
         ]

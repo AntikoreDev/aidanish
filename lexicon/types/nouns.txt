@@ -1254,6 +1254,7 @@ desembarco → desbarco
 desembocadura (río) → rioke
 desengrasador → torqette
 desengrasante → torqera
+bisagra, pernio → torqe
 deseo → dezo, pregardo, agux
 desfile → deslina
 desierto → deserto
@@ -3766,6 +3767,7 @@ vencejo, salangana → venzo, burlo
 venda → ladepipra, bande
 vendedor → ventette
 veneno → venemo, ponzo
+bucle → loop
 venereología → venereologia
 venereólogo → venereologo, venereologette
 venganza → revenga, revenganze

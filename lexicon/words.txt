@@ -257,6 +257,9 @@ akutoro
 akuttere
 ala
 alan
+alancai
+alancara
+alanco
 alarme
 albanea
 albanexe
@@ -281,6 +284,7 @@ alergologo
 alfilago
 alfilai
 alfilatio
+alga
 alicatai
 alicator
 alie
@@ -374,6 +378,7 @@ anemografia
 anemografica
 anemometria
 anemometrica
+anestesia
 anestesiologette
 anestesiologia
 anestesiologo
@@ -603,6 +608,7 @@ atletisma
 atletismo
 atlette
 atokla
+atrasai
 atria
 atrio
 atronei
@@ -945,6 +951,7 @@ bubo
 budisma
 bufalo
 bukaresti
+bukaru
 bula
 bulai
 bulanere
@@ -998,6 +1005,7 @@ calendula
 caligrafia
 caligrafica
 calikso
+calmo
 calografia
 calografica
 calologia
@@ -1025,6 +1033,8 @@ cancerologia
 cancerologo
 candala
 candalabro
+canibal
+canibalisma
 canna
 cannon
 cano
@@ -1040,6 +1050,7 @@ capitalisma
 capitalista
 capsula
 captanna
+carabela
 caracterologette
 caracterologia
 caracterologo
@@ -1233,6 +1244,7 @@ comunitatia
 conceptai
 conceptio
 concepto
+concordia
 concreto
 conde
 condena
@@ -1337,6 +1349,7 @@ cosplay
 costume
 cota
 coto
+cowboy
 craneo
 craneologia
 creata
@@ -1677,6 +1690,7 @@ disve
 dividi
 divisa
 dixai
+dixette
 dixo
 dize
 dizicatro
@@ -2160,6 +2174,7 @@ estarola
 estarvai
 estatio
 estatua
+estatura
 estava
 estavai
 estavo
@@ -2490,6 +2505,8 @@ fracto
 fraktio
 frakza
 frambo
+frame
+framo
 francea
 francesa
 fraseologia
@@ -2566,6 +2583,7 @@ gas
 gasola
 gasometria
 gasometrica
+gasotela
 gastai
 gastroenterologette
 gastroenterologia
@@ -2907,6 +2925,7 @@ hosta
 hostala
 hostexette
 huaba
+huaibe
 humanita
 hunco
 hundaire
@@ -3219,6 +3238,7 @@ kalerhundo
 kaleria
 kalerkista
 kalerkoso
+kalpa
 kambio
 kamboi
 kamisa
@@ -3584,6 +3604,7 @@ loko
 lokoi
 lokrai
 lokro
+lomba
 lombo
 londonia
 longara
@@ -3591,6 +3612,7 @@ longei
 longo
 longoai
 longoteda
+loop
 lorro
 lostigai
 loteire
@@ -3849,6 +3871,7 @@ microfotografica
 micrografia
 micrografica
 microhuaba
+microvortisma
 mielografia
 mielografica
 migera
@@ -4006,6 +4029,8 @@ mutai
 mutse
 muzka
 na
+nafta
+naftela
 nai
 naire
 naito
@@ -4118,6 +4143,7 @@ nitolama
 nitolamadra
 nitomadra
 nitor
+nitortela
 nitroieno
 nivo
 nizaga
@@ -4125,6 +4151,7 @@ nizagal
 nnordo
 noforma
 nograi
+noi
 noiso
 nokoi
 nokoixa
@@ -4157,6 +4184,7 @@ norto
 nosografia
 nosografica
 nosologia
+nostalgia
 nota
 notela
 novembo
@@ -4517,6 +4545,8 @@ penzei
 penzeiette
 peon
 pepera
+peperoni
+pepperoni
 pera
 perda
 perditio
@@ -4666,6 +4696,7 @@ plato
 pleasa
 plenti
 plika
+ploka
 plomo
 pluga
 plugai
@@ -4754,6 +4785,7 @@ portavionnit
 portavoz
 portcomputera
 portecum
+porteria
 portette
 porto
 portona
@@ -5525,6 +5557,7 @@ sotaine
 sotenai
 soteno
 soteriologia
+sove
 soya
 soyo
 sozial
@@ -5567,7 +5600,9 @@ sunkrako
 supai
 supardaire
 suparde
+supardeixe
 supardo
+suparpaize
 supavai
 superavit
 superbia
@@ -5586,6 +5621,7 @@ surdai
 surdo
 surle
 suro
+surpaize
 surtso
 surviva
 survivai
@@ -5605,6 +5641,7 @@ tagaro
 tai
 taiga
 taine
+taire
 takanno
 takin
 talatro
@@ -5677,6 +5714,7 @@ teleportai
 teleporte
 telescope
 televisoi
+temo
 tempeo
 tempera
 temperai
@@ -5720,6 +5758,7 @@ termometera
 termometria
 termometrica
 ternera
+ternero
 terno
 terra
 terracota
@@ -5831,8 +5870,10 @@ torneio
 torno
 toro
 torpedo
+torqe
 torqei
 torqera
+torqerette
 torqette
 torra
 torrata
@@ -6097,6 +6138,8 @@ uretra
 urgenciologette
 urgenciologo
 urial
+urin
+urina
 urografia
 urografica
 urologette
@@ -6131,6 +6174,8 @@ vadixa
 vadixaguaioro
 vaka
 vakante
+vakero
+vakette
 vale
 valei
 valia
@@ -6323,6 +6368,7 @@ xaveioro
 xefo
 xeitore
 xelofono
+xendo
 xenome
 xenon
 xenta

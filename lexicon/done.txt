@@ -140,7 +140,10 @@ acusar
 acusativo
 acuático
 acuñar
+adelantamiento
+adelantar
 adelante
+adelanto
 adelgazar
 además
 adenología
@@ -258,6 +261,7 @@ aleta
 alfajor
 alfil
 alfombra
+alga
 algarroba
 algo
 alguien
@@ -366,6 +370,7 @@ andrólogo
 andén
 anemografía
 anemometría
+anestesia
 anestesiología
 anestesiólogo
 anfibología
@@ -566,9 +571,11 @@ atornillar
 atragantar
 atrapado
 atrapar
+atrasar
 atril
 atrincherarse
 atrio
+atropellar
 atrás
 aturdido
 aturdidor
@@ -818,6 +825,7 @@ brusco
 brío
 bucal
 bucarest
+bucle
 budismo
 buen
 buenas noches
@@ -905,6 +913,7 @@ callado
 callar
 calle
 callejero
+calmado
 calografía
 calología
 calor
@@ -949,6 +958,7 @@ canción
 candelabro
 cangrejo
 canguro
+canibalismo
 canjear
 canoa
 cansado
@@ -962,6 +972,7 @@ cantico
 cantimplora
 cantina
 canto
+caníbal
 caoba
 capa
 capaz
@@ -977,6 +988,7 @@ captura o asesinato
 capturar
 capullo
 cara
+carabela
 caracol
 caracterología
 caracterólogo
@@ -1070,6 +1082,7 @@ cebra
 cecografía
 cedro
 celda
+celo
 celíaco
 cementerio
 cena
@@ -1411,6 +1424,8 @@ coraza
 corazón
 corbata
 corcho
+cordero
+cordura
 cordón
 coreografía
 cornudo
@@ -1520,6 +1535,8 @@ cualquier momento
 cualquier persona
 cualquiera
 cuando
+cuando juzgamos a una persona por su apariencia o actuación inicial de forma rotunda
+cuando una respuesta o solución a un problema/conversación ocurre horas después de que ya no sea necesaria o ya resulte irrelevante.
 cuanto
 cuarenta
 cuartel
@@ -1741,6 +1758,7 @@ desplazar
 después
 destacado
 destacar
+destellear
 destello
 desterrar
 destino
@@ -1775,6 +1793,7 @@ dialectólogo
 diamante
 diana
 diario
+dibujante
 dibujar
 dibujo
 diccionario
@@ -1912,6 +1931,7 @@ débil
 décima
 décimo
 día
+dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento
 dólar
 e
 ebullición
@@ -2123,6 +2143,7 @@ escribir
 escrito
 escritura
 escroto
+escuadra
 escuadrón
 escuchar
 escudo
@@ -2209,6 +2230,7 @@ estar
 estar de pie
 estas
 estatua
+estatura
 estaño
 este
 estenografía
@@ -2288,6 +2310,7 @@ exportación
 exportar
 expresar
 expresión
+expresión para referirse a la reciprocidad de un trato entre dos personas
 expuesto
 expulsar
 extender
@@ -2408,6 +2431,7 @@ fosforo
 foto
 fotobiología
 fotografía
+fotograma
 fotogrametría
 fotolitografía
 fotometría
@@ -2493,6 +2517,7 @@ garra
 garrapata
 gas
 gasolina
+gasolinera
 gasometría
 gastar
 gastroenterología
@@ -3025,6 +3050,7 @@ lavavajillas
 leche
 lechero
 lechuga
+lechuza
 lectura
 leer
 legal
@@ -3127,6 +3153,7 @@ lodo
 logo
 lograr
 logro
+lombarda
 lombriz
 lomo
 londrés
@@ -3611,6 +3638,7 @@ nos
 nosografía
 nosología
 nosotros
+nostalgia
 nota
 noticia
 notificación
@@ -3695,6 +3723,7 @@ onceavo
 oncología
 oncólogo
 onda
+ondear
 onomasiología
 ontología
 ontólogo
@@ -3721,6 +3750,7 @@ orgía
 origen
 original
 originar
+orina
 orla
 ornitología
 ornitorrinco
@@ -3813,6 +3843,7 @@ pantalla
 pantalón
 pantano
 pantera
+papada
 papaya
 papel
 papelera
@@ -3834,7 +3865,7 @@ paralelo
 parapsicología
 parapsicólogo
 parar
-pararayos
+pararrayos
 parasicología
 parasicólogo
 parasitología
@@ -3952,6 +3983,7 @@ peonía
 peor
 pepinillo
 pepino
+pepperoni
 pequeño
 pera
 perca
@@ -3984,6 +4016,7 @@ permanecer
 permanente
 permiso
 permitir
+pernio
 pero
 perpendicular
 perpetrar
@@ -3997,6 +4030,7 @@ persiana
 persistencia
 persistir
 persona
+persona que se encargaba en época antigua de arreglar puertas y manivelas
 personal
 personalización
 personalizar
@@ -4161,6 +4195,7 @@ portabandera
 portabebés
 portavoz
 portero
+portería
 portugal
 portugués
 portátil
@@ -4447,6 +4482,7 @@ red
 red local
 red social
 redondo
+reducir de tamaño o cambiar la forma de una palabra para que esta suene mejor
 reenvío
 referencia
 referenciar
@@ -4771,6 +4807,7 @@ silla
 simbología
 simetría
 simple
+simplemente por creer que "el resto iban" o "yo pensaba que x quería"
 simpático
 sin
 sin color
@@ -4795,6 +4832,7 @@ slime
 soberbia
 soberbio
 sobre
+sobrepasar
 sobrevalorado
 sobrevivir
 sobrino
@@ -4997,6 +5035,7 @@ tenis
 tensar
 tensión
 tentar
+tenue
 teología
 teratología
 tercero
@@ -5013,6 +5052,7 @@ termología
 termometría
 termómetro
 ternera
+ternero
 ternura
 terracota
 terraformación
@@ -5250,6 +5290,7 @@ ufólogo
 ultimo
 ultílogo
 un
+un bucle del que no puedes salir ya que crees que necesitar algo para salir que solo podrás conseguir si sales
 una
 unas
 unido
@@ -5298,6 +5339,7 @@ valor
 valorado
 valorar
 vanidad
+vaquero
 variable
 variar
 varios
@@ -5334,6 +5376,7 @@ venezuela
 venganza
 vengarse
 venir
+ventaja
 ventana
 ventilador
 ventilador de pie
