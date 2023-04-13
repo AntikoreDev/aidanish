@@ -39,6 +39,7 @@ acumular → acumai, buntsai
 acusar → akusai
 acuñar → acuine
 adelgazar → delekai
+enterrar vivo → vitaurei
 administrar → administrei
 adoptar → adoptei
 adorar → adorai
@@ -378,6 +379,8 @@ emitir → emitei
 emocionar (emoción) → emozai
 empacar, empaquetar → paketai
 empalmar → apalmai 
+empatizar → maise
+simpatizar → simaise
 empanar → ebritai
 empapelar → empaperai
 empatar → ligai, tai, tiai,
@@ -412,7 +415,7 @@ enseñar → esaroi
 ensordecer → sordai
 ensuciar → druxai
 entender → enderei, comprei
-enterrar → enterrei
+enterrar → enterrei, auro
 entrar → entrei
 entregar → entregai
 entrenar → traine, entraine
@@ -654,6 +657,7 @@ parir → parei
 centellear → taire
 parpadear → exorei
 partir (romper, cortar) → partei, brokai
+coronar → koronai, koronaire
 pasar (caminar) → paize
 pasar (ocurrir) → zaine
 pasear → paize
@@ -662,6 +666,7 @@ pasteurizar → pausterai
 patear → poitsire
 pausar → pauxai, pausai, haile
 pecar → xinai
+manipular → manikai
 pedir → precai
 pegar → pastai
 peinar → cailai
@@ -862,6 +867,7 @@ sujetar → sujei
 suliveyar, encantar → aloi
 sumar → suproxei
 superar → raize
+uperisar, ultrapasteurizar → uperisai
 supervisar → supervisoi
 suplicar → supraxai
 suponer → supoi

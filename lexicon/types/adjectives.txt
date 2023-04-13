@@ -304,13 +304,18 @@ lleno de vida → vitido
 lleno → ello, elloko
 local → local, locatako
 loco → loko, ankraro, friko
+catastrófico → combo
 lujoso → luxoso
 lácteo → esneoro
 magnético → magnetiso
+enterrado → auro, enterro
+enterrado vivo → vitauro
 majo → hali
 mal → heun
 malasombra → heuntsado
 maldito → mairato
+manipulador → manikete
+manipulado, manipulable → maniketa
 maligno → heunxo
 malo → heune
 maloliente → heunesle
@@ -396,7 +401,11 @@ preciso → preziso
 prendido → foke
 preparado (estar preparado para algo) → en tempeo
 principal → printsiale, primer
+claustrofóbico → claustrofobico
 privado → privato, privado
+empático → maise
+simpático → simaise
+galáctico → galaksiko
 probable → probable, probeko
 probado → probo
 profundo → sundo
@@ -448,6 +457,7 @@ simple → simple, sampla
 simpático → amaiso, simpo
 sin color → kolorfala
 sin duda, indudablemente → dubafala
+industrial → industriala, industrial
 sin sentido → sensofala
 sin vida → vitafala
 sincero → etristuro, sinzero

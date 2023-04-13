@@ -16,6 +16,7 @@ Antiguano → Antiguaneo
 Antártida → Antartika
 Arabia Saudita → Arabika Saudita
 Argelia → Argelia
+golpe de estado → estatarrota
 Argelino → Argelineo
 Argentina → Argentia
 Argentino → Argento
@@ -24,6 +25,7 @@ Armenio → Armeno
 Asia → Asia
 Barcelona → Barcelona
 Berlin → Berline
+manipulación → manika
 celo → zelo
 Brasil → Brazil
 Brasileño → Brazilenno
@@ -302,6 +304,29 @@ anatomopatólogo → anatomopatologo, anatomopatologette
 anca → anka, anca
 ancan → alzamiento
 anchura → faldaia
+claustrofobia → claustrofobia
+aracnofobia → araknofobia
+talasofobia → talasofobia
+phasmofobia → fasmofobia, phasmofobia
+agorafobia → agorafobia
+autofobia → autofobia
+ciberfobia → ciberfobia
+hemofobia → hemofobia
+ginofobia → ginofobia
+necrofobia → nekrofobia, necrofobia
+pedofobia → pedofobia
+tanatofobia → tanatofobia
+tafofobia, tapefobia → tafofobia, tapefobia
+tripofobia → tripofobia
+turismofobia → turismofobia
+xenofobia → xenofobia
+zoofobia → zoofobia
+apifobia → apifobia
+fotofobia → fotofobia
+fonofobia → fonofobia
+homofobia → homofobia
+heterofobia → heterofobia
+transfobia → transfobia
 ancla → ancla
 anclaje → anclaxo, fixo, anclo
 andador → andaivo
@@ -482,7 +507,7 @@ azúcar → sukra, sucra
 añalejo → relicrolista
 año → yaro, anio
 baba → clia
-bacon → bacon
+bacon, tocino → bacon
 bacteriología → bacteriologia
 bacteriólogo → bacteriologo, bacteriologette
 badén → batino
@@ -633,6 +658,7 @@ brío, garbo → farla
 budismo → budisma
 buey → zarra
 bufanda → bunfaza
+garbanzo → berga
 bufón → bulanere, xiabette
 buitre → xikorra, vorle
 buque → buqe, dunko
@@ -796,6 +822,7 @@ caso → caso
 casta → casta
 castaña → nizaga
 castaño → nizagal
+catapulta → zroioro, zroipetre, catapulta
 castigo → jusa
 castillo → castil
 castor → biatse
@@ -848,6 +875,7 @@ cerradura → klavika
 cerrajero → klavikette
 cerrojo → kerranda
 cerveza → birraza
+raza → raza
 cesta → cesta
 cetro → esceptor, cetro, zetro
 cetáceo → cetacio
@@ -929,6 +957,7 @@ cloro → cloro
 cloroformo → cloroforme
 coartada → quartada
 cobre → ikroso
+cobra (animal) → cobra
 cocaína → cocaina
 cocaína → kokaine
 coche, carro, auto, automóvil → kotse, vehiklo, automovo, zurro
@@ -1037,12 +1066,14 @@ contactólogo → contactologo, contactologette
 contaminación, polución → drigatio, polutio
 contención → containio
 contenido → contento
+contador → kontoro
 conteo → konto
 contexto → conteksto
 contraseña → codivorto
 contribución → contribe
 control → control
 conversación → pairetio
+traspiés → troin
 conversión → konversio
 copa → cope
 copia → kopea
@@ -1070,8 +1101,10 @@ corrida (cualquier significado no sexual) → zurrata
 corrupción → korruptio
 cortador → kutoro
 corte → kuta
+corteza → crusta
 cosa → koixa
 coscorro (pan) → apatsa, apa, britango
+corrosión → corroiso
 cosecha → cropo
 coseno → cosino, coseno
 cosmetología → cosmetologia
@@ -1219,7 +1252,8 @@ deidad → deida
 delfín → delfino
 democracia → democratia
 demografía → demografia, demografica
-demonio → damon
+demonio → damon, daemon
+tomillo → koki
 demonología → demonologia
 demonólogo → demonologo, demonologette
 dendrografía → dendrografia, dendrografica
@@ -1290,6 +1324,9 @@ dibujante → dixette
 diccionario → diktionario
 dicho → dikero
 dictador → dictatoro
+naranja (color) → oranja
+naranja (fruta) → oranja
+mandarina → oranjarina
 dictadura → dictatura
 diente de león (flor) → sedara
 diente → denta
@@ -1404,7 +1441,9 @@ empalme → apalme
 empanada → ebritaita
 empanadilla → ebritaitita
 empanado → ebrito
+simpatizante → simaisere
 empatía → maiso
+simpatía → simaiso
 emperador → emperos
 emperatriz → emperas
 empotración → empotratio
@@ -1435,7 +1474,8 @@ enrutador → enrotare
 ensalada → ensalada
 entendimiento → enderia
 entidad → entita
-entierro → enterro
+entierro vivo → vitauro
+entierro → enterro, auro
 entomología → entomologia
 entomólogo → entomologo, entomologette
 entrada → entratela
@@ -1455,7 +1495,10 @@ epizootiología → epizootiologia
 epílogo → epilogo, epilogette
 equipo → eqipo
 equivalente → eqivala
+lenteja → tsiko
 era → era
+kiwi (fruta) → kiwi
+kiwi (animal) → kiwi
 ergología → ergologia
 ergometría → ergometria, ergometrica
 ergonomía → ergonomia
@@ -1504,6 +1547,7 @@ esparto → esparto
 especialidad → espezialitata
 espectador → espekteixette
 espectro → espector
+rombo → rombo
 espectrofotometría → espectrofotometria, espectrofotometrica
 espectrografía → espectrografia, espectrografica, espectorografia, espectorografica
 espectrometría → espectrometria, espectrometrica, espectorometria, espectorometrica
@@ -1516,6 +1560,7 @@ esperantista → esperantesta
 esperanza → aikala
 espesura → hexegia
 espina → tira
+tirachinas → zroioro, eslingo
 espirometría → espirometria, espirometrica
 esposa → meixa, meila
 espuma → hixa, fomo
@@ -1798,6 +1843,7 @@ globo (juguete) → balun, globe
 globo (terráqueo) → globe
 gloria → gloria
 glosario → glose, lexicon
+alubia → blon
 glotología → glotologia
 gnoseología → gnoseologia
 gobierno → governo
@@ -1953,6 +1999,8 @@ hombre → honperso
 homenaje → homenaie
 homicida → homicida
 homicidio → homicidio
+femicidio → femicidio, femicidia, meiecidia, meicidia
+femicida → femicida, meiecida, meicida
 homografía → homografia, homografica
 homología → homologia
 homosexual → homosexualo
@@ -1970,6 +2018,7 @@ hospedaje → huste
 hospital → hospital, hopital, kuratela
 hostelero → hostexette
 hostelerías → hosta
+pitaya → noisa
 hostia → portona
 hot dog, completo, perrito caliente → kalerhundo, sausixa
 hotel → hostala
@@ -2024,6 +2073,7 @@ incordio → proko
 incubación → incube
 inculto → ivorte
 industria → industria
+consecuencia → qansequentia
 infancia → infantia, kindatia
 infectología → infectologia
 infierno → inferno
@@ -2482,6 +2532,7 @@ muerto → morte
 muestra → dorima
 mujer → meiperso
 mundo → mondo
+revolución → revolutio
 mundología → mundologia
 munición → amunitio
 muralla → murala
@@ -2717,8 +2768,9 @@ pantano → saguala
 pantera → pantera
 papaya → papaya
 papada → ploka
-papel → pipra
+papel → pipra, fola
 papelera, cubo de basura → graxkubo, zorrera, zorrere, desextela, zorvero
+papeleta → pipro
 papelería → pipratela
 papilla → papila
 papirología → papirologia
@@ -2886,6 +2938,7 @@ piedra → petro, petra
 piel → pelde
 pierna → airpoi
 pieza → pieza
+folio → fola
 piezometría → piezometria, piezometrica
 pijama → niki
 pimiento → pipera
@@ -3623,6 +3676,8 @@ totem → totem
 toxicología → toksicologia
 toxicólogo → toksicologo, toksicologette
 trabajador → travaxette
+travesura → inkinda
+travieso → inkinde
 trabajo → travaxo, laboro
 trabalenguas → mixequeieto
 traducción → translaio
@@ -3799,6 +3854,8 @@ viaje → vixe
 vibrador → vibraibo
 vicuña → vicunna
 vida → vita
+agresión → agresio
+víctima → viktima
 video → vidio
 videoconsola → jokonsola
 videojuego → vidiojoko
@@ -3898,7 +3955,7 @@ zócalo → sokete
 época → elkara
 ética → etika
 ícor → icor
-ímbolo ,  signos → simo
+símbolo, signos → simo
 índigo → indigo
 ñú → legas
 óculo → oculo

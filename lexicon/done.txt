@@ -195,6 +195,7 @@ agencia
 agitación
 agitar
 agonía
+agorafobia
 agosto
 agradecer
 agradecimiento
@@ -202,6 +203,7 @@ agrafía
 agrandar
 agredir
 agresivo
+agresión
 agricultor
 agricultura
 agrietar
@@ -306,6 +308,7 @@ altimetría
 alto
 altruista
 altura
+alubia
 alucinación
 alucinar
 alzado
@@ -436,6 +439,7 @@ apenas
 apertura
 apicultor
 apicultura
+apifobia
 aplicación
 aplicar
 apodo
@@ -452,6 +456,7 @@ apuñalar
 apólogo
 aquí
 arabia saudita
+aracnofobia
 aracnología
 aracnólogo
 araña
@@ -523,6 +528,7 @@ asediar
 asedio
 asemejarse
 asentir
+asesinato de un hombre por discriminación hacia el sexo masculino
 asia
 asiento
 asignar
@@ -599,6 +605,7 @@ autismo
 auto
 autobiografía
 autobús
+autofobia
 autografía
 automóvil
 autopista
@@ -1052,8 +1059,10 @@ castillo
 castor
 castrar
 catalejo
+catapulta
 catarsis
 catastrofe
+catastrófico
 catenaria
 catorce
 catálogo
@@ -1152,6 +1161,7 @@ choque
 chuche
 chupada
 chupar
+ciberfobia
 ciclismo
 ciclo
 ciego
@@ -1197,6 +1207,8 @@ claro
 clase
 clasificación
 clasificar
+claustrofobia
+claustrofóbico
 clavar
 clave
 clavel
@@ -1211,6 +1223,7 @@ cloro
 cloroformo
 clásico
 coartada
+cobra
 cobre
 cocaína
 cocer
@@ -1366,6 +1379,7 @@ conquista
 conquistado
 conquistador
 conquistar
+consecuencia
 conseguir
 consentir
 conservación
@@ -1387,6 +1401,7 @@ contactar
 contacto
 contactología
 contactólogo
+contador
 contaminación
 contaminado
 contaminar
@@ -1432,6 +1447,7 @@ cornudo
 coro
 corografía
 corona
+coronar
 corpa
 correcaminos
 correcto
@@ -1441,10 +1457,12 @@ correo electrónico
 correr
 correturnos
 corrida
+corrosión
 corrupción
 cortador
 cortar
 corte
+corteza
 corto
 cosa
 coscorro
@@ -1999,6 +2017,7 @@ empanar
 empapelar
 empaquetar
 empatar
+empatizar
 empatía
 empeorar
 emperador
@@ -2009,6 +2028,7 @@ empotrar
 empresa
 empujar
 empuje
+empático
 en
 en el
 en fin
@@ -2074,9 +2094,13 @@ ensuciar
 entender
 entendimiento
 entero
+enterrado
+enterrado vivo
 enterrar
+enterrar vivo
 entidad
 entierro
+entierro vivo
 entomología
 entomólogo
 entonces
@@ -2349,6 +2373,8 @@ federación
 felicidad
 feliz
 femenino
+femicida
+femicidio
 fenología
 fenomenología
 fenomenólogo
@@ -2410,10 +2436,12 @@ foca
 foco
 fogata
 folclore
+folio
 follar
 fondo
 fonoaudiología
 fonoaudiólogo
+fonofobia
 fonografía
 fonología
 fonometría
@@ -2430,6 +2458,7 @@ forzar
 fosforo
 foto
 fotobiología
+fotofobia
 fotografía
 fotograma
 fotogrametría
@@ -2503,6 +2532,7 @@ galgo
 galleta
 gallina
 gallo
+galáctico
 gamba
 gammagrafía
 ganadero
@@ -2511,6 +2541,7 @@ ganado
 ganar
 gandúl
 ganso
+garbanzo
 garbo
 gardenia
 garra
@@ -2557,6 +2588,7 @@ gimnasia
 gimnasio
 ginecología
 ginecólogo
+ginofobia
 girafa
 girar
 girasol
@@ -2576,6 +2608,7 @@ gofre
 golem
 golfo
 goloso
+golpe de estado
 golpear
 goma
 gordo
@@ -2702,6 +2735,7 @@ helsinki
 hematología
 hematólogo
 hemofilia
+hemofobia
 heno
 hepatología
 hepatólogo
@@ -2719,6 +2753,7 @@ herramienta
 herrero
 herrería
 hervir
+heterofobia
 heterosexual
 heterosexualidad
 hexágono
@@ -2776,6 +2811,7 @@ homenaje
 homenajear
 homicida
 homicidio
+homofobia
 homografía
 homología
 homosexual
@@ -2880,6 +2916,7 @@ indecente
 india
 indudablemente
 industria
+industrial
 infancia
 infectología
 infierno
@@ -3014,6 +3051,7 @@ kebab
 ketchup
 kinesiología
 kinesiólogo
+kiwi
 koala
 kosovo
 kremlinología
@@ -3062,6 +3100,7 @@ lencería
 lengua
 lenguaje
 lenguaje de programación
+lenteja
 lentes
 lento
 lerdo
@@ -3222,6 +3261,7 @@ mancha
 manchar
 manco
 mandar
+mandarina
 mando
 manejar
 manejo
@@ -3232,6 +3272,11 @@ mania
 manicomio
 manifiesto
 manillar
+manipulable
+manipulación
+manipulado
+manipulador
+manipular
 maniquí
 maniático
 mano
@@ -3554,6 +3599,7 @@ nadar
 nadie
 nanotecnología
 napolitana
+naranja
 narciso
 nariz
 narratología
@@ -3567,6 +3613,7 @@ nazismo
 necesidad
 necesitar
 necrofilia
+necrofobia
 necrología
 nectarina
 nefelometría
@@ -3848,6 +3895,7 @@ papaya
 papel
 papelera
 papelería
+papeleta
 papilla
 papirología
 papirólogo
@@ -3943,6 +3991,7 @@ pedido
 pedir
 pedo
 pedofilia
+pedofobia
 pedología
 pedorro
 pegamento
@@ -4030,6 +4079,8 @@ persiana
 persistencia
 persistir
 persona
+persona que discrimina a los de su propio grupo social
+persona que hace 'honicidio'
 persona que se encargaba en época antigua de arreglar puertas y manivelas
 personal
 personalización
@@ -4064,6 +4115,7 @@ pez
 peña
 peñasco
 peón
+phasmofobia
 piano
 picadura
 picar
@@ -4110,6 +4162,7 @@ pista
 pista de baile
 pistacho
 pistola
+pitaya
 pizarra
 pizza
 pizzería
@@ -4430,6 +4483,7 @@ ratio
 ratón
 rayar
 rayo
+raza
 razonar
 razón
 raíz
@@ -4586,6 +4640,7 @@ reunir
 reunión
 revivir
 revocar
+revolución
 revólver
 rey
 rezar
@@ -4618,6 +4673,7 @@ rollito
 rollo
 roma
 romance
+rombo
 romero
 romper
 romántico
@@ -4806,6 +4862,9 @@ silencioso
 silla
 simbología
 simetría
+simpatizante
+simpatizar
+simpatía
 simple
 simplemente por creer que "el resto iban" o "yo pensaba que x quería"
 simpático
@@ -4945,11 +5004,13 @@ tabla
 tablero
 tacaño
 taco
+tafofobia
 tahr
 taiga
 takín
 taladro
 talar
+talasofobia
 talco
 talla
 tallin
@@ -4960,6 +5021,7 @@ tambor
 tamizar
 tampoco
 tan
+tanatofobia
 tanatología
 tanatólogo
 tangente
@@ -4968,6 +5030,7 @@ tanto
 tantos
 tapar
 taparabos
+tapefobia
 tapír
 taquigrafía
 taquimecanografía
@@ -5105,6 +5168,7 @@ tipografía
 tipología
 tipometría
 tira
+tirachinas
 tirar
 tiro
 tisiología
@@ -5116,6 +5180,7 @@ toalla
 toallita
 tobillo
 tocar
+tocino
 tocología
 tocólogo
 toda forma
@@ -5129,6 +5194,7 @@ todoterreno
 todólogo
 tomar
 tomate
+tomillo
 tomografía
 tono
 tono de móvil
@@ -5186,6 +5252,7 @@ transcripción
 transcriptiva
 transexual
 transexualidad
+transfobia
 transitar
 transmutación
 transmutar
@@ -5195,6 +5262,7 @@ transporte
 tranvía
 tras
 trasnochar
+traspiés
 trastear
 trastero
 trasto
@@ -5206,6 +5274,8 @@ tratar
 trato
 traumatología
 traumatólogo
+travesura
+travieso
 traza
 trazar
 trece
@@ -5229,6 +5299,7 @@ trilogía
 trinchera
 tripa
 triplicar
+tripofobia
 trismo
 triste
 tristeza
@@ -5269,6 +5340,7 @@ tundra
 tungsteno
 tupla
 turismo
+turismofobia
 turista
 turnar
 turno
@@ -5288,6 +5360,7 @@ ucrania
 ufología
 ufólogo
 ultimo
+ultrapasteurizar
 ultílogo
 un
 un bucle del que no puedes salir ya que crees que necesitar algo para salir que solo podrás conseguir si sales
@@ -5301,6 +5374,7 @@ unión
 uno
 unos
 uperisado
+uperisar
 uranio
 urano
 uranografía
@@ -5483,12 +5557,14 @@ váscula
 váter
 vía
 víbora
+víctima
 vídeo
 web
 whisky
 wikipedia
 wolframio
 wombat
+xenofobia
 xenón
 xerografía
 xilografía
@@ -5512,6 +5588,7 @@ zombie
 zona
 zoo
 zoofilia
+zoofobia
 zoogeografía
 zoografía
 zoología
@@ -5539,7 +5616,6 @@ zócalo
 época
 ética
 ícor
-ímbolo
 índigo
 ñú
 óculo

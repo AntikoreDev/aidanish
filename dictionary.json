@@ -1663,6 +1663,14 @@
             }
         ]
     },
+    "agorafobia": {
+        "entries": [
+            {
+                "meaning": "agorafobia",
+                "specification": ""
+            }
+        ]
+    },
     "agosto": {
         "entries": [
             {
@@ -1715,6 +1723,14 @@
         "entries": [
             {
                 "meaning": "agresibo",
+                "specification": ""
+            }
+        ]
+    },
+    "agresión": {
+        "entries": [
+            {
+                "meaning": "agresio",
                 "specification": ""
             }
         ]
@@ -2543,6 +2559,14 @@
         "entries": [
             {
                 "meaning": "aitora",
+                "specification": ""
+            }
+        ]
+    },
+    "alubia": {
+        "entries": [
+            {
+                "meaning": "blon",
                 "specification": ""
             }
         ]
@@ -3599,6 +3623,14 @@
             }
         ]
     },
+    "apifobia": {
+        "entries": [
+            {
+                "meaning": "apifobia",
+                "specification": ""
+            }
+        ]
+    },
     "aplicación": {
         "entries": [
             {
@@ -3723,6 +3755,14 @@
         "entries": [
             {
                 "meaning": "arabika saudita",
+                "specification": ""
+            }
+        ]
+    },
+    "aracnofobia": {
+        "entries": [
+            {
+                "meaning": "araknofobia",
                 "specification": ""
             }
         ]
@@ -4299,6 +4339,14 @@
         "entries": [
             {
                 "meaning": "asensei",
+                "specification": ""
+            }
+        ]
+    },
+    "asesinato de un hombre por discriminación hacia el sexo masculino": {
+        "entries": [
+            {
+                "meaning": "honicidia",
                 "specification": ""
             }
         ]
@@ -4907,6 +4955,14 @@
             }
         ]
     },
+    "autofobia": {
+        "entries": [
+            {
+                "meaning": "autofobia",
+                "specification": ""
+            }
+        ]
+    },
     "autografía": {
         "entries": [
             {
@@ -5188,6 +5244,14 @@
         ]
     },
     "bacon": {
+        "entries": [
+            {
+                "meaning": "bacon",
+                "specification": ""
+            }
+        ]
+    },
+    "tocino": {
         "entries": [
             {
                 "meaning": "bacon",
@@ -8543,6 +8607,14 @@
             }
         ]
     },
+    "catapulta": {
+        "entries": [
+            {
+                "meaning": "zroioro, zroipetre, catapulta",
+                "specification": ""
+            }
+        ]
+    },
     "catarsis": {
         "entries": [
             {
@@ -8555,6 +8627,14 @@
         "entries": [
             {
                 "meaning": "combe",
+                "specification": ""
+            }
+        ]
+    },
+    "catastrófico": {
+        "entries": [
+            {
+                "meaning": "combo",
                 "specification": ""
             }
         ]
@@ -9363,6 +9443,14 @@
             }
         ]
     },
+    "ciberfobia": {
+        "entries": [
+            {
+                "meaning": "ciberfobia",
+                "specification": ""
+            }
+        ]
+    },
     "ciclismo": {
         "entries": [
             {
@@ -9763,6 +9851,22 @@
             }
         ]
     },
+    "claustrofobia": {
+        "entries": [
+            {
+                "meaning": "claustrofobia",
+                "specification": ""
+            }
+        ]
+    },
+    "claustrofóbico": {
+        "entries": [
+            {
+                "meaning": "claustrofobico",
+                "specification": ""
+            }
+        ]
+    },
     "clavar": {
         "entries": [
             {
@@ -9872,6 +9976,14 @@
             {
                 "meaning": "quartada",
                 "specification": ""
+            }
+        ]
+    },
+    "cobra": {
+        "entries": [
+            {
+                "meaning": "cobra",
+                "specification": "animal"
             }
         ]
     },
@@ -11191,6 +11303,14 @@
             }
         ]
     },
+    "consecuencia": {
+        "entries": [
+            {
+                "meaning": "qansequentia",
+                "specification": ""
+            }
+        ]
+    },
     "conseguir": {
         "entries": [
             {
@@ -11371,6 +11491,14 @@
         "entries": [
             {
                 "meaning": "contactologo, contactologette",
+                "specification": ""
+            }
+        ]
+    },
+    "contador": {
+        "entries": [
+            {
+                "meaning": "kontoro",
                 "specification": ""
             }
         ]
@@ -11751,6 +11879,14 @@
             }
         ]
     },
+    "coronar": {
+        "entries": [
+            {
+                "meaning": "koronai, koronaire",
+                "specification": ""
+            }
+        ]
+    },
     "corpa": {
         "entries": [
             {
@@ -11823,6 +11959,14 @@
             }
         ]
     },
+    "corrosión": {
+        "entries": [
+            {
+                "meaning": "corroiso",
+                "specification": ""
+            }
+        ]
+    },
     "corrupción": {
         "entries": [
             {
@@ -11851,6 +11995,14 @@
         "entries": [
             {
                 "meaning": "kuta",
+                "specification": ""
+            }
+        ]
+    },
+    "corteza": {
+        "entries": [
+            {
+                "meaning": "crusta",
                 "specification": ""
             }
         ]
@@ -13658,7 +13810,7 @@
     "demonio": {
         "entries": [
             {
-                "meaning": "damon",
+                "meaning": "damon, daemon",
                 "specification": ""
             }
         ]
@@ -16447,6 +16599,14 @@
             }
         ]
     },
+    "empatizar": {
+        "entries": [
+            {
+                "meaning": "maise",
+                "specification": ""
+            }
+        ]
+    },
     "empatía": {
         "entries": [
             {
@@ -16527,6 +16687,14 @@
         "entries": [
             {
                 "meaning": "puja",
+                "specification": ""
+            }
+        ]
+    },
+    "empático": {
+        "entries": [
+            {
+                "meaning": "maise",
                 "specification": ""
             }
         ]
@@ -17051,10 +17219,34 @@
             }
         ]
     },
+    "enterrado vivo": {
+        "entries": [
+            {
+                "meaning": "vitauro",
+                "specification": ""
+            }
+        ]
+    },
+    "enterrado": {
+        "entries": [
+            {
+                "meaning": "auro, enterro",
+                "specification": ""
+            }
+        ]
+    },
+    "enterrar vivo": {
+        "entries": [
+            {
+                "meaning": "vitaurei",
+                "specification": ""
+            }
+        ]
+    },
     "enterrar": {
         "entries": [
             {
-                "meaning": "enterrei",
+                "meaning": "enterrei, auro",
                 "specification": ""
             }
         ]
@@ -17067,10 +17259,18 @@
             }
         ]
     },
+    "entierro vivo": {
+        "entries": [
+            {
+                "meaning": "vitauro",
+                "specification": ""
+            }
+        ]
+    },
     "entierro": {
         "entries": [
             {
-                "meaning": "enterro",
+                "meaning": "enterro, auro",
                 "specification": ""
             }
         ]
@@ -19299,6 +19499,22 @@
             }
         ]
     },
+    "femicida": {
+        "entries": [
+            {
+                "meaning": "femicida, meiecida, meicida",
+                "specification": ""
+            }
+        ]
+    },
+    "femicidio": {
+        "entries": [
+            {
+                "meaning": "femicidio, femicidia, meiecidia, meicidia",
+                "specification": ""
+            }
+        ]
+    },
     "fenología": {
         "entries": [
             {
@@ -19783,6 +19999,14 @@
             }
         ]
     },
+    "folio": {
+        "entries": [
+            {
+                "meaning": "fola",
+                "specification": ""
+            }
+        ]
+    },
     "follar": {
         "entries": [
             {
@@ -19811,6 +20035,14 @@
         "entries": [
             {
                 "meaning": "fonoaudiologo, fonoaudiologette",
+                "specification": ""
+            }
+        ]
+    },
+    "fonofobia": {
+        "entries": [
+            {
+                "meaning": "fonofobia",
                 "specification": ""
             }
         ]
@@ -19931,6 +20163,14 @@
         "entries": [
             {
                 "meaning": "fotobiologia",
+                "specification": ""
+            }
+        ]
+    },
+    "fotofobia": {
+        "entries": [
+            {
+                "meaning": "fotofobia",
                 "specification": ""
             }
         ]
@@ -20551,6 +20791,14 @@
             }
         ]
     },
+    "galáctico": {
+        "entries": [
+            {
+                "meaning": "galaksiko",
+                "specification": ""
+            }
+        ]
+    },
     "gamba": {
         "entries": [
             {
@@ -20607,6 +20855,14 @@
         "entries": [
             {
                 "meaning": "guse",
+                "specification": ""
+            }
+        ]
+    },
+    "garbanzo": {
+        "entries": [
+            {
+                "meaning": "berga",
                 "specification": ""
             }
         ]
@@ -20983,6 +21239,14 @@
             }
         ]
     },
+    "ginofobia": {
+        "entries": [
+            {
+                "meaning": "ginofobia",
+                "specification": ""
+            }
+        ]
+    },
     "girafa": {
         "entries": [
             {
@@ -21144,6 +21408,14 @@
             {
                 "meaning": "girufa",
                 "specification": "geografía"
+            }
+        ]
+    },
+    "golpe de estado": {
+        "entries": [
+            {
+                "meaning": "estatarrota",
+                "specification": ""
             }
         ]
     },
@@ -22159,6 +22431,14 @@
             }
         ]
     },
+    "hemofobia": {
+        "entries": [
+            {
+                "meaning": "hemofobia",
+                "specification": ""
+            }
+        ]
+    },
     "heno": {
         "entries": [
             {
@@ -22291,6 +22571,14 @@
         "entries": [
             {
                 "meaning": "herbei",
+                "specification": ""
+            }
+        ]
+    },
+    "heterofobia": {
+        "entries": [
+            {
+                "meaning": "heterofobia",
                 "specification": ""
             }
         ]
@@ -22747,6 +23035,14 @@
         "entries": [
             {
                 "meaning": "homicidio",
+                "specification": ""
+            }
+        ]
+    },
+    "homofobia": {
+        "entries": [
+            {
+                "meaning": "homofobia",
                 "specification": ""
             }
         ]
@@ -23611,6 +23907,14 @@
         "entries": [
             {
                 "meaning": "industria",
+                "specification": ""
+            }
+        ]
+    },
+    "industrial": {
+        "entries": [
+            {
+                "meaning": "industriala, industrial",
                 "specification": ""
             }
         ]
@@ -24751,6 +25055,18 @@
             }
         ]
     },
+    "kiwi": {
+        "entries": [
+            {
+                "meaning": "kiwi",
+                "specification": "animal"
+            },
+            {
+                "meaning": "kiwi",
+                "specification": "fruta"
+            }
+        ]
+    },
     "koala": {
         "entries": [
             {
@@ -25107,6 +25423,14 @@
         "entries": [
             {
                 "meaning": "codilango, prokramalango",
+                "specification": ""
+            }
+        ]
+    },
+    "lenteja": {
+        "entries": [
+            {
+                "meaning": "tsiko",
                 "specification": ""
             }
         ]
@@ -26427,6 +26751,14 @@
             }
         ]
     },
+    "mandarina": {
+        "entries": [
+            {
+                "meaning": "oranjarina",
+                "specification": ""
+            }
+        ]
+    },
     "mando": {
         "entries": [
             {
@@ -26511,6 +26843,46 @@
         "entries": [
             {
                 "meaning": "manile",
+                "specification": ""
+            }
+        ]
+    },
+    "manipulación": {
+        "entries": [
+            {
+                "meaning": "manika",
+                "specification": ""
+            }
+        ]
+    },
+    "manipulado": {
+        "entries": [
+            {
+                "meaning": "maniketa",
+                "specification": ""
+            }
+        ]
+    },
+    "manipulable": {
+        "entries": [
+            {
+                "meaning": "maniketa",
+                "specification": ""
+            }
+        ]
+    },
+    "manipulador": {
+        "entries": [
+            {
+                "meaning": "manikete",
+                "specification": ""
+            }
+        ]
+    },
+    "manipular": {
+        "entries": [
+            {
+                "meaning": "manikai",
                 "specification": ""
             }
         ]
@@ -29199,6 +29571,18 @@
             }
         ]
     },
+    "naranja": {
+        "entries": [
+            {
+                "meaning": "oranja",
+                "specification": "color"
+            },
+            {
+                "meaning": "oranja",
+                "specification": "fruta"
+            }
+        ]
+    },
     "narciso": {
         "entries": [
             {
@@ -29299,6 +29683,14 @@
         "entries": [
             {
                 "meaning": "nekrofilia, necrofilia",
+                "specification": ""
+            }
+        ]
+    },
+    "necrofobia": {
+        "entries": [
+            {
+                "meaning": "nekrofobia, necrofobia",
                 "specification": ""
             }
         ]
@@ -31586,7 +31978,7 @@
     "papel": {
         "entries": [
             {
-                "meaning": "pipra",
+                "meaning": "pipra, fola",
                 "specification": ""
             }
         ]
@@ -31611,6 +32003,14 @@
         "entries": [
             {
                 "meaning": "pipratela",
+                "specification": ""
+            }
+        ]
+    },
+    "papeleta": {
+        "entries": [
+            {
+                "meaning": "pipro",
                 "specification": ""
             }
         ]
@@ -32379,6 +32779,14 @@
             }
         ]
     },
+    "pedofobia": {
+        "entries": [
+            {
+                "meaning": "pedofobia",
+                "specification": ""
+            }
+        ]
+    },
     "pedología": {
         "entries": [
             {
@@ -33075,6 +33483,22 @@
             }
         ]
     },
+    "persona que discrimina a los de su propio grupo social": {
+        "entries": [
+            {
+                "meaning": "patricida",
+                "specification": ""
+            }
+        ]
+    },
+    "persona que hace 'honicidio'": {
+        "entries": [
+            {
+                "meaning": "honicida",
+                "specification": ""
+            }
+        ]
+    },
     "persona que se encargaba en época antigua de arreglar puertas y manivelas": {
         "entries": [
             {
@@ -33367,6 +33791,14 @@
         "entries": [
             {
                 "meaning": "peon",
+                "specification": ""
+            }
+        ]
+    },
+    "phasmofobia": {
+        "entries": [
+            {
+                "meaning": "fasmofobia, phasmofobia",
                 "specification": ""
             }
         ]
@@ -33743,6 +34175,14 @@
         "entries": [
             {
                 "meaning": "pistola",
+                "specification": ""
+            }
+        ]
+    },
+    "pitaya": {
+        "entries": [
+            {
+                "meaning": "noisa",
                 "specification": ""
             }
         ]
@@ -36347,6 +36787,14 @@
             }
         ]
     },
+    "raza": {
+        "entries": [
+            {
+                "meaning": "raza",
+                "specification": ""
+            }
+        ]
+    },
     "razonar": {
         "entries": [
             {
@@ -37627,6 +38075,14 @@
             }
         ]
     },
+    "revolución": {
+        "entries": [
+            {
+                "meaning": "revolutio",
+                "specification": ""
+            }
+        ]
+    },
     "revólver": {
         "entries": [
             {
@@ -37883,6 +38339,14 @@
         "entries": [
             {
                 "meaning": "romanze",
+                "specification": ""
+            }
+        ]
+    },
+    "rombo": {
+        "entries": [
+            {
+                "meaning": "rombo",
                 "specification": ""
             }
         ]
@@ -39419,6 +39883,30 @@
             }
         ]
     },
+    "simpatizante": {
+        "entries": [
+            {
+                "meaning": "simaisere",
+                "specification": ""
+            }
+        ]
+    },
+    "simpatizar": {
+        "entries": [
+            {
+                "meaning": "simaise",
+                "specification": ""
+            }
+        ]
+    },
+    "simpatía": {
+        "entries": [
+            {
+                "meaning": "simaiso",
+                "specification": ""
+            }
+        ]
+    },
     "simple": {
         "entries": [
             {
@@ -39431,6 +39919,10 @@
         "entries": [
             {
                 "meaning": "amaiso, simpo",
+                "specification": ""
+            },
+            {
+                "meaning": "simaise",
                 "specification": ""
             }
         ]
@@ -40488,6 +40980,18 @@
             {
                 "meaning": "simbolo",
                 "specification": ""
+            },
+            {
+                "meaning": "simo",
+                "specification": ""
+            }
+        ]
+    },
+    "signos": {
+        "entries": [
+            {
+                "meaning": "simo",
+                "specification": ""
             }
         ]
     },
@@ -40563,6 +41067,22 @@
             }
         ]
     },
+    "tafofobia": {
+        "entries": [
+            {
+                "meaning": "tafofobia, tapefobia",
+                "specification": ""
+            }
+        ]
+    },
+    "tapefobia": {
+        "entries": [
+            {
+                "meaning": "tafofobia, tapefobia",
+                "specification": ""
+            }
+        ]
+    },
     "tahr": {
         "entries": [
             {
@@ -40599,6 +41119,14 @@
         "entries": [
             {
                 "meaning": "tsopar, tambar",
+                "specification": ""
+            }
+        ]
+    },
+    "talasofobia": {
+        "entries": [
+            {
+                "meaning": "talasofobia",
                 "specification": ""
             }
         ]
@@ -40687,6 +41215,14 @@
             },
             {
                 "meaning": "tan",
+                "specification": ""
+            }
+        ]
+    },
+    "tanatofobia": {
+        "entries": [
+            {
+                "meaning": "tanatofobia",
                 "specification": ""
             }
         ]
@@ -41895,6 +42431,14 @@
             }
         ]
     },
+    "tirachinas": {
+        "entries": [
+            {
+                "meaning": "zroioro, eslingo",
+                "specification": ""
+            }
+        ]
+    },
     "tirar": {
         "entries": [
             {
@@ -42091,6 +42635,14 @@
         "entries": [
             {
                 "meaning": "tomako",
+                "specification": ""
+            }
+        ]
+    },
+    "tomillo": {
+        "entries": [
+            {
+                "meaning": "koki",
                 "specification": ""
             }
         ]
@@ -42551,6 +43103,14 @@
             }
         ]
     },
+    "transfobia": {
+        "entries": [
+            {
+                "meaning": "transfobia",
+                "specification": ""
+            }
+        ]
+    },
     "transitar": {
         "entries": [
             {
@@ -42623,6 +43183,14 @@
         "entries": [
             {
                 "meaning": "transnitoi",
+                "specification": ""
+            }
+        ]
+    },
+    "traspiés": {
+        "entries": [
+            {
+                "meaning": "troin",
                 "specification": ""
             }
         ]
@@ -42711,6 +43279,22 @@
         "entries": [
             {
                 "meaning": "traumatologo, traumatologette",
+                "specification": ""
+            }
+        ]
+    },
+    "travesura": {
+        "entries": [
+            {
+                "meaning": "inkinda",
+                "specification": ""
+            }
+        ]
+    },
+    "travieso": {
+        "entries": [
+            {
+                "meaning": "inkinde",
                 "specification": ""
             }
         ]
@@ -42891,6 +43475,14 @@
         "entries": [
             {
                 "meaning": "triproxei",
+                "specification": ""
+            }
+        ]
+    },
+    "tripofobia": {
+        "entries": [
+            {
+                "meaning": "tripofobia",
                 "specification": ""
             }
         ]
@@ -43235,6 +43827,14 @@
             }
         ]
     },
+    "turismofobia": {
+        "entries": [
+            {
+                "meaning": "turismofobia",
+                "specification": ""
+            }
+        ]
+    },
     "turista": {
         "entries": [
             {
@@ -43487,6 +44087,22 @@
         "entries": [
             {
                 "meaning": "uperisato",
+                "specification": ""
+            }
+        ]
+    },
+    "uperisar": {
+        "entries": [
+            {
+                "meaning": "uperisai",
+                "specification": ""
+            }
+        ]
+    },
+    "ultrapasteurizar": {
+        "entries": [
+            {
+                "meaning": "uperisai",
                 "specification": ""
             }
         ]
@@ -44987,6 +45603,14 @@
             }
         ]
     },
+    "víctima": {
+        "entries": [
+            {
+                "meaning": "viktima",
+                "specification": ""
+            }
+        ]
+    },
     "vídeo": {
         "entries": [
             {
@@ -45023,6 +45647,14 @@
         "entries": [
             {
                 "meaning": "vombat",
+                "specification": ""
+            }
+        ]
+    },
+    "xenofobia": {
+        "entries": [
+            {
+                "meaning": "xenofobia",
                 "specification": ""
             }
         ]
@@ -45215,6 +45847,14 @@
         "entries": [
             {
                 "meaning": "zoofilia",
+                "specification": ""
+            }
+        ]
+    },
+    "zoofobia": {
+        "entries": [
+            {
+                "meaning": "zoofobia",
                 "specification": ""
             }
         ]
@@ -45431,22 +46071,6 @@
         "entries": [
             {
                 "meaning": "icor",
-                "specification": ""
-            }
-        ]
-    },
-    "ímbolo": {
-        "entries": [
-            {
-                "meaning": "simo",
-                "specification": ""
-            }
-        ]
-    },
-    "signos": {
-        "entries": [
-            {
-                "meaning": "simo",
                 "specification": ""
             }
         ]

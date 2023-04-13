@@ -140,9 +140,11 @@ agentia
 agiza
 agizaia
 agonia
+agorafobia
 agrafia
 agrafica
 agresibo
+agresio
 agrikultura
 agrikulxette
 agroecologia
@@ -460,6 +462,7 @@ apeadela
 apeire
 apero
 aperso
+apifobia
 apika
 apikultura
 apikulxette
@@ -483,6 +486,7 @@ aracneta
 aracnologette
 aracnologia
 aracnologo
+araknofobia
 aran
 aravita
 arbotsiun
@@ -639,12 +643,14 @@ aurei
 aurio
 aurnara
 aurnome
+auro
 aurora
 aurvaluako
 autisma
 autobiografia
 autobiografica
 autobus
+autofobia
 autografia
 autografica
 autologette
@@ -799,6 +805,7 @@ benpai
 berai
 berde
 berdo
+berga
 berja
 berlina
 berline
@@ -879,6 +886,7 @@ bliqa
 bliqai
 bloke
 blokenko
+blon
 bloneto
 blono
 bluma
@@ -1092,6 +1100,7 @@ castil
 castrai
 catalogette
 catalogo
+catapulta
 catodo
 catrilloe
 catro
@@ -1120,6 +1129,7 @@ cetro
 chat
 chatei
 chip
+ciberfobia
 cidra
 cienciologette
 cienciologo
@@ -1153,6 +1163,8 @@ ciutrena
 cix
 clasifike
 clasifikei
+claustrofobia
+claustrofobico
 clia
 climaia
 climatologette
@@ -1165,6 +1177,7 @@ clugra
 clutso
 coarsa
 coarsai
+cobra
 cocaina
 coco
 cocol
@@ -1331,6 +1344,7 @@ corografica
 corpe
 corpo
 correcto
+corroiso
 corta
 cortso
 corveta
@@ -1397,6 +1411,7 @@ crosai
 crotalo
 crucibla
 crumbo
+crusta
 crustai
 cruste
 crustela
@@ -1439,6 +1454,7 @@ dactiliologia
 dactilografia
 dactilografica
 dactilologia
+daemon
 dafuma
 dai
 daine
@@ -2082,6 +2098,7 @@ esleia
 esleiner
 eslime
 eslimo
+eslingo
 eslo
 esmaire
 esmarediske
@@ -2172,6 +2189,7 @@ estarette
 estaro
 estarola
 estarvai
+estatarrota
 estatio
 estatua
 estatura
@@ -2331,6 +2349,7 @@ farmacologo
 farmacopsicologia
 farura
 fasca
+fasmofobia
 fasoa
 fataine
 fato
@@ -2346,6 +2365,9 @@ felto
 felton
 feltro
 femenine
+femicida
+femicidia
+femicidio
 fenologia
 fenomenologette
 fenomenologia
@@ -2459,6 +2481,7 @@ fonetona
 fonoaudiologette
 fonoaudiologia
 fonoaudiologo
+fonofobia
 fonografia
 fonografica
 fonologette
@@ -2489,6 +2512,7 @@ forzai
 forzaioso
 fosfuro
 fotobiologia
+fotofobia
 fotografia
 fotografica
 fotogrametria
@@ -2568,6 +2592,7 @@ gaiza
 gaize
 gaizecuba
 gaizeoro
+galaksiko
 galaksis
 galgo
 galila
@@ -2645,6 +2670,7 @@ gineko
 gingilla
 gingola
 ginio
+ginofobia
 ginome
 girufa
 gisa
@@ -2774,6 +2800,7 @@ hembei
 hembo
 hemo
 hemofilia
+hemofobia
 hen
 hena
 henata
@@ -2802,6 +2829,7 @@ herro
 herrocuba
 herrunna
 heruo
+heterofobia
 heterosexualita
 heterosexualo
 heun
@@ -2891,6 +2919,7 @@ homenaie
 homicida
 homicidio
 homo
+homofobia
 homografia
 homografica
 homoia
@@ -2900,6 +2929,8 @@ homologo
 homosexualita
 homosexualo
 hone
+honicida
+honicidia
 honko
 honpai
 honperso
@@ -3022,6 +3053,8 @@ indaksa
 indigo
 indorai
 industria
+industrial
+industriala
 inestai
 ineste
 inesteko
@@ -3064,6 +3097,8 @@ initio
 injisai
 injise
 injurai
+inkinda
+inkinde
 inklinai
 inkoastatela
 inkorrektoko
@@ -3309,6 +3344,7 @@ kisa
 kispa
 kispai
 kiva
+kiwi
 klaga
 klagai
 klaritatio
@@ -3336,6 +3372,7 @@ koi
 koike
 koixa
 kokaine
+koki
 kolfisi
 kolokaire
 kolokatio
@@ -3370,6 +3407,7 @@ kongaize
 konta
 konto
 kontoi
+kontoro
 konversai
 konversaioko
 konversio
@@ -3384,6 +3422,8 @@ koraza
 korila
 korko
 korona
+koronai
+koronaire
 korrektoko
 korruptio
 kosovo
@@ -3660,6 +3700,7 @@ maira
 mairato
 mairte
 mais
+maise
 maiso
 makarron
 makora
@@ -3687,6 +3728,10 @@ mania
 maniaco
 manifesto
 maniga
+manika
+manikai
+maniketa
+manikete
 maniki
 manile
 manraia
@@ -3782,6 +3827,10 @@ meditia
 mediu
 megafono
 meia
+meicida
+meicidia
+meiecida
+meiecidia
 meila
 meileko
 meimare
@@ -4060,6 +4109,7 @@ nazismo
 neare
 nearei
 necrofilia
+necrofobia
 necrologia
 nefelometria
 nefelometrica
@@ -4081,6 +4131,7 @@ nekrasobarco
 nekro
 nekroandaivo
 nekrofilia
+nekrofobia
 nekromante
 nekromantia
 nektar
@@ -4152,6 +4203,7 @@ nnordo
 noforma
 nograi
 noi
+noisa
 noiso
 nokoi
 nokoixa
@@ -4286,6 +4338,8 @@ optemizei
 optometria
 optometrica
 oraben
+oranja
+oranjarina
 oratio
 orden
 ordenai
@@ -4501,6 +4555,7 @@ patologia
 patologo
 patria
 patriarka
+patricida
 patriska
 patrologia
 patronna
@@ -4518,6 +4573,7 @@ payaso
 payoa
 paz
 pedofilia
+pedofobia
 pedologia
 peia
 peirala
@@ -4608,6 +4664,7 @@ petrotela
 petroxette
 petsula
 pezna
+phasmofobia
 piano
 picide
 pictografia
@@ -4650,6 +4707,7 @@ pipera
 pipra
 piprako
 pipratela
+pipro
 piragua
 piramide
 piranna
@@ -4992,6 +5050,7 @@ puto
 putsa
 qa
 qal
+qansequentia
 qanto
 qanzautora
 qanzei
@@ -5078,6 +5137,7 @@ ratio
 ration
 rationai
 raz
+raza
 razna
 razoro
 reactai
@@ -5232,6 +5292,7 @@ revengai
 revenganze
 revivai
 revokei
+revolutio
 revolver
 rezyklatia
 rezyklei
@@ -5282,6 +5343,7 @@ romanea
 romaneo
 romantiko
 romanze
+rombo
 romo
 rompeire
 rondai
@@ -5481,6 +5543,9 @@ silaba
 silki
 silverino
 silvo
+simaise
+simaisere
+simaiso
 simbolo
 simbologia
 simetria
@@ -5637,6 +5702,7 @@ tablo
 tablote
 tabula
 taco
+tafofobia
 tagaro
 tai
 taiga
@@ -5644,6 +5710,7 @@ taine
 taire
 takanno
 takin
+talasofobia
 talatro
 talco
 taline
@@ -5653,12 +5720,14 @@ tambar
 tamizei
 tampol
 tan
+tanatofobia
 tanatologette
 tanatologia
 tanatologo
 tangente
 tangento
 tante
+tapefobia
 tapelo
 tapire
 taqigrafia
@@ -5901,6 +5970,7 @@ transcribei
 transcribiko
 transexualita
 transexualo
+transfobia
 transita
 transitei
 translai
@@ -5961,6 +6031,7 @@ trintsera
 trintso
 trio
 tripa
+tripofobia
 triproxei
 trirroda
 trisma
@@ -5979,6 +6050,7 @@ trofologette
 trofologia
 trofologo
 troi
+troin
 trompescuela
 trompeta
 trompo
@@ -6021,6 +6093,7 @@ tsesako
 tsesei
 tseso
 tsiclo
+tsiko
 tsile
 tsimeneia
 tsimitsanga
@@ -6063,6 +6136,7 @@ turai
 turei
 turfa
 turisma
+turismofobia
 turista
 turno
 turnoi
@@ -6122,6 +6196,7 @@ untsua
 unyoiko
 unzuna
 unzunai
+uperisai
 uperisato
 uperse
 uranio
@@ -6267,6 +6342,7 @@ vidiojoko
 vidiojokocix
 vigo
 vih
+viktima
 vila
 vinagra
 vingo
@@ -6307,6 +6383,8 @@ vitaiko
 vitaitela
 vitalita
 vitamine
+vitaurei
+vitauro
 vitido
 vitoso
 vitreqe
@@ -6369,6 +6447,7 @@ xefo
 xeitore
 xelofono
 xendo
+xenofobia
 xenome
 xenon
 xenta
@@ -6478,6 +6557,7 @@ zone
 zonno
 zoo
 zoofilia
+zoofobia
 zoogeografia
 zoogeografica
 zoografia
@@ -6499,6 +6579,8 @@ zorve
 zorvero
 zovisai
 zroi
+zroioro
+zroipetre
 zrota
 zrote
 zrotei
