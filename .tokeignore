@@ -1,8 +1,11 @@
-*
-scripts/*
-grammar/*
-lexicon/types/*
-lexicon/names/*
+.gitignore
+.gitattributes
+main.py
+README.md
+scripts
+grammar
+lexicon/types
+lexicon/names
 lexicon/all.txt
 lexicon/dictionary.json
 lexicon/genders.txt
