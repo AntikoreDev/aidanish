@@ -6,6 +6,7 @@
 <img src="https://www.antikore.dev/img/aidanakia.png" alt="aidanish logo" align="right" width="128" height="128"/>
 
 **Aidanish** is my own conlang that I made just for fun. A mixture between romanic, germaninc and other languages, with a bunch of my own imagination and perversion. 
+
 All entries are spanish-based, that means all of them are a translation to a spanish word, so you will see `hola → hai` instead of `hello → hai`
 
 ## Glossary of files
