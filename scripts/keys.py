@@ -1,7 +1,8 @@
 # File 'keys.py'
 # This file will create 3 character long keys to be used in games.
 
-import parse, sys
+from scripts import parse
+import sys
 
 def Run():
 	words = parse.Parse('./lexicon/words.txt')

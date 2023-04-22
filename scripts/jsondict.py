@@ -1,4 +1,5 @@
-import parse, json, re
+from scripts import parse
+import json, re
 
 def Run():
 	entries = parse.Parse('./lexicon/all.txt', parenthesis = False)
@@ -30,7 +31,7 @@ def Run():
 					words.append(w.strip())
 				AddToDict(dictionary, o.strip(), words, specification)
 
-	file = open('dictionary.json', 'w', encoding = 'utf-8')
+	file = open('./lexicon/dictionary.json', 'w', encoding = 'utf-8')
 	json.dump(dictionary, file, indent = 4, ensure_ascii = False)
 	file.close()
 

@@ -1,7 +1,7 @@
 # File 'stats.py'
 # This file will check the stats for the language
 
-import parse
+from scripts import parse
 
 def Run():
 	words = parse.Parse('./lexicon/words.txt')

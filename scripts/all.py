@@ -1,7 +1,7 @@
 # File 'all.py'
 # This file will extract all entries from lexicon/types and put it all together into 'all.txt'
 
-import parse
+from scripts import parse
 import os
 
 # Run the script
