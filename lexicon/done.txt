@@ -191,6 +191,8 @@ afortunado
 afónico
 agachar
 agache
+agarrar
+agarre
 agencia
 agitación
 agitar
@@ -266,6 +268,7 @@ alfombra
 alga
 algarroba
 algo
+algo o lugar oscuro y depresivo
 alguien
 alguna forma
 alguna vez
@@ -601,6 +604,10 @@ aunque
 aura
 auricular
 aurora
+australia
+australiano
+austria
+austriaco
 autismo
 auto
 autobiografía
@@ -635,6 +642,7 @@ azar
 azul
 azul celeste
 azulejo
+azófar
 azúcar
 añadir
 añalejo
@@ -685,6 +693,7 @@ barricada
 barrido
 barril
 barrote
+basalto
 base
 bastante
 bastantes
@@ -741,6 +750,7 @@ bienvenido
 bigote
 bilingüe
 billón
+binocular
 biobibliografía
 bioestratigrafía
 biogeografía
@@ -1043,6 +1053,7 @@ cartón
 casa
 cascada
 casco
+casero
 caseta
 casi
 casi sin ventanas o puertas
@@ -1139,6 +1150,7 @@ chatear
 chelo
 chica
 chica con derecho
+chicle
 chico
 chico con derecho
 chile
@@ -1183,6 +1195,7 @@ cigüeña
 cilindro
 cima
 cimitarra
+cinc
 cinco
 cincografía
 cincuenta
@@ -1219,6 +1232,7 @@ cliente
 clima
 climatología
 climatólogo
+clip
 cloro
 cloroformo
 clásico
@@ -1242,6 +1256,7 @@ cofre
 coger
 cogida
 cojín
+cojón
 col
 cola
 colaborar
@@ -1368,6 +1383,7 @@ confusión
 congelado
 congelador
 congelar
+conjurar
 conjuro
 cono
 conocer
@@ -1427,6 +1443,8 @@ conversación
 conversión
 convertido
 convertir
+coordenada
+coordinar
 copa
 copenague
 copia
@@ -1622,6 +1640,7 @@ cóctel
 código
 código postal
 cólera
+cómic
 cómodo
 cónyuge
 cúrcuma
@@ -1649,6 +1668,10 @@ de todas formas
 debajo
 deber
 decaer
+decapitación
+decapitador
+decapitar
+decatlon
 decente
 decepcionar
 decidir
@@ -1730,6 +1753,8 @@ desarrollar
 desarrollo
 desastre
 desastroso
+desatascador
+desatascar
 desatornillar
 desbloquear
 descalzarse
@@ -1911,9 +1936,12 @@ doler
 dolido
 dolor
 doloroso
+dominada
 domingo
 dominio
 doméstico
+donación
+donar
 donde
 dorar
 dormir
@@ -2034,6 +2062,7 @@ en el
 en fin
 en persona
 en serio
+en vez de
 encantar
 encanto
 encefalografía
@@ -2079,6 +2108,8 @@ engaño
 engordar
 engranaje
 engrasar
+enjuagar
+enjuague
 enlace
 enlazar
 enloquecer
@@ -2147,6 +2178,7 @@ escalar
 escalera
 escama
 escandalizar
+escaparate
 escarabajo
 escatología
 escena
@@ -2178,10 +2210,15 @@ escurrir
 escándalo
 ese
 esencia
+esforzarse
+esforzarse mucho
+esfuerzo
+esfuerzo excesivo
 eslavo
 esmaltado
 esmaltar
 esmalte
+esmegma
 esmeralda
 eso
 esos
@@ -2343,6 +2380,7 @@ extinguir
 extintor
 extraer
 extranjero
+extranjero con pensamientos anticuados
 extrañar
 extraño
 extremo
@@ -2423,6 +2461,7 @@ flamencólogo
 flash
 flauta
 flecha
+flexión
 flor
 flora
 florecer
@@ -2445,6 +2484,8 @@ fonofobia
 fonografía
 fonología
 fonometría
+fontanero
+fontanería
 fonética
 fonólogo
 forma
@@ -2526,6 +2567,7 @@ fístula
 fórmula
 fútbol
 gafas
+gafas de sol
 galaxia
 galería
 galgo
@@ -2637,6 +2679,8 @@ granito
 granizo
 granja
 granulometría
+grapa
+grapadora
 grasa
 gratis
 grave
@@ -2674,6 +2718,7 @@ guerrero
 guerrero de fuego
 guiar
 guijarro
+guillotina
 guisante
 guitarra
 gula
@@ -3079,6 +3124,7 @@ las
 lasaña
 lascivo
 lata
+latón
 lava
 lavado
 lavadora
@@ -3096,6 +3142,7 @@ legista
 lejano
 lejos
 lejía
+lema
 lencería
 lengua
 lenguaje
@@ -3260,6 +3307,7 @@ mamá
 mancha
 manchar
 manco
+mancuerna
 mandar
 mandarina
 mando
@@ -3294,6 +3342,7 @@ manzanilla
 mapa
 mapache
 mar
+maratón
 marca
 marcador
 marcar
@@ -3558,6 +3607,8 @@ muela
 muerte
 muerto
 muestra
+mugre
+mugroso
 mujer
 multa
 multiplicar
@@ -3607,6 +3658,7 @@ narratólogo
 nativo
 natural
 navaja
+navegador
 navidad
 nazi
 nazismo
@@ -3723,6 +3775,7 @@ objeto
 obtener
 obvio
 oca
+oceania
 oceanografía
 oceanía
 ochenta
@@ -3794,6 +3847,7 @@ organización
 organografía
 organología
 orgía
+orientar
 origen
 original
 originar
@@ -3817,6 +3871,7 @@ orégano
 os
 oscuridad
 oscuro
+oscuro y depresivo
 oso
 ostentar
 osteología
@@ -3946,6 +4001,7 @@ pasar
 pascua
 pasear
 paseo
+pasillo
 paso
 paso de zebra
 pasta
@@ -4079,6 +4135,7 @@ persiana
 persistencia
 persistir
 persona
+persona en contra de las cosas nuevas
 persona que discrimina a los de su propio grupo social
 persona que hace 'honicidio'
 persona que se encargaba en época antigua de arreglar puertas y manivelas
@@ -4086,9 +4143,11 @@ personal
 personalización
 personalizar
 pesa
+pesa rusa
 pesadilla
 pesado
 pesar
+pesca
 pescadero
 pescadería
 pescado
@@ -4143,6 +4202,7 @@ pino
 pintar
 pintor
 pintura
+pinza
 piojo
 pipa
 pira
@@ -4226,6 +4286,7 @@ polvo
 polén
 políglota
 polígono
+pomelo
 pomología
 pompa
 pomólogo
@@ -4253,6 +4314,7 @@ portugal
 portugués
 portátil
 posar
+posavasos
 pose
 poseer
 posesivo
@@ -4330,6 +4392,8 @@ probable
 probablemente
 probado
 probar
+probar cosas
+probatina
 probeta
 probiótico
 problema
@@ -4634,6 +4698,7 @@ retraso
 retrete
 retroceder
 retroceso
+retrógrada
 reumatología
 reumatólogo
 reunir
@@ -4829,6 +4894,7 @@ setenta
 seudología
 sexo
 sexología
+sextante
 sexto
 sexólogo
 seña
@@ -5053,6 +5119,7 @@ te
 teatro
 teatrología
 teatrólogo
+tebeo
 techo
 tecla
 teclado
@@ -5080,6 +5147,7 @@ teletransporte
 televisión
 televisor
 teléfono
+telón
 tema
 temblar
 temblor
@@ -5089,6 +5157,7 @@ templar
 templo
 temprano
 temática
+tenaza
 tenazas
 tender
 tendero
@@ -5192,6 +5261,7 @@ todos lados
 todos sitios
 todoterreno
 todólogo
+tomacorriente
 tomar
 tomate
 tomillo
@@ -5285,6 +5355,7 @@ trenza
 trepar
 tres
 tres en raya
+triatlon
 tribología
 tribu
 tributar
@@ -5350,6 +5421,7 @@ té
 técnica
 técnico
 término
+tétrico
 tímpano
 tío
 título
@@ -5357,6 +5429,7 @@ tú
 ualabí
 ubicación
 ucrania
+ucraniano
 ufología
 ufólogo
 ultimo
@@ -5439,6 +5512,7 @@ velocidad
 vena
 vencejo
 venda
+vendaje
 vendar
 vendedor
 vender
@@ -5583,6 +5657,7 @@ zapatilla
 zapato
 zar
 zarigüeya
+zinc
 zincografía
 zombie
 zona

@@ -364,6 +364,7 @@ anclaxo
 anclo
 anco
 andaiata
+andaio
 andaire
 andaivo
 ande
@@ -646,6 +647,14 @@ aurnome
 auro
 aurora
 aurvaluako
+auska
+ausko
+auskura
+auskuria
+australia
+australiano
+austria
+austrio
 autisma
 autobiografia
 autobiografica
@@ -730,6 +739,7 @@ bancarde
 banda
 bande
 bandei
+bandeje
 bango
 bankarde
 bankexette
@@ -750,6 +760,7 @@ barraca
 barre
 barrera
 barrila
+basalto
 base
 basta
 bastila
@@ -782,6 +793,7 @@ beila
 beilai
 beilaoro
 beilaxette
+beiloxte
 beixize
 beke
 beko
@@ -840,6 +852,7 @@ bibloteka
 bila
 bilingo
 billoe
+binocular
 biobibliografia
 biobibliografica
 bioestratigrafia
@@ -949,6 +962,8 @@ bromo
 bronce
 bronzo
 brotsete
+brouser
+browser
 brunno
 brusta
 brutsa
@@ -1043,6 +1058,7 @@ candala
 candalabro
 canibal
 canibalisma
+canino
 canna
 cannon
 cano
@@ -1143,10 +1159,12 @@ cigarro
 ciklisma
 ciklo
 cilindro
+cinc
 cincografia
 cincografica
 cinematografia
 cinematografica
+cink
 cinologia
 circlo
 circloko
@@ -1170,6 +1188,7 @@ climaia
 climatologette
 climatologia
 climatologo
+clip
 clire
 cloro
 cloroforme
@@ -1232,6 +1251,7 @@ combustio
 combusto
 come
 cometai
+comic
 compadai
 compasion
 compensaire
@@ -1328,6 +1348,9 @@ convai
 convalidai
 conve
 conyuge
+coordenata
+coordinai
+copar
 cope
 coprologia
 cordo
@@ -1464,6 +1487,10 @@ dama
 damaine
 damon
 danki
+dantsa
+dantsai
+dantsette
+dantsoro
 danze
 danzeire
 danzeplane
@@ -1489,6 +1516,7 @@ decai
 decakono
 decalogette
 decalogo
+decatlon
 decima
 decimal
 declaire
@@ -1748,12 +1776,17 @@ domestixo
 dominio
 dominko
 domo
+domodoio
+domonija
+dona
+donai
 donde
 donno
 dorgo
 dorima
 dorimeder
 dorimei
+dorimo
 dormebas
 dormei
 dormeiun
@@ -1785,6 +1818,7 @@ duelo
 dukte
 dula
 dulai
+dulo
 dultse
 dultseza
 dultsina
@@ -1843,6 +1877,7 @@ editio
 editoro
 efektibo
 efizente
+efoi
 eforma
 egentai
 egente
@@ -1992,6 +2027,7 @@ entsave
 enuse
 enusei
 enxanto
+enyoige
 enzima
 enzimologia
 enzurrai
@@ -2107,6 +2143,7 @@ esmareitela
 esmaretio
 esmariun
 esmaro
+esmegma
 esmokai
 esmokaiette
 esmoke
@@ -2223,6 +2260,8 @@ estonia
 estorai
 estosol
 estrane
+estranigerna
+estranigerneta
 estrannai
 estranne
 estranno
@@ -2489,6 +2528,9 @@ fonologia
 fonologo
 fonometria
 fonometrica
+fontaneria
+fontanette
+fontanika
 fonto
 fora
 forbafor
@@ -2555,8 +2597,10 @@ fritei
 friteoro
 frito
 froga
+froki
 frotsai
 fruge
+fruka
 fruki
 fuana
 fuga
@@ -2661,6 +2705,7 @@ gidillai
 gielplaniuno
 gigantografia
 gigantografica
+gillotina
 gimnasta
 gimnastela
 ginecologette
@@ -2672,6 +2717,7 @@ gingola
 ginio
 ginofobia
 ginome
+giria
 girufa
 gisa
 gisai
@@ -3007,6 +3053,7 @@ idurei
 igerne
 igernei
 igernesa
+igerneta
 igerno
 igneoso
 ignixa
@@ -3132,6 +3179,7 @@ interesai
 interesanta
 interneta
 interval
+intra
 intro
 introverto
 intrudai
@@ -3186,6 +3234,7 @@ ivorte
 ivpiter
 izbocix
 izboiko
+izbostava
 izbotela
 izboto
 izkrasato
@@ -3324,6 +3373,7 @@ kerraiso
 kerranda
 keska
 ketchup
+kettlebell
 kidna
 kieva
 kieve
@@ -3418,6 +3468,7 @@ kora
 koraisagra
 koraiso
 korata
+koratika
 koraza
 korila
 korko
@@ -3444,6 +3495,9 @@ kraba
 krai
 kraia
 kraiette
+krapa
+kraporo
+kratsa
 krekai
 kremlinologette
 kremlinologia
@@ -3516,6 +3570,7 @@ laringologia
 laringologo
 lasanna
 latikate
+laton
 lauseto
 lava
 lavanda
@@ -3533,6 +3588,8 @@ leksicologo
 lekta
 lektei
 lekteoro
+lema
+leme
 lemgo
 lenda
 lendait
@@ -3746,6 +3803,7 @@ manzai
 mapa
 mapatso
 maploa
+maraton
 marayato
 mare
 marestrela
@@ -3853,6 +3911,7 @@ menagio
 menale
 mende
 mendei
+menino
 meno
 menta
 mentaire
@@ -3938,6 +3997,7 @@ mineire
 mineralogia
 minerette
 miniga
+minino
 minna
 minute
 miologia
@@ -4054,6 +4114,8 @@ moustatso
 mova
 movai
 muco
+mugar
+mugaro
 multiproxei
 mundologia
 mura
@@ -4264,6 +4326,7 @@ oblivo
 obskuridae
 obskurita
 obskuro
+oceania
 oceanografia
 oceanografica
 ocio
@@ -4291,8 +4354,10 @@ oftalmologette
 oftalmologia
 oftalmologo
 ogenter
+ogira
 ogo
 oi
+oire
 oitio
 oitosono
 oixalai
@@ -4401,6 +4466,7 @@ ounqe
 oupa
 oupare
 oupila
+ova
 oval
 overa
 overai
@@ -4638,6 +4704,8 @@ perzroi
 perzroro
 pesa
 pesai
+pesejo
+peska
 peskei
 pesketela
 pesko
@@ -4853,6 +4921,7 @@ porve
 pos-enterehen
 posai
 posaieo
+posakisa
 pose
 posei
 posesai
@@ -4874,6 +4943,9 @@ posto
 postre
 potata
 potia
+praecantai
+praecantaire
+praecanto
 praiso
 praisoi
 praisotela
@@ -5281,6 +5353,8 @@ retrakorkoit
 retre
 retrei
 retro
+retrograda
+retrograde
 retroi
 retsaiko
 retsaire
@@ -5290,6 +5364,8 @@ reumatologo
 revenga
 revengai
 revenganze
+reveuyerai
+reveuyerance
 revivai
 revokei
 revolutio
@@ -5507,6 +5583,7 @@ seudologia
 seutse
 sexei
 sexo
+sextanta
 si
 siakara
 sial
@@ -5546,6 +5623,7 @@ silvo
 simaise
 simaisere
 simaiso
+simanata
 simbolo
 simbologia
 simetria
@@ -5607,10 +5685,13 @@ solavisa
 solidai
 solido
 solnata
+sologira
+sologirit
 solposai
 soltai
 solva
 solvai
+solvisoioroit
 somatologia
 somnofilia
 sonikemitero
@@ -5652,11 +5733,13 @@ sugestei
 sugestia
 suicida
 suicidio
+suje
 sujecandala
 sujei
 sujeizo
 sujenasoit
 sujepipra
+sujeta
 sukai
 sukra
 sundere
@@ -5886,6 +5969,8 @@ timbrologia
 timbrologo
 timpano
 tinera
+tinka
+tinkei
 tipai
 tipe
 tipo
@@ -6015,6 +6100,7 @@ triaien
 triaiette
 triaix
 trianglo
+triatlon
 tribologia
 tribu
 tributai
@@ -6093,6 +6179,7 @@ tsesako
 tsesei
 tseso
 tsiclo
+tsiklo
 tsiko
 tsile
 tsimeneia
@@ -6152,6 +6239,7 @@ ufologo
 ugra
 ugrarda
 ukisa
+ukraneo
 ukrania
 ulcera
 ultilogette
@@ -6163,6 +6251,9 @@ umoko
 unagrupai
 unagrupatio
 unarkutsai
+unastaine
+unastaino
+unastainoro
 unba
 unbisei
 undezente
@@ -6170,6 +6261,8 @@ undizei
 undizio
 undoi
 undono
+unestorai
+unestoro
 unfai
 unfinai
 unfinaloko
@@ -6220,6 +6313,7 @@ urografica
 urologette
 urologia
 urologo
+urso
 ursunna
 urte
 urtica
@@ -6329,6 +6423,9 @@ vesperilo
 vesuila
 vesuka
 vesukila
+veuye
+veuyei
+veuyerai
 vex
 vexilogette
 vexilogia
@@ -6375,7 +6472,6 @@ visitei
 viso
 visoatio
 visoi
-visoioroit
 vista
 vita
 vitafala
@@ -6498,6 +6594,7 @@ yeveire
 yiga
 yigai
 yigoiko
+yogo
 yogur
 yoi
 yoiko
