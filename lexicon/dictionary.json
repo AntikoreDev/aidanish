@@ -40850,12 +40850,12 @@
     "solo": {
         "entries": [
             {
-                "meaning": "ekoro",
-                "specification": ""
+                "meaning": "nokpo",
+                "specification": "adverbio"
             },
             {
-                "meaning": "nokpo",
-                "specification": ""
+                "meaning": "ekoro",
+                "specification": "estar solo"
             }
         ]
     },

@@ -5072,8 +5072,8 @@ sol → sol
 solar, parcela → solar, parza
 soldado, guerrero → gerraxette
 solidificar → solidai
-solo → ekoro
-solo → nokpo
+solo (adverbio) → nokpo
+solo (estar solo) → ekoro
 soltar → soltai
 solución → solva
 solver → solvai
