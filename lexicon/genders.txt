@@ -1260,6 +1260,8 @@ la dibla
 ei configo
 ei confuzio
 ei gelaioro
+la horia
+la ferramenteria
 ei cone
 la aonatia
 ei hipe
@@ -5456,6 +5458,7 @@ la probable
 ei probeko
 ei probo
 ei sundo
+ei prono
 ei prope
 ei protecto
 la entera

@@ -412,6 +412,7 @@ privado → privato, privado
 probable → probable, probeko
 probado → probo
 profundo → sundo
+propenso → prono
 propio → prope
 protegido → protecto
 próxima → entera

@@ -1405,6 +1405,7 @@ confusión → confuzio
 congelado → gelatio
 congelador → gelaioro
 congelar, helar → gelai
+conjunto o colección de herramientas → horia, ferramenteria
 conjurar → praecantai, xizai, praecantaire
 cono → cone
 conocer (algo) → aonatei
@@ -4510,6 +4511,7 @@ promover → promovai
 pronosticar → pronostikaire
 pronto → ayenter
 pronóstico → pronostiko
+propenso → prono
 propio → prope
 proponer → petiai
 propuesta, petición → petitia, precaia

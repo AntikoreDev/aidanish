@@ -1383,6 +1383,7 @@ confusión
 congelado
 congelador
 congelar
+conjunto o colección de herramientas
 conjurar
 conjuro
 cono
@@ -4427,6 +4428,7 @@ promover
 pronosticar
 pronto
 pronóstico
+propenso
 propio
 proponer
 propuesta

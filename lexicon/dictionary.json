@@ -11315,6 +11315,14 @@
             }
         ]
     },
+    "conjunto o colección de herramientas": {
+        "entries": [
+            {
+                "meaning": "horia, ferramenteria",
+                "specification": ""
+            }
+        ]
+    },
     "conjurar": {
         "entries": [
             {
@@ -36307,6 +36315,14 @@
         "entries": [
             {
                 "meaning": "pronostiko",
+                "specification": ""
+            }
+        ]
+    },
+    "propenso": {
+        "entries": [
+            {
+                "meaning": "prono",
                 "specification": ""
             }
         ]
