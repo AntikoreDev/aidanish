@@ -3093,6 +3093,7 @@ inakcesibila
 inakcesibla
 incenso
 includei
+inclusive
 inconforta
 inconforte
 incorrecto
@@ -5206,6 +5207,8 @@ rante
 rantevia
 rantio
 ranuncula
+rare
+raro
 rasta
 rata
 ratio

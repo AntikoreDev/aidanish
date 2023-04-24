@@ -24175,6 +24175,14 @@
             }
         ]
     },
+    "incluso": {
+        "entries": [
+            {
+                "meaning": "inclusive",
+                "specification": ""
+            }
+        ]
+    },
     "incomodidad": {
         "entries": [
             {
@@ -37215,6 +37223,14 @@
         "entries": [
             {
                 "meaning": "ranuncula",
+                "specification": ""
+            }
+        ]
+    },
+    "raro": {
+        "entries": [
+            {
+                "meaning": "rare, raro",
                 "specification": ""
             }
         ]

@@ -5468,6 +5468,8 @@ ei puntico
 la pura
 ei puto
 ei publiko
+la rare
+ei raro
 la real
 ei retsaiko
 ei reciento

@@ -422,6 +422,7 @@ puntuado → puntico
 puro → pura
 puto → puto
 público → publiko
+raro → rare, raro
 real → real
 rechazado → retsaiko
 reciente → reciento

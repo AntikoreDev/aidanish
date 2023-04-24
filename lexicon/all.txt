@@ -2992,6 +2992,7 @@ incertidumbre → inzertidumbre
 incienso → incenso
 inclinar → inklinai
 incluir → includei
+incluso → inclusive
 incomodidad → inconforta
 incordiar → prokei, tsordai
 incordio → proko
@@ -4621,6 +4622,7 @@ ramen → ramen
 rana → acroa
 rango → range
 ranunculus → ranuncula
+raro → rare, raro
 rascacielos → kailokikro
 rascar → kikroi
 rasta → rasta

@@ -2950,6 +2950,7 @@ incertidumbre
 incienso
 inclinar
 incluir
+incluso
 incomodidad
 incordiar
 incordio
@@ -4540,6 +4541,7 @@ ramen
 rana
 rango
 ranunculus
+raro
 rascacielos
 rascar
 rasta
