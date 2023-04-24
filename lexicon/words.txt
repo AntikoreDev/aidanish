@@ -2414,6 +2414,7 @@ fenomenologo
 fenza
 ferna
 ferra
+ferramenteria
 festa
 festai
 fetixa
@@ -2989,6 +2990,7 @@ horaviso
 horcasto
 horfanatela
 horfano
+horia
 horizone
 horizono
 horo
@@ -5047,6 +5049,7 @@ prolongaire
 promedia
 promovai
 pronkai
+prono
 pronostikaire
 pronostiko
 prope
@@ -6693,10 +6696,3 @@ zunio
 zunno
 zure
 zurei
-zurer
-zuro
-zurrai
-zurraion
-zurrata
-zurrette
-zurro
