@@ -1,10 +1,10 @@
 # File 'stats.py'
 # This file will check the stats for the language
 
-from scripts import parse
+import parse
 
 def Run():
-	words = parse.Parse('./lexicon/words.txt')
+	words = parse.Parse('../lexicon/words.txt')
 	langdata = {
 		"longest": None,
 		"shortest": None,
