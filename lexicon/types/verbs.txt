@@ -324,6 +324,7 @@ desconectar → desconektai
 descorchar → unarkutsai
 describir → deskriptei
 desear → dezeai, pregardai
+descolgar → descolcai, descolgai, descoilei
 desechar → desexai, zorrai
 desembarcar → desbarcai
 desengrasar → torqei
