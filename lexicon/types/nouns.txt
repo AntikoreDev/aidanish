@@ -3443,7 +3443,7 @@ seta, champiñón → tsampinna, tunga
 seudología → seudologia
 sexo → sexo, sekso
 sexología → seksologia
-sextante → sextanta
+sextante → sekstanta, sextanta
 sexólogo → seksologo, seksologette
 seña → sinna
 señal → sinna
@@ -3567,7 +3567,7 @@ tanatología → tanatologia
 tanatólogo → tanatologo, tanatologette
 tangente → tangente, tangento
 tanque ,  vehiculo de guerra → basta
-taparabos → sujenasoit
+taparabos → sujenasoit, sujenasit
 tapír → tapire
 taquigrafía → taqigrafia, taqigrafica
 taquimecanografía → taqimecanografia, taqimecanografica

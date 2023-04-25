@@ -4258,6 +4258,7 @@ la seudologia
 ei sexo
 ei sekso
 la seksologia
+la sekstanta
 la sextanta
 ei seksologo
 ei seksologette
@@ -4416,6 +4417,7 @@ la tangente
 ei tangento
 la basta
 ei sujenasoit
+ei sujenasit
 la tapire
 la taqigrafia
 la taqigrafica

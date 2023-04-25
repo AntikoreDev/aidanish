@@ -4988,7 +4988,7 @@ setenta → septoen
 seudología → seudologia
 sexo → sexo, sekso
 sexología → seksologia
-sextante → sextanta
+sextante → sekstanta, sextanta
 sexto → sekseix
 sexólogo → seksologo, seksologette
 seña → sinna
@@ -5196,7 +5196,7 @@ tanque , vehiculo de guerra → basta
 tanto → tante
 tantos → naitoxe
 tapar → supai
-taparabos → sujenasoit
+taparabos → sujenasoit, sujenasit
 tapír → tapire
 taquigrafía → taqigrafia, taqigrafica
 taquimecanografía → taqimecanografia, taqimecanografica

@@ -5527,6 +5527,7 @@ sekso
 seksologette
 seksologia
 seksologo
+sekstanta
 sekta
 sektion
 sekundo
@@ -5743,6 +5744,7 @@ suje
 sujecandala
 sujei
 sujeizo
+sujenasit
 sujenasoit
 sujepipra
 sujeta
