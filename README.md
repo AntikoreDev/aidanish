@@ -1,7 +1,7 @@
 # Aidanish Language
-<a href="https://github.com/AntikoreDev/ai-lang" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/ai-lang?style=for-the-badge"></a>
-<a href="https://github.com/AntikoreDev/ai-lang/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/ai-lang?style=for-the-badge"></a>
-<a href="https://github.com/AntikoreDev/ai-lang/blob/main/lexicon/words.txt"><img alt = "Words" src = "https://img.shields.io/tokei/lines/github/AntikoreDev/ai-lang?label=Word%20Count&style=for-the-badge"></a>
+<a href="https://github.com/AntikoreDev/aidanish" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/aidanish?style=for-the-badge"></a>
+<a href="https://github.com/AntikoreDev/aidanish/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/aidanish?style=for-the-badge"></a>
+<a href="https://github.com/AntikoreDev/aidanish/blob/main/lexicon/words.txt"><img alt = "Words" src = "https://img.shields.io/tokei/lines/github/AntikoreDev/aidanish?label=Word%20Count&style=for-the-badge"></a>
 
 <img src="https://www.antikore.dev/img/aidanakia.png" alt="aidanish logo" align="right" width="128" height="128"/>
 
