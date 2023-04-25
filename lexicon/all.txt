@@ -1794,6 +1794,7 @@ descanso → hixe
 descender → denseine, aurei
 descenso → densenno
 descifrar → descifrei
+descolgar → descolcai, descolgai, descoilei
 desconchar → descontsai
 desconectar → desconektai
 desconocido → unmiseioko
@@ -3415,8 +3416,8 @@ mariquita → zigarra
 marisco → arraina
 mariólogo → mariologo, mariologette
 marmota → marmota
-marrón → itsoso
-marrón → marro, brunno, bronzo
+marrón (una situación jodida) → injo
+marrón → marro, brunno, bronzo, itsoso
 marsopa → osobe, ansabar
 marsupial → marsupial
 marte → mairte

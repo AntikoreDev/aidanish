@@ -1764,6 +1764,7 @@ descanso
 descender
 descenso
 descifrar
+descolgar
 desconchar
 desconectar
 desconocido

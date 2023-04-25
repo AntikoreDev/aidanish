@@ -14451,6 +14451,14 @@
             }
         ]
     },
+    "descolgar": {
+        "entries": [
+            {
+                "meaning": "descolcai, descolgai, descoilei",
+                "specification": ""
+            }
+        ]
+    },
     "desconchar": {
         "entries": [
             {
@@ -27590,11 +27598,11 @@
     "marrón": {
         "entries": [
             {
-                "meaning": "itsoso",
-                "specification": ""
+                "meaning": "injo",
+                "specification": "una situación jodida"
             },
             {
-                "meaning": "marro, brunno, bronzo",
+                "meaning": "marro, brunno, bronzo, itsoso",
                 "specification": ""
             }
         ]

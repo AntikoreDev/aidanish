@@ -2914,9 +2914,7 @@ la arraina
 ei mariologo
 ei mariologette
 la marmota
-ei marro
-ei brunno
-ei bronzo
+ei injo
 ei osobe
 la ansabar
 la marsupial
@@ -5366,6 +5364,9 @@ la manikete
 ei maniaco
 ei marxito
 la martiala
+ei marro
+ei brunno
+ei bronzo
 ei itsoso
 la masculine
 ei masivo

@@ -1597,6 +1597,9 @@ dersei
 desbarcai
 desbarco
 descifrei
+descoilei
+descolcai
+descolgai
 desconektai
 descontsai
 deserto
@@ -3146,6 +3149,7 @@ initiaxette
 initio
 injisai
 injise
+injo
 injurai
 inkinda
 inkinde
