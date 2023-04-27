@@ -319,12 +319,12 @@ descalzarse → unpoire
 descansar → durnei, hixei
 descender → denseine, aurei
 descifrar → descifrei
+descolgar → descolcai, descolgai, descoilei
 desconchar → descontsai
 desconectar → desconektai
 descorchar → unarkutsai
 describir → deskriptei
 desear → dezeai, pregardai
-descolgar → descolcai, descolgai, descoilei
 desechar → desexai, zorrai
 desembarcar → desbarcai
 desengrasar → torqei
@@ -412,6 +412,7 @@ enfadar → rutsuei
 enfermar → ebilai
 enfocar → focai
 enfriar → aigei
+enganchar → katsai
 engordar → lubai, fataine
 engrasar → asoai
 enjuagar → enyoige
@@ -632,7 +633,7 @@ mover → movai
 multiplicar → multiproxei
 murmurar → surai
 mutar → mutai
-nacer → natai
+nacer → natai, naize
 nadar → nataire
 necesitar → trai, opaine
 negar → nonei, nekai
@@ -642,18 +643,17 @@ normalizar → normalai
 notificar → nevai
 numerar → numai
 obtener → elokrai
-ocultar → jidei
-ocupar → osalei
+ocultar → jidei, obskaire
+ocupar → osalei, elloize
 ocurrir → idurei, zaine, engerei
 odiar → rutrai
 ofender → ofensire
 ofrecer → ofrerai, gazai
-oir → oi
-ojalar → oixalai
-ojalar → oslai
+oir → oi, oitaire, auditei, auditaire
+ojalar → oixalai, oslai
 oler → eslei, oloi, oleire
-olvidar → supardaire
-ondear → huaibe
+olvidar → supardaire, oblivei
+ondear → fondai, huaibe, fondaire
 operar → improxei
 optimizar → optemizei
 ordenar (de ordenar a alguien) → ordenai
@@ -680,7 +680,7 @@ pausar → pauxai, pausai, haile
 pecar → xinai
 pedir → precai
 pegar → pastai
-peinar → cailai
+peinar → cailai, caile
 pelar → pelai
 pelear → faitai
 peligrar → perilai
@@ -702,7 +702,7 @@ pesar → pesai
 pescar → peskei
 pestañear → exorei
 picar (bicho) → estungai
-picar (minar) → 
+picar (minar) → minai
 pincelar → brutsei
 pinchar → pinkai
 pintar → pintei
@@ -952,5 +952,5 @@ vislumbrar → zovisai, zintaire
 vislumbrar, vigilar → veige
 vivir → vivai
 volar → blai
-volver → barei
+volver → barei, voltai, volveire
 vomitar, potar → resoltai, pukai, pukaire

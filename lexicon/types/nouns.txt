@@ -1408,6 +1408,7 @@ décima → decima
 día → hen
 dólar → dolar
 ebullición, evaporación → inherba
+eco → eco
 ecocardiografía → ecocardiografia, ecocardiografica
 ecografía → ecografia, ecografica
 ecología → ecologia
@@ -1798,6 +1799,7 @@ gamba → ximbrarisa, ambo
 gammagrafía → gammagrafia, gammagrafica
 ganadero → eskiate
 ganadería → eskiaro
+gancho → katso
 gandúl → sugarriyo
 ganso → guse
 garbanzo → berga
@@ -3286,6 +3288,8 @@ reloj → kloko, relox, horaviso
 remasterización → remasteratio
 remo → esguela
 remolacha → grosatsa
+renacido → renaizo
+renacimiento → renaizento
 rendición → purna
 reno → kirko
 renovación → renevo, reneva
@@ -3875,6 +3879,7 @@ vela → candala
 velcro → velcro
 velero → sivera
 velocidad → velocita
+velociraptor → velociraptor
 vena → sigraconve, siger
 vencejo, salangana → venzo, burlo
 venda → ladepipra, bande
