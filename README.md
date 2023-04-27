@@ -3,7 +3,7 @@
 <a href="https://github.com/AntikoreDev/aidanish" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/aidanish?style=for-the-badge"></a>
 <a href="https://github.com/AntikoreDev/aidanish/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/aidanish?style=for-the-badge"></a>
 <a href="https://github.com/AntikoreDev/aidanish/blob/main/lexicon/words.txt"><img alt = "Words" src = "https://img.shields.io/tokei/lines/github/AntikoreDev/aidanish?label=Word%20Count&style=for-the-badge"></a>
-
+<br>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntikoreDev/aidanish?style=for-the-badge">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/aidanish?style=for-the-badge">
 </div>
