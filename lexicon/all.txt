@@ -65,6 +65,7 @@ absoluto → absoluto
 abstención → abstena
 abstener → abstenai
 abstenido → absteno
+abstruso → abstruso
 abuela → meioko
 abuelastra → inestmeioko
 abuelastro → inestumoko
@@ -1529,6 +1530,7 @@ costo, coste → koste
 costra → ruxga
 costumbre → costume
 costura → ehelo
+cotilla, persona que activamente espía a conocidos para cuchichear → ecoette
 coyote → cuxate
 coño → cunno, vulve
 craneología → craneologia
@@ -2017,6 +2019,7 @@ e → e
 ebullición, evaporación → inherba
 echar → etsoi
 echarse alguien los huevos a tuto, armar de valor, echarle huevos → retrai nai valia
+eco → eco
 ecocardiografía → ecocardiografia, ecocardiografica
 ecografía → ecografia, ecografica
 ecología → ecologia
@@ -2141,6 +2144,7 @@ enfoque → foca
 enfrente → imfranto
 enfriamiento → aigeisa
 enfriar → aigei
+enganchar → katsai
 engaño → lerra
 engordar → lubai, fataine
 engranaje → giar
@@ -2619,6 +2623,7 @@ gammagrafía → gammagrafia, gammagrafica
 ganadero → eskiate
 ganadería → eskiaro
 ganar → ganai, gonai
+gancho → katso
 gandúl → sugarriyo
 gandúl → sugarriyo
 ganso → guse
@@ -3709,7 +3714,7 @@ módulo → modulo
 móvil (teléfono) → mobila, fone, fona
 música → musika
 música → musikette
-nacer → natai
+nacer → natai, naize
 nacimiento → natatia
 nacionalidad → agizaia
 nada → nokoixa
@@ -3854,12 +3859,12 @@ ocio → ocio, xia, ozio
 octavo → octoix
 octubre → octambo
 octógono → oktokono
-ocultar → jidei
+ocultar → jidei, obskaire
 oculto → jido
 ocupación → osala
 ocupado → osalo
 ocupado → osalo
-ocupar → osalei
+ocupar → osalei, elloize
 ocurrir → idurei, zaine, engerei
 océano → ozeano, oxtomare
 odiar → rutrai
@@ -3875,9 +3880,8 @@ oficio → ofizio
 ofrecer → ofrerai, gazai
 oftalmología → oftalmologia
 oftalmólogo → oftalmologo, oftalmologette
-oir → oi
-ojalar → oixalai
-ojalar → oslai
+oir → oi, oitaire, auditei, auditaire
+ojalar → oixalai, oslai
 ojo → exo, ogo
 ola → guaira
 oleografía → oleografia, oleografica
@@ -3887,14 +3891,14 @@ olmo → elme
 olor → eslo
 oloroso → eslo
 olvidado → supardo, oblivo, husko
-olvidar → supardaire
+olvidar → supardaire, oblivei
 olvido → huske, suparde
 once → dizixone
 onceavo → dizixoneix
 oncología → oncologia
 oncólogo → oncologo, oncologette
 onda → huaba
-ondear → huaibe
+ondear → fondai, huaibe, fondaire
 onomasiología → onomasiologia
 ontología → ontologia
 ontólogo → ontologo, ontologette
@@ -4130,7 +4134,7 @@ pegamento → pasta
 pegar → pastai
 pegatina → pastenno
 pegatina → pastika
-peinar → cailai
+peinar → cailai, caile
 peine → cailoro
 pelador de patatas → torkopeler
 pelador → peler
@@ -4210,10 +4214,13 @@ perseverar → perseverai
 persiana → yera, jerco
 persistencia → persivita
 persistir → persiverai
+persona que busca activamente asiento en el transporte público → velociraptoroko
 persona que discrimina a los de su propio grupo social → patricida
 persona que hace 'honicidio' → honicida
+persona que lleva 300 litros de colonia a todos lados → bombetanolette
 persona que se encargaba en época antigua de arreglar puertas y manivelas → torqette, torqerette
 persona → perso
+persona, generalmente de la tercera edad, que habla con gente que no conoce por la calle como si fueran conocidos de toda la vida → unloioko
 personal → personal
 personal → personale
 personal → pertsonala
@@ -4255,7 +4262,7 @@ phasmofobia → fasmofobia, phasmofobia
 piano → piano
 picadura → estundaxe
 picar (bicho) → estungai
-picar (minar) →
+picar (minar) → minai
 pico (animal) → pike
 pico (herramienta) → pikote
 pico (montaña) → ampico
@@ -4594,7 +4601,7 @@ quemador → ignodoxoro
 quemadura → ignodaxo
 quemar → tsizirrei, ignodaxai
 querer → qarei
-quererte tanto a ti mismo hasta el punto de necesitar atención médica → ipsogirgirigarigarei (broma de april fools)
+quererte tanto a ti mismo hasta el punto de necesitar atención médica, crear un culto hacia la propia persona → ipsogirgirigarigarei
 queso en polvo → pulverfruge
 queso → fruge
 quiebra → qibra
@@ -4733,6 +4740,8 @@ remolacha → grosatsa
 remover → removai
 remunerado → remoneiata
 remunerar → remonetai
+renacido → renaizo
+renacimiento → renaizento
 rendición → purna
 rendirse → purnai
 reno → kirko
@@ -5613,6 +5622,7 @@ vela → candala
 velcro → velcro
 velero → sivera
 velocidad → velocita
+velociraptor → velociraptor
 vena → sigraconve, siger
 vencejo, salangana → venzo, burlo
 venda → ladepipra, bande
@@ -5719,7 +5729,7 @@ volante (papel) → piprako
 volar → blai
 volcán → volkano
 volumetría → volumetria, volumetrica
-volver → barei
+volver → barei, voltai, volveire
 vomitar, potar → resoltai, pukai, pukaire
 vosotros → zure
 voyeurista → voyeurette, voyeur, voyeurista

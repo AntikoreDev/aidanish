@@ -555,6 +555,14 @@
             }
         ]
     },
+    "abstruso": {
+        "entries": [
+            {
+                "meaning": "abstruso",
+                "specification": ""
+            }
+        ]
+    },
     "abuela": {
         "entries": [
             {
@@ -12327,6 +12335,22 @@
             }
         ]
     },
+    "cotilla": {
+        "entries": [
+            {
+                "meaning": "ecoette",
+                "specification": ""
+            }
+        ]
+    },
+    "persona que activamente espía a conocidos para cuchichear": {
+        "entries": [
+            {
+                "meaning": "ecoette",
+                "specification": ""
+            }
+        ]
+    },
     "coyote": {
         "entries": [
             {
@@ -16291,6 +16315,14 @@
             }
         ]
     },
+    "eco": {
+        "entries": [
+            {
+                "meaning": "eco",
+                "specification": ""
+            }
+        ]
+    },
     "ecocardiografía": {
         "entries": [
             {
@@ -17299,6 +17331,14 @@
         "entries": [
             {
                 "meaning": "aigei",
+                "specification": ""
+            }
+        ]
+    },
+    "enganchar": {
+        "entries": [
+            {
+                "meaning": "katsai",
                 "specification": ""
             }
         ]
@@ -21175,6 +21215,14 @@
         "entries": [
             {
                 "meaning": "ganai, gonai",
+                "specification": ""
+            }
+        ]
+    },
+    "gancho": {
+        "entries": [
+            {
+                "meaning": "katso",
                 "specification": ""
             }
         ]
@@ -29938,7 +29986,7 @@
     "nacer": {
         "entries": [
             {
-                "meaning": "natai",
+                "meaning": "natai, naize",
                 "specification": ""
             }
         ]
@@ -31090,7 +31138,7 @@
     "ocultar": {
         "entries": [
             {
-                "meaning": "jidei",
+                "meaning": "jidei, obskaire",
                 "specification": ""
             }
         ]
@@ -31126,7 +31174,7 @@
     "ocupar": {
         "entries": [
             {
-                "meaning": "osalei",
+                "meaning": "osalei, elloize",
                 "specification": ""
             }
         ]
@@ -31254,7 +31302,7 @@
     "oir": {
         "entries": [
             {
-                "meaning": "oi",
+                "meaning": "oi, oitaire, auditei, auditaire",
                 "specification": ""
             }
         ]
@@ -31262,11 +31310,7 @@
     "ojalar": {
         "entries": [
             {
-                "meaning": "oixalai",
-                "specification": ""
-            },
-            {
-                "meaning": "oslai",
+                "meaning": "oixalai, oslai",
                 "specification": ""
             }
         ]
@@ -31346,7 +31390,7 @@
     "olvidar": {
         "entries": [
             {
-                "meaning": "supardaire",
+                "meaning": "supardaire, oblivei",
                 "specification": ""
             }
         ]
@@ -31402,7 +31446,7 @@
     "ondear": {
         "entries": [
             {
-                "meaning": "huaibe",
+                "meaning": "fondai, huaibe, fondaire",
                 "specification": ""
             }
         ]
@@ -33302,7 +33346,7 @@
     "peinar": {
         "entries": [
             {
-                "meaning": "cailai",
+                "meaning": "cailai, caile",
                 "specification": ""
             }
         ]
@@ -33951,6 +33995,14 @@
             }
         ]
     },
+    "persona que busca activamente asiento en el transporte público": {
+        "entries": [
+            {
+                "meaning": "velociraptoroko",
+                "specification": ""
+            }
+        ]
+    },
     "persona que discrimina a los de su propio grupo social": {
         "entries": [
             {
@@ -33967,6 +34019,14 @@
             }
         ]
     },
+    "persona que lleva 300 litros de colonia a todos lados": {
+        "entries": [
+            {
+                "meaning": "bombetanolette",
+                "specification": ""
+            }
+        ]
+    },
     "persona que se encargaba en época antigua de arreglar puertas y manivelas": {
         "entries": [
             {
@@ -33979,6 +34039,26 @@
         "entries": [
             {
                 "meaning": "perso",
+                "specification": ""
+            },
+            {
+                "meaning": "unloioko",
+                "specification": ""
+            }
+        ]
+    },
+    "generalmente de la tercera edad": {
+        "entries": [
+            {
+                "meaning": "unloioko",
+                "specification": ""
+            }
+        ]
+    },
+    "que habla con gente que no conoce por la calle como si fueran conocidos de toda la vida": {
+        "entries": [
+            {
+                "meaning": "unloioko",
                 "specification": ""
             }
         ]
@@ -34308,6 +34388,10 @@
             {
                 "meaning": "estungai",
                 "specification": "bicho"
+            },
+            {
+                "meaning": "minai",
+                "specification": "minar"
             }
         ]
     },
@@ -37010,7 +37094,15 @@
     "quererte tanto a ti mismo hasta el punto de necesitar atención médica": {
         "entries": [
             {
-                "meaning": "ipsogirgirigarigarei (broma de april fools)",
+                "meaning": "ipsogirgirigarigarei",
+                "specification": ""
+            }
+        ]
+    },
+    "crear un culto hacia la propia persona": {
+        "entries": [
+            {
+                "meaning": "ipsogirgirigarigarei",
                 "specification": ""
             }
         ]
@@ -38123,6 +38215,22 @@
         "entries": [
             {
                 "meaning": "remonetai",
+                "specification": ""
+            }
+        ]
+    },
+    "renacido": {
+        "entries": [
+            {
+                "meaning": "renaizo",
+                "specification": ""
+            }
+        ]
+    },
+    "renacimiento": {
+        "entries": [
+            {
+                "meaning": "renaizento",
                 "specification": ""
             }
         ]
@@ -45215,6 +45323,14 @@
             }
         ]
     },
+    "velociraptor": {
+        "entries": [
+            {
+                "meaning": "velociraptor",
+                "specification": ""
+            }
+        ]
+    },
     "vena": {
         "entries": [
             {
@@ -46082,7 +46198,7 @@
     "volver": {
         "entries": [
             {
-                "meaning": "barei",
+                "meaning": "barei, voltai, volveire",
                 "specification": ""
             }
         ]

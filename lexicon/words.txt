@@ -36,6 +36,7 @@ absoluto
 abstena
 abstenai
 absteno
+abstruso
 abvogette
 abysal
 abystela
@@ -632,6 +633,8 @@ audiologia
 audiologo
 audiometria
 audiometrica
+auditaire
+auditei
 audixora
 audixoso
 aukuba
@@ -922,6 +925,7 @@ bombardai
 bombardoro
 bombeia
 bombeire
+bombetanolette
 bone
 bongo
 bontso
@@ -1015,6 +1019,7 @@ cactia
 cafeteria
 café
 cailai
+caile
 cailo
 cailoro
 cailoxette
@@ -1854,8 +1859,10 @@ ebrite
 ebrito
 ecersai
 eclasiko
+eco
 ecocardiografia
 ecocardiografica
+ecoette
 ecografia
 ecografica
 ecologette
@@ -1937,6 +1944,7 @@ elektronno
 elkara
 ello
 elloi
+elloize
 elloko
 elme
 elocato
@@ -2517,6 +2525,8 @@ folo
 foloi
 fomo
 fona
+fondai
+fondaire
 fondo
 fone
 fonetika
@@ -3366,6 +3376,8 @@ kasutsa
 katarsis
 kato
 katria
+katsai
+katso
 kautivai
 kautivita
 kavaire
@@ -3998,6 +4010,7 @@ milizia
 milloe
 mimeografia
 mimeografica
+minai
 minatia
 mine
 mineire
@@ -4153,6 +4166,7 @@ nai
 naire
 naito
 naitoxe
+naize
 nambiro
 nanotecnologia
 napesta
@@ -4329,7 +4343,9 @@ o
 oarga
 oargai
 obeo
+oblivei
 oblivo
+obskaire
 obskuridae
 obskurita
 obskuro
@@ -4365,6 +4381,7 @@ ogira
 ogo
 oi
 oire
+oitaire
 oitio
 oitosono
 oixalai
@@ -5308,6 +5325,8 @@ remastereize
 remoneiata
 remonetai
 removai
+renaizento
+renaizo
 reneva
 renevai
 renevo
@@ -6287,6 +6306,7 @@ unlana
 unlanai
 unlimiteko
 unlitero
+unloioko
 unlokei
 unludei
 unmembria
@@ -6395,6 +6415,8 @@ vedo
 vehiklo
 veige
 velcro
+velociraptor
+velociraptoroko
 velocita
 vena
 venaza
@@ -6512,8 +6534,10 @@ volkano
 volkanologette
 volkanologia
 volkanologo
+voltai
 volumetria
 volumetrica
+volveire
 vombat
 vono
 vorle

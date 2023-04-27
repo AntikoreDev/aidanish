@@ -1701,6 +1701,7 @@ la decima
 ei hen
 ei dolar
 la inherba
+ei eco
 la ecocardiografia
 la ecocardiografica
 la ecografia
@@ -2194,6 +2195,7 @@ la gammagrafia
 la gammagrafica
 la eskiate
 ei eskiaro
+ei katso
 ei sugarriyo
 ei guse
 la berga
@@ -4068,6 +4070,8 @@ ei horaviso
 ei remasteratio
 la esguela
 la grosatsa
+ei renaizo
+ei renaizento
 la purna
 ei kirko
 ei renevo
@@ -4819,6 +4823,7 @@ la candala
 ei velcro
 la sivera
 la velocita
+ei velociraptor
 la sigraconve
 ei siger
 ei venzo
@@ -5026,6 +5031,7 @@ ei abrasivo
 ei hogoko
 ei absoluto
 ei absteno
+ei abstruso
 la abonte
 ei aborrado
 la bertse
