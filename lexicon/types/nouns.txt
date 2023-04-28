@@ -257,6 +257,7 @@ alfil (ajedrez) → espare
 alfombra → corta
 alga → kalpa, alga
 algo o lugar oscuro y depresivo → auska
+algoritmo → algoritmo
 alimentación → flomo, nisigo
 alimento → flomiga, nisingo
 alineación → aliniatio
@@ -1538,6 +1539,8 @@ eslavo → eslava
 esmalte → esmaro
 esmegma → esmegma
 esmeralda → emeralda
+esoterismo → esoterisma
+esotérico → esoterico
 espacio en blanco → biancara
 espacio → espatio
 espada → raiyoa, suarda
@@ -2118,8 +2121,7 @@ instancia → instancea
 institución → instituzio
 instituto → aito-esaroriun
 instrumento → instrumento
-insulto → insulto
-insulto → retro, insulso
+insulto → insulto, retro, insulso
 intelecto → intelekto
 intención → intentio
 intento → tre
@@ -2152,6 +2154,7 @@ jalapeño → jalapenno
 jamón → iamon
 jaque (ajedrez) → jake
 jaque mate (ajedrez) → jakemate
+jarabe → gluco
 jardinero → gardaxette
 jardín → garda
 jarrón, florero → diarra
@@ -2190,6 +2193,7 @@ ladrillo → brico, kuxa
 ladrón → rovette, rovago
 lago → laka
 laguna → lurge, lakata
+lana → boure
 lancero → esparette
 langostino → ximpo
 lanza → espara
@@ -2318,6 +2322,7 @@ magnolia (flor) → magnasia
 malacología → malacologia
 malacólogo → malacologo, malacologette
 malasombra → heuntsado
+maldición → malditio
 malherbología → malherbologia
 mamografía → mamografia, mamografica
 mamut → mamuz
@@ -2573,6 +2578,7 @@ muñeco, muñeca (objeto) → doli, clutso
 máquina → matsina
 máscara → lufazia, maske
 médico → medikarette
+módem → modem
 módulo → modulo
 móvil (teléfono) → mobila, fone, fona
 música → musika
@@ -2758,6 +2764,7 @@ paja (heno) → likra
 paja (sexo) → oarga
 palabra → vorto, palabra
 palabrería → vortatia
+palabrota → cusa, vourage
 palanca → palanca
 paleoantropología → paleoantropologia
 paleoantropólogo → paleoantropologo, paleoantropologette
@@ -2796,6 +2803,7 @@ pantalla → visaya, tele
 pantalón → panto
 pantano → saguala
 pantera → pantera
+pantufla → bourisa
 papada → ploka
 papaya → papaya
 papel → pipra, fola
@@ -3283,6 +3291,7 @@ reino → renno
 relación → relatio
 religión → relicro
 reliquia → relicua
+relleno de una almohada → bourege
 reloj de muñeca → klokonna
 reloj → kloko, relox, horaviso
 remasterización → remasteratio
@@ -3479,6 +3488,7 @@ sintomatología → sintomatologia
 sinólogo → sinologo, sinologette
 sirena (mitología) → meimare
 sirena (objeto) → sirena
+sirvienta, sirviente → madem
 sirviente → sirveinte, servente, titse
 sismología → sismologia
 sismólogo → sismologo, sismologette
@@ -3818,6 +3828,7 @@ turismofobia → turismofobia
 turista → turista
 turno → turno
 turrón → bengela
+tándem → tandem
 té → tsa
 técnica → texna
 técnico → texnette

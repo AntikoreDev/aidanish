@@ -291,6 +291,7 @@ decapitar → dantsai
 decepcionar → deteptionei
 decidir → dezei
 decir (coloquial) → dikei
+decir muchas palabrotas → cusai, vouraige
 decir → dikerei
 declarar → declaire
 deducir → deduktei
@@ -421,6 +422,7 @@ enloquecer → lokoi, ankrai, frikoi
 enmarcar → makorai
 enmohecer → moldoi
 enrollar → roloi, rolai
+ensartar → naive
 enseñar → esaroi
 ensordecer → sordai
 ensuciar → druxai
@@ -454,6 +456,7 @@ esperar (esperar algo) → aikalai
 esperar (tiempo) → herrei, haile
 espesar → hexegai
 espíar → espai
+esquilar → bouroi
 esquivar → inzei
 establecer → setei, establezei
 estallar → aixai
@@ -584,6 +587,8 @@ limitar → limitei
 limpiar → likrai
 llamar → llamai
 llegar → irihei
+llenar algo para aparentar algo cuantioso → bougire
+llenar o recargar algo innecesariamente → bougai
 llenar → elloi, foloi
 llevar → yeveire
 llorar → lakrimai, acoatai
@@ -591,6 +596,7 @@ llover → pluvai, acoatei
 lograr → lokrai
 luchar → fistai
 machacar → pestai, matsakai
+maldecir → maldikei
 mamar → mamaire
 manchar → zugrai
 mandar → mandai
@@ -746,7 +752,7 @@ prolongar → prolongaire
 prometer → priosai
 promover → promovai
 pronosticar → pronostikaire
-proponer → petiai
+proponer → petiai, propoize
 prosperar → prosperai
 proteger → protectai
 publicar → publikai
@@ -899,6 +905,7 @@ tentar → soblasnei, movai
 terminar → teirnai
 terraformar → terraformei
 teñir → tentai
+tirar mierda o hablar mal fuertemente sobre algo o alguien → jarai
 tirar → atai
 tocar → toutsoi
 tomar → tomei

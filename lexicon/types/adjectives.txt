@@ -318,6 +318,7 @@ majo → hali
 mal → heun
 malasombra → heuntsado
 maldito → mairato
+maldito → maldito
 maligno → heunxo
 malo → heune
 maloliente → heunesle
