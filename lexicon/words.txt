@@ -288,6 +288,7 @@ alfilago
 alfilai
 alfilatio
 alga
+algoritmo
 alicatai
 alicator
 alie
@@ -934,6 +935,13 @@ bote
 botelo
 botonna
 botso
+bougai
+bouge
+bougire
+boure
+bourege
+bourisa
+bouroi
 boutsara
 bovo
 braine
@@ -1474,6 +1482,8 @@ curriculum
 curso
 cursogra
 cursor
+cusa
+cusai
 cuxate
 da
 dabetranara
@@ -2163,6 +2173,8 @@ esnea
 esneaxette
 esneoro
 esnika
+esoterico
+esoterisma
 espageti
 espai
 espanna
@@ -2293,6 +2305,7 @@ estungo
 esturion
 etanol
 etempo
+eteraz
 etika
 etimologette
 etimologia
@@ -2750,6 +2763,7 @@ globe
 gloria
 glose
 glotologia
+gluco
 glutonia
 glutonno
 gnoseologia
@@ -3275,6 +3289,7 @@ januaro
 januo
 japonesa
 japonia
+jarai
 jedogo
 jefe
 jelsinki
@@ -3750,6 +3765,7 @@ luxuria
 mace
 macrofotografia
 macrofotografica
+madem
 madra
 madraco
 madrakuxette
@@ -3784,6 +3800,9 @@ makorai
 malacologette
 malacologia
 malacologo
+maldikei
+malditio
+maldito
 malherbologia
 malira
 mallea
@@ -4061,6 +4080,7 @@ mobila
 moblo
 model
 modelo
+modem
 moderai
 moderaiette
 modifikai
@@ -4166,6 +4186,7 @@ nai
 naire
 naito
 naitoxe
+naive
 naize
 nambiro
 nanotecnologia
@@ -4747,6 +4768,7 @@ pestoso
 petiai
 petitia
 petra
+petracoasia
 petro
 petrografia
 petrografica
@@ -5075,6 +5097,7 @@ prono
 pronostikaire
 pronostiko
 prope
+propoize
 prosecai
 prosopografia
 prosopografica
@@ -5838,6 +5861,7 @@ tanatofobia
 tanatologette
 tanatologia
 tanatologo
+tandem
 tangente
 tangento
 tante
@@ -6543,6 +6567,8 @@ vono
 vorle
 vortatia
 vorto
+vourage
+vouraige
 voyeur
 voyeurette
 voyeurista
@@ -6630,6 +6656,7 @@ yeveire
 yiga
 yigai
 yigoiko
+yinke
 yogo
 yogur
 yoi

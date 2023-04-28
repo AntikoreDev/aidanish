@@ -2251,6 +2251,14 @@
             }
         ]
     },
+    "algoritmo": {
+        "entries": [
+            {
+                "meaning": "algoritmo",
+                "specification": ""
+            }
+        ]
+    },
     "alguien": {
         "entries": [
             {
@@ -13767,6 +13775,14 @@
             }
         ]
     },
+    "decir muchas palabrotas": {
+        "entries": [
+            {
+                "meaning": "cusai, vouraige",
+                "specification": ""
+            }
+        ]
+    },
     "decisión": {
         "entries": [
             {
@@ -17463,6 +17479,14 @@
             }
         ]
     },
+    "ensartar": {
+        "entries": [
+            {
+                "meaning": "naive",
+                "specification": ""
+            }
+        ]
+    },
     "enseñar": {
         "entries": [
             {
@@ -18287,6 +18311,22 @@
             }
         ]
     },
+    "esoterismo": {
+        "entries": [
+            {
+                "meaning": "esoterisma",
+                "specification": ""
+            }
+        ]
+    },
+    "esotérico": {
+        "entries": [
+            {
+                "meaning": "esoterico",
+                "specification": ""
+            }
+        ]
+    },
     "espacio en blanco": {
         "entries": [
             {
@@ -18627,6 +18667,14 @@
         "entries": [
             {
                 "meaning": "eskemeko",
+                "specification": ""
+            }
+        ]
+    },
+    "esquilar": {
+        "entries": [
+            {
+                "meaning": "bouroi",
                 "specification": ""
             }
         ]
@@ -24587,6 +24635,14 @@
             }
         ]
     },
+    "innecesariamente lleno o recargado": {
+        "entries": [
+            {
+                "meaning": "bouge",
+                "specification": ""
+            }
+        ]
+    },
     "inocencia": {
         "entries": [
             {
@@ -24722,11 +24778,7 @@
     "insulto": {
         "entries": [
             {
-                "meaning": "insulto",
-                "specification": ""
-            },
-            {
-                "meaning": "retro, insulso",
+                "meaning": "insulto, retro, insulso",
                 "specification": ""
             }
         ]
@@ -25151,6 +25203,14 @@
             }
         ]
     },
+    "jarabe": {
+        "entries": [
+            {
+                "meaning": "gluco",
+                "specification": ""
+            }
+        ]
+    },
     "jardinero": {
         "entries": [
             {
@@ -25519,6 +25579,38 @@
             }
         ]
     },
+    "la curiosidad que te da de saber el impacto que has tenido en la vida de la gente a tu alrededor": {
+        "entries": [
+            {
+                "meaning": "petracoasia",
+                "specification": ""
+            }
+        ]
+    },
+    "a sabiendas de que nunca sabrás como tus pequeñas acciones afectaron a largo plazo a otras personas": {
+        "entries": [
+            {
+                "meaning": "petracoasia",
+                "specification": ""
+            }
+        ]
+    },
+    "la sensación de vacío causada cuando un proceso arduo ha terminado": {
+        "entries": [
+            {
+                "meaning": "eteraz",
+                "specification": ""
+            }
+        ]
+    },
+    "que te deja relajado pero sintiendo la falta de ese estrés que te daba un propósito": {
+        "entries": [
+            {
+                "meaning": "eteraz",
+                "specification": ""
+            }
+        ]
+    },
     "la": {
         "entries": [
             {
@@ -25603,6 +25695,14 @@
         "entries": [
             {
                 "meaning": "lurge, lakata",
+                "specification": ""
+            }
+        ]
+    },
+    "lana": {
+        "entries": [
+            {
+                "meaning": "boure",
                 "specification": ""
             }
         ]
@@ -26447,6 +26547,22 @@
             }
         ]
     },
+    "llenar algo para aparentar algo cuantioso": {
+        "entries": [
+            {
+                "meaning": "bougire",
+                "specification": ""
+            }
+        ]
+    },
+    "llenar o recargar algo innecesariamente": {
+        "entries": [
+            {
+                "meaning": "bougai",
+                "specification": ""
+            }
+        ]
+    },
     "llenar": {
         "entries": [
             {
@@ -27091,10 +27207,30 @@
             }
         ]
     },
+    "maldecir": {
+        "entries": [
+            {
+                "meaning": "maldikei",
+                "specification": ""
+            }
+        ]
+    },
+    "maldición": {
+        "entries": [
+            {
+                "meaning": "malditio",
+                "specification": ""
+            }
+        ]
+    },
     "maldito": {
         "entries": [
             {
                 "meaning": "mairato",
+                "specification": ""
+            },
+            {
+                "meaning": "maldito",
                 "specification": ""
             }
         ]
@@ -29955,6 +30091,14 @@
             }
         ]
     },
+    "módem": {
+        "entries": [
+            {
+                "meaning": "modem",
+                "specification": ""
+            }
+        ]
+    },
     "módulo": {
         "entries": [
             {
@@ -32159,6 +32303,14 @@
             }
         ]
     },
+    "palabrota": {
+        "entries": [
+            {
+                "meaning": "cusa, vourage",
+                "specification": ""
+            }
+        ]
+    },
     "palanca": {
         "entries": [
             {
@@ -32459,6 +32611,14 @@
         "entries": [
             {
                 "meaning": "pantera",
+                "specification": ""
+            }
+        ]
+    },
+    "pantufla": {
+        "entries": [
+            {
+                "meaning": "bourisa",
                 "specification": ""
             }
         ]
@@ -33991,6 +34151,14 @@
         "entries": [
             {
                 "meaning": "persiverai",
+                "specification": ""
+            }
+        ]
+    },
+    "persona o cosa que trae mala suerte o infortunio": {
+        "entries": [
+            {
+                "meaning": "yinke",
                 "specification": ""
             }
         ]
@@ -36438,7 +36606,7 @@
     "proponer": {
         "entries": [
             {
-                "meaning": "petiai",
+                "meaning": "petiai, propoize",
                 "specification": ""
             }
         ]
@@ -38103,6 +38271,14 @@
         "entries": [
             {
                 "meaning": "relicua",
+                "specification": ""
+            }
+        ]
+    },
+    "relleno de una almohada": {
+        "entries": [
+            {
+                "meaning": "bourege",
                 "specification": ""
             }
         ]
@@ -40707,8 +40883,20 @@
             }
         ]
     },
+    "sirvienta": {
+        "entries": [
+            {
+                "meaning": "madem",
+                "specification": ""
+            }
+        ]
+    },
     "sirviente": {
         "entries": [
+            {
+                "meaning": "madem",
+                "specification": ""
+            },
             {
                 "meaning": "sirveinte, servente, titse",
                 "specification": ""
@@ -43127,6 +43315,14 @@
             }
         ]
     },
+    "tirar mierda o hablar mal fuertemente sobre algo o alguien": {
+        "entries": [
+            {
+                "meaning": "jarai",
+                "specification": ""
+            }
+        ]
+    },
     "tirar": {
         "entries": [
             {
@@ -44571,6 +44767,14 @@
         "entries": [
             {
                 "meaning": "bengela",
+                "specification": ""
+            }
+        ]
+    },
+    "tándem": {
+        "entries": [
+            {
+                "meaning": "tandem",
                 "specification": ""
             }
         ]

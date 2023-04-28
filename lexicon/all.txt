@@ -277,6 +277,7 @@ alfombra → corta
 alga → kalpa, alga
 algo o lugar oscuro y depresivo → auska
 algo → akoixa
+algoritmo → algoritmo
 alguien → aperso
 alguna forma → aforma
 alguno → aione
@@ -1708,6 +1709,7 @@ decepcionar → deteptionei
 decidir → dezei
 decimal → decimal
 decir (coloquial) → dikei
+decir muchas palabrotas → cusai, vouraige
 decir → dikerei
 decisión → deze
 declarar → declaire
@@ -2160,6 +2162,7 @@ enología → enologia
 enrollar → roloi, rolai
 enrutador → enrotare
 ensalada → ensalada
+ensartar → naive
 enseñar → esaroi
 ensordecer → sordai
 ensuciar → druxai
@@ -2257,6 +2260,8 @@ esmaltar → esmaire
 esmalte → esmaro
 esmegma → esmegma
 esmeralda → emeralda
+esoterismo → esoterisma
+esotérico → esoterico
 espacio en blanco → biancara
 espacio → espatio
 espada → raiyoa, suarda
@@ -2301,6 +2306,7 @@ espíar → espai
 espíritu → espirita
 esquema → eskeme
 esquemático → eskemeko
+esquilar → bouroi
 esquina → eskina
 esquinazo → eskinata
 esquivar → inzei
@@ -3041,6 +3047,7 @@ inmortal → inmortal
 inmune → inmuno
 inmunología → inmunologia
 inmunólogo → inmunologo, inmunologette
+innecesariamente lleno o recargado → bouge
 inocencia → inocentia
 inocente → inocente
 inocente → inocente
@@ -3058,8 +3065,7 @@ instantáneo → instantako
 institución → instituzio
 instituto → aito-esaroriun
 instrumento → instrumento
-insulto → insulto
-insulto → retro, insulso
+insulto → insulto, retro, insulso
 intelecto → intelekto
 intelectual → intelektualo
 intencional → intentiente
@@ -3111,6 +3117,7 @@ japonés → japonesa
 japón → japonia
 jaque (ajedrez) → jake
 jaque mate (ajedrez) → jakemate
+jarabe → gluco
 jardinero → gardaxette
 jardín → garda
 jarrón, florero → diarra
@@ -3158,6 +3165,8 @@ koala → koala
 kosovo → kosovo
 kremlinología → kremlinologia
 kremlinólogo → kremlinologo, kremlinologette
+la curiosidad que te da de saber el impacto que has tenido en la vida de la gente a tu alrededor, a sabiendas de que nunca sabrás como tus pequeñas acciones afectaron a largo plazo a otras personas → petracoasia
+la sensación de vacío causada cuando un proceso arduo ha terminado, que te deja relajado pero sintiendo la falta de ese estrés que te daba un propósito → eteraz
 la, las → la
 laberinto → mace
 labio → labe
@@ -3168,6 +3177,7 @@ ladrón → rovette, rovago
 lago → laka
 lagrimado → lakrimido
 laguna → lurge, lakata
+lana → boure
 lancero → esparette
 langostino → ximpo
 lanza → espara
@@ -3272,6 +3282,8 @@ llanura → planitela
 llave → klave
 llegada → iriheia
 llegar → irihei
+llenar algo para aparentar algo cuantioso → bougire
+llenar o recargar algo innecesariamente → bougai
 llenar → elloi, foloi
 lleno de bondad → bainido
 lleno de maldad → heunido
@@ -3353,7 +3365,10 @@ malacología → malacologia
 malacólogo → malacologo, malacologette
 malasombra → heuntsado
 malasombra → heuntsado
+maldecir → maldikei
+maldición → malditio
 maldito → mairato
+maldito → maldito
 malherbología → malherbologia
 maligno → heunxo
 malo → heune
@@ -3710,6 +3725,7 @@ máscara → lufazia, maske
 médico → medikarette
 méxico → mexiko
 místico → mistica
+módem → modem
 módulo → modulo
 móvil (teléfono) → mobila, fone, fona
 música → musika
@@ -3985,6 +4001,7 @@ paja (sexo) → oarga
 palabra baúl → cubavorto
 palabra → vorto, palabra
 palabrería → vortatia
+palabrota → cusa, vourage
 palanca → palanca
 paleoantropología → paleoantropologia
 paleoantropólogo → paleoantropologo, paleoantropologette
@@ -4023,6 +4040,7 @@ pantalla → visaya, tele
 pantalón → panto
 pantano → saguala
 pantera → pantera
+pantufla → bourisa
 papada → ploka
 papaya → papaya
 papel → pipra, fola
@@ -4214,6 +4232,7 @@ perseverar → perseverai
 persiana → yera, jerco
 persistencia → persivita
 persistir → persiverai
+persona o cosa que trae mala suerte o infortunio → yinke
 persona que busca activamente asiento en el transporte público → velociraptoroko
 persona que discrimina a los de su propio grupo social → patricida
 persona que hace 'honicidio' → honicida
@@ -4522,7 +4541,7 @@ pronto → ayenter
 pronóstico → pronostiko
 propenso → prono
 propio → prope
-proponer → petiai
+proponer → petiai, propoize
 propuesta, petición → petitia, precaia
 prosopografía → prosopografia, prosopografica
 prosperar → prosperai
@@ -4726,6 +4745,7 @@ relación → relatio
 relativo → relative
 religión → relicro
 reliquia → relicua
+relleno de una almohada → bourege
 reloj de muñeca → klokonna
 reloj → kloko, relox, horaviso
 reluciente → enlitaro
@@ -5053,6 +5073,7 @@ sinólogo → sinologo, sinologette
 siquiera, ni siquiera → nonixa
 sirena (mitología) → meimare
 sirena (objeto) → sirena
+sirvienta, sirviente → madem
 sirviente → sirveinte, servente, titse
 sismología → sismologia
 sismólogo → sismologo, sismologette
@@ -5349,6 +5370,7 @@ tipología → tipologia
 tipometría → tipometria, tipometrica
 tira → estriga
 tirachinas → zroioro, eslingo
+tirar mierda o hablar mal fuertemente sobre algo o alguien → jarai
 tirar → atai
 tiro → ata
 tisiología → tisiologia
@@ -5530,6 +5552,7 @@ turista → turista
 turnar → turnoi
 turno → turno
 turrón → bengela
+tándem → tandem
 té → tsa
 técnica → texna
 técnico → texnette

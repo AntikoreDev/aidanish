@@ -280,6 +280,7 @@ la corta
 la kalpa
 la alga
 la auska
+ei algoritmo
 ei flomo
 ei nisigo
 la flomiga
@@ -1860,6 +1861,8 @@ la eslava
 ei esmaro
 la esmegma
 la emeralda
+la esoterisma
+ei esoterico
 la biancara
 ei espatio
 la raiyoa
@@ -2650,6 +2653,7 @@ ei jalapenno
 ei iamon
 la jake
 la jakemate
+ei gluco
 la gardaxette
 la garda
 la diarra
@@ -2701,6 +2705,7 @@ ei rovago
 la laka
 ei lurge
 la lakata
+ei boure
 la esparette
 ei ximpo
 la espara
@@ -2856,6 +2861,7 @@ la malacologia
 ei malacologo
 la malacologette
 ei heuntsado
+ei malditio
 la malherbologia
 la mamografia
 la mamografica
@@ -3182,6 +3188,7 @@ la matsina
 la lufazia
 la maske
 la medikarette
+ei modem
 ei modulo
 la mobila
 ei fone
@@ -3420,6 +3427,8 @@ la oarga
 ei vorto
 la palabra
 la vortatia
+la cusa
+ei vourage
 la palanca
 la paleoantropologia
 ei paleoantropologo
@@ -3470,6 +3479,7 @@ la tele
 ei panto
 la saguala
 la pantera
+la bourisa
 la ploka
 la papaya
 la pipra
@@ -4063,6 +4073,7 @@ ei renno
 ei relatio
 ei relicro
 la relicua
+ei bourege
 la klokonna
 ei kloko
 ei relox
@@ -4303,6 +4314,7 @@ ei sinologo
 ei sinologette
 la meimare
 la sirena
+la madem
 ei sirveinte
 la servente
 ei titse
@@ -4738,6 +4750,7 @@ la turismofobia
 la turista
 ei turno
 la bengela
+la tandem
 la tsa
 la texna
 la texnette
@@ -5361,6 +5374,7 @@ la hali
 ei heun
 ei heuntsado
 ei mairato
+ei maldito
 ei heunxo
 ei heune
 ei heunesle
