@@ -2421,6 +2421,7 @@ medicina → medikar
 medida → metirra
 medidor → metera
 medio (transporte, comunicación) → metia
+mediocridad → mediocrita
 mediodía → mitaheno
 meditación → meditia
 megáfono → megafono

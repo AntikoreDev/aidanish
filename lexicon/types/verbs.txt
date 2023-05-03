@@ -81,7 +81,7 @@ amañar → amaine
 amenazar → zrotei
 amontonar → kievei
 amputar → amputai
-ancai → alzar
+alzar → ancai
 anchar → faldai
 andar → andaire
 anidar → inestai
@@ -428,7 +428,7 @@ ensordecer → sordai
 ensuciar → druxai
 entender → enderei, comprei
 enterrar vivo → vitaurei
-enterrar → enterrei, auro
+enterrar → enterrei, auroi
 entrar → entrei
 entregar → entregai
 entrenar → traine, entraine
@@ -508,7 +508,7 @@ funcionar → funzai
 fundir → fusei
 ganar → ganai, gonai
 gastar → gastai
-gemir → kemir
+gemir → kemire
 generar → espaunaire
 girar, virar → virai
 gobernar → governei
@@ -534,7 +534,7 @@ herir → daxei
 hervir → herbei
 hibernar → blumai, hibernai
 hipnotizar → hipnoi
-homenajear → homenaiar
+homenajear → homenaire
 hormiguear → mitsisilai
 hornear → fornai
 hospedar → hustoi
@@ -611,7 +611,6 @@ matar → mataire
 maullar → mauiai
 mear → piksei
 mearte de miedo → pikseterroi
-mediocridad → mediocrita
 medir → metairre
 meditar → meditei
 mejorar → bainei
@@ -890,7 +889,7 @@ suscribir → suscribai
 suspender → reprovai
 sustituir → sustibai, sekundoi
 susurrar → huxai
-talar → tsopar, tambar
+talar → tsopaire, tambaire
 tamizar → tamizei
 tapar → supai
 tardar → egentai

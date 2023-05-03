@@ -322,6 +322,7 @@ alubia → blon
 alucinación → alutination
 alucinar → alutinai
 alzado → anco
+alzar → ancai
 amaestrar → amasterai
 amamantar → amamantai
 amanecer → amanza
@@ -366,7 +367,6 @@ analogía → analogia
 anarquía → anarqia
 anatomopatólogo → anatomopatologo, anatomopatologette
 anca → anka, anca
-ancai → alzar
 ancan → alzamiento
 anchar → faldai
 ancho → faldo
@@ -2172,7 +2172,7 @@ entero → folo, ello
 enterrado vivo → vitauro
 enterrado → auro, enterro
 enterrar vivo → vitaurei
-enterrar → enterrei, auro
+enterrar → enterrei, auroi
 entidad → entita
 entierro vivo → vitauro
 entierro → enterro, auro
@@ -2652,7 +2652,7 @@ gaviota → tagaro
 gel → gel
 gemelo → gineko
 gemido → kemeido
-gemir → kemir
+gemir → kemire
 gemología → gemologia
 gemólogo → gemologo, gemologette
 gen → gene
@@ -2905,7 +2905,7 @@ holanda → holande
 holografía → holografia, holografica
 hombre → honperso
 homenaje → homenaie
-homenajear → homenaiar
+homenajear → homenaire
 homicida → homicida
 homicidio → homicidio
 homofobia → homofobia
@@ -5205,7 +5205,7 @@ tahr → tare
 taiga → taiga, karzufisi
 takín → takin
 taladro → talatro
-talar → tsopar, tambar
+talar → tsopaire, tambaire
 talasofobia → talasofobia
 talco → talco
 talla → rango

@@ -318,6 +318,7 @@ alubia
 alucinación
 alucinar
 alzado
+alzar
 amaestrar
 amamantar
 amanecer
@@ -359,7 +360,6 @@ analogía
 anarquía
 anatomopatólogo
 anca
-ancai
 ancan
 anchar
 ancho

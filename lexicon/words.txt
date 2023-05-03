@@ -318,7 +318,6 @@ altsol
 alutinai
 alutination
 alzamiento
-alzar
 alzoraite
 am
 amaine
@@ -361,6 +360,7 @@ anatomopatologette
 anatomopatologo
 anazinto
 anca
+ancai
 ancla
 anclaxo
 anclo
@@ -649,6 +649,7 @@ aurio
 aurnara
 aurnome
 auro
+auroi
 aurora
 aurvaluako
 auska
@@ -2988,8 +2989,8 @@ holeko
 holografia
 holografica
 hombai
-homenaiar
 homenaie
+homenaire
 homicida
 homicidio
 homo
@@ -3399,7 +3400,7 @@ kavaire
 kebab
 keke
 kemeido
-kemir
+kemire
 kemno
 kempo
 kerrai
@@ -5853,7 +5854,7 @@ talco
 taline
 talpa
 tamanno
-tambar
+tambaire
 tamizei
 tampol
 tan
@@ -6254,7 +6255,7 @@ tsoage
 tsoaglate
 tsoklo
 tsonder
-tsopar
+tsopaire
 tsordai
 tsosto
 tsugo

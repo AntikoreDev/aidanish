@@ -2627,6 +2627,14 @@
             }
         ]
     },
+    "alzar": {
+        "entries": [
+            {
+                "meaning": "ancai",
+                "specification": ""
+            }
+        ]
+    },
     "amaestrar": {
         "entries": [
             {
@@ -2983,14 +2991,6 @@
         "entries": [
             {
                 "meaning": "anka, anca",
-                "specification": ""
-            }
-        ]
-    },
-    "ancai": {
-        "entries": [
-            {
-                "meaning": "alzar",
                 "specification": ""
             }
         ]
@@ -17562,7 +17562,7 @@
     "enterrar": {
         "entries": [
             {
-                "meaning": "enterrei, auro",
+                "meaning": "enterrei, auroi",
                 "specification": ""
             }
         ]
@@ -21446,7 +21446,7 @@
     "gemir": {
         "entries": [
             {
-                "meaning": "kemir",
+                "meaning": "kemire",
                 "specification": ""
             }
         ]
@@ -23478,7 +23478,7 @@
     "homenajear": {
         "entries": [
             {
-                "meaning": "homenaiar",
+                "meaning": "homenaire",
                 "specification": ""
             }
         ]
@@ -41978,7 +41978,7 @@
     "talar": {
         "entries": [
             {
-                "meaning": "tsopar, tambar",
+                "meaning": "tsopaire, tambaire",
                 "specification": ""
             }
         ]
