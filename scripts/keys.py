@@ -1,7 +1,7 @@
 # File 'keys.py'
 # This file will create 3 character long keys to be used in games.
 
-from scripts import parse
+import parse
 import sys
 
 def Run():
