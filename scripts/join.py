@@ -10,6 +10,7 @@ def Run():
 	wordlist = open('./lexicon/words.txt', 'r', encoding = 'utf-8').read().splitlines()
 
 	wordlist.extend(verbs)
+	wordlist.sort()
 
 	f = open('./lexicon/words+conjugated.txt', 'w', encoding = 'utf-8')
 	f.write('\n'.join(wordlist))
