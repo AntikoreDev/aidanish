@@ -71,6 +71,7 @@ aliviar → alivai
 almacenar → esmarei
 alternar → alternei
 alucinar → alutinai
+alzar → ancai
 amaestrar → amasterai
 amamantar → amamantai
 amanecer → manzai
@@ -81,7 +82,6 @@ amañar → amaine
 amenazar → zrotei
 amontonar → kievei
 amputar → amputai
-alzar → ancai
 anchar → faldai
 andar → andaire
 anidar → inestai
@@ -233,6 +233,7 @@ configurar → configei
 confirmar → kaiei
 confundir → confuzei
 congelar, helar → gelai
+conjugar → conjugai
 conjurar → praecantai, xizai, praecantaire
 conocer (algo) → aonatei
 conocer (persona) → misei

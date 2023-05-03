@@ -1386,6 +1386,9 @@ confusión
 congelado
 congelador
 congelar
+conjugación
+conjugado
+conjugar
 conjunto o colección de herramientas
 conjurar
 conjuro

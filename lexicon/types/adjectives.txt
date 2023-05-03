@@ -133,6 +133,7 @@ condenado → condeno
 conectado → conekto
 confundido → afuska
 congelado → gelatio
+conjugado → conjugo
 conocido → miseioko
 conquistado → conqisto
 constante → constanto

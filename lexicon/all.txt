@@ -1407,6 +1407,9 @@ confusión → confuzio
 congelado → gelatio
 congelador → gelaioro
 congelar, helar → gelai
+conjugación → conjugatia
+conjugado → conjugo
+conjugar → conjugai
 conjunto o colección de herramientas → horia, ferramenteria
 conjurar → praecantai, xizai, praecantaire
 cono → cone

@@ -1261,6 +1261,7 @@ la dibla
 ei configo
 ei confuzio
 ei gelaioro
+la conjugatia
 la horia
 la ferramenteria
 ei cone
@@ -5165,6 +5166,7 @@ ei condeno
 ei conekto
 la afuska
 ei gelatio
+ei conjugo
 ei miseioko
 ei conqisto
 ei constanto
