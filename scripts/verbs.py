@@ -26,12 +26,14 @@ def Run():
 			conjugated.append(w + 'ki')
 			conjugated.append(w + 'oto')
 			conjugated.append(w + 'eon')
-		else:
+			conjugated.append(w + 'et')
+		elif (w.endswith('e')):
 			conjugated.append(w + 'ie')
 			conjugated.append(w + 'io')
 			conjugated.append(w + 'ki')
 			conjugated.append(w + 'ioto')
 			conjugated.append(w + 'ieon')
+			conjugated.append(w + 't')
 			
 	conjugated.sort()
 
