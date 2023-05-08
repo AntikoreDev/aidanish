@@ -362,6 +362,7 @@ amplio → amplero
 amputación → amputatio
 amputación → unmembria
 amputar → amputai
+amueblar → furnai, moblai
 américa → amerika
 analogía → analogia
 anarquía → anarqia
@@ -456,6 +457,12 @@ aplicar → aplikai
 apodo → xenome
 apología → apologia
 apostar → postai
+apoyar (ayudar o proteger) → eladei
+apoyar (colocar sobre algo) → ersoi
+apoyar, secundar → proi
+apoyo (ayuda o protección) → elade
+apoyo (cargar; hacer descansar) → ersoro
+apoyo (respaldar; aprobar) → proa
 aprender → aprendei
 aprendizaje → aprendeixo
 aprobación → aprovatio
@@ -795,6 +802,7 @@ bloquear → lokei
 bloqueo → lokeo
 boa → zisga
 bobo → keke
+bobsleigh → bobsleigh
 boca → oupa
 bocadillo → britango
 bodega → vinotela, celara, birratela
@@ -851,6 +859,8 @@ bromear → rusiai
 bromelia (flor) → estarola
 bromo → bromo
 bronce → bronce
+bruja → vitsa
+brujería → vitsia
 brusco → zizenno
 brío, garbo → farla
 bucal → oupare
@@ -904,6 +914,7 @@ cabrón → fuzo
 cabrón → morogo
 caca → nnordo, fecta
 cacahuete, cacahuate → cacauato
+cacao → cacao
 cacerola → kaserola
 cacería → junziasa
 cacografía → cacografia, cacografica
@@ -933,6 +944,7 @@ calcetín → poitexo, calzo, calza
 calcografía → calcografia, calcografica
 calculadora → kalculoro
 calcular → kalculei
+caldera, calentador → caldron
 calefacción, calefactor → kaleria
 calendario → henlista, calendaro, calendario
 calentamiento → kaleirisa
@@ -994,6 +1006,7 @@ canoa → canoia
 cansado → infizo
 cansancio → infize
 cansar → infizei
+cantar angelical → ancantoire
 cantar → qanzei
 cantautor → qanzautora
 cantera → petrotela
@@ -1001,6 +1014,7 @@ cantero → petroxette
 cantico → qanzigo
 cantimplora → acoino, cantimpla
 cantina → cantena, ingotela
+canto angeligcal → ancanto
 canto → qanzo
 caníbal → canibal
 caoba → untsua
@@ -1106,6 +1120,7 @@ caña → kanna
 cañón → cannon
 cd → cd
 cebolla → onnete
+cebolleta → keleta
 cebolleta → setso
 cebra → zebra
 cecografía → cecografia, cecografica
@@ -1181,6 +1196,8 @@ chiste → zizga, tsaska
 chistera (sombrero de copa) → tsistera
 chocar → bumpai
 chocolate → xouclate
+chocolatero → xouclatette
+chocolatería → xouclatela
 choque → bumpo
 chuche, caramelo → dultsina
 chupada → lika
@@ -1588,6 +1605,7 @@ crujir → crustai
 cruz → crosa
 cruzar → crosai
 cráneo → craneo
+cráter → crater
 crédito (de crear algo) → credito
 crónica → cronike
 cuadrado → qatrato
@@ -1703,9 +1721,9 @@ deber (colegio) → esaroidute
 deber (expresión) → debei
 deber → dutei
 decaer → decai, porei
-decapitación → dantsa
-decapitador → dantsette
-decapitar → dantsai
+decapitación → dantsa, fasco
+decapitador → dantsette, fasqette
+decapitar → dantsai, fascai, fascaire
 decatlon → decatlon
 decente → dezente
 decepcionar → deteptionei
@@ -2074,6 +2092,7 @@ embarcar → embarcai
 embarco → embarco
 embriología → embriologia
 embriólogo → embriologo, embriologette
+embrujar → vitsai
 emergenciólogo → emergenciologo, emergenciologette
 emisor → emitero
 emitir → emitei
@@ -2609,6 +2628,7 @@ fundición → fuseitela
 fundir → fusei
 funeral → funeral
 fusil → fusil
+futbolista → futbolista, futbolette
 futuro → futura
 futuro → proximo
 futurología → futurologia
@@ -2624,7 +2644,7 @@ galaxia → galaksis
 galería → galila
 galgo → galgo
 galleta → putsa
-gallina → conto
+gallina → conto, gaia
 gallo → contino
 galáctico → galaksiko
 gamba → ximbrarisa, ambo
@@ -2667,6 +2687,7 @@ general → general
 generar → espaunaire
 genial → genelo
 genio → genio, ginio
+genoma → genoma
 gente → gente
 geografía → geografia, geografica
 geología → geologia
@@ -2704,6 +2725,8 @@ gobernar → governei
 gobierno → governo
 gofre → xafla
 golem → golem
+golf → golf
+golfista → golfista, golfette
 golfo (geografía) → girufa
 golpe de estado → estatarrota
 golpear → puntsai, bumpai
@@ -2793,7 +2816,7 @@ hablar sin saber → farlai
 hablar → paire, falai
 hacer reir → sigisai
 hacer un tour → turei
-hacer → doi, fai
+hacer → doi, faize, fai, fazei
 hacerrisas → gisette (persona que intenta hacer gracia de manera común pero solo es molesto)
 hacerse una paja → oargai
 hacha → fasca
@@ -2938,6 +2961,7 @@ hostia → portona
 hot dog, completo, perrito caliente → kalerhundo, sausixa
 hotel → hostala
 hoy → nauhen
+hoyo → hoio
 hueso → hoso
 huevo → ovo
 huir → ezurrai
@@ -3140,6 +3164,7 @@ joven → neve, nevon
 juego → joko
 jueves → traxhia
 juez → juksette
+jugador de baloncesto → bolacester, bolacestette
 jugador → jokaiette
 jugar (casino) → ludaine, ludai
 jugar → jokai
@@ -3156,7 +3181,7 @@ justificar → iustikai
 justo → iusto
 juzgado → jukse
 juzgar → juksei
-júpiter → ivpiter
+júpiter → xeipiter
 kafkiano → kafkiano
 kebab → kebab
 ketchup → ketchup
@@ -3176,6 +3201,7 @@ labio → labe
 lado → sero
 ladrar → guoi
 ladrillo → brico, kuxa
+ladrón (aparato electrónico) → repardoro, elektrorepardoro
 ladrón → rovette, rovago
 lago → laka
 lagrimado → lakrimido
@@ -3356,7 +3382,7 @@ madriguera → maheiga
 maestro → mastero
 maestría → masteria
 magdalena → magadia
-magia → magia
+magia → magia, haia
 magma → magma
 magnetismo → magnetisma
 magnolia (flor) → magnasia
@@ -3416,6 +3442,7 @@ manticora → mantikora
 manutención → ersokio
 manzana → menzana, pomo
 manzanilla → pomotsa
+maná → haia
 mapa → mapa
 mapache → mapatso, racune
 mar → mare
@@ -3618,6 +3645,7 @@ misterio → misteria, edaro
 misterioso → edariko
 mitad, medio → mita
 mitigar → mitigaine
+mitin (política) → levado
 mito → misto
 mitografía → mitografia, mitografica
 mitología → mitologia
@@ -3696,6 +3724,7 @@ mueble → furno, moblo
 muela → mola
 muerte → morto
 muerto → morte
+muerto → morto
 muestra → dorima
 mugre → mugar
 mugroso → mugaro
@@ -3905,6 +3934,7 @@ ojo → exo, ogo
 ola → guaira
 oleografía → oleografia, oleografica
 oler → eslei, oloi, oleire
+oliva → oliva
 olla → kalerkista
 olmo → elme
 olor → eslo
@@ -4329,7 +4359,8 @@ piscina → acoakisa
 piso, apartamento → empartamento, bloke
 pista (sobre un misterio) → hanta
 pista de baile → danzeplane
-pistacho → petsula, pistatso
+pistacho (color) → pistatso, olive
+pistacho (fruto seco) → petsula, pistatso
 pistola → pistola
 pitaya → noisa
 pizarra (escuela) → zirraplane
@@ -4579,7 +4610,7 @@ pueblo → popula
 puede ser → paidi sei
 puente → ponto
 puercoespín → pigotira
-puerro → leko
+puerro → leko, kelena
 puerta → porta
 puerto → porto
 puesta de sol → solarga, solposai
@@ -4594,6 +4625,7 @@ punto de mira, diana → nesiga
 punto → punto
 puntuación → puntuatio, puntuo
 puntuado → puntico
+purificar (religión o místico) → haiai, purei
 puro → pura
 puré → tritura
 puta → puta
@@ -4772,6 +4804,8 @@ renovación → renevo, reneva
 renovar → renevoi, renevai
 reología → reologia
 reparación → repaira
+repartidor → repardette, repartette
+repartir → repardei, repartei
 repentino → repentoso
 repetidor → repeteoro
 repetir → repetei
@@ -5126,6 +5160,7 @@ sonido → soniko
 sonreir → selai
 sonrisa → sela
 sopa → faba
+soportar → suportai
 sordo → sorda
 sostener → sotenai, sotaine
 soteriología → soteriologia
@@ -5297,6 +5332,7 @@ tendero, vendedor → venteixette
 tenedor → tinera, trintso
 tener → taine
 tenis → tenis
+tenista → tenista
 tensar → tentai
 tensión → tentia
 tentar → soblasnei, movai
@@ -5823,7 +5859,8 @@ zócalo → sokete
 ámbar → ambar
 ángel → anyel
 árabe → arabeka
-árbol → arbotso
+árbol mágico → traxhaia
+árbol → arbotso, traxe
 áspero → coarsa
 ático → atike, airgaizera
 épico → epikar

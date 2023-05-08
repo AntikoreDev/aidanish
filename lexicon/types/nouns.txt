@@ -63,7 +63,7 @@ Japón → Japonia
 Jueves → traxhia
 Julio → Xulio
 Junio → Januo
-Júpiter → Ivpiter
+Júpiter → Xeipiter
 Lisboa → Lisbona
 Londrés → Londonia
 Lunes → lunia
@@ -363,6 +363,9 @@ apifobia → apifobia
 aplicación → aplikatio
 apodo → xenome
 apología → apologia
+apoyo (ayuda o protección) → elade
+apoyo (cargar; hacer descansar) → ersoro
+apoyo (respaldar; aprobar) → proa
 aprendizaje → aprendeixo
 aprobación → aprovatio
 aprobado → aprovo
@@ -601,6 +604,7 @@ bloque → bloke
 bloqueo → lokeo
 boa → zisga
 bobo → keke
+bobsleigh → bobsleigh
 boca → oupa
 bocadillo → britango
 bodega → vinotela, celara, birratela
@@ -646,6 +650,8 @@ bromatólogo → bromatologo, bromatologette
 bromelia (flor) → estarola
 bromo → bromo
 bronce → bronce
+bruja → vitsa
+brujería → vitsia
 brío, garbo → farla
 bucle → loop
 budismo → budisma
@@ -682,6 +688,7 @@ cabra → koato, gate, visco
 cabrón → morogo
 caca → nnordo, fecta
 cacahuete, cacahuate → cacauato
+cacao → cacao
 cacerola → kaserola
 cacería → junziasa
 cacografía → cacografia, cacografica
@@ -705,6 +712,7 @@ calavera → antsoarko
 calcetín → poitexo, calzo, calza
 calcografía → calcografia, calcografica
 calculadora → kalculoro
+caldera, calentador → caldron
 calefacción, calefactor → kaleria 
 calendario → henlista, calendaro, calendario
 calentamiento → kaleirisa
@@ -758,6 +766,7 @@ cantero → petroxette
 cantico → qanzigo
 cantimplora → acoino, cantimpla
 cantina → cantena, ingotela
+canto angeligcal → ancanto
 canto → qanzo
 caníbal → canibal
 caoba → untsua
@@ -840,6 +849,7 @@ caña → kanna
 cañón → cannon
 cd → cd
 cebolla → onnete
+cebolleta → keleta
 cebolleta → setso
 cebra → zebra
 cecografía → cecografia, cecografica
@@ -898,6 +908,8 @@ chispa → kispa
 chiste → zizga, tsaska
 chistera (sombrero de copa) → tsistera
 chocolate → xouclate
+chocolatero → xouclatette
+chocolatería → xouclatela
 choque → bumpo
 chuche, caramelo → dultsina
 chupada → lika
@@ -1170,6 +1182,7 @@ crucificción → crosafiktio
 crujido → cruste
 cruz → crosa
 cráneo → craneo
+cráter → crater
 crédito (de crear algo) → credito
 crónica → cronike
 cuadrado → qatrato
@@ -1245,8 +1258,8 @@ dato → data
 daño → daxa
 deber (algo que debes) → dute
 deber (colegio) → esaroidute
-decapitación → dantsa
-decapitador → dantsette
+decapitación → dantsa, fasco
+decapitador → dantsette, fasqette
 decatlon → decatlon
 decimal → decimal
 decisión → deze
@@ -1785,6 +1798,7 @@ fumador → esmokaiette
 fundición → fuseitela
 funeral → funeral
 fusil → fusil
+futbolista → futbolista, futbolette
 futuro → proximo
 futurología → futurologia
 futurólogo → futurologo, futurologette
@@ -1797,7 +1811,7 @@ gafas → ogira, ogirit visoioroit
 galaxia → galaksis
 galería → galila
 galgo → galgo
-gallina → conto
+gallina → conto, gaia
 gallo → contino
 gamba → ximbrarisa, ambo
 gammagrafía → gammagrafia, gammagrafica
@@ -1832,6 +1846,7 @@ generación → espauna
 generador → espaunaoro
 general → general
 genio → genio, ginio
+genoma → genoma
 gente → gente
 geografía → geografia, geografica
 geología → geologia
@@ -1866,6 +1881,8 @@ gnoseología → gnoseologia
 gobierno → governo
 gofre → xafla
 golem → golem
+golf → golf
+golfista → golfista, golfette
 golfo (geografía) → girufa
 golpe de estado → estatarrota
 goma (herramienta) → prusaioro
@@ -2043,6 +2060,7 @@ hostelerías → hosta
 hostia → portona
 hot dog, completo, perrito caliente → kalerhundo, sausixa
 hotel → hostala
+hoyo → hoio
 hueso → hoso
 huevo → ovo
 humanidad → homoia, humanita
@@ -2169,6 +2187,7 @@ jornada → henata, iornada
 joven → neve, nevon
 juego → joko
 juez → juksette
+jugador de baloncesto → bolacester, bolacestette
 jugador → jokaiette
 juglar → joglar
 jugo → xugo, yogo
@@ -2191,6 +2210,7 @@ laberinto → mace
 labio → labe
 lado → sero
 ladrillo → brico, kuxa
+ladrón (aparato electrónico) → repardoro, elektrorepardoro
 ladrón → rovette, rovago
 lago → laka
 laguna → lurge, lakata
@@ -2316,7 +2336,7 @@ madriguera → maheiga
 maestro → mastero
 maestría → masteria
 magdalena → magadia
-magia → magia
+magia → magia, haia
 magma → magma
 magnetismo → magnetisma
 magnolia (flor) → magnasia
@@ -2355,6 +2375,7 @@ manticora → mantikora
 manutención → ersokio
 manzana → menzana, pomo
 manzanilla → pomotsa
+maná → haia
 mapa → mapa
 mapache → mapatso, racune
 mar → mare
@@ -2503,6 +2524,7 @@ misionero → mesigette
 misión → mesiga
 misterio → misteria, edaro
 mitad, medio → mita
+mitin (política) → levado
 mito → misto
 mitografía → mitografia, mitografica
 mitología → mitologia
@@ -2697,6 +2719,7 @@ oftalmólogo → oftalmologo, oftalmologette
 ojo → exo, ogo
 ola → guaira
 oleografía → oleografia, oleografica
+oliva → oliva
 olla → kalerkista
 olmo → elme
 olor → eslo
@@ -3013,7 +3036,8 @@ piscina → acoakisa
 piso, apartamento → empartamento, bloke
 pista (sobre un misterio) → hanta
 pista de baile → danzeplane
-pistacho → petsula, pistatso
+pistacho (color) → pistatso, olive
+pistacho (fruto seco) → petsula, pistatso
 pistola → pistola
 pitaya → noisa
 pizarra (escuela) → zirraplane
@@ -3180,7 +3204,7 @@ pua → pika
 pueblo → popula
 puente → ponto
 puercoespín → pigotira
-puerro → leko
+puerro → leko, kelena
 puerta → porta
 puerto → porto
 puesta de sol → solarga, solposai
@@ -3306,6 +3330,7 @@ reno → kirko
 renovación → renevo, reneva
 reología → reologia
 reparación → repaira
+repartidor → repardette, repartette
 repetidor → repeteoro
 repostería → sundere
 representación → representatio
@@ -3637,6 +3662,7 @@ tenazas, alicates → alicator
 tendero, vendedor → venteixette
 tenedor → tinera, trintso
 tenis → tenis
+tenista → tenista
 tensión → tentia
 teología → teologia
 teratología → teratologia
@@ -4025,7 +4051,8 @@ zócalo → sokete
 álamo → klisila
 ámbar → ambar
 ángel → anyel
-árbol → arbotso
+árbol mágico → traxhaia
+árbol → arbotso, traxe
 ático → atike, airgaizera
 época → elkara
 ética → etika

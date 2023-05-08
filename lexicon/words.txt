@@ -361,6 +361,8 @@ anatomopatologo
 anazinto
 anca
 ancai
+ancanto
+ancantoire
 ancla
 anclaxo
 anclo
@@ -912,9 +914,12 @@ blumai
 blurra
 bluta
 bobal
+bobsleigh
 boglo
 bola
 bolacesta
+bolacester
+bolacestette
 bolakar
 bolakarno
 boldai
@@ -1019,6 +1024,7 @@ busto
 butanna
 butano
 cabin
+cacao
 cacauato
 caco
 cacografia
@@ -1036,6 +1042,7 @@ calamitas
 calanula
 calcografia
 calcografica
+caldron
 calendario
 calendaro
 calendula
@@ -1406,6 +1413,7 @@ coto
 cowboy
 craneo
 craneologia
+crater
 creata
 createi
 credito
@@ -1937,6 +1945,8 @@ ekoreko
 ekoretio
 ekoro
 ekurga
+elade
+eladei
 elara
 elasto
 elde
@@ -1955,6 +1965,7 @@ elektriko
 elektrikono
 elektritia
 elektronno
+elektrorepardoro
 elkara
 ello
 elloi
@@ -2101,7 +2112,9 @@ errai
 errairiko
 ersai
 erso
+ersoi
 ersokio
+ersoro
 ertsai
 ertse
 ertseko
@@ -2389,6 +2402,7 @@ faira
 faire
 faita
 faitai
+faize
 fakro
 fala
 falai
@@ -2416,11 +2430,16 @@ farmacologo
 farmacopsicologia
 farura
 fasca
+fascai
+fascaire
+fasco
 fasmofobia
 fasoa
+fasqette
 fataine
 fato
 favorai
+fazei
 fazia
 fazilai
 fazilo
@@ -2644,6 +2663,7 @@ funeral
 fungo
 funzai
 furmo
+furnai
 furne
 furnei
 furnitia
@@ -2658,11 +2678,14 @@ fusei
 fuseitela
 fusil
 futbola
+futbolette
+futbolista
 futura
 futurologette
 futurologia
 futurologo
 fuzo
+gaia
 gaiza
 gaize
 gaizecuba
@@ -2708,6 +2731,7 @@ genelo
 genera
 general
 genio
+genoma
 gente
 geografette
 geografia
@@ -2775,6 +2799,9 @@ gobo
 gobocupa
 goko
 golem
+golf
+golfette
+golfista
 goma
 gonai
 gorro
@@ -2840,6 +2867,7 @@ hackei
 hagiografia
 hagiografica
 hai
+haia
 haiai
 haile
 hailo
@@ -2987,6 +3015,7 @@ hockey
 hogei
 hogo
 hogoko
+hoio
 holande
 holeko
 holografia
@@ -3266,7 +3295,6 @@ iustika
 iustikai
 iusto
 ivorte
-ivpiter
 izbocix
 izboiko
 izbostava
@@ -3402,6 +3430,8 @@ kautivita
 kavaire
 kebab
 keke
+kelena
+keleta
 kemeido
 kemire
 kemno
@@ -3644,6 +3674,7 @@ leteraette
 letra
 letratablo
 letsuga
+levado
 levai
 leve
 levela
@@ -4081,6 +4112,7 @@ mnemoteknia
 moana
 moape
 mobila
+moblai
 moblo
 model
 modelo
@@ -4423,6 +4455,8 @@ olekso
 oleografia
 oleografica
 oliuma
+oliva
+olive
 olocato
 oloi
 olve
@@ -5057,6 +5091,7 @@ privato
 privono
 prizai
 prizo
+proa
 proba
 probable
 probacupa
@@ -5083,6 +5118,7 @@ profeta
 profila
 progresei
 progreso
+proi
 proke
 prokei
 proko
@@ -5163,6 +5199,7 @@ pupeto
 pura
 purai
 puratio
+purei
 purna
 purnai
 purpuro
@@ -5363,7 +5400,12 @@ rentiei
 reologia
 repaira
 repaire
+repardei
+repardette
+repardoro
 reparo
+repartei
+repartette
 repentai
 repentia
 repentoso
@@ -5815,6 +5857,7 @@ superbia
 superbo
 supervisoi
 supoi
+suportai
 supratela
 supraxai
 suproxei
@@ -5940,6 +5983,7 @@ tendaxette
 tendo
 tendoi
 tenis
+tenista
 tenno
 tenta
 tentai
@@ -6146,6 +6190,8 @@ travaxei
 travaxeko
 travaxette
 travaxo
+traxe
+traxhaia
 traxhia
 traza
 trazai
@@ -6547,6 +6593,9 @@ vitido
 vitoso
 vitreqe
 vitro
+vitsa
+vitsai
+vitsia
 viuto
 viutonekro
 vivai
@@ -6606,6 +6655,7 @@ xava
 xavei
 xaveioro
 xefo
+xeipiter
 xeitore
 xelofono
 xendo
@@ -6639,6 +6689,8 @@ xograstei
 xolda
 xolera
 xouclate
+xouclatela
+xouclatette
 xugino
 xugo
 xulio

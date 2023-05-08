@@ -82,6 +82,7 @@ amañar → amaine
 amenazar → zrotei
 amontonar → kievei
 amputar → amputai
+amueblar → furnai, moblai
 anchar → faldai
 andar → andaire
 anidar → inestai
@@ -94,6 +95,9 @@ aparcar → parakai
 aparecer → aparezei
 aplicar → aplikai
 apostar → postai
+apoyar (ayudar o proteger) → eladei
+apoyar (colocar sobre algo) → ersoi
+apoyar, secundar → proi
 aprender → aprendei
 aprobar → aprovai
 apuñalar → estavai
@@ -171,6 +175,7 @@ canalizar → kanalaize
 cancelar → kanzelei
 canjear → prizai
 cansar → infizei
+cantar angelical → ancantoire
 cantar → qanzei
 captar → kaptai
 capturar → kaptai
@@ -288,7 +293,7 @@ dañar → daxai, injurai
 deber (expresión) → debei
 deber → dutei
 decaer → decai, porei
-decapitar → dantsai
+decapitar → dantsai, fascai, fascaire
 decepcionar → deteptionei
 decidir → dezei
 decir (coloquial) → dikei
@@ -387,6 +392,7 @@ elegir → electoi
 elevar → levai, airoei, quai
 embalar → embalai
 embarcar → embarcai
+embrujar → vitsai
 emitir → emitei
 emocionar (emoción) → emozai
 empacar, empaquetar → paketai
@@ -527,7 +533,7 @@ hablar sin saber → farlai
 hablar → paire, falai
 hacer reir → sigisai
 hacer un tour → turei
-hacer → doi, fai
+hacer → doi, faize, fai, fazei
 hacerse una paja → oargai
 hackear → hackei
 hechizar → xizai
@@ -756,6 +762,7 @@ proponer → petiai, propoize
 prosperar → prosperai
 proteger → protectai
 publicar → publikai
+purificar (religión o místico) → haiai, purei
 quebrar → qibrai
 quedar sin → ranaire
 quedar → quaroi
@@ -799,6 +806,7 @@ remover → removai
 remunerar → remonetai
 rendirse → purnai
 renovar → renevoi, renevai
+repartir → repardei, repartei
 repetir → repetei
 replicar → reproxei
 reportar → reportei
@@ -871,6 +879,7 @@ solver → solvai
 sombrear → tsadoi
 sonar → audei
 sonreir → selai
+soportar → suportai
 sostener → sotenai, sotaine
 soñar → pentsizei
 subir → airei

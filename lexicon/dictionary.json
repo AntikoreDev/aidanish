@@ -2955,6 +2955,14 @@
             }
         ]
     },
+    "amueblar": {
+        "entries": [
+            {
+                "meaning": "furnai, moblai",
+                "specification": ""
+            }
+        ]
+    },
     "américa": {
         "entries": [
             {
@@ -3700,6 +3708,46 @@
             {
                 "meaning": "postai",
                 "specification": ""
+            }
+        ]
+    },
+    "apoyar": {
+        "entries": [
+            {
+                "meaning": "eladei",
+                "specification": "ayudar o proteger"
+            },
+            {
+                "meaning": "ersoi",
+                "specification": "colocar sobre algo"
+            },
+            {
+                "meaning": "proi",
+                "specification": ""
+            }
+        ]
+    },
+    "secundar": {
+        "entries": [
+            {
+                "meaning": "proi",
+                "specification": ""
+            }
+        ]
+    },
+    "apoyo": {
+        "entries": [
+            {
+                "meaning": "elade",
+                "specification": "ayuda o protección"
+            },
+            {
+                "meaning": "ersoro",
+                "specification": "cargar; hacer descansar"
+            },
+            {
+                "meaning": "proa",
+                "specification": "respaldar; aprobar"
             }
         ]
     },
@@ -6411,6 +6459,14 @@
             }
         ]
     },
+    "bobsleigh": {
+        "entries": [
+            {
+                "meaning": "bobsleigh",
+                "specification": ""
+            }
+        ]
+    },
     "boca": {
         "entries": [
             {
@@ -6855,6 +6911,22 @@
             }
         ]
     },
+    "bruja": {
+        "entries": [
+            {
+                "meaning": "vitsa",
+                "specification": ""
+            }
+        ]
+    },
+    "brujería": {
+        "entries": [
+            {
+                "meaning": "vitsia",
+                "specification": ""
+            }
+        ]
+    },
     "brusco": {
         "entries": [
             {
@@ -7283,6 +7355,14 @@
             }
         ]
     },
+    "cacao": {
+        "entries": [
+            {
+                "meaning": "cacao",
+                "specification": ""
+            }
+        ]
+    },
     "cacerola": {
         "entries": [
             {
@@ -7507,6 +7587,22 @@
         "entries": [
             {
                 "meaning": "kalculei",
+                "specification": ""
+            }
+        ]
+    },
+    "caldera": {
+        "entries": [
+            {
+                "meaning": "caldron",
+                "specification": ""
+            }
+        ]
+    },
+    "calentador": {
+        "entries": [
+            {
+                "meaning": "caldron",
                 "specification": ""
             }
         ]
@@ -8011,6 +8107,14 @@
             }
         ]
     },
+    "cantar angelical": {
+        "entries": [
+            {
+                "meaning": "ancantoire",
+                "specification": ""
+            }
+        ]
+    },
     "cantar": {
         "entries": [
             {
@@ -8063,6 +8167,14 @@
         "entries": [
             {
                 "meaning": "cantena, ingotela",
+                "specification": ""
+            }
+        ]
+    },
+    "canto angeligcal": {
+        "entries": [
+            {
+                "meaning": "ancanto",
                 "specification": ""
             }
         ]
@@ -8906,6 +9018,10 @@
     "cebolleta": {
         "entries": [
             {
+                "meaning": "keleta",
+                "specification": ""
+            },
+            {
                 "meaning": "setso",
                 "specification": ""
             }
@@ -9495,6 +9611,22 @@
         "entries": [
             {
                 "meaning": "xouclate",
+                "specification": ""
+            }
+        ]
+    },
+    "chocolatero": {
+        "entries": [
+            {
+                "meaning": "xouclatette",
+                "specification": ""
+            }
+        ]
+    },
+    "chocolatería": {
+        "entries": [
+            {
+                "meaning": "xouclatela",
                 "specification": ""
             }
         ]
@@ -12803,6 +12935,14 @@
             }
         ]
     },
+    "cráter": {
+        "entries": [
+            {
+                "meaning": "crater",
+                "specification": ""
+            }
+        ]
+    },
     "crédito": {
         "entries": [
             {
@@ -13726,7 +13866,7 @@
     "decapitación": {
         "entries": [
             {
-                "meaning": "dantsa",
+                "meaning": "dantsa, fasco",
                 "specification": ""
             }
         ]
@@ -13734,7 +13874,7 @@
     "decapitador": {
         "entries": [
             {
-                "meaning": "dantsette",
+                "meaning": "dantsette, fasqette",
                 "specification": ""
             }
         ]
@@ -13742,7 +13882,7 @@
     "decapitar": {
         "entries": [
             {
-                "meaning": "dantsai",
+                "meaning": "dantsai, fascai, fascaire",
                 "specification": ""
             }
         ]
@@ -16755,6 +16895,14 @@
         "entries": [
             {
                 "meaning": "embriologo, embriologette",
+                "specification": ""
+            }
+        ]
+    },
+    "embrujar": {
+        "entries": [
+            {
+                "meaning": "vitsai",
                 "specification": ""
             }
         ]
@@ -21111,6 +21259,14 @@
             }
         ]
     },
+    "futbolista": {
+        "entries": [
+            {
+                "meaning": "futbolista, futbolette",
+                "specification": ""
+            }
+        ]
+    },
     "futuro": {
         "entries": [
             {
@@ -21230,7 +21386,7 @@
     "gallina": {
         "entries": [
             {
-                "meaning": "conto",
+                "meaning": "conto, gaia",
                 "specification": ""
             }
         ]
@@ -21559,6 +21715,14 @@
             }
         ]
     },
+    "genoma": {
+        "entries": [
+            {
+                "meaning": "genoma",
+                "specification": ""
+            }
+        ]
+    },
     "gente": {
         "entries": [
             {
@@ -21859,6 +22023,22 @@
         "entries": [
             {
                 "meaning": "golem",
+                "specification": ""
+            }
+        ]
+    },
+    "golf": {
+        "entries": [
+            {
+                "meaning": "golf",
+                "specification": ""
+            }
+        ]
+    },
+    "golfista": {
+        "entries": [
+            {
+                "meaning": "golfista, golfette",
                 "specification": ""
             }
         ]
@@ -22578,7 +22758,7 @@
     "hacer": {
         "entries": [
             {
-                "meaning": "doi, fai",
+                "meaning": "doi, faize, fai, fazei",
                 "specification": ""
             }
         ]
@@ -23743,6 +23923,14 @@
         "entries": [
             {
                 "meaning": "nauhen",
+                "specification": ""
+            }
+        ]
+    },
+    "hoyo": {
+        "entries": [
+            {
+                "meaning": "hoio",
                 "specification": ""
             }
         ]
@@ -25387,6 +25575,14 @@
             }
         ]
     },
+    "jugador de baloncesto": {
+        "entries": [
+            {
+                "meaning": "bolacester, bolacestette",
+                "specification": ""
+            }
+        ]
+    },
     "jugador": {
         "entries": [
             {
@@ -25514,7 +25710,7 @@
     "júpiter": {
         "entries": [
             {
-                "meaning": "ivpiter",
+                "meaning": "xeipiter",
                 "specification": ""
             }
         ]
@@ -25693,6 +25889,10 @@
     },
     "ladrón": {
         "entries": [
+            {
+                "meaning": "repardoro, elektrorepardoro",
+                "specification": "aparato electrónico"
+            },
             {
                 "meaning": "rovette, rovago",
                 "specification": ""
@@ -27146,7 +27346,7 @@
     "magia": {
         "entries": [
             {
-                "meaning": "magia",
+                "meaning": "magia, haia",
                 "specification": ""
             }
         ]
@@ -27607,6 +27807,14 @@
         "entries": [
             {
                 "meaning": "pomotsa",
+                "specification": ""
+            }
+        ]
+    },
+    "maná": {
+        "entries": [
+            {
+                "meaning": "haia",
                 "specification": ""
             }
         ]
@@ -29231,6 +29439,14 @@
             }
         ]
     },
+    "mitin": {
+        "entries": [
+            {
+                "meaning": "levado",
+                "specification": "política"
+            }
+        ]
+    },
     "mito": {
         "entries": [
             {
@@ -29835,6 +30051,10 @@
         "entries": [
             {
                 "meaning": "morte",
+                "specification": ""
+            },
+            {
+                "meaning": "morto",
                 "specification": ""
             }
         ]
@@ -31511,6 +31731,14 @@
         "entries": [
             {
                 "meaning": "eslei, oloi, oleire",
+                "specification": ""
+            }
+        ]
+    },
+    "oliva": {
+        "entries": [
+            {
+                "meaning": "oliva",
                 "specification": ""
             }
         ]
@@ -34934,8 +35162,12 @@
     "pistacho": {
         "entries": [
             {
+                "meaning": "pistatso, olive",
+                "specification": "color"
+            },
+            {
                 "meaning": "petsula, pistatso",
-                "specification": ""
+                "specification": "fruto seco"
             }
         ]
     },
@@ -36922,7 +37154,7 @@
     "puerro": {
         "entries": [
             {
-                "meaning": "leko",
+                "meaning": "leko, kelena",
                 "specification": ""
             }
         ]
@@ -37036,6 +37268,14 @@
             {
                 "meaning": "puntico",
                 "specification": ""
+            }
+        ]
+    },
+    "purificar": {
+        "entries": [
+            {
+                "meaning": "haiai, purei",
+                "specification": "religión o místico"
             }
         ]
     },
@@ -38487,6 +38727,22 @@
         "entries": [
             {
                 "meaning": "repaira",
+                "specification": ""
+            }
+        ]
+    },
+    "repartidor": {
+        "entries": [
+            {
+                "meaning": "repardette, repartette",
+                "specification": ""
+            }
+        ]
+    },
+    "repartir": {
+        "entries": [
+            {
+                "meaning": "repardei, repartei",
                 "specification": ""
             }
         ]
@@ -41331,6 +41587,14 @@
             }
         ]
     },
+    "soportar": {
+        "entries": [
+            {
+                "meaning": "suportai",
+                "specification": ""
+            }
+        ]
+    },
     "sordo": {
         "entries": [
             {
@@ -42743,6 +43007,14 @@
         "entries": [
             {
                 "meaning": "tenis",
+                "specification": ""
+            }
+        ]
+    },
+    "tenista": {
+        "entries": [
+            {
+                "meaning": "tenista",
                 "specification": ""
             }
         ]
@@ -47003,10 +47275,18 @@
             }
         ]
     },
+    "árbol mágico": {
+        "entries": [
+            {
+                "meaning": "traxhaia",
+                "specification": ""
+            }
+        ]
+    },
     "árbol": {
         "entries": [
             {
-                "meaning": "arbotso",
+                "meaning": "arbotso, traxe",
                 "specification": ""
             }
         ]

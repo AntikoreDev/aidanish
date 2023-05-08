@@ -355,6 +355,7 @@ ampelología
 amplio
 amputación
 amputar
+amueblar
 américa
 analogía
 anarquía
@@ -451,6 +452,8 @@ aplicar
 apodo
 apología
 apostar
+apoyar
+apoyo
 aprender
 aprendizaje
 aprobación
@@ -784,6 +787,7 @@ bloquear
 bloqueo
 boa
 bobo
+bobsleigh
 boca
 bocadillo
 bodega
@@ -841,6 +845,8 @@ bromear
 bromelia
 bromo
 bronce
+bruja
+brujería
 brusco
 brío
 bucal
@@ -893,6 +899,7 @@ cabrón
 caca
 cacahuate
 cacahuete
+cacao
 cacerola
 cacería
 cacografía
@@ -922,9 +929,11 @@ calcetín
 calcografía
 calculadora
 calcular
+caldera
 calefacción
 calefactor
 calendario
+calentador
 calentamiento
 calentar
 caliente
@@ -985,6 +994,7 @@ cansado
 cansancio
 cansar
 cantar
+cantar angelical
 cantautor
 cantera
 cantero
@@ -992,6 +1002,7 @@ cantico
 cantimplora
 cantina
 canto
+canto angeligcal
 caníbal
 caoba
 capa
@@ -1172,6 +1183,8 @@ chiste
 chistera
 chocar
 chocolate
+chocolatero
+chocolatería
 choque
 chuche
 chupada
@@ -1566,6 +1579,7 @@ crujir
 cruz
 cruzar
 cráneo
+cráter
 crédito
 crónica
 cuadrado
@@ -2041,6 +2055,7 @@ embarcar
 embarco
 embriología
 embriólogo
+embrujar
 emergenciólogo
 emisor
 emitir
@@ -2575,6 +2590,7 @@ fundición
 fundir
 funeral
 fusil
+futbolista
 futuro
 futurología
 futurólogo
@@ -2632,6 +2648,7 @@ generalmente de la tercera edad
 generar
 genial
 genio
+genoma
 gente
 geografía
 geología
@@ -2667,6 +2684,8 @@ gobernar
 gobierno
 gofre
 golem
+golf
+golfista
 golfo
 goloso
 golpe de estado
@@ -2902,6 +2921,7 @@ hostia
 hot dog
 hotel
 hoy
+hoyo
 hueso
 huevo
 huir
@@ -3098,6 +3118,7 @@ juego
 jueves
 juez
 jugador
+jugador de baloncesto
 jugar
 juglar
 jugo
@@ -3368,6 +3389,7 @@ manticora
 manutención
 manzana
 manzanilla
+maná
 mapa
 mapache
 mar
@@ -3561,6 +3583,7 @@ misterio
 misterioso
 mitad
 mitigar
+mitin
 mito
 mitografía
 mitología
@@ -3841,6 +3864,7 @@ ojo
 ola
 oleografía
 oler
+oliva
 olla
 olmo
 olor
@@ -4516,6 +4540,7 @@ punto de mira
 puntuación
 puntuado
 pupa
+purificar
 puro
 puré
 puta
@@ -4694,6 +4719,8 @@ renovar
 reología
 reparación
 reparar
+repartidor
+repartir
 repentino
 repetidor
 repetir
@@ -4881,6 +4908,7 @@ seco
 secreto
 secta
 secuencia
+secundar
 seda
 sedar
 sede
@@ -5038,6 +5066,7 @@ sonido
 sonreir
 sonrisa
 sopa
+soportar
 sordo
 sostención
 sostener
@@ -5208,6 +5237,7 @@ tendero
 tenedor
 tener
 tenis
+tenista
 tensar
 tensión
 tentar
@@ -5732,6 +5762,7 @@ zócalo
 ángel
 árabe
 árbol
+árbol mágico
 áspero
 ático
 épico

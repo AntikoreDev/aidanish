@@ -351,6 +351,7 @@ mono → neko
 morado → morato
 mortal → mortal
 mudo → unpaireko
+muerto → morto
 mugroso → mugaro
 mundial → mondola
 muy cerrado, casi sin ventanas o puertas → zakerro

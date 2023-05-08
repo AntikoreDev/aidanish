@@ -62,7 +62,7 @@ la japonia
 la traxhia
 ei xulio
 ei januo
-ei ivpiter
+ei xeipiter
 la lisbona
 la londonia
 la lunia
@@ -415,6 +415,9 @@ la apifobia
 ei aplikatio
 ei xenome
 la apologia
+la elade
+ei ersoro
+la proa
 ei aprendeixo
 ei aprovatio
 ei aprovo
@@ -710,6 +713,7 @@ ei bloke
 ei lokeo
 la zisga
 la keke
+ei bobsleigh
 la oupa
 ei britango
 la vinotela
@@ -762,6 +766,8 @@ ei bromatologette
 la estarola
 ei bromo
 ei bronce
+la vitsa
+la vitsia
 la farla
 ei loop
 la budisma
@@ -811,6 +817,7 @@ ei morogo
 ei nnordo
 la fecta
 ei cacauato
+ei cacao
 la kaserola
 la junziasa
 la cacografia
@@ -844,6 +851,7 @@ la calza
 la calcografia
 la calcografica
 ei kalculoro
+ei caldron
 la kaleria
 la henlista
 ei calendaro
@@ -912,6 +920,7 @@ ei acoino
 la cantimpla
 la cantena
 la ingotela
+ei ancanto
 ei qanzo
 la canibal
 la untsua
@@ -1009,6 +1018,7 @@ la kanna
 ei cannon
 ei cd
 ei onnete
+la keleta
 ei setso
 la zebra
 la cecografia
@@ -1076,6 +1086,8 @@ la zizga
 la tsaska
 la tsistera
 ei xouclate
+ei xouclatette
+la xouclatela
 ei bumpo
 la dultsina
 la lika
@@ -1414,6 +1426,7 @@ ei crosafiktio
 ei cruste
 la crosa
 ei craneo
+la crater
 ei credito
 ei cronike
 ei qatrato
@@ -1506,7 +1519,9 @@ la daxa
 ei dute
 ei esaroidute
 la dantsa
+ei fasco
 la dantsette
+la fasqette
 ei decatlon
 la decimal
 la deze
@@ -2174,6 +2189,8 @@ la esmokaiette
 la fuseitela
 ei funeral
 ei fusil
+la futbolista
+ei futbolette
 ei proximo
 la futurologia
 ei futurologo
@@ -2192,6 +2209,7 @@ la galaksis
 la galila
 ei galgo
 ei conto
+la gaia
 ei contino
 la ximbrarisa
 ei ambo
@@ -2238,6 +2256,7 @@ ei espaunaoro
 la general
 ei genio
 ei ginio
+la genoma
 la gente
 la geografia
 la geografica
@@ -2282,6 +2301,9 @@ la gnoseologia
 ei governo
 la xafla
 ei golem
+ei golf
+la golfista
+ei golfette
 la girufa
 la estatarrota
 ei prusaioro
@@ -2517,6 +2539,7 @@ la portona
 ei kalerhundo
 la sausixa
 la hostala
+ei hoio
 ei hoso
 ei ovo
 la homoia
@@ -2675,6 +2698,8 @@ la neve
 ei nevon
 ei joko
 ei juksette
+ei bolacester
+la bolacestette
 la jokaiette
 ei joglar
 ei xugo
@@ -2701,6 +2726,8 @@ la labe
 ei sero
 ei brico
 la kuxa
+ei repardoro
+ei elektrorepardoro
 ei rovette
 ei rovago
 la laka
@@ -2855,6 +2882,7 @@ ei mastero
 la masteria
 la magadia
 la magia
+la haia
 la magma
 la magnetisma
 la magnasia
@@ -2900,6 +2928,7 @@ ei ersokio
 la menzana
 ei pomo
 la pomotsa
+la haia
 la mapa
 ei mapatso
 la racune
@@ -3089,6 +3118,7 @@ la mesiga
 la misteria
 ei edaro
 la mita
+ei levado
 ei misto
 la mitografia
 la mitografica
@@ -3338,6 +3368,7 @@ ei ogo
 la guaira
 la oleografia
 la oleografica
+la oliva
 la kalerkista
 la elme
 ei eslo
@@ -3744,6 +3775,8 @@ ei empartamento
 ei bloke
 la hanta
 la danzeplane
+ei pistatso
+ei olive
 la petsula
 ei pistatso
 la pistola
@@ -3948,6 +3981,7 @@ la popula
 ei ponto
 la pigotira
 ei leko
+la kelena
 la porta
 ei porto
 la solarga
@@ -4091,6 +4125,8 @@ ei renevo
 la reneva
 la reologia
 la repaira
+la repardette
+la repartette
 ei repeteoro
 ei sundere
 ei representatio
@@ -4502,6 +4538,7 @@ ei venteixette
 la tinera
 ei trintso
 la tenis
+la tenista
 la tentia
 la teologia
 la teratologia
@@ -5009,7 +5046,9 @@ la egila
 la klisila
 la ambar
 la anyel
+la traxhaia
 ei arbotso
+la traxe
 la atike
 la airgaizera
 la elkara
@@ -5412,6 +5451,7 @@ ei neko
 ei morato
 ei mortal
 ei unpaireko
+ei morto
 ei mugaro
 la mondola
 ei zakerro
