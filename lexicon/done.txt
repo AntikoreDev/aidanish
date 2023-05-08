@@ -4,7 +4,6 @@ a la derecha
 a la izquierda
 a la mierda
 a punto de terminar
-a sabiendas de que nunca sabrás como tus pequeñas acciones afectaron a largo plazo a otras personas
 a veces
 abadía
 abajo
@@ -1524,7 +1523,7 @@ costo
 costra
 costumbre
 costura
-cotilla
+cotilla; persona que activamente espía a conocidos para cuchichear normalmente para hablarlo con más personas así
 coyote
 coño
 craneología
@@ -2645,7 +2644,6 @@ genealogía
 generación
 generador
 general
-generalmente de la tercera edad
 generar
 genial
 genio
@@ -3146,8 +3144,8 @@ kosovo
 kremlinología
 kremlinólogo
 la
-la curiosidad que te da de saber el impacto que has tenido en la vida de la gente a tu alrededor
-la sensación de vacío causada cuando un proceso arduo ha terminado
+la curiosidad que te da de saber el impacto que has tenido en la vida de la gente a tu alrededor; a sabiendas de que nunca sabrás como tus pequeñas acciones afectaron a largo plazo a otras personas
+la sensación de vacío causada cuando un proceso arduo ha terminado; que te deja relajado pero sintiendo la falta de ese estrés que te daba un propósito
 laberinto
 labio
 lado
@@ -3783,7 +3781,6 @@ nomografía
 norma
 normal
 normalizar
-normalmente para hablarlo con más personas así
 norte
 norteño
 noruega
@@ -4195,12 +4192,12 @@ persistir
 persona
 persona en contra de las cosas nuevas
 persona o cosa que trae mala suerte o infortunio
-persona que activamente espía a conocidos para cuchichear
 persona que busca activamente asiento en el transporte público
 persona que discrimina a los de su propio grupo social
 persona que hace 'honicidio'
 persona que lleva 300 litros de colonia a todos lados
 persona que se encargaba en época antigua de arreglar puertas y manivelas
+persona; generalmente de la tercera edad; que habla con gente que no conoce por la calle como si fueran conocidos de toda la vida
 personal
 personalización
 personalizar
@@ -4561,9 +4558,7 @@ pórtico
 público
 qubit
 que
-que habla con gente que no conoce por la calle como si fueran conocidos de toda la vida
 que se jodan
-que te deja relajado pero sintiendo la falta de ese estrés que te daba un propósito
 quebrar
 quedada
 quedar
