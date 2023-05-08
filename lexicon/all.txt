@@ -1551,7 +1551,7 @@ costo, coste → koste
 costra → ruxga
 costumbre → costume
 costura → ehelo
-cotilla, persona que activamente espía a conocidos para cuchichear → ecoette
+cotilla, persona que activamente espía a conocidos para cuchichear, normalmente para hablarlo con más personas así → ecoette
 coyote → cuxate
 coño → cunno, vulve
 craneología → craneologia
@@ -1745,6 +1745,7 @@ defensa → defenda
 defensor → defendette
 deficiencia → defizientia
 deficiente → defizente
+definición → definitio
 definido → definite
 definitivo → definite
 degustar, saborear → zaporrai, degustai, degustoi

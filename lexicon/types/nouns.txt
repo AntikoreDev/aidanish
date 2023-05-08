@@ -1271,6 +1271,7 @@ defecto → defekto
 defensa → defenda
 defensor → defendette
 deficiencia → defizientia
+definición → definitio
 deidad → deida
 delfín → delfino
 democracia → democratia

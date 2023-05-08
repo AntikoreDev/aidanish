@@ -1714,6 +1714,7 @@ defensa
 defensor
 deficiencia
 deficiente
+definición
 definido
 definitivo
 degustar
@@ -3782,6 +3783,7 @@ nomografía
 norma
 normal
 normalizar
+normalmente para hablarlo con más personas así
 norte
 norteño
 noruega
