@@ -3220,6 +3220,7 @@ libre
 librería
 libreta
 libro
+libro elemental
 licantropía
 licencia
 licenciado
@@ -3391,6 +3392,7 @@ mantener
 mantenimiento
 mantequilla
 manticora
+manual
 manutención
 manzana
 manzanilla
@@ -5552,6 +5554,7 @@ vacante
 vacunología
 vacunólogo
 vacío
+vademécum
 vago
 vagón
 vajilla

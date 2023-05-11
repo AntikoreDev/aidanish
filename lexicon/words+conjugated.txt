@@ -7686,6 +7686,7 @@ mantega
 mantikora
 mantra
 mantse
+manual
 manza
 manzai
 manzaie
@@ -9844,6 +9845,7 @@ primatologette
 primatologia
 primatologo
 primer
+primera
 primero
 primertela
 prince
@@ -12814,6 +12816,7 @@ vacunologette
 vacunologia
 vacunologo
 vacuos
+vademecum
 vaden
 vadeo
 vadixa

@@ -2786,6 +2786,10 @@ la izbotela
 la libreria
 ei izboiko
 ei librete
+ei vademecum
+la manual
+ei primer
+la primera
 ei izboto
 ei libro
 la licantropia

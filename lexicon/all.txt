@@ -3266,6 +3266,7 @@ libertad → libertia
 libre → libero, liberso
 librería → izbotela, libreria
 libreta → izboiko, librete
+libro elemental, vademécum, manual → vademecum, manual, primer, primera
 libro → izboto, libro
 licantropía → licantropia
 licencia → licensa
