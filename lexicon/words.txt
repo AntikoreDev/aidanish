@@ -1643,6 +1643,7 @@ deslina
 deslinai
 desparei
 desparo
+desredundaire
 destelo
 desteno
 desterrai
@@ -3214,6 +3215,8 @@ inkinde
 inklinai
 inkoastatela
 inkorrektoko
+inmolai
+inmolatia
 inmortal
 inmuno
 inmunologette

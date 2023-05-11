@@ -1582,6 +1582,12 @@ despareiet
 despareiki
 despareio
 despareioto
+desredundaireie
+desredundaireieon
+desredundaireio
+desredundaireioto
+desredundaireki
+desredundairet
 desterraie
 desterraieon
 desterraiet
@@ -3142,6 +3148,12 @@ inklinaiet
 inklinaiki
 inklinaio
 inklinaioto
+inmolaie
+inmolaieon
+inmolaiet
+inmolaiki
+inmolaio
+inmolaioto
 inseleie
 inseleieon
 inseleiet

@@ -16807,6 +16807,14 @@
             }
         ]
     },
+    "eliminar cosas repetidas de un conjunto": {
+        "entries": [
+            {
+                "meaning": "desredundaire",
+                "specification": ""
+            }
+        ]
+    },
     "ella": {
         "entries": [
             {
@@ -24811,6 +24819,22 @@
         "entries": [
             {
                 "meaning": "initio",
+                "specification": ""
+            }
+        ]
+    },
+    "inmolación": {
+        "entries": [
+            {
+                "meaning": "inmolatia",
+                "specification": ""
+            }
+        ]
+    },
+    "inmolar": {
+        "entries": [
+            {
+                "meaning": "inmolai",
                 "specification": ""
             }
         ]

@@ -2082,6 +2082,7 @@ electrónico → elektrikono
 elefante → estsondo
 elegir → electoi
 elevar → levai, airoei, quai
+eliminar cosas repetidas de un conjunto → desredundaire
 ella → eila
 ello, eso → so
 ellos (objeto, no se usa pero se mantiene por legacy) → soit
@@ -3071,6 +3072,8 @@ inhalar → inselei
 iniciar sesión → entrei en sesia
 iniciar, comenzar, empezar → initiai, comaize
 inicio → initio
+inmolación → inmolatia
+inmolar → inmolai
 inmortal → inmortal
 inmune → inmuno
 inmunología → inmunologia

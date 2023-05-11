@@ -2128,6 +2128,7 @@ ingeniero → enginero
 ingeniería → engineria
 ingenio → enginio
 inicio → initio
+inmolación → inmolatia
 inmunología → inmunologia
 inmunólogo → inmunologo, inmunologette
 inocencia → inocentia

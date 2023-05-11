@@ -2045,6 +2045,7 @@ electrónico
 elefante
 elegir
 elevar
+eliminar cosas repetidas de un conjunto
 ella
 ello
 ellos
@@ -3026,6 +3027,8 @@ inhalar
 iniciar
 iniciar sesión
 inicio
+inmolación
+inmolar
 inmortal
 inmune
 inmunología

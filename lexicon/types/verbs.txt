@@ -390,6 +390,7 @@ editar → editei
 ejercer → ecersai
 elegir → electoi
 elevar → levai, airoei, quai
+eliminar cosas repetidas de un conjunto → desredundaire
 embalar → embalai
 embarcar → embarcai
 embrujar → vitsai
@@ -565,6 +566,7 @@ informar → informei, infoi
 ingeniar → enginaire
 inhalar → inselei
 iniciar, comenzar, empezar → initiai, comaize
+inmolar → inmolai
 inscribir → azkribei
 insertar → inserei
 instalar → instalai
