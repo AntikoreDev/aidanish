@@ -4514,7 +4514,7 @@
     "aspiradora": {
         "entries": [
             {
-                "meaning": "aspiraoro",
+                "meaning": "aspiraoro, droupingoro",
                 "specification": ""
             }
         ]
@@ -18198,7 +18198,7 @@
     "escoba": {
         "entries": [
             {
-                "meaning": "furra",
+                "meaning": "furra, droupeta",
                 "specification": ""
             }
         ]
@@ -18575,6 +18575,22 @@
         "entries": [
             {
                 "meaning": "escorro",
+                "specification": ""
+            }
+        ]
+    },
+    "esparcir": {
+        "entries": [
+            {
+                "meaning": "droupoi, hougire",
+                "specification": ""
+            }
+        ]
+    },
+    "espolvorear": {
+        "entries": [
+            {
+                "meaning": "droupoi, hougire",
                 "specification": ""
             }
         ]
@@ -22063,6 +22079,14 @@
         "entries": [
             {
                 "meaning": "estatarrota",
+                "specification": ""
+            }
+        ]
+    },
+    "golpear algo para intentar arreglarlo": {
+        "entries": [
+            {
+                "meaning": "impetaikse, impetaksai",
                 "specification": ""
             }
         ]
@@ -33747,7 +33771,7 @@
         "entries": [
             {
                 "meaning": "pastai",
-                "specification": ""
+                "specification": "adherir"
             }
         ]
     },
@@ -35691,7 +35715,11 @@
         "entries": [
             {
                 "meaning": "pulder",
-                "specification": ""
+                "specification": "algo pulverizado"
+            },
+            {
+                "meaning": "droupe",
+                "specification": "suciedad"
             }
         ]
     },

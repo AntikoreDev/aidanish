@@ -2263,6 +2263,7 @@ espalda
 espantapájaros
 espantar
 espanto
+esparcir
 esparto
 españa
 español
@@ -2289,6 +2290,7 @@ espeso
 espesura
 espina
 espirometría
+espolvorear
 esposa
 espuma
 espátula
@@ -2690,6 +2692,7 @@ golfo
 goloso
 golpe de estado
 golpear
+golpear algo para intentar arreglarlo
 goma
 gordo
 gorila

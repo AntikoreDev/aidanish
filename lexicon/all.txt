@@ -557,7 +557,7 @@ asno → ostoro
 asociación → asociatio
 aspecto → aspectia
 aspiración → aspira
-aspiradora → aspiraoro
+aspiradora → aspiraoro, droupingoro
 aspirar → aspirai
 aspirina → anfluga
 asta → bertsa
@@ -2250,7 +2250,7 @@ escena → estena
 escenografía → escenografia, escenografica
 esclavizar → eslavai
 esclavo → eslavo
-escoba → furra
+escoba → furra, droupeta
 escobilla → furrisa
 escocer → eskozei
 escolta → eskolta
@@ -2295,6 +2295,7 @@ espalda → betranno
 espantapájaros → escorraco
 espantar → escorrai
 espanto → escorro
+esparcir, espolvorear → droupoi, hougire
 esparto → esparto
 españa → espanna
 español → espannol
@@ -2731,6 +2732,7 @@ golf → golf
 golfista → golfista, golfette
 golfo (geografía) → girufa
 golpe de estado → estatarrota
+golpear algo para intentar arreglarlo → impetaikse, impetaksai
 golpear → puntsai, bumpai
 goma (herramienta) → prusaioro
 goma (material) → goma
@@ -4186,7 +4188,7 @@ pedofobia → pedofobia
 pedología → pedologia
 pedorro → fargustarra
 pegamento → pasta
-pegar → pastai
+pegar (adherir) → pastai
 pegatina → pastenno
 pegatina → pastika
 peinar → cailai, caile
@@ -4432,7 +4434,8 @@ pollo → acriko, nase
 polo (helado) → polo
 polo → pole
 polonia → polakia
-polvo → pulder
+polvo (algo pulverizado) → pulder
+polvo (suciedad) → droupe
 polén → polen
 políglota → polingo, moltopara
 polígono → moltoxo

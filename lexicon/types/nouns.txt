@@ -431,7 +431,7 @@ asno → ostoro
 asociación → asociatio
 aspecto → aspectia
 aspiración → aspira
-aspiradora → aspiraoro
+aspiradora → aspiraoro, droupingoro
 aspirina → anfluga
 asta → bertsa
 astato → astato
@@ -1531,7 +1531,7 @@ escatología → escatologia
 escena → estena
 escenografía → escenografia, escenografica
 esclavo → eslavo
-escoba → furra
+escoba → furra, droupeta
 escobilla → furrisa
 escolta → eskolta
 escopeta → busterre
@@ -3095,7 +3095,8 @@ polla → naso
 pollo → acriko, nase
 polo (helado) → polo
 polo → pole
-polvo → pulder
+polvo (algo pulverizado) → pulder
+polvo (suciedad) → droupe
 polén → polen
 políglota → polingo, moltopara
 polígono → moltoxo

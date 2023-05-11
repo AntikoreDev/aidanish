@@ -458,6 +458,7 @@ esforzarse mucho → reveuyerai
 esforzarse → efoi, veuyei, veuyerai
 esmaltar → esmaire
 espantar → escorrai
+esparcir, espolvorear → droupoi, hougire
 especializar → espezialitai
 espectar → espektei
 esperar (esperar algo) → aikalai
@@ -520,6 +521,7 @@ gemir → kemire
 generar → espaunaire
 girar, virar → virai
 gobernar → governei
+golpear algo para intentar arreglarlo → impetaikse, impetaksai
 golpear → puntsai, bumpai
 gotear → dipai, tipai
 gozar → gozei
@@ -693,7 +695,7 @@ patear → poitsire
 pausar → pauxai, pausai, haile
 pecar → xinai
 pedir → precai
-pegar → pastai
+pegar (adherir) → pastai
 peinar → cailai, caile
 pelar → pelai
 pelear → faitai

@@ -1839,6 +1839,10 @@ driveno
 drivette
 drogo
 drojo
+droupe
+droupeta
+droupingoro
+droupoi
 druxai
 druxeto
 druxo
@@ -3065,6 +3069,7 @@ hospitalai
 hosta
 hostala
 hostexette
+hougire
 huaba
 huaibe
 humanita
@@ -3141,6 +3146,8 @@ imagineiko
 imake
 imfranto
 imperia
+impetaikse
+impetaksai
 impora
 imporas
 importai

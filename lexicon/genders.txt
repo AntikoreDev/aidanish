@@ -500,6 +500,7 @@ ei asociatio
 la aspectia
 la aspira
 ei aspiraoro
+ei droupingoro
 la anfluga
 la bertsa
 ei astato
@@ -1856,6 +1857,7 @@ la escenografia
 la escenografica
 ei eslavo
 la furra
+la droupeta
 la furrisa
 la eskolta
 ei busterre
@@ -3849,6 +3851,7 @@ la nase
 ei polo
 ei pole
 ei pulder
+ei droupe
 ei polen
 ei polingo
 la moltopara
