@@ -575,6 +575,7 @@ insertar → inserei
 instalar → instalai
 intentar → trei
 interesar → interesai
+introducir → introi
 intrusear → intrudai
 investigar → edaroi
 invitar → invitei

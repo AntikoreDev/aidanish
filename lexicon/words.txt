@@ -3256,6 +3256,7 @@ interneta
 interval
 intra
 intro
+introi
 introverto
 intrudai
 intrudo

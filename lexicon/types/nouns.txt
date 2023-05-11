@@ -2150,6 +2150,7 @@ internet → interneta
 intervalo → interval
 intestino delgado → piko intestino
 intestino grueso → oxto intestino
+introducción → intro
 intruso → intrudo
 invernadero → aznatela, invernadero, aigelere
 investigación → edarotio

@@ -3112,6 +3112,8 @@ internet → interneta
 intervalo → interval
 intestino delgado → piko intestino
 intestino grueso → oxto intestino
+introducción → intro
+introducir → introi
 introvertido → introverto
 intrusear → intrudai
 intruso → intrudo

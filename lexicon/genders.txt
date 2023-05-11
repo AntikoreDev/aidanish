@@ -2648,6 +2648,7 @@ ei intentio
 la tre
 la interneta
 la interval
+ei intro
 ei intrudo
 la aznatela
 ei invernadero
