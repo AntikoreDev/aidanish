@@ -3671,6 +3671,22 @@
             }
         ]
     },
+    "aplaudir": {
+        "entries": [
+            {
+                "meaning": "klapai",
+                "specification": ""
+            }
+        ]
+    },
+    "aplauso": {
+        "entries": [
+            {
+                "meaning": "klapa",
+                "specification": ""
+            }
+        ]
+    },
     "aplicación": {
         "entries": [
             {
@@ -28727,6 +28743,14 @@
             }
         ]
     },
+    "melodía": {
+        "entries": [
+            {
+                "meaning": "melodia",
+                "specification": ""
+            }
+        ]
+    },
     "melografía": {
         "entries": [
             {
@@ -32422,11 +32446,7 @@
     "otra vez": {
         "entries": [
             {
-                "meaning": "aran",
-                "specification": ""
-            },
-            {
-                "meaning": "retai",
+                "meaning": "aran, retai",
                 "specification": ""
             }
         ]
@@ -40532,6 +40552,18 @@
             {
                 "meaning": "senologia",
                 "specification": ""
+            }
+        ]
+    },
+    "sensación": {
+        "entries": [
+            {
+                "meaning": "sensation",
+                "specification": "moda"
+            },
+            {
+                "meaning": "sensa",
+                "specification": "sentir algo"
             }
         ]
     },

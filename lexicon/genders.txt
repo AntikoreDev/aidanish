@@ -412,6 +412,7 @@ ei aipreio
 la apikulxette
 la apikultura
 la apifobia
+la klapa
 ei aplikatio
 ei xenome
 la apologia
@@ -3023,6 +3024,7 @@ la meditia
 ei megafono
 la meliza
 ei apomo
+la melodia
 la melografia
 la melografica
 ei meloko
@@ -3450,7 +3452,6 @@ la otorrinolaringologia
 ei otorrinolaringologo
 ei otorrinolaringologette
 ei autonno
-la retai
 ei otologo
 ei otologette
 ei omejo
@@ -4295,6 +4296,8 @@ ei senu
 la senografia
 la senografica
 la senologia
+ei sensation
+la sensa
 ei senso
 la sensira
 ei senologo

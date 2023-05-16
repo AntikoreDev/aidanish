@@ -446,6 +446,8 @@ apertura
 apicultor
 apicultura
 apifobia
+aplaudir
+aplauso
 aplicación
 aplicar
 apodo
@@ -3500,6 +3502,7 @@ mejor
 mejorar
 mellizo
 melocotón
+melodía
 melografía
 melón
 meme
@@ -4943,6 +4946,7 @@ senda
 seno
 senografía
 senología
+sensación
 sentado
 sentar
 sentido

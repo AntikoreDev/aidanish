@@ -93,6 +93,7 @@ anunciar → advei, advertaire
 apagar → ofei
 aparcar → parakai
 aparecer → aparezei
+aplaudir → klapai
 aplicar → aplikai
 apostar → postai
 apoyar (ayudar o proteger) → eladei

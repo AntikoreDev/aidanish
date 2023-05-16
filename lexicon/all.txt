@@ -452,6 +452,8 @@ apertura → aipreio
 apicultor → apikulxette
 apicultura → apikultura
 apifobia → apifobia
+aplaudir → klapai
+aplauso → klapa
 aplicación → aplikatio
 aplicar → aplikai
 apodo → xenome
@@ -3555,6 +3557,7 @@ mejor → bainodo
 mejorar → bainei
 mellizo → meliza
 melocotón, durazno → apomo
+melodía → melodia
 melografía → melografia, melografica
 melón → meloko
 meme → meme
@@ -4016,8 +4019,7 @@ otorrinolaringólogo → otorrinolaringologo, otorrinolaringologette
 otoño → autonno
 otra cosa → okoixa
 otra forma → oforma
-otra vez → aran
-otra vez → retai
+otra vez → aran, retai
 otro lugar → otela, olocato
 otro momento → otempo
 otro, otros (personas, cosas) → oter
@@ -5033,6 +5035,8 @@ seno (matemáticas) → sino, seno
 seno (tetas) → seno, senu
 senografía → senografia, senografica
 senología → senologia
+sensación (moda) → sensation
+sensación (sentir algo) → sensa
 sentado → siteiko
 sentar → sendai
 sentido → senso

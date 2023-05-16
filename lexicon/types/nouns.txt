@@ -360,6 +360,7 @@ apertura → aipreio
 apicultor → apikulxette
 apicultura → apikultura
 apifobia → apifobia
+aplauso → klapa
 aplicación → aplikatio
 apodo → xenome
 apología → apologia
@@ -2453,6 +2454,7 @@ meditación → meditia
 megáfono → megafono
 mellizo → meliza
 melocotón, durazno → apomo
+melodía → melodia
 melografía → melografia, melografica
 melón → meloko
 meme → meme
@@ -2775,7 +2777,6 @@ otología → otologia
 otorrinolaringología → otorrinolaringologia
 otorrinolaringólogo → otorrinolaringologo, otorrinolaringologette
 otoño → autonno
-otra vez → retai
 otólogo → otologo, otologette
 oveja → omejo
 ozono → ozone
@@ -3469,6 +3470,8 @@ seno (matemáticas) → sino, seno
 seno (tetas) → seno, senu
 senografía → senografia, senografica
 senología → senologia
+sensación (moda) → sensation
+sensación (sentir algo) → sensa
 sentido → senso
 sentimiento → sensira
 senólogo → senologo, senologette

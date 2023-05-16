@@ -6891,6 +6891,14 @@ klagaiet
 klagaiki
 klagaio
 klagaioto
+klapa
+klapai
+klapaie
+klapaieon
+klapaiet
+klapaiki
+klapaio
+klapaioto
 klaritatio
 klaro
 klase
@@ -7861,6 +7869,7 @@ meiperso
 meixa
 mela
 meliza
+melodia
 melografia
 melografica
 meloko
@@ -11255,6 +11264,8 @@ senografica
 senologette
 senologia
 senologo
+sensa
+sensation
 sensei
 senseie
 senseieon

@@ -3477,6 +3477,8 @@ kiva
 kiwi
 klaga
 klagai
+klapa
+klapai
 klaritatio
 klaro
 klase
@@ -3985,6 +3987,7 @@ meiperso
 meixa
 mela
 meliza
+melodia
 melografia
 melografica
 meloko
@@ -5663,6 +5666,8 @@ senografica
 senologette
 senologia
 senologo
+sensa
+sensation
 sensei
 sensira
 senso
