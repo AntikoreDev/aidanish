@@ -14,6 +14,42 @@
 
 All entries are spanish-based, that means all of them are a translation to a spanish word, so you will see `hola → hai` instead of `hello → hai`
 
+## Language Basics
+A few sentences that you can easily use in normal speech
+
+- Hai, com zu astei? → _Hello. How are you?_
+- Na loi zer → _I love you_
+- Naito grazei → _Thank you_
+- Non lanai → _Your welcome_
+- Na taine 18 yarit → _I am 18 years old_
+- Na sei John → _I am John_
+- Donde zu vivai? → _Where do you live?_
+- Na vivai en Espanna → _I live in Spain_
+- Diskare → _I'm sorry_
+- Non lanaiet → _Don't worry_
+- La tempera astei aito nauhen → _The temperatura is warm today_
+
+### Some interesting quotes
+**These ain't literal translations** but adaptations so they mean the same, or they just resemble to a real quote
+
+"Beiet perso am tentaoro e so izkribeie, beiet homo e so expreseie"_
+_Give a pen to a man and they will write, give it to a human and they will express_
+
+"Morto en pluva argaie eir"
+_May death rain upon them_
+
+"Loi paz e ordo"
+_Love, peace and order_
+
+"Aer paire, lude noi"
+_When the air speaks, the group is quiet_
+
+"Air aidanakia, imperia magna"
+_Long live Aidanace, great empire_
+
+"Inferno rata tendai koi baine intentio"
+_Road to hell is paved with good intentions_
+
 ## Glossary of files
 * Running `all.py` will put all entries from all text files on `lexicon/types` into `lexicon/all.txt`.
 * Running `words.py` will put all the aidanish words from all text files on `lexicon/types` into `words.txt` without repeating.
@@ -28,10 +64,3 @@ The script `parse.py` is used by the previous scripts and must not be used on th
 ## Contribute
 I don't think I'm accepting pull requests in general for this project, if for some reason people start using this language I'll consider into adding some town speak :)<br>
 As always, you can support my little projects with a donation. [Buy me a coffee](https://ko-fi.com/antikore) ☕✨
-
-**__Lets make a poem__**
-
-*Roixait sei roxo*<br>
-*Violetit sei anil*<br>
-*Fliaga sei ganai*<br>
-*Baba sei zu*<br>
