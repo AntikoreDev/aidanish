@@ -2833,6 +2833,10 @@ dactilologia
 daemon
 dafuma
 dai
+daie
+daieon
+daiet
+daiki
 daine
 daineie
 daineieon
@@ -2840,6 +2844,8 @@ daineio
 daineioto
 daineki
 dainet
+daio
+daioto
 daita
 dala
 dama
@@ -13156,6 +13162,13 @@ vono
 vorle
 vortatia
 vorto
+vorzoi
+vorzoie
+vorzoieon
+vorzoiet
+vorzoiki
+vorzoio
+vorzoioto
 vourage
 vouraige
 vouraigeie

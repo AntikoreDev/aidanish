@@ -460,6 +460,7 @@ aprendizaje
 aprobación
 aprobado
 aprobar
+aprovechar
 apuñalada
 apuñalamiento
 apuñalar
@@ -5062,6 +5063,7 @@ soja
 sol
 solar
 soldado
+soler
 solidificar
 solo
 soltar

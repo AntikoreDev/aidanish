@@ -100,6 +100,7 @@ apoyar (ayudar o proteger) → eladei
 apoyar (colocar sobre algo) → ersoi
 apoyar, secundar → proi
 aprender → aprendei
+aprovechar → vorzoi
 aprobar → aprovai
 apuñalar → estavai
 archivo → filei
@@ -823,6 +824,7 @@ reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
 reptar → aurandaire, okroi
 residir → reise
+soler → dai
 resistir → resistai
 resolver →  resolei
 respetar → respektei

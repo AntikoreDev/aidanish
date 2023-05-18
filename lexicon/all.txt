@@ -470,6 +470,7 @@ aprendizaje → aprendeixo
 aprobación → aprovatio
 aprobado → aprovo
 aprobar → aprovai
+aprovechar → vorzoi
 apuñalada → estava
 apuñalamiento → estavo
 apuñalar → estavai
@@ -5158,6 +5159,7 @@ soja → soya
 sol → sol
 solar, parcela → solar, parza
 soldado, guerrero → gerraxette
+soler → dai
 solidificar → solidai
 solo (adverbio) → nokpo
 solo (estar solo) → ekoro
