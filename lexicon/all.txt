@@ -1529,6 +1529,9 @@ corrida (cualquier significado no sexual) → zurrata
 corrosión → corroiso
 corrupción → korruptio
 cortador → kutoro
+cortar el césped → ebraixe
+cortar el pelo → ecaile
+cortar las uñas → enekai
 cortar → akutai
 corte → kuta
 corteza → crusta
@@ -2479,6 +2482,7 @@ farmacopsicología → farmacopsicologia
 farmacólogo → farmacologo, farmacologette
 favor → fevo
 favorar → favorai
+favorito → favo
 febrero → febrero
 fecha → daita
 federación → federatio
@@ -5658,6 +5662,7 @@ usuario → usuario
 utero → utero
 utilidad → utilidae
 uva → uba
+uña → neka
 vaca → vaka
 vacante → vakante
 vacunología → vacunologia

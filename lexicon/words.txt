@@ -1880,11 +1880,13 @@ ebilai
 ebilatela
 ebilaxette
 ebilo
+ebraixe
 ebritai
 ebritaita
 ebritaitita
 ebrite
 ebrito
+ecaile
 ecersai
 eclasiko
 eco
@@ -2021,6 +2023,7 @@ enderizo
 endocrinologette
 endocrinologia
 endocrinologo
+enekai
 eneryia
 enfacto
 engerei
@@ -2444,6 +2447,7 @@ fasoa
 fasqette
 fataine
 fato
+favo
 favorai
 fazei
 fazia
@@ -4277,6 +4281,7 @@ neiborako
 neiboro
 neiborotela
 neize
+neka
 nekai
 nekatiko
 nekatikoien

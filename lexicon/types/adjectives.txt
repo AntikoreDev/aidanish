@@ -223,6 +223,7 @@ extremo → extremo
 extrovertido → extroverto
 falso → fakro
 falto → fala
+favorito → favo
 feliz, alegre → aibelo
 femenino → femenine
 feo → zunno, zonno, utego

@@ -1501,6 +1501,9 @@ corrosión
 corrupción
 cortador
 cortar
+cortar el césped
+cortar el pelo
+cortar las uñas
 corte
 corteza
 corto
@@ -2444,6 +2447,7 @@ farmacopsicología
 farmacólogo
 favor
 favorar
+favorito
 febrero
 fecha
 federación
@@ -5558,6 +5562,7 @@ usuario
 utero
 utilidad
 uva
+uña
 vaca
 vacante
 vacunología

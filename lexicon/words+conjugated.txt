@@ -3782,6 +3782,13 @@ ebilaioto
 ebilatela
 ebilaxette
 ebilo
+ebraixe
+ebraixeie
+ebraixeieon
+ebraixeio
+ebraixeioto
+ebraixeki
+ebraixet
 ebritai
 ebritaie
 ebritaieon
@@ -3793,6 +3800,13 @@ ebritaita
 ebritaitita
 ebrite
 ebrito
+ecaile
+ecaileie
+ecaileieon
+ecaileio
+ecaileioto
+ecaileki
+ecailet
 ecersai
 ecersaie
 ecersaieon
@@ -4055,6 +4069,13 @@ enderizo
 endocrinologette
 endocrinologia
 endocrinologo
+enekai
+enekaie
+enekaieon
+enekaiet
+enekaiki
+enekaio
+enekaioto
 eneryia
 enfacto
 engerei
@@ -4952,6 +4973,7 @@ fataineioto
 fataineki
 fatainet
 fato
+favo
 favorai
 favoraie
 favoraieon
@@ -8375,6 +8397,7 @@ neizeio
 neizeioto
 neizeki
 neizet
+neka
 nekai
 nekaie
 nekaieon

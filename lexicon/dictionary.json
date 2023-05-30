@@ -12307,6 +12307,30 @@
             }
         ]
     },
+    "cortar el césped": {
+        "entries": [
+            {
+                "meaning": "ebraixe",
+                "specification": ""
+            }
+        ]
+    },
+    "cortar el pelo": {
+        "entries": [
+            {
+                "meaning": "ecaile",
+                "specification": ""
+            }
+        ]
+    },
+    "cortar las uñas": {
+        "entries": [
+            {
+                "meaning": "enekai",
+                "specification": ""
+            }
+        ]
+    },
     "cortar": {
         "entries": [
             {
@@ -20063,6 +20087,14 @@
         "entries": [
             {
                 "meaning": "favorai",
+                "specification": ""
+            }
+        ]
+    },
+    "favorito": {
+        "entries": [
+            {
+                "meaning": "favo",
                 "specification": ""
             }
         ]
@@ -45607,6 +45639,14 @@
         "entries": [
             {
                 "meaning": "uba",
+                "specification": ""
+            }
+        ]
+    },
+    "uña": {
+        "entries": [
+            {
+                "meaning": "neka",
                 "specification": ""
             }
         ]

@@ -4937,6 +4937,7 @@ ei vexilogette
 ei meto
 ei vex
 ei vixe
+la neka
 ei vibraibo
 la vicunna
 la vita
@@ -5314,6 +5315,7 @@ ei extremo
 ei extroverto
 ei fakro
 la fala
+ei favo
 ei aibelo
 ei femenine
 ei zunno
