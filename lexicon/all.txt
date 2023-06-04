@@ -3305,6 +3305,7 @@ linterna → lanterna
 liquen → liqen
 lirio (flor) → mancuma
 lisboa → lisbona
+lista de cosas que hacer, conjunto de cosas que quedan por terminar → tudu, tudulista
 lista → lista
 listo (persona inteligente) → listo
 listo (preparado) → estedie, preparato
@@ -5219,6 +5220,7 @@ sujetar, agarrar → sujei
 sujetavelas → sujecandala
 suliveyar, encantar → aloi
 sumar → suproxei
+sumergir, irse por el desagüe, → sumire
 superar → raize
 superavit → superavit
 superficie → supratela

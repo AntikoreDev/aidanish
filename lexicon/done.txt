@@ -1,3 +1,4 @@
+
 a
 a la
 a la derecha
@@ -1404,6 +1405,7 @@ congelar
 conjugación
 conjugado
 conjugar
+conjunto de cosas que quedan por terminar
 conjunto o colección de herramientas
 conjurar
 conjuro
@@ -3094,6 +3096,7 @@ iris
 ironía
 irritado
 irritar
+irse por el desagüe
 irónico
 isla
 islamología
@@ -3258,6 +3261,7 @@ liquen
 lirio
 lisboa
 lista
+lista de cosas que hacer
 listo
 litera
 literal
@@ -5123,6 +5127,7 @@ sujetar
 sujetavelas
 suliveyar
 sumar
+sumergir
 superar
 superavit
 superficie

@@ -5866,6 +5866,7 @@ sujepipra
 sujeta
 sukai
 sukra
+sumire
 sundere
 sundo
 sunkrako
@@ -6340,6 +6341,8 @@ tuberculo
 tubia
 tuca
 tucan
+tudu
+tudulista
 tula
 tumba
 tumor

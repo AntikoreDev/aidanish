@@ -2815,6 +2815,8 @@ la lanterna
 ei liqen
 la mancuma
 la lista
+ei tudu
+la tudulista
 la litera
 la literatia
 ei litum

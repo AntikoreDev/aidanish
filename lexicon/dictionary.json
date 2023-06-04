@@ -26715,6 +26715,22 @@
             }
         ]
     },
+    "lista de cosas que hacer": {
+        "entries": [
+            {
+                "meaning": "tudu, tudulista",
+                "specification": ""
+            }
+        ]
+    },
+    "conjunto de cosas que quedan por terminar": {
+        "entries": [
+            {
+                "meaning": "tudu, tudulista",
+                "specification": ""
+            }
+        ]
+    },
     "lista": {
         "entries": [
             {
@@ -42035,6 +42051,30 @@
         "entries": [
             {
                 "meaning": "suproxei",
+                "specification": ""
+            }
+        ]
+    },
+    "sumergir": {
+        "entries": [
+            {
+                "meaning": "sumire",
+                "specification": ""
+            }
+        ]
+    },
+    "irse por el desagüe": {
+        "entries": [
+            {
+                "meaning": "sumire",
+                "specification": ""
+            }
+        ]
+    },
+    "": {
+        "entries": [
+            {
+                "meaning": "sumire",
                 "specification": ""
             }
         ]

@@ -11644,6 +11644,13 @@ sukaiki
 sukaio
 sukaioto
 sukra
+sumire
+sumireie
+sumireieon
+sumireio
+sumireioto
+sumireki
+sumiret
 sundere
 sundo
 sunkrako
@@ -12598,6 +12605,8 @@ tuberculo
 tubia
 tuca
 tucan
+tudu
+tudulista
 tula
 tumba
 tumor

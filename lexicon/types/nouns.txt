@@ -2279,6 +2279,7 @@ linterna → lanterna
 liquen → liqen
 lirio (flor) → mancuma
 lista → lista
+lista de cosas que hacer, conjunto de cosas que quedan por terminar → tudu, tudulista
 litera → litera
 literatura → literatia
 litio → litum
