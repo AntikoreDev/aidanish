@@ -3062,6 +3062,8 @@ planeta → planeta
 planetoide → planetoido
 planimetría → planimetria, planimetrica
 plano → plane
+policía (coloquial) → controletta, controlette
+controlador (informática) → controlatoro, driver
 planta (flor) → planta
 planta petrolífera → nekrasoatela
 planta, piso, suelo → pisoc

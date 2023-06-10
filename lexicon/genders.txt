@@ -3810,6 +3810,10 @@ ei planetoido
 la planimetria
 la planimetrica
 la plane
+la controletta
+ei controlette
+ei controlatoro
+ei driver
 la planta
 la nekrasoatela
 ei pisoc

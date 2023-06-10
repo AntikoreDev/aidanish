@@ -1486,6 +1486,7 @@ contratar → asignai
 contribución → contribe
 contribuir → contribai
 control → control
+controlador (informática) → controlatoro, driver
 controlar → controlei
 convalidar → convai, convalidai
 conversación → pairetio
@@ -3600,6 +3601,8 @@ metalografía → metalografia, metalografica
 meteorito, meteoro → meteoro
 meteorología → meteorologia, meteologia
 meteorólogo → meteorologo, meteorologette, meteologo, meteologette
+meter (introducir en algo) → mitai
+meterse (con algo o alguien) → critai, priksai
 metodología → metodologia
 metro (medida) → metro
 metro (medidor) → metroro
@@ -4435,6 +4438,7 @@ polar → polare
 polarimetría → polarimetria, polarimetrica
 poledance → poledance, poledanza, poledanze
 polemología → polemologia
+policía (coloquial) → controletta, controlette
 policía → polizia
 poligrafía → poligrafia, poligrafica
 polimetría → polimetria, polimetrica
@@ -5220,7 +5224,7 @@ sujetar, agarrar → sujei
 sujetavelas → sujecandala
 suliveyar, encantar → aloi
 sumar → suproxei
-sumergir, irse por el desagüe, → sumire
+sumergir, irse por el desagüe → sumire
 superar → raize
 superavit → superavit
 superficie → supratela

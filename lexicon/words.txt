@@ -1366,7 +1366,10 @@ contraine
 contribai
 contribe
 control
+controlatoro
 controlei
+controletta
+controlette
 controlpanela
 convai
 convalidai
@@ -1432,6 +1435,7 @@ crisantemo
 cristalografia
 cristalografica
 cristologia
+critai
 criteriologia
 croasan
 crocus
@@ -1836,6 +1840,7 @@ drigo
 drioro
 drivai
 driveno
+driver
 drivette
 drogo
 drojo
@@ -4111,6 +4116,7 @@ mistica
 misto
 mita
 mitaheno
+mitai
 mitanito
 mitigaine
 mitografia
@@ -5091,6 +5097,7 @@ prezisio
 preziso
 prige
 prigei
+priksai
 primate
 primatologette
 primatologia

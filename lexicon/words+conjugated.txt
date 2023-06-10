@@ -2608,6 +2608,7 @@ contribaio
 contribaioto
 contribe
 control
+controlatoro
 controlei
 controleie
 controleieon
@@ -2615,6 +2616,8 @@ controleiet
 controleiki
 controleio
 controleioto
+controletta
+controlette
 controlpanela
 convai
 convaie
@@ -2704,6 +2707,13 @@ crisantemo
 cristalografia
 cristalografica
 cristologia
+critai
+critaie
+critaieon
+critaiet
+critaiki
+critaio
+critaioto
 criteriologia
 croasan
 crocus
@@ -3684,6 +3694,7 @@ drivaiki
 drivaio
 drivaioto
 driveno
+driver
 drivette
 drogo
 drojo
@@ -8083,6 +8094,13 @@ mistica
 misto
 mita
 mitaheno
+mitai
+mitaie
+mitaieon
+mitaiet
+mitaiki
+mitaio
+mitaioto
 mitanito
 mitigaine
 mitigaineie
@@ -9885,6 +9903,13 @@ prigeiet
 prigeiki
 prigeio
 prigeioto
+priksai
+priksaie
+priksaieon
+priksaiet
+priksaiki
+priksaio
+priksaioto
 primate
 primatologette
 primatologia

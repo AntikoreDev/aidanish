@@ -11971,6 +11971,14 @@
             }
         ]
     },
+    "controlador": {
+        "entries": [
+            {
+                "meaning": "controlatoro, driver",
+                "specification": "informática"
+            }
+        ]
+    },
     "controlar": {
         "entries": [
             {
@@ -29107,6 +29115,22 @@
             }
         ]
     },
+    "meter": {
+        "entries": [
+            {
+                "meaning": "mitai",
+                "specification": "introducir en algo"
+            }
+        ]
+    },
+    "meterse": {
+        "entries": [
+            {
+                "meaning": "critai, priksai",
+                "specification": "con algo o alguien"
+            }
+        ]
+    },
     "metodología": {
         "entries": [
             {
@@ -35754,6 +35778,10 @@
     "policía": {
         "entries": [
             {
+                "meaning": "controletta, controlette",
+                "specification": "coloquial"
+            },
+            {
                 "meaning": "polizia",
                 "specification": ""
             }
@@ -42064,14 +42092,6 @@
         ]
     },
     "irse por el desagüe": {
-        "entries": [
-            {
-                "meaning": "sumire",
-                "specification": ""
-            }
-        ]
-    },
-    "": {
         "entries": [
             {
                 "meaning": "sumire",
