@@ -36,8 +36,8 @@ activar → aktivei
 actualizar → airposai
 actuar → aktoai
 acumular → acumai, buntsai
-acusar → akusai
 acuñar → acuine
+acusar → akusai
 adelantar → alancai
 adelgazar → delekai
 administrar → administrei
@@ -75,10 +75,10 @@ alzar → ancai
 amaestrar → amasterai
 amamantar → amamantai
 amanecer → manzai
+amañar → amaine
 amar → loi
 amargar → tsagrai
 amartillar, martillar → martexei
-amañar → amaine
 amenazar → zrotei
 amontonar → kievei
 amputar → amputai
@@ -90,6 +90,8 @@ anillar → rinkai
 anochecer → nitoi
 anotar → anotai
 anunciar → advei, advertaire
+añadir → adoi
+añorar → annorai
 apagar → ofei
 aparcar → parakai
 aparecer → aparezei
@@ -100,8 +102,8 @@ apoyar (ayudar o proteger) → eladei
 apoyar (colocar sobre algo) → ersoi
 apoyar, secundar → proi
 aprender → aprendei
-aprovechar → vorzoi
 aprobar → aprovai
+aprovechar → vorzoi
 apuñalar → estavai
 archivo → filei
 arder → burnai
@@ -139,16 +141,14 @@ avanzar → enterei
 avergonzar → combroi
 avisar → avistei
 ayudar → ladei
-añadir → adoi
-añorar → annorai
 babear → clire
 bailar → danzeire
 bajar → aurei
 balanza → balantai
+bañar → baxei
 barajar → barajai
 barrer → furrei
 batear → batei
-bañar → baxei
 beber → acoi, trinkai
 bendecir → bendizei
 beneficiar → benefitiai, supavai
@@ -159,8 +159,8 @@ blindar → blindai
 bloquear → lokei
 bombardear → bombardai
 borrar → prusai
-brillar con luz tenue → glimai
 brillar → briai
+brillar con luz tenue → glimai
 bromear → rusiai
 burlar → bulai
 buscar → findai
@@ -177,8 +177,8 @@ canalizar → kanalaize
 cancelar → kanzelei
 canjear → prizai
 cansar → infizei
-cantar angelical → ancantoire
 cantar → qanzei
+cantar angelical → ancantoire
 captar → kaptai
 capturar → kaptai
 carburar → carburai
@@ -216,8 +216,6 @@ colorear → kromatei, kolorei
 combinar → comboi
 comer → ingerai, ingoi
 comerciar → komerzai
-meter (introducir en algo) → mitai
-meterse (con algo o alguien) → critai, priksai
 cometer, perpetrar → cometai
 compadecer → compadai
 comparar → aslei
@@ -271,11 +269,11 @@ convertir → konversai
 coordinar → coordinai
 copiar → kopai
 coronar → koronai, koronaire
-cortar el pelo → ecaile
-cortar las uñas → enekai
-cortar el césped → ebraixe
 correr → zurrai
 cortar → akutai
+cortar el césped → ebraixe
+cortar el pelo → ecaile
+cortar las uñas → enekai
 cosechar, cultivar → cropai, aznai
 coser → ehelai
 costar (precio) → kostei
@@ -293,10 +291,10 @@ culpar → riaxai
 cumplir → kumplaire
 curar → kurai
 curiosear → kuriosei
-dar pereza → partsai
-dar → bei
-darse cuenta → indorai
 dañar → daxai, injurai
+dar → bei
+dar pereza → partsai
+darse cuenta → indorai
 deber (expresión) → debei
 deber → dutei
 decaer → decai, porei
@@ -304,8 +302,8 @@ decapitar → dantsai, fascai, fascaire
 decepcionar → deteptionei
 decidir → dezei
 decir (coloquial) → dikei
-decir muchas palabrotas → cusai, vouraige
 decir → dikerei
+decir muchas palabrotas → cusai, vouraige
 declarar → declaire
 deducir → deduktei
 defender → defendei
@@ -372,8 +370,8 @@ disciplinar → disciplaire
 discriminar → discrimai
 disculpar → diskaire
 disfrazar → desfroi, vangai
-disfrutar mucho → aioioi
 disfrutar → gozoi
+disfrutar mucho → aioioi
 disipar → disipaire
 disolver → disolvai
 disparar → desparei
@@ -443,8 +441,8 @@ enseñar → esaroi
 ensordecer → sordai
 ensuciar → druxai
 entender → enderei, comprei
-enterrar vivo → vitaurei
 enterrar → enterrei, auroi
+enterrar vivo → vitaurei
 entrar → entrei
 entregar → entregai
 entrenar → traine, entraine
@@ -462,8 +460,8 @@ esconder → jidei
 escribir → izkribei
 escuchar → eskotsai
 escurrir → gutarei
-esforzarse mucho → reveuyerai
 esforzarse → efoi, veuyei, veuyerai
+esforzarse mucho → reveuyerai
 esmaltar → esmaire
 espantar → escorrai
 esparcir, espolvorear → droupoi, hougire
@@ -477,8 +475,8 @@ esquilar → bouroi
 esquivar → inzei
 establecer → setei, establezei
 estallar → aixai
-estar de pie → estandai
 estar → astei
+estar de pie → estandai
 estirar → tritsai, punxai
 estresar → anorrei
 estudiar → estarei
@@ -504,6 +502,7 @@ facilitar → fazilai
 fallar → errai
 faltar → falai
 favorar → favorai
+fertilizar → feretai
 festejar → partai, faire, festai
 finalizar → finalei
 firmar → sennei
@@ -516,8 +515,8 @@ formular → formulai
 forzar → forzai
 fragmentar → fractai
 fregar → mopai
-frenar → freine, detrei
 freír → fritei
+frenar → freine, detrei
 frotar → frotsai
 fumar → esmokai, inzai
 fumigar → fumigai
@@ -529,8 +528,8 @@ gemir → kemire
 generar → espaunaire
 girar, virar → virai
 gobernar → governei
-golpear algo para intentar arreglarlo → impetaikse, impetaksai
 golpear → puntsai, bumpai
+golpear algo para intentar arreglarlo → impetaikse, impetaksai
 gotear → dipai, tipai
 gozar → gozei
 grabar → grabai, ikrabai, recordai
@@ -540,11 +539,11 @@ guardar → gaize
 guiar → redai
 gustar → gustoi
 haber → harei
-hablar sin saber → farlai
 hablar → paire, falai
+hablar sin saber → farlai
+hacer → doi, faize, fai, fazei
 hacer reir → sigisai
 hacer un tour → turei
-hacer → doi, faize, fai, fazei
 hacerse una paja → oargai
 hackear → hackei
 hechizar → xizai
@@ -607,9 +606,9 @@ limitar → limitei
 limpiar → likrai
 llamar → llamai
 llegar → irihei
+llenar → elloi, foloi
 llenar algo para aparentar algo cuantioso → bougire
 llenar o recargar algo innecesariamente → bougai
-llenar → elloi, foloi
 llevar → yeveire
 llorar → lakrimai, acoatai
 llover → pluvai, acoatei
@@ -639,6 +638,8 @@ mensajear → mesajire
 mentalizar → mentaire
 mentir, engañar → lerrai, dulai
 merecer → dersei
+meter (introducir en algo) → mitai
+meterse (con algo o alguien) → critai, priksai
 mezclar → mixei
 minar → mineire
 mirar (mira, no sé que) → siet
@@ -650,10 +651,10 @@ modificar → modifikai
 modular → modulai
 montar (montar algo) → montai
 montar (montar en algo) → overai
-morir de hambre → estarvai
 morir → mortei
-mostrar flash → bliqai
+morir de hambre → estarvai
 mostrar → dorimei
+mostrar flash → bliqai
 mover → movai
 multiplicar → multiproxei
 murmurar → surai
@@ -741,8 +742,8 @@ posar → posei
 poseer → posesai
 posibilitar → posiblai, posibilai, posibilitai
 posponer → posposai
-practicar un hobby → hobbiai
 practicar → praktikai
+practicar un hobby → hobbiai
 precisar → prezisei
 predecir, predicar → predikei
 predicar → predicai
@@ -777,8 +778,8 @@ proteger → protectai
 publicar → publikai
 purificar (religión o místico) → haiai, purei
 quebrar → qibrai
-quedar sin → ranaire
 quedar → quaroi
+quedar sin → ranaire
 quemar → tsizirrei, ignodaxai
 querer → qarei
 quitar → removai
@@ -810,8 +811,8 @@ regar → rekai
 regresar → retornai
 rehacer → redoi, refai
 reir → gisai
-relucir húmedo → acolaine
 relucir → enlitai
+relucir húmedo → acolaine
 remar → esguelai
 remarcar → remarkei
 remasterizar → remastereize
@@ -829,7 +830,6 @@ reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
 reptar → aurandaire, okroi
 residir → reise
-soler → dai
 resistir → resistai
 resolver →  resolei
 respetar → respektei
@@ -874,12 +874,12 @@ seguir → sigai
 seleccionar → selektei
 sentar → sendai
 sentir → sensei
+señalizar → sinnai
 sepultar → sepultai
 ser → sei
 servir (para un jefe tipo mafia) → titsei
 servir (servicio) → servei
 servir (uso de algo) → sirvei
-señalizar → sinnai
 significar → mearei, daine
 silenciar → esparei
 simpatizar → simaise
@@ -887,15 +887,16 @@ sitiar → sitei
 sobrepasar → surpaize
 sobrevivir → survivai
 socializar → sozialei
+soler → dai
 solidificar → solidai
 soltar → soltai
 solver → solvai
 sombrear → tsadoi
 sonar → audei
 sonreir → selai
+soñar → pentsizei
 soportar → suportai
 sostener → sotenai, sotaine
-soñar → pentsizei
 subir → airei
 suceder (continuar) → enterai
 suceder (suceso) → berai
@@ -926,16 +927,16 @@ tender → ibsoi
 tener → taine
 tensar → tentai
 tentar → soblasnei, movai
+teñir → tentai
 terminar → teirnai
 terraformar → terraformei
-teñir → tentai
-tirar mierda o hablar mal fuertemente sobre algo o alguien → jarai
 tirar → atai
+tirar mierda o hablar mal fuertemente sobre algo o alguien → jarai
 tocar → toutsoi
 tomar → tomei
 torturar → apunderai
-trabajar duro, trabajar forzoso → tsunkei
 trabajar → travaxei
+trabajar duro, trabajar forzoso → tsunkei
 traducir → translai
 traer → brogei
 traficar → trafikai

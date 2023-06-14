@@ -19667,6 +19667,70 @@
             }
         ]
     },
+    "excremento de caballo": {
+        "entries": [
+            {
+                "meaning": "ayatina",
+                "specification": ""
+            }
+        ]
+    },
+    "estiércol de caballo": {
+        "entries": [
+            {
+                "meaning": "ayatina",
+                "specification": ""
+            }
+        ]
+    },
+    "excremento de gaviota": {
+        "entries": [
+            {
+                "meaning": "tagarina",
+                "specification": ""
+            }
+        ]
+    },
+    "excremento de murciélago": {
+        "entries": [
+            {
+                "meaning": "vesperina",
+                "specification": ""
+            }
+        ]
+    },
+    "guano de murciélago": {
+        "entries": [
+            {
+                "meaning": "vesperina",
+                "specification": ""
+            }
+        ]
+    },
+    "excremento de paloma": {
+        "entries": [
+            {
+                "meaning": "peristerina, ragorina",
+                "specification": ""
+            }
+        ]
+    },
+    "excremento de pinguino": {
+        "entries": [
+            {
+                "meaning": "pengorina",
+                "specification": ""
+            }
+        ]
+    },
+    "excremento de vaca": {
+        "entries": [
+            {
+                "meaning": "vakerina",
+                "specification": ""
+            }
+        ]
+    },
     "excusa": {
         "entries": [
             {
@@ -20215,6 +20279,22 @@
         "entries": [
             {
                 "meaning": "faira",
+                "specification": ""
+            }
+        ]
+    },
+    "fertilizante": {
+        "entries": [
+            {
+                "meaning": "feretina",
+                "specification": ""
+            }
+        ]
+    },
+    "fertilizar": {
+        "entries": [
+            {
+                "meaning": "feretai",
                 "specification": ""
             }
         ]
@@ -35123,6 +35203,14 @@
         "entries": [
             {
                 "meaning": "pinko",
+                "specification": ""
+            }
+        ]
+    },
+    "pinguino": {
+        "entries": [
+            {
+                "meaning": "pengino, pengo",
                 "specification": ""
             }
         ]

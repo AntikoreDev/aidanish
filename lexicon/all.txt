@@ -2430,6 +2430,12 @@ examinación → examinatia
 examinar → examinai, testai
 excitación → enuse
 excitar → enusei
+excremento de caballo, estiércol de caballo → ayatina
+excremento de gaviota → tagarina
+excremento de murciélago, guano de murciélago → vesperina
+excremento de paloma → peristerina, ragorina
+excremento de pinguino → pengorina
+excremento de vaca → vakerina
 excusa → excusa
 excusar → excusai
 exobiología → exobiologia
@@ -2497,6 +2503,8 @@ fenomenología → fenomenologia
 fenomenólogo → fenomenologo, fenomenologette
 feo → zunno, zonno, utego
 feria → faira
+fertilizante → feretina
+fertilizar → feretai
 festejar → partai, faire, festai
 fetiche → fetixa, kinko
 feto → feto
@@ -4355,6 +4363,7 @@ pincelar → brutsei
 pinchar → pinkai
 pinche (ayudante de cocinero) → adkoxine, koxinlada
 pincho → pinko
+pinguino → pengino, pengo
 pingüino → pingino
 pinnipedo → escua
 pino → pino

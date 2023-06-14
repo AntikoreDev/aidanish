@@ -2350,6 +2350,7 @@ estimar
 estiramiento
 estirar
 estiércol
+estiércol de caballo
 estomatología
 estomatólogo
 estonia
@@ -2398,6 +2399,12 @@ examinación
 examinar
 excitación
 excitar
+excremento de caballo
+excremento de gaviota
+excremento de murciélago
+excremento de paloma
+excremento de pinguino
+excremento de vaca
 excusa
 excusar
 exobiología
@@ -2463,6 +2470,8 @@ fenomenología
 fenomenólogo
 feo
 feria
+fertilizante
+fertilizar
 festejar
 fetiche
 feto
@@ -2755,6 +2764,7 @@ grulla trompetera
 grupo
 grúa
 guacamole
+guano de murciélago
 guante
 guapo
 guardabosques
@@ -4280,6 +4290,7 @@ pincelar
 pinchar
 pinche
 pincho
+pinguino
 pingüino
 pinnipedo
 pino

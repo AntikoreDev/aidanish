@@ -695,6 +695,7 @@ axonometria
 axonometrica
 aya
 ayatela
+ayatina
 ayato
 ayatotela
 ayatuko
@@ -2474,6 +2475,8 @@ fenomenologette
 fenomenologia
 fenomenologo
 fenza
+feretai
+feretina
 ferna
 ferra
 ferramenteria
@@ -4763,6 +4766,9 @@ penalai
 penalite
 pendei
 pendulo
+pengino
+pengo
+pengorina
 penisa
 penna
 pennasco
@@ -4791,6 +4797,7 @@ perila
 perilai
 perilko
 perisologia
+peristerina
 perla
 perlo
 permisai
@@ -5300,6 +5307,7 @@ ragi
 ragiai
 ragiko
 rago
+ragorina
 raiaire
 raio
 raiyoa
@@ -5919,6 +5927,7 @@ tablote
 tabula
 taco
 tafofobia
+tagarina
 tagaro
 tai
 taiga
@@ -6484,6 +6493,7 @@ vadixa
 vadixaguaioro
 vaka
 vakante
+vakerina
 vakero
 vakette
 vale
@@ -6563,6 +6573,7 @@ versus
 verta
 vertico
 vesperilo
+vesperina
 vesuila
 vesuka
 vesukila
