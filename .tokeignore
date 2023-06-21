@@ -2,10 +2,10 @@
 .gitattributes
 main.py
 README.md
-scripts
-grammar
-lexicon/types
-lexicon/names
+scripts/*
+grammar/*
+lexicon/types/*
+lexicon/names/*
 lexicon/all.txt
 lexicon/words.txt
 lexicon/conjugated.txt
