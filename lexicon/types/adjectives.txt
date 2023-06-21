@@ -230,6 +230,7 @@ favorito → favo
 feliz, alegre → aibelo
 femenino → femenine
 feo → zunno, zonno, utego
+festivo → ferivo
 filoso → filaso
 finito → finiko
 fino → estretso
@@ -285,6 +286,7 @@ instantáneo → instantako
 intelectual → intelektualo
 intencional → intentiente
 interesante → interesanta
+intermitente → tika
 introvertido → introverto
 irónico → ironiko
 irritado → ezirutsuko

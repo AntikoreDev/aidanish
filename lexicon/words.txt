@@ -325,6 +325,7 @@ amaiso
 amamantai
 amanita
 amanza
+amaran
 amaranto
 amasterai
 amatista
@@ -1078,6 +1079,8 @@ cancerologia
 cancerologo
 candala
 candalabro
+candelera
+candeloro
 canibal
 canibalisma
 canino
@@ -1218,6 +1221,10 @@ clugra
 clutso
 coarsa
 coarsai
+cobalda
+cobaldo
+cobalta
+cobalto
 cobra
 cocaina
 coco
@@ -1397,6 +1404,7 @@ corpo
 correcto
 corroiso
 corta
+cortai
 cortso
 corveta
 corvo
@@ -1482,6 +1490,8 @@ cuendei
 culda
 culdai
 culdei
+cule
+culepipra
 culto
 cumba
 cumo
@@ -1645,6 +1655,7 @@ desextela
 desfro
 desfroi
 deskriptei
+desktop
 deslina
 deslinai
 desparei
@@ -1653,6 +1664,7 @@ desredundaire
 destelo
 desteno
 desterrai
+desto
 desvariai
 desvario
 detaila
@@ -2332,6 +2344,7 @@ estrukta
 estserra
 estsondo
 estsuela
+estufa
 estundaxe
 estungai
 estungo
@@ -2444,6 +2457,7 @@ farmacologette
 farmacologia
 farmacologo
 farmacopsicologia
+faro
 farura
 fasca
 fascai
@@ -2476,8 +2490,11 @@ fenomenologette
 fenomenologia
 fenomenologo
 fenza
+ferehen
+ferehenita
 feretai
 feretina
+ferivo
 ferna
 ferra
 ferramenteria
@@ -2517,6 +2534,7 @@ findette
 findo
 finiko
 fino
+fira
 fisi
 fisiografia
 fisiografica
@@ -2569,6 +2587,7 @@ focai
 foco
 fogo
 fokai
+fokalarme
 foke
 foko
 fokso
@@ -2623,6 +2642,7 @@ forzai
 forzaioso
 fosfuro
 fotobiologia
+fotocamera
 fotofobia
 fotografia
 fotografica
@@ -2741,6 +2761,7 @@ gelateria
 gelatio
 gelato
 gelo
+gelocamera
 gemologette
 gemologia
 gemologo
@@ -2930,6 +2951,7 @@ hen
 hena
 henata
 hengia
+henito
 henlista
 henpipra
 henpixette
@@ -3330,12 +3352,14 @@ izkratarosotei
 izkratasoro
 izkratoso
 izkrebo
+izkretela
 izkriba
 izkribatia
 izkribei
 izkrioro
 izkro
 izkroro
+izkrotela
 izoya
 jade
 jake
@@ -3626,6 +3650,7 @@ kuratelai
 kurioseata
 kuriosei
 kurioso
+kurtina
 kuta
 kutoro
 kutsa
@@ -3717,6 +3742,7 @@ libertia
 libreria
 librete
 libro
+librotela
 licantropette
 licantropia
 licantropo
@@ -3724,6 +3750,8 @@ licensa
 licensaire
 licenso
 licentela
+licuai
+licuatoro
 ligai
 lige
 lika
@@ -3760,6 +3788,7 @@ litera
 literal
 literatia
 litero
+litika
 lito
 litofotografia
 litofotografica
@@ -3809,6 +3838,7 @@ loop
 lorro
 lostigai
 loteire
+lotoro
 lubai
 lubo
 ludai
@@ -3816,6 +3846,7 @@ ludaine
 lude
 lufaz
 lufazia
+lula
 luna
 lunia
 lurge
@@ -3868,6 +3899,7 @@ maldito
 malherbologia
 malira
 mallea
+malva
 mama
 mamaire
 mamografia
@@ -4062,6 +4094,7 @@ metirra
 meto
 metodologia
 metrallaro
+metrizinto
 metro
 metrologette
 metrologia
@@ -4368,6 +4401,7 @@ nitor
 nitortela
 nitroieno
 nivo
+nivoxerra
 nizaga
 nizagal
 nnordo
@@ -4706,6 +4740,7 @@ paremiologo
 pargo
 parisa
 parke
+parloro
 parrafo
 parroqia
 parta
@@ -4893,6 +4928,7 @@ pioyo
 pipera
 pipra
 piprako
+pipranusa
 pipratela
 pipro
 piragua
@@ -4930,6 +4966,8 @@ planimetria
 planimetrica
 planitela
 planiuno
+plankai
+plankoro
 plano
 planoi
 planta
@@ -5671,6 +5709,7 @@ selekteioko
 selektio
 selenografia
 selenografica
+semaforo
 semasiologia
 semila
 semiologette
@@ -5773,6 +5812,7 @@ simpo
 sindroma
 sinna
 sinnai
+sinnali
 sino
 sinologette
 sinologia
@@ -5809,6 +5849,8 @@ sociometrica
 sociopata
 socrema
 socremeko
+socremoro
+sofa
 sofrologette
 sofrologia
 sofrologo
@@ -6104,6 +6146,7 @@ tifon
 tifona
 tigra
 tigron
+tika
 tike
 tiki
 tikle
@@ -6181,6 +6224,9 @@ tortilla
 tortite
 tortoisa
 tortsa
+tosta
+tostai
+tostoro
 totem
 toutseire
 toutsoi
@@ -6307,9 +6353,11 @@ tsafala
 tsagrai
 tsagrio
 tsagrioso
+tsambora
 tsampeon
 tsampeonato
 tsampinna
+tsandelera
 tsardo
 tsargai
 tsargo
@@ -6354,6 +6402,7 @@ tsunami
 tsunkei
 tsusta
 tube
+tubekula
 tuberculo
 tubia
 tuca
@@ -6534,6 +6583,7 @@ vatio
 vedo
 vehiklo
 veige
+vela
 velcro
 velociraptor
 velociraptoroko
@@ -6590,6 +6640,7 @@ vibrai
 vibraibo
 vicunna
 vidio
+vidiocamera
 vidiojoko
 vidiojokocix
 vigo

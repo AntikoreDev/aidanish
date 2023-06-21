@@ -285,7 +285,7 @@ criar → krai
 crucificar → crosafikai
 crujir → crustai
 cruzar → crosai
-cubrir → kubrai
+cubrir → kubrai, cortai
 cuidar → culdei
 culpar → riaxai
 cumplir → kumplaire
@@ -600,6 +600,7 @@ leer → lektei
 levantar → levai, quai
 liberar → liberai
 licenciar → licensaire
+licuar → licuai
 liderar → aderei
 lijar → liyare
 limitar → limitei
@@ -733,6 +734,7 @@ pincelar → brutsei
 pinchar → pinkai
 pintar → pintei
 pisar → pisoi
+planchar → plankai
 planear (plan) → planoi
 planear (volar) → planeai
 plantar → plantaire
@@ -935,6 +937,7 @@ tirar mierda o hablar mal fuertemente sobre algo o alguien → jarai
 tocar → toutsoi
 tomar → tomei
 torturar → apunderai
+tostar → tostai
 trabajar → travaxei
 trabajar duro, trabajar forzoso → tsunkei
 traducir → translai

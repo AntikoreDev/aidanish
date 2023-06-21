@@ -2015,6 +2015,14 @@
             }
         ]
     },
+    "alarma de incendios": {
+        "entries": [
+            {
+                "meaning": "fokalarme",
+                "specification": ""
+            }
+        ]
+    },
     "alarma": {
         "entries": [
             {
@@ -2510,7 +2518,7 @@
     "altavoz": {
         "entries": [
             {
-                "meaning": "sonikemitero",
+                "meaning": "parloro, sonikemitero",
                 "specification": ""
             }
         ]
@@ -2518,7 +2526,7 @@
     "parlante": {
         "entries": [
             {
-                "meaning": "sonikemitero",
+                "meaning": "parloro, sonikemitero",
                 "specification": ""
             }
         ]
@@ -2701,6 +2709,10 @@
     },
     "amaranto": {
         "entries": [
+            {
+                "meaning": "amaranto, amaran",
+                "specification": "color"
+            },
             {
                 "meaning": "amaranto",
                 "specification": "flor"
@@ -5307,6 +5319,14 @@
             }
         ]
     },
+    "azul cobalto": {
+        "entries": [
+            {
+                "meaning": "cobalta, cobalda",
+                "specification": "color"
+            }
+        ]
+    },
     "azul": {
         "entries": [
             {
@@ -5875,6 +5895,14 @@
             }
         ]
     },
+    "batidora": {
+        "entries": [
+            {
+                "meaning": "socremoro",
+                "specification": ""
+            }
+        ]
+    },
     "batimetría": {
         "entries": [
             {
@@ -6050,7 +6078,7 @@
     "bengala": {
         "entries": [
             {
-                "meaning": "bengala",
+                "meaning": "bengala, fira",
                 "specification": ""
             }
         ]
@@ -8064,6 +8092,10 @@
             {
                 "meaning": "candalabro",
                 "specification": ""
+            },
+            {
+                "meaning": "candeloro",
+                "specification": ""
             }
         ]
     },
@@ -9935,6 +9967,14 @@
             }
         ]
     },
+    "cinta métrica": {
+        "entries": [
+            {
+                "meaning": "metrizinto",
+                "specification": ""
+            }
+        ]
+    },
     "cinta transportadora": {
         "entries": [
             {
@@ -10236,6 +10276,14 @@
             {
                 "meaning": "quartada",
                 "specification": ""
+            }
+        ]
+    },
+    "cobalto": {
+        "entries": [
+            {
+                "meaning": "cobaldo, cobalto",
+                "specification": "mineral"
             }
         ]
     },
@@ -12363,6 +12411,14 @@
             }
         ]
     },
+    "cortina": {
+        "entries": [
+            {
+                "meaning": "kurtina",
+                "specification": ""
+            }
+        ]
+    },
     "corto": {
         "entries": [
             {
@@ -13230,7 +13286,7 @@
     "cubrir": {
         "entries": [
             {
-                "meaning": "kubrai",
+                "meaning": "kubrai, cortai",
                 "specification": ""
             }
         ]
@@ -13362,7 +13418,7 @@
     "culo": {
         "entries": [
             {
-                "meaning": "anusa, bango, botso",
+                "meaning": "cule, bango, botso, anusa",
                 "specification": ""
             }
         ]
@@ -13571,6 +13627,34 @@
         "entries": [
             {
                 "meaning": "camera",
+                "specification": "genérico"
+            },
+            {
+                "meaning": "tsambora",
+                "specification": "sala o habitación"
+            }
+        ]
+    },
+    "cámara de fotos": {
+        "entries": [
+            {
+                "meaning": "fotocamera",
+                "specification": ""
+            }
+        ]
+    },
+    "cámara de vídeo": {
+        "entries": [
+            {
+                "meaning": "vidiocamera",
+                "specification": ""
+            }
+        ]
+    },
+    "cámara frigorífica": {
+        "entries": [
+            {
+                "meaning": "gelocamera",
                 "specification": ""
             }
         ]
@@ -16463,6 +16547,26 @@
             }
         ]
     },
+    "día festivo": {
+        "entries": [
+            {
+                "meaning": "ferehen",
+                "specification": ""
+            }
+        ]
+    },
+    "festivo": {
+        "entries": [
+            {
+                "meaning": "ferehen",
+                "specification": ""
+            },
+            {
+                "meaning": "ferivo",
+                "specification": ""
+            }
+        ]
+    },
     "día": {
         "entries": [
             {
@@ -18355,6 +18459,18 @@
             }
         ]
     },
+    "escritorio": {
+        "entries": [
+            {
+                "meaning": "izkretela, izkrotela",
+                "specification": "mueble"
+            },
+            {
+                "meaning": "desto, desktop",
+                "specification": "ordenador"
+            }
+        ]
+    },
     "escritura": {
         "entries": [
             {
@@ -19431,6 +19547,14 @@
             }
         ]
     },
+    "estufa": {
+        "entries": [
+            {
+                "meaning": "estufa",
+                "specification": ""
+            }
+        ]
+    },
     "esturión": {
         "entries": [
             {
@@ -20152,6 +20276,14 @@
             {
                 "meaning": "farmacologo, farmacologette",
                 "specification": ""
+            }
+        ]
+    },
+    "faro": {
+        "entries": [
+            {
+                "meaning": "faro",
+                "specification": "costero"
             }
         ]
     },
@@ -25267,6 +25399,14 @@
             }
         ]
     },
+    "intermitente": {
+        "entries": [
+            {
+                "meaning": "tika",
+                "specification": ""
+            }
+        ]
+    },
     "internet": {
         "entries": [
             {
@@ -26554,7 +26694,11 @@
     "librería": {
         "entries": [
             {
-                "meaning": "izbotela, libreria",
+                "meaning": "librotela",
+                "specification": "estantería de libros"
+            },
+            {
+                "meaning": "izbotela, libreria, librotela",
                 "specification": ""
             }
         ]
@@ -26631,6 +26775,22 @@
             }
         ]
     },
+    "licuadora": {
+        "entries": [
+            {
+                "meaning": "licuatoro",
+                "specification": ""
+            }
+        ]
+    },
+    "licuar": {
+        "entries": [
+            {
+                "meaning": "licuai",
+                "specification": ""
+            }
+        ]
+    },
     "licántropo": {
         "entries": [
             {
@@ -26667,7 +26827,23 @@
         "entries": [
             {
                 "meaning": "liya, afile",
-                "specification": ""
+                "specification": "herramienta"
+            }
+        ]
+    },
+    "lima": {
+        "entries": [
+            {
+                "meaning": "liya, afile",
+                "specification": "herramienta"
+            },
+            {
+                "meaning": "lima, lime",
+                "specification": "color"
+            },
+            {
+                "meaning": "lima",
+                "specification": "fruta"
             }
         ]
     },
@@ -26676,18 +26852,6 @@
             {
                 "meaning": "liyare",
                 "specification": ""
-            }
-        ]
-    },
-    "lima": {
-        "entries": [
-            {
-                "meaning": "lima, lime",
-                "specification": "color"
-            },
-            {
-                "meaning": "lima",
-                "specification": "fruta"
             }
         ]
     },
@@ -26991,6 +27155,22 @@
         "entries": [
             {
                 "meaning": "planitela",
+                "specification": ""
+            }
+        ]
+    },
+    "llave de tubo": {
+        "entries": [
+            {
+                "meaning": "tubekula",
+                "specification": ""
+            }
+        ]
+    },
+    "llave inglesa": {
+        "entries": [
+            {
+                "meaning": "martexo egrente",
                 "specification": ""
             }
         ]
@@ -27355,6 +27535,14 @@
             }
         ]
     },
+    "luz intermitente": {
+        "entries": [
+            {
+                "meaning": "litika",
+                "specification": ""
+            }
+        ]
+    },
     "luz tenue": {
         "entries": [
             {
@@ -27383,6 +27571,14 @@
         "entries": [
             {
                 "meaning": "lacrima, lakrima",
+                "specification": ""
+            }
+        ]
+    },
+    "lámpara de araña": {
+        "entries": [
+            {
+                "meaning": "candelera, tsandelera",
                 "specification": ""
             }
         ]
@@ -27736,6 +27932,18 @@
             {
                 "meaning": "heunesle",
                 "specification": ""
+            }
+        ]
+    },
+    "malva": {
+        "entries": [
+            {
+                "meaning": "lula, malva",
+                "specification": "color"
+            },
+            {
+                "meaning": "lula",
+                "specification": "flor"
             }
         ]
     },
@@ -31119,6 +31327,14 @@
             }
         ]
     },
+    "refrigerador": {
+        "entries": [
+            {
+                "meaning": "ingoesmar",
+                "specification": ""
+            }
+        ]
+    },
     "neólogo": {
         "entries": [
             {
@@ -33155,6 +33371,14 @@
         "entries": [
             {
                 "meaning": "papaya",
+                "specification": ""
+            }
+        ]
+    },
+    "papel higiénico": {
+        "entries": [
+            {
+                "meaning": "pipranusa, culepipra",
                 "specification": ""
             }
         ]
@@ -35531,6 +35755,22 @@
         "entries": [
             {
                 "meaning": "plan",
+                "specification": ""
+            }
+        ]
+    },
+    "plancha": {
+        "entries": [
+            {
+                "meaning": "plankoro",
+                "specification": ""
+            }
+        ]
+    },
+    "planchar": {
+        "entries": [
+            {
+                "meaning": "plankai",
                 "specification": ""
             }
         ]
@@ -38827,6 +39067,14 @@
             }
         ]
     },
+    "reloj despertador": {
+        "entries": [
+            {
+                "meaning": "lotoro",
+                "specification": ""
+            }
+        ]
+    },
     "reloj": {
         "entries": [
             {
@@ -40459,6 +40707,14 @@
             }
         ]
     },
+    "secadora": {
+        "entries": [
+            {
+                "meaning": "drioro",
+                "specification": ""
+            }
+        ]
+    },
     "secar": {
         "entries": [
             {
@@ -40687,6 +40943,14 @@
         "entries": [
             {
                 "meaning": "semiologo, semiologette",
+                "specification": ""
+            }
+        ]
+    },
+    "semáforo": {
+        "entries": [
+            {
+                "meaning": "sinnali, semaforo",
                 "specification": ""
             }
         ]
@@ -41167,6 +41431,14 @@
             },
             {
                 "meaning": "ertsai",
+                "specification": ""
+            }
+        ]
+    },
+    "sierra de calar": {
+        "entries": [
+            {
+                "meaning": "nivoxerra",
                 "specification": ""
             }
         ]
@@ -41679,6 +41951,14 @@
         "entries": [
             {
                 "meaning": "sofrologo, sofrologette",
+                "specification": ""
+            }
+        ]
+    },
+    "sofá": {
+        "entries": [
+            {
+                "meaning": "sofa",
                 "specification": ""
             }
         ]
@@ -44343,6 +44623,30 @@
             }
         ]
     },
+    "tostada": {
+        "entries": [
+            {
+                "meaning": "tosta",
+                "specification": ""
+            }
+        ]
+    },
+    "tostadora": {
+        "entries": [
+            {
+                "meaning": "tostoro",
+                "specification": ""
+            }
+        ]
+    },
+    "tostar": {
+        "entries": [
+            {
+                "meaning": "tostai",
+                "specification": ""
+            }
+        ]
+    },
     "totem": {
         "entries": [
             {
@@ -46110,8 +46414,12 @@
     "vela": {
         "entries": [
             {
+                "meaning": "vela",
+                "specification": "barco"
+            },
+            {
                 "meaning": "candala",
-                "specification": ""
+                "specification": "objeto para iluminar"
             }
         ]
     },
@@ -47171,6 +47479,22 @@
         "entries": [
             {
                 "meaning": "vidio",
+                "specification": ""
+            }
+        ]
+    },
+    "víspera de día": {
+        "entries": [
+            {
+                "meaning": "henito",
+                "specification": ""
+            }
+        ]
+    },
+    "víspera de festivo": {
+        "entries": [
+            {
+                "meaning": "ferehenita",
                 "specification": ""
             }
         ]

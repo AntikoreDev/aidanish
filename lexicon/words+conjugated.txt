@@ -709,6 +709,7 @@ amamantaio
 amamantaioto
 amanita
 amanza
+amaran
 amaranto
 amasterai
 amasteraie
@@ -2002,6 +2003,8 @@ cancerologia
 cancerologo
 candala
 candalabro
+candelera
+candeloro
 canibal
 canibalisma
 canino
@@ -2214,6 +2217,10 @@ coarsaiet
 coarsaiki
 coarsaio
 coarsaioto
+cobalda
+cobaldo
+cobalta
+cobalto
 cobra
 cocaina
 coco
@@ -2663,6 +2670,13 @@ corpo
 correcto
 corroiso
 corta
+cortai
+cortaie
+cortaieon
+cortaiet
+cortaiki
+cortaio
+cortaioto
 cortso
 corveta
 corvo
@@ -2808,6 +2822,8 @@ culdeiet
 culdeiki
 culdeio
 culdeioto
+cule
+culepipra
 culto
 cumba
 cumo
@@ -3229,6 +3245,7 @@ deskripteiet
 deskripteiki
 deskripteio
 deskripteioto
+desktop
 deslina
 deslinai
 deslinaie
@@ -3261,6 +3278,7 @@ desterraiet
 desterraiki
 desterraio
 desterraioto
+desto
 desvariai
 desvariaie
 desvariaieon
@@ -4708,6 +4726,7 @@ estrukta
 estserra
 estsondo
 estsuela
+estufa
 estundaxe
 estungai
 estungaie
@@ -4958,6 +4977,7 @@ farmacologette
 farmacologia
 farmacologo
 farmacopsicologia
+faro
 farura
 fasca
 fascai
@@ -5026,6 +5046,8 @@ fenomenologette
 fenomenologia
 fenomenologo
 fenza
+ferehen
+ferehenita
 feretai
 feretaie
 feretaieon
@@ -5034,6 +5056,7 @@ feretaiki
 feretaio
 feretaioto
 feretina
+ferivo
 ferna
 ferra
 ferramenteria
@@ -5097,6 +5120,7 @@ findette
 findo
 finiko
 fino
+fira
 fisi
 fisiografia
 fisiografica
@@ -5197,6 +5221,7 @@ fokaiet
 fokaiki
 fokaio
 fokaioto
+fokalarme
 foke
 foko
 fokso
@@ -5299,6 +5324,7 @@ forzaioso
 forzaioto
 fosfuro
 fotobiologia
+fotocamera
 fotofobia
 fotografia
 fotografica
@@ -5525,6 +5551,7 @@ gelateria
 gelatio
 gelato
 gelo
+gelocamera
 gemologette
 gemologia
 gemologo
@@ -5846,6 +5873,7 @@ hen
 hena
 henata
 hengia
+henito
 henlista
 henpipra
 henpixette
@@ -6624,6 +6652,7 @@ izkratarosoteioto
 izkratasoro
 izkratoso
 izkrebo
+izkretela
 izkriba
 izkribatia
 izkribei
@@ -6636,6 +6665,7 @@ izkribeioto
 izkrioro
 izkro
 izkroro
+izkrotela
 izoya
 jade
 jake
@@ -7262,6 +7292,7 @@ kurioseiki
 kurioseio
 kurioseioto
 kurioso
+kurtina
 kuta
 kutoro
 kutsa
@@ -7401,6 +7432,7 @@ libertia
 libreria
 librete
 libro
+librotela
 licantropette
 licantropia
 licantropo
@@ -7414,6 +7446,14 @@ licensaireki
 licensairet
 licenso
 licentela
+licuai
+licuaie
+licuaieon
+licuaiet
+licuaiki
+licuaio
+licuaioto
+licuatoro
 ligai
 ligaie
 ligaieon
@@ -7480,6 +7520,7 @@ litera
 literal
 literatia
 litero
+litika
 lito
 litofotografia
 litofotografica
@@ -7601,6 +7642,7 @@ loteireio
 loteireioto
 loteireki
 loteiret
+lotoro
 lubai
 lubaie
 lubaieon
@@ -7626,6 +7668,7 @@ ludaioto
 lude
 lufaz
 lufazia
+lula
 luna
 lunia
 lurge
@@ -7702,6 +7745,7 @@ maldito
 malherbologia
 malira
 mallea
+malva
 mama
 mamaire
 mamaireie
@@ -8028,6 +8072,7 @@ metirra
 meto
 metodologia
 metrallaro
+metrizinto
 metro
 metrologette
 metrologia
@@ -8526,6 +8571,7 @@ nitor
 nitortela
 nitroieno
 nivo
+nivoxerra
 nizaga
 nizagal
 nnordo
@@ -9122,6 +9168,7 @@ paremiologo
 pargo
 parisa
 parke
+parloro
 parrafo
 parroqia
 parta
@@ -9489,6 +9536,7 @@ pioyo
 pipera
 pipra
 piprako
+pipranusa
 pipratela
 pipro
 piragua
@@ -9538,6 +9586,14 @@ planimetria
 planimetrica
 planitela
 planiuno
+plankai
+plankaie
+plankaieon
+plankaiet
+plankaiki
+plankaio
+plankaioto
+plankoro
 plano
 planoi
 planoie
@@ -11305,6 +11361,7 @@ selekteioto
 selektio
 selenografia
 selenografica
+semaforo
 semasiologia
 semila
 semiologette
@@ -11491,6 +11548,7 @@ sinnaiet
 sinnaiki
 sinnaio
 sinnaioto
+sinnali
 sino
 sinologette
 sinologia
@@ -11545,6 +11603,8 @@ sociometrica
 sociopata
 socrema
 socremeko
+socremoro
+sofa
 sofrologette
 sofrologia
 sofrologo
@@ -12116,6 +12176,7 @@ tifon
 tifona
 tigra
 tigron
+tika
 tike
 tiki
 tikle
@@ -12229,6 +12290,15 @@ tortilla
 tortite
 tortoisa
 tortsa
+tosta
+tostai
+tostaie
+tostaieon
+tostaiet
+tostaiki
+tostaio
+tostaioto
+tostoro
 totem
 toutseire
 toutseireie
@@ -12541,9 +12611,11 @@ tsagraio
 tsagraioto
 tsagrio
 tsagrioso
+tsambora
 tsampeon
 tsampeonato
 tsampinna
+tsandelera
 tsardo
 tsargai
 tsargaie
@@ -12642,6 +12714,7 @@ tsunkeio
 tsunkeioto
 tsusta
 tube
+tubekula
 tuberculo
 tubia
 tuca
@@ -13008,6 +13081,7 @@ veigeio
 veigeioto
 veigeki
 veiget
+vela
 velcro
 velociraptor
 velociraptoroko
@@ -13100,6 +13174,7 @@ vibraio
 vibraioto
 vicunna
 vidio
+vidiocamera
 vidiojoko
 vidiojokocix
 vigo

@@ -150,6 +150,7 @@ ei vingo
 la ala
 la klisila
 la alarme
+la fokalarme
 la albanexe
 la albanea
 la albinisma
@@ -202,6 +203,7 @@ la pulca
 la kiva
 la betarra
 la altar
+ei parloro
 ei sonikemitero
 la alternas
 la alterne
@@ -216,6 +218,8 @@ la solnata
 la amanita
 ei loiere
 la maploa
+ei amaranto
+la amaran
 ei amaranto
 ei tsagrioso
 la amatista
@@ -505,6 +509,8 @@ ei runge
 la sukra
 la sucra
 la acoa
+la cobalta
+la cobalda
 la eskala
 la clia
 ei bacon
@@ -568,6 +574,7 @@ ei batero
 la bateria
 la plika
 la socrema
+ei socremoro
 la batimetria
 la batimetrica
 la batologia
@@ -588,6 +595,7 @@ la belesa
 ei bendizatio
 ei benefitio
 la bengala
+la fira
 la isaloa
 ei berline
 la berlina
@@ -804,6 +812,10 @@ la hunga
 la dormebas
 ei jideor
 la camera
+la tsambora
+la fotocamera
+la vidiocamera
+la gelocamera
 ei hostexette
 ei kambio
 la usatsa
@@ -841,6 +853,7 @@ ei kempo
 la jokotela
 ei qanzio
 ei candalabro
+ei candeloro
 la kraba
 ei kangoro
 la canibal
@@ -1069,6 +1082,7 @@ ei amerizinto
 ei anazinto
 ei dukte
 ei zelo
+ei metrizinto
 ei aconveioro
 ei zinto
 ei astrezinto
@@ -1108,6 +1122,8 @@ ei clip
 ei cloro
 ei cloroforme
 la quartada
+ei cobaldo
+ei cobalto
 la cobra
 ei ikroso
 ei copar
@@ -1303,6 +1319,7 @@ ei korruptio
 ei kutoro
 la kuta
 la crusta
+la kurtina
 la koixa
 la apatsa
 la apa
@@ -1421,9 +1438,10 @@ ei kuastion
 la encova
 la erga
 la culda
-la anusa
+ei cule
 ei bango
 ei botso
+la anusa
 la riaxa
 ei kultivo
 ei culto
@@ -1550,6 +1568,7 @@ ei detergo
 la determinatia
 la dutia
 ei hen
+ei ferehen
 la diabetologia
 ei diabetologo
 ei diabetologette
@@ -1811,6 +1830,10 @@ ei buste
 ei escorpio
 ei eskozo
 la izkriba
+la izkretela
+la izkrotela
+ei desto
+ei desktop
 la izkribatia
 ei escroto
 la escuadra
@@ -1928,6 +1951,7 @@ ei anorro
 la estrukta
 la estarette
 ei estaro
+la estufa
 ei esporgo
 la estsuela
 ei esturion
@@ -1997,6 +2021,7 @@ la farmacologia
 ei farmacologo
 la farmacologette
 la farmacopsicologia
+ei faro
 ei fevo
 la fai
 ei febrero
@@ -2722,6 +2747,8 @@ la lakrima
 ei lurge
 la lakata
 ei litaoro
+la candelera
+la tsandelera
 ei boure
 la esparette
 ei ximpo
@@ -2773,8 +2800,10 @@ ei leksicologette
 la laia
 la legenda
 la libertia
+la librotela
 la izbotela
 la libreria
+la librotela
 ei izboiko
 ei librete
 ei izboto
@@ -2788,6 +2817,7 @@ ei licantropo
 la licantropette
 la licensa
 ei licenso
+ei licuatoro
 la aderge
 ei xefo
 la leogra
@@ -2832,6 +2862,7 @@ la llamata
 la xenta
 la planitela
 la klave
+la tubekula
 la iriheia
 la pluva
 la acoata
@@ -2860,6 +2891,7 @@ la luxuria
 la luna
 la lunia
 la lita
+la litika
 la glima
 la makarron
 la mazeta
@@ -2889,6 +2921,9 @@ la malacologette
 ei heuntsado
 ei malditio
 la malherbologia
+la lula
+la malva
+la lula
 la mama
 la mamografia
 la mamografica
@@ -3544,6 +3579,8 @@ la ploka
 la papaya
 la pipra
 la fola
+la pipranusa
+la culepipra
 ei graxkubo
 la zorrera
 ei zorrere
@@ -3825,6 +3862,7 @@ ei ecombe
 la pleasa
 la plaga
 la plan
+ei plankoro
 la planeata
 la planeta
 ei planetoido
@@ -4147,6 +4185,7 @@ ei kloko
 ei relox
 ei horaviso
 la klokonna
+ei lotoro
 ei remasteratio
 la esguela
 la grosatsa
@@ -4307,6 +4346,8 @@ ei selektio
 la selenografia
 la selenografica
 ei seldo
+la sinnali
+ei semaforo
 ei olekso
 la semasiologia
 la bila
@@ -4372,6 +4413,7 @@ la cidra
 la sidra
 ei sider
 la xerra
+la nivoxerra
 ei septo
 la sifilografia
 la sifilografica
@@ -4425,6 +4467,7 @@ ei sociologette
 la sociometria
 la sociometrica
 la sociopata
+la sofa
 la sofrologia
 ei sofrologo
 ei sofrologette
@@ -4731,6 +4774,8 @@ ei omeleto
 ei tortite
 la tortoisa
 la apunda
+la tosta
+ei tostoro
 ei totem
 la toksicologia
 ei toksicologo
@@ -4927,6 +4972,7 @@ la igernesa
 la okosa
 ei okoie
 la eldesa
+la vela
 la candala
 ei velcro
 la sivera
@@ -5021,6 +5067,8 @@ la viscosimetria
 la viscosimetrica
 ei viso
 ei orgon
+ei henito
+la ferehenita
 la vista
 ei visoatio
 la vitalita
@@ -5341,6 +5389,7 @@ ei femenine
 ei zunno
 ei zonno
 ei utego
+ei ferivo
 ei filaso
 ei finiko
 ei estretso
@@ -5406,6 +5455,7 @@ ei instantako
 ei intelektualo
 ei intentiente
 la interesanta
+la tika
 ei introverto
 ei ironiko
 ei ezirutsuko

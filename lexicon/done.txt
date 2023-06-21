@@ -240,6 +240,7 @@ al lado de
 ala
 alargar
 alarma
+alarma de incendios
 albania
 albanés
 albinismo
@@ -649,6 +650,7 @@ azahar
 azar
 azul
 azul celeste
+azul cobalto
 azulejo
 azófar
 azúcar
@@ -715,6 +717,7 @@ bateador
 batear
 batería
 batido
+batidora
 batimetría
 batología
 bauxita
@@ -1220,6 +1223,7 @@ cincuenta
 cinematografía
 cinología
 cinta adhesiva
+cinta métrica
 cinta transportadora
 cinturón
 cinturón de asteroides
@@ -1255,6 +1259,7 @@ cloro
 cloroformo
 clásico
 coartada
+cobalto
 cobra
 cobre
 cocaína
@@ -1508,6 +1513,7 @@ cortar el pelo
 cortar las uñas
 corte
 corteza
+cortina
 corto
 cosa
 coscorro
@@ -1658,6 +1664,9 @@ cuártel
 cuásar
 cuña
 cámara
+cámara de fotos
+cámara de vídeo
+cámara frigorífica
 cáncer
 cápsula
 cárcel
@@ -2010,6 +2019,7 @@ débil
 décima
 décimo
 día
+día festivo
 dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento
 dólar
 e
@@ -2236,6 +2246,7 @@ escorpión
 escozor
 escribir
 escrito
+escritorio
 escritura
 escroto
 escuadra
@@ -2368,6 +2379,7 @@ estrés
 estudiante
 estudiar
 estudio
+estufa
 esturión
 estándar
 estérnido
@@ -2455,6 +2467,7 @@ familiar
 farmacología
 farmacopsicología
 farmacólogo
+faro
 favor
 favorar
 favorito
@@ -2474,6 +2487,7 @@ feria
 fertilizante
 fertilizar
 festejar
+festivo
 fetiche
 feto
 fez
@@ -3083,6 +3097,7 @@ intentar
 intento
 interesante
 interesar
+intermitente
 internet
 intervalo
 intestino delgado
@@ -3249,6 +3264,8 @@ licantropía
 licencia
 licenciado
 licenciar
+licuadora
+licuar
 licántropo
 liderar
 ligero
@@ -3292,6 +3309,8 @@ llamarada
 llanta
 llanura
 llave
+llave de tubo
+llave inglesa
 llegada
 llegar
 llenar
@@ -3338,10 +3357,12 @@ lujuría
 luna
 lunes
 luz
+luz intermitente
 luz tenue
 lácteo
 lágrima
 lámpara
+lámpara de araña
 lápida
 lápiz
 láser
@@ -3381,6 +3402,7 @@ malherbología
 maligno
 malo
 maloliente
+malva
 mamar
 mamografía
 mamut
@@ -4039,6 +4061,7 @@ pantufla
 papada
 papaya
 papel
+papel higiénico
 papelera
 papelería
 papeleta
@@ -4329,6 +4352,8 @@ placer
 plaga
 plaga de justiniano
 plan
+plancha
+planchar
 planear
 planeo
 planeta
@@ -4710,6 +4735,7 @@ reflexión
 reflexología
 reflexólogo
 refrescar
+refrigerador
 regadera
 regalar
 regaliz
@@ -4731,6 +4757,7 @@ reliquia
 relleno de una almohada
 reloj
 reloj de muñeca
+reloj despertador
 reluciente
 relucir
 relucir húmedo
@@ -4936,6 +4963,7 @@ sauce llorón
 se
 se fueron
 secador
+secadora
 secar
 sección
 seco
@@ -4964,6 +4992,7 @@ semen
 semilla
 semiología
 semiólogo
+semáforo
 sencillo
 senda
 seno
@@ -5020,6 +5049,7 @@ sicólogo
 sidra
 siempre
 sierra
+sierra de calar
 siete
 sifilografía
 sigilografía
@@ -5080,6 +5110,7 @@ sociólogo
 sociópata
 sofrología
 sofrólogo
+sofá
 soga
 soja
 sol
@@ -5404,6 +5435,9 @@ tortita
 tortuga
 tortura
 torturar
+tostada
+tostadora
+tostar
 totem
 toxicología
 toxicólogo
@@ -5749,6 +5783,8 @@ vía
 víbora
 víctima
 vídeo
+víspera de día
+víspera de festivo
 web
 whisky
 wikipedia
