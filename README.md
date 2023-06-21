@@ -25,14 +25,14 @@ A few sentences that you can easily use in normal speech
 - Na sei John → _I am John_
 - Donde zu vivai? → _Where do you live?_
 - Na vivai en Espanna → _I live in Spain_
-- Diskare → _I'm sorry_
+- Diskaire → _I'm sorry_
 - Non lanaiet → _Don't worry_
 - La tempera astei aito nauhen → _The temperatura is warm today_
 
 ### Some interesting quotes
 **These ain't literal translations** but adaptations so they mean the same, or they just resemble to a real quote
 
-"Beiet perso am tentaoro e so izkribeie, beiet homo e so expreseie"_
+"Beiet perso am tentaoro e so izkribeie, beiet homo e so expreseie"
 _Give a pen to a man and they will write, give it to a human and they will express_
 
 "Morto en pluva argaie eir"
