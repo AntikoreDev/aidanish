@@ -4384,6 +4384,7 @@ piedra papel tijera → petra fola akuto
 piedra → petro, petra
 piel → pelde
 pierna → airpoi
+pieza pequeña utilizada en deportes de duelo que se asigna al jugador mejor considerado antes de una partida para que si este pierda en señal de respeto se lo da al ganador en mano como símbolo de buen perder → madrito, madrita
 pieza → pieza
 piezometría → piezometria, piezometrica
 pijama → niki
