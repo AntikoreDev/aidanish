@@ -988,6 +988,12 @@ clireio
 clireioto
 clireki
 cliret
+clokaie
+clokaieon
+clokaiet
+clokaiki
+clokaio
+clokaioto
 coarsaie
 coarsaieon
 coarsaiet

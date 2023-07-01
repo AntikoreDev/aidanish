@@ -1278,6 +1278,7 @@ codorniz
 cofre
 coger
 cogida
+cojear
 cojín
 cojón
 col
@@ -4721,6 +4722,7 @@ recuento
 recuerdo
 recurso
 red
+red de pesca
 red local
 red social
 redondo
@@ -5461,6 +5463,7 @@ traición
 traje
 tramitología
 trampa
+trampa para atraer turistas con el objetivo de sacarles mucho dinero
 trampear
 tranquilo
 transcribir

@@ -1302,6 +1302,7 @@ codorniz → cortso
 cofre, baúl → gaizecuba
 coger → kaine
 cogida → kaina
+cojear → clokai
 cojín → zobexe
 cojón (coloquial) → bola, ova, ovo
 col → colta
@@ -4810,6 +4811,7 @@ recubrimiento, cápsula, protección, trinchera, nido, bunker, guarida → laira
 recuento → rekonto
 recuerdo → rekordo, supte
 recurso → rekurso
+red de pesca, trampa para atraer turistas con el objetivo de sacarles mucho dinero → arraineta
 red local → localneta, neta locatako,
 red social → sozialneta
 red → neta

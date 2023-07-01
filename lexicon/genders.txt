@@ -4156,6 +4156,7 @@ ei rekordo
 ei supte
 ei rekurso
 la neta
+la arraineta
 la localneta
 la sozialneta
 ei redario

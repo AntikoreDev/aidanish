@@ -1045,6 +1045,7 @@ arraieon
 arraiet
 arraiki
 arraina
+arraineta
 arraio
 arraioto
 arrantsa
@@ -2205,6 +2206,13 @@ clireio
 clireioto
 clireki
 cliret
+clokai
+clokaie
+clokaieon
+clokaiet
+clokaiki
+clokaio
+clokaioto
 cloro
 cloroforme
 clugra
