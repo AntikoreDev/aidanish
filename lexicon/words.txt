@@ -1367,6 +1367,9 @@ containe
 containio
 conteksto
 contento
+contepai
+contepia
+conteposa
 contesta
 contestai
 contia
@@ -2045,6 +2048,9 @@ endocrinologette
 endocrinologia
 endocrinologo
 enekai
+enemika
+enemike
+enemiko
 eneryia
 enfacto
 engerei
@@ -2703,6 +2709,7 @@ fundo
 funeral
 fungo
 funzai
+funzoi
 furmo
 furnai
 furne
@@ -4260,6 +4267,7 @@ muco
 mugar
 mugaro
 multiproxei
+multita
 mundologia
 mura
 murala
@@ -5404,6 +5412,7 @@ reciento
 recipente
 recordai
 recordo
+recovei
 rectal
 recto
 redai
@@ -5638,6 +5647,7 @@ rusa
 rusiai
 rute
 rutrai
+rutrette
 rutro
 rutsia
 rutsu
@@ -6260,6 +6270,7 @@ translaixette
 transmuta
 transmutai
 transnitoi
+transtava
 trante
 trao
 trapa
@@ -6282,6 +6293,7 @@ travaxei
 travaxeko
 travaxette
 travaxo
+travesai
 traxe
 traxhaia
 traxhia
@@ -6822,6 +6834,7 @@ yoi
 yoiko
 yoixo
 yonto
+yorai
 yordea
 yuolo
 zager

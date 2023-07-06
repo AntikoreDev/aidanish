@@ -473,7 +473,7 @@ aprobación → aprovatio
 aprobado → aprovo
 aprobar → aprovai
 aprovechar → vorzoi
-apuñalada → estava
+apuñalada, puñalada → estava
 apuñalamiento → estavo
 apuñalar → estavai
 apólogo → apologo, apologette
@@ -602,6 +602,7 @@ atragantar → mixequei
 atrapado → zentso
 atrapar → akatsai
 atrasar → atrasai
+atravesar → travesai
 atril → lekteoro
 atrincherarse → laire
 atrio → atrio
@@ -1474,6 +1475,9 @@ contacto → contacto
 contactología → contactologia
 contactólogo → contactologo, contactologette
 contador → kontoro
+contagiar → contepai
+contagio → contepia
+contagioso → conteposa
 contaminación, polución → drigatio, polutio
 contaminado → drigo, poluto
 contaminar → drigai, polutai
@@ -1902,6 +1906,7 @@ determinada → determina
 determinar → determinai
 detrás → betran (dabetran)
 deuda → dutia
+devolver → voltai
 diabetología → diabetologia
 diabetólogo → diabetologo, diabetologette
 diablo de tasmania → tasmania-devila
@@ -2176,6 +2181,7 @@ endemia → endemos
 endeudado → dutiako
 endocrinología → endocrinologia
 endocrinólogo → endocrinologo, endocrinologette
+enemigo → enemike, enemika, enemiko
 energía → eneryia
 enero → januaro
 enfadado → rutsuko
@@ -2769,6 +2775,7 @@ golf → golf
 golfista → golfista, golfette
 golfo (geografía) → girufa
 golpe de estado → estatarrota
+golpe inicial inesperado → transtava
 golpear algo para intentar arreglarlo → impetaikse, impetaksai
 golpear → puntsai, bumpai
 goma (herramienta) → prusaioro
@@ -2886,6 +2893,7 @@ harpía → harpea
 harto → rakoso
 hasta → haita
 hasta → haita
+hater, odiador → rutrette
 hechicero → xicero
 hechizar → xizai
 hechizo, conjuro → xizo, praecanto
@@ -3222,6 +3230,7 @@ jungla → jungla
 junio → januo
 junta → junta
 junto → xa
+jurar → yorai
 justicia → iustika
 justificar → iustikai
 justo → iusto
@@ -3317,6 +3326,7 @@ licuadora → licuatoro
 licuar → licuai
 licántropo → licantropo, licantropette
 liderar → aderei
+lidiar → funzoi
 ligero → lito
 ligre → leogra
 lija, lima (herramienta) → liya, afile
@@ -3790,6 +3800,7 @@ mugre → mugar
 mugroso → mugaro
 mujer → meiperso
 multiplicar → multiproxei
+multitud → multita
 mundial → mondola
 mundo → mondo
 mundología → mundologia
@@ -4811,6 +4822,7 @@ rector → rektor
 recubrimiento, cápsula, protección, trinchera, nido, bunker, guarida → laira
 recuento → rekonto
 recuerdo → rekordo, supte
+recuperar (salud) → recovei
 recurso → rekurso
 red de pesca, trampa para atraer turistas con el objetivo de sacarles mucho dinero → arraineta
 red local → localneta, neta locatako,

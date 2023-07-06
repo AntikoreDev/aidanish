@@ -3835,6 +3835,14 @@
             }
         ]
     },
+    "puñalada": {
+        "entries": [
+            {
+                "meaning": "estava",
+                "specification": ""
+            }
+        ]
+    },
     "apuñalamiento": {
         "entries": [
             {
@@ -4859,6 +4867,14 @@
         "entries": [
             {
                 "meaning": "atrasai",
+                "specification": ""
+            }
+        ]
+    },
+    "atravesar": {
+        "entries": [
+            {
+                "meaning": "travesai",
                 "specification": ""
             }
         ]
@@ -11867,6 +11883,30 @@
             }
         ]
     },
+    "contagiar": {
+        "entries": [
+            {
+                "meaning": "contepai",
+                "specification": ""
+            }
+        ]
+    },
+    "contagio": {
+        "entries": [
+            {
+                "meaning": "contepia",
+                "specification": ""
+            }
+        ]
+    },
+    "contagioso": {
+        "entries": [
+            {
+                "meaning": "conteposa",
+                "specification": ""
+            }
+        ]
+    },
     "contaminación": {
         "entries": [
             {
@@ -15307,6 +15347,14 @@
             }
         ]
     },
+    "devolver": {
+        "entries": [
+            {
+                "meaning": "voltai",
+                "specification": ""
+            }
+        ]
+    },
     "diabetología": {
         "entries": [
             {
@@ -17575,6 +17623,14 @@
         "entries": [
             {
                 "meaning": "endocrinologo, endocrinologette",
+                "specification": ""
+            }
+        ]
+    },
+    "enemigo": {
+        "entries": [
+            {
+                "meaning": "enemike, enemika, enemiko",
                 "specification": ""
             }
         ]
@@ -22383,6 +22439,14 @@
             }
         ]
     },
+    "golpe inicial inesperado": {
+        "entries": [
+            {
+                "meaning": "transtava",
+                "specification": ""
+            }
+        ]
+    },
     "golpear algo para intentar arreglarlo": {
         "entries": [
             {
@@ -23295,6 +23359,22 @@
             },
             {
                 "meaning": "haita",
+                "specification": ""
+            }
+        ]
+    },
+    "hater": {
+        "entries": [
+            {
+                "meaning": "rutrette",
+                "specification": ""
+            }
+        ]
+    },
+    "odiador": {
+        "entries": [
+            {
+                "meaning": "rutrette",
                 "specification": ""
             }
         ]
@@ -26039,6 +26119,14 @@
             }
         ]
     },
+    "jurar": {
+        "entries": [
+            {
+                "meaning": "yorai",
+                "specification": ""
+            }
+        ]
+    },
     "justicia": {
         "entries": [
             {
@@ -26811,6 +26899,14 @@
         "entries": [
             {
                 "meaning": "aderei",
+                "specification": ""
+            }
+        ]
+    },
+    "lidiar": {
+        "entries": [
+            {
+                "meaning": "funzoi",
                 "specification": ""
             }
         ]
@@ -30583,6 +30679,14 @@
         "entries": [
             {
                 "meaning": "multiproxei",
+                "specification": ""
+            }
+        ]
+    },
+    "multitud": {
+        "entries": [
+            {
+                "meaning": "multita",
                 "specification": ""
             }
         ]
@@ -38780,6 +38884,14 @@
             {
                 "meaning": "rekordo, supte",
                 "specification": ""
+            }
+        ]
+    },
+    "recuperar": {
+        "entries": [
+            {
+                "meaning": "recovei",
+                "specification": "salud"
             }
         ]
     },

@@ -132,6 +132,7 @@ atornillar → exkrabaire
 atragantar → mixequei
 atrapar → akatsai
 atrasar → atrasai
+atravesar → travesai
 atrincherarse → laire
 atropellar → suparpaize
 aturdir → xakai
@@ -361,6 +362,7 @@ desvariar → desvariai
 detectar → detektoi
 deterger → detergire
 determinar → determinai
+devolver → voltai
 diagnosticar → diagnostikai
 dibujar → dixai
 diferenciar → diferikei
@@ -592,6 +594,7 @@ joder → injisai
 joder → xograstei
 jugar (casino) → ludaine, ludai
 jugar → jokai
+jurar → yorai
 justificar → iustikai
 juzgar → juksei
 ladrar → guoi
@@ -603,6 +606,7 @@ liberar → liberai
 licenciar → licensaire
 licuar → licuai
 liderar → aderei
+lidiar → funzoi
 lijar → liyare
 limitar → limitei
 limpiar → likrai
@@ -805,6 +809,7 @@ reconocer → kognai
 recordar → rekordai
 recorrer → enzurrai
 recortar → rekutai
+recuperar (salud) → recovei
 referenciar → referai
 reflejar → espelektei
 reflexionar → refleksei
@@ -990,3 +995,4 @@ vivir → vivai
 volar → blai
 volver → barei, voltai, volveire
 vomitar, potar → resoltai, pukai, pukaire
+contagiar → contepai

@@ -590,6 +590,7 @@ atragantar
 atrapado
 atrapar
 atrasar
+atravesar
 atril
 atrincherarse
 atrio
@@ -1447,6 +1448,9 @@ contacto
 contactología
 contactólogo
 contador
+contagiar
+contagio
+contagioso
 contaminación
 contaminado
 contaminar
@@ -1866,6 +1870,7 @@ determinada
 determinar
 detrás
 deuda
+devolver
 diabetología
 diabetólogo
 diablo
@@ -2135,6 +2140,7 @@ endemia
 endeudado
 endocrinología
 endocrinólogo
+enemigo
 energía
 enero
 enfadado
@@ -2726,6 +2732,7 @@ golfista
 golfo
 goloso
 golpe de estado
+golpe inicial inesperado
 golpear
 golpear algo para intentar arreglarlo
 goma
@@ -2841,6 +2848,7 @@ harina
 harpía
 harto
 hasta
+hater
 hechicero
 hechizar
 hechizo
@@ -3173,6 +3181,7 @@ jungla
 junio
 junta
 junto
+jurar
 justicia
 justificar
 justo
@@ -3269,6 +3278,7 @@ licuadora
 licuar
 licántropo
 liderar
+lidiar
 ligero
 ligre
 lija
@@ -3722,6 +3732,7 @@ mugroso
 mujer
 multa
 multiplicar
+multitud
 mundial
 mundo
 mundología
@@ -3902,6 +3913,7 @@ ocupado
 ocupar
 ocurrir
 océano
+odiador
 odiar
 odio
 odontología
@@ -4609,6 +4621,7 @@ puré
 puta
 puto
 puñal
+puñalada
 página
 página web
 pájaro
@@ -4721,6 +4734,7 @@ rector
 recubrimiento
 recuento
 recuerdo
+recuperar
 recurso
 red
 red de pesca
