@@ -1,3 +1,4 @@
+
 abandonar → ekorei, lostigai
 abanicar → cuendei
 abarcar → hombai
@@ -74,8 +75,8 @@ alucinar → alutinai
 alzar → ancai
 amaestrar → amasterai
 amamantar → amamantai
-amanecer → manzai
 amañar → amaine
+amanecer → manzai
 amar → loi
 amargar → tsagrai
 amartillar, martillar → martexei
@@ -83,15 +84,15 @@ amenazar → zrotei
 amontonar → kievei
 amputar → amputai
 amueblar → furnai, moblai
+añadir → adoi
 anchar → faldai
 andar → andaire
 anidar → inestai
 anillar → rinkai
 anochecer → nitoi
+añorar → annorai
 anotar → anotai
 anunciar → advei, advertaire
-añadir → adoi
-añorar → annorai
 apagar → ofei
 aparcar → parakai
 aparecer → aparezei
@@ -256,6 +257,7 @@ constar → constai
 construir → tendai
 consumir → consumire, consumei
 contactar → contactai
+contagiar → contepai
 contaminar → drigai, polutai
 contar (con algo) → akoixei 
 contar (contar a alguien algo) → rekoixei
@@ -382,7 +384,7 @@ disponer → disvai
 distanciar → longoai
 divertir → xiaibelai
 dividir → diproxei
-doblar → fluksai
+doblar → fluksai, doblai
 doler → dolei
 donar → donai
 dorar → aurai
@@ -399,6 +401,7 @@ ejercer → ecersai
 elegir → electoi
 elevar → levai, airoei, quai
 eliminar cosas repetidas de un conjunto → desredundaire
+eliminar y censurar la existencia de una persona → apersoi
 embalar → embalai
 embarcar → embarcai
 embrujar → vitsai
@@ -663,6 +666,7 @@ mostrar → dorimei
 mostrar flash → bliqai
 mover → movai
 multiplicar → multiproxei
+multiplicar la cantidad de algo entre el doble y el triple → superdoblai
 murmurar → surai
 mutar → mutai
 nacer → natai, naize
@@ -783,6 +787,7 @@ proponer → petiai, propoize
 prosperar → prosperai
 proteger → protectai
 publicar → publikai
+pulsar → puloi
 purificar (religión o místico) → haiai, purei
 quebrar → qibrai
 quedar → quaroi
@@ -880,9 +885,9 @@ secar → driai
 sedar → sedai
 seguir → sigai
 seleccionar → selektei
+señalizar → sinnai
 sentar → sendai
 sentir → sensei
-señalizar → sinnai
 sepultar → sepultai
 ser → sei
 servir (para un jefe tipo mafia) → titsei
@@ -901,8 +906,8 @@ soltar → soltai
 solver → solvai
 sombrear → tsadoi
 sonar → audei
-sonreir → selai
 soñar → pentsizei
+sonreir → selai
 soportar → suportai
 sostener → sotenai, sotaine
 subir → airei
@@ -933,9 +938,9 @@ temblar → gaxei, atsei
 templar → temperai
 tender → ibsoi
 tener → taine
+teñir → tentai
 tensar → tentai
 tentar → soblasnei, movai
-teñir → tentai
 terminar → teirnai
 terraformar → terraformei
 tirar → atai
@@ -995,4 +1000,3 @@ vivir → vivai
 volar → blai
 volver → barei, voltai, volveire
 vomitar, potar → resoltai, pukai, pukaire
-contagiar → contepai

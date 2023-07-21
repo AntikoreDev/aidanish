@@ -139,6 +139,7 @@ conjugado → conjugo
 conocido → miseioko
 conquistado → conqisto
 constante → constanto
+contagioso → conteposa
 contaminado → drigo, poluto
 continuista → enderizo
 convertido → konversaioko
@@ -378,6 +379,7 @@ ofensivo → ofensoko
 oloroso → eslo
 olvidado → supardo, oblivo, husko
 original → origelo
+orwelliano → orwelliana
 oscuro → obskuro, auskura
 oscuro y depresivo → ausko
 oxidado (de hacer algo) → rigi
@@ -515,7 +517,6 @@ vacío → vatio
 vago → sugarra
 válido → valo, valito
 valorado → valuako
-contagioso → conteposa
 vasto → vasto
 vecinal → neiborako
 verdad → verta
