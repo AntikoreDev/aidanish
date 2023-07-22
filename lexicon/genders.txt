@@ -12,9 +12,6 @@ ei letratablo
 la atria
 la blaimallea
 ei aberratio
-ei enemike
-la enemika
-ei enemiko
 ei aipreixo
 la karzua
 la abystela
@@ -91,6 +88,7 @@ la administreiette
 la adobe
 la adonis
 ei adoro
+la adrenalina
 ei otertseqe
 la adverba
 ei varno
@@ -183,6 +181,7 @@ la espare
 la corta
 la kalpa
 la alga
+ei superdoble
 la auska
 ei algoritmo
 ei flomo
@@ -246,6 +245,7 @@ la ampelografica
 la ampelologia
 ei amputatio
 la unmembria
+la relicrolista
 la analogia
 ei analogo
 la anarqia
@@ -295,6 +295,8 @@ la rinka
 la animal
 la besta
 la yaroia
+ei yaro
+ei anio
 la nitoia
 la anomalia
 la antartika
@@ -318,9 +320,6 @@ la antropometria
 la antropometrica
 ei yarizboto
 la adva
-la relicrolista
-ei yaro
-ei anio
 ei ofetio
 ei deof
 ei aparezeitio
@@ -350,9 +349,9 @@ la araknofobia
 la aracnologia
 ei aracnologo
 la aracnologette
-la aniluba
 la vesuka
 la aracna
+la aniluba
 ei arbotso
 la traxe
 la traxhaia
@@ -541,11 +540,11 @@ la banda
 la indaksa
 la fliaga
 la patriska
-la bankexette
-la banqete
 la bax
 la mertaitela
 ei mertaioro
+la bankexette
+la banqete
 la bar
 la baraja
 ei berdo
@@ -832,10 +831,10 @@ la kamiseta
 ei camiso
 ei akempo
 la campelette
+ei arvino
 la campanologia
 ei campanologo
 la campanologette
-ei arvino
 ei tsampeon
 ei tsampeonato
 la campesette
@@ -844,6 +843,7 @@ la campimetrica
 ei kempo
 la razna
 la azna
+la kanna
 la canadia
 la kanada
 la kanala
@@ -862,6 +862,7 @@ ei kangoro
 la canibal
 la canibalisma
 la canoia
+ei cannon
 ei infize
 la qanzautora
 la petrotela
@@ -873,10 +874,9 @@ la cantena
 la ingotela
 ei qanzo
 ei ancanto
-la kanna
-ei cannon
 la untsua
 la elara
+la atomicita
 la capela
 la enciuta
 la capital
@@ -1249,6 +1249,8 @@ la conjugatia
 la horia
 la ferramenteria
 ei cone
+ei cunno
+ei vulve
 la aonatia
 ei hipe
 la conqiliologia
@@ -1271,6 +1273,7 @@ la contactologia
 ei contactologo
 ei contactologette
 ei kontoro
+la contepia
 ei drigatio
 ei polutio
 ei containio
@@ -1284,8 +1287,6 @@ ei controlatoro
 ei driver
 ei pairetio
 ei konversio
-ei cunno
-ei vulve
 la coordenata
 ei cope
 la kopenage
@@ -1649,6 +1650,7 @@ la xiaibela
 la divisa
 ei diproxo
 ei dipre
+ei doble
 ei doktor
 ei dokumento
 ei dodo
@@ -1753,6 +1755,9 @@ la endemos
 la endocrinologia
 ei endocrinologo
 ei endocrinologette
+ei enemike
+la enemika
+ei enemiko
 la eneryia
 ei januaro
 ei rutsu
@@ -1860,10 +1865,10 @@ la suarda
 la dragonkane
 la espageti
 ei betranno
-ei escorraco
-ei escorro
 la espanna
 ei espannol
+ei escorraco
+ei escorro
 ei esparto
 ei platintso
 la esplata
@@ -1918,9 +1923,9 @@ la estanzia
 la licentela
 la estandar
 ei estantaro
+ei tenno
 la axele
 la axelva
-ei tenno
 la estante
 la estatua
 la estatura
@@ -2783,14 +2788,14 @@ la lekta
 ei blanco
 la leme
 la lema
+la lenna
+la madrakuxette
 la linzeria
 ei lemgo
 ei codilango
 ei prokramalango
 ei tsiko
 la lendait
-la lenna
-la madrakuxette
 ei leon
 la tsafala
 ei lerite
@@ -2934,6 +2939,7 @@ la mamografia
 la mamografica
 ei mamuz
 la haia
+la manza
 la zugra
 ei pesejo
 la oranjarina
@@ -2966,7 +2972,6 @@ ei ersokio
 la menzana
 ei pomo
 la pomotsa
-la manza
 la mapa
 ei mapatso
 la racune
@@ -3253,10 +3258,10 @@ ei meiperso
 la multita
 ei mondo
 la mundologia
-ei amunitio
 ei intso
 la doli
 ei clutso
+ei amunitio
 la murala
 ei vesperilo
 ei murelo
@@ -3373,6 +3378,7 @@ la nevari
 la nevotia
 ei novembo
 ei loimike
+la legas
 ei nimbo
 ei likenimbo
 la kora
@@ -3387,7 +3393,6 @@ ei numerologo
 ei numerologette
 ei dietexette
 la nutriologia
-la legas
 ei bispo
 la asiga
 ei item
@@ -3713,8 +3718,9 @@ ei cailo
 la bola
 ei pilotufeso
 la cailoxette
+la penna
+ei pennasco
 la kirla
-la contepia
 ei pendulo
 la penisa
 la sakiya
@@ -3723,8 +3729,6 @@ la penze
 la siakara
 ei pentakono
 la pentalogia
-la penna
-ei pennasco
 ei peon
 la aravita
 la virante
@@ -3819,6 +3823,8 @@ la piezometria
 la piezometrica
 la niki
 la pipera
+la pinna
+la anani
 la brutsa
 ei brutse
 la adkoxine
@@ -3835,8 +3841,6 @@ la pintaia
 ei pikto
 la pinta
 la sujeta
-la pinna
-la anani
 ei pioyo
 la crutsa
 ei pire
@@ -4083,11 +4087,11 @@ la polmona
 la pulpusa
 la intsina
 ei pambo
+ei estavoro
 ei punto
 la nesiga
 ei puntuatio
 ei puntuo
-ei estavoro
 la tritura
 la puta
 ei qubit
@@ -4365,6 +4369,8 @@ la semila
 la semiologia
 ei semiologo
 ei semiologette
+la sinna
+la sinna
 ei kemno
 ei sino
 ei seno
@@ -4375,14 +4381,12 @@ la senografica
 la senologia
 ei senologo
 ei senologette
+ei sire
+la sira
 ei sensation
 la sensa
 ei senso
 la sensira
-la sinna
-la sinna
-ei sire
-la sira
 la sepsis
 la sepsis
 ei septakono
@@ -4910,12 +4914,13 @@ la ulcera
 ei ultilogo
 ei ultilogette
 la finale
+la pneupuloi
+la neka
 ei unione
 ei yoixo
 ei formatio-zentro
 ei universo
 ei one
-la neka
 ei uranio
 ei urano
 la uranografia
@@ -5300,6 +5305,7 @@ ei conjugo
 ei miseioko
 ei conqisto
 ei constanto
+la conteposa
 ei drigo
 ei poluto
 ei enderizo
@@ -5569,6 +5575,7 @@ ei supardo
 ei oblivo
 ei husko
 ei origelo
+la orwelliana
 ei obskuro
 la auskura
 ei ausko
@@ -5720,7 +5727,6 @@ la sugarra
 ei valo
 ei valito
 ei valuako
-la conteposa
 ei vasto
 ei neiborako
 la verta

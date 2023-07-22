@@ -1391,6 +1391,14 @@
             }
         ]
     },
+    "adrenalina": {
+        "entries": [
+            {
+                "meaning": "adrenalina",
+                "specification": ""
+            }
+        ]
+    },
     "aduana": {
         "entries": [
             {
@@ -2239,6 +2247,14 @@
         "entries": [
             {
                 "meaning": "kalpa, alga",
+                "specification": ""
+            }
+        ]
+    },
+    "algo cuyo valor o cantidad está entre el doble y el triple de otra cosa": {
+        "entries": [
+            {
+                "meaning": "superdoble",
                 "specification": ""
             }
         ]
@@ -8279,6 +8295,14 @@
         "entries": [
             {
                 "meaning": "elara",
+                "specification": ""
+            }
+        ]
+    },
+    "capacidad de algo para mantener integro; consistente y no dañarse o degradarse con el tiempo": {
+        "entries": [
+            {
+                "meaning": "atomicita",
                 "specification": ""
             }
         ]
@@ -16194,7 +16218,15 @@
     "doblar": {
         "entries": [
             {
-                "meaning": "fluksai",
+                "meaning": "fluksai, doblai",
+                "specification": ""
+            }
+        ]
+    },
+    "doble": {
+        "entries": [
+            {
+                "meaning": "doble",
                 "specification": ""
             }
         ]
@@ -17027,6 +17059,14 @@
         "entries": [
             {
                 "meaning": "desredundaire",
+                "specification": ""
+            }
+        ]
+    },
+    "eliminar y censurar la existencia de una persona": {
+        "entries": [
+            {
+                "meaning": "apersoi",
                 "specification": ""
             }
         ]
@@ -30675,6 +30715,14 @@
             }
         ]
     },
+    "multiplicar la cantidad de algo entre el doble y el triple": {
+        "entries": [
+            {
+                "meaning": "superdoblai",
+                "specification": ""
+            }
+        ]
+    },
     "multiplicar": {
         "entries": [
             {
@@ -32815,6 +32863,14 @@
         "entries": [
             {
                 "meaning": "ortologo, ortologette",
+                "specification": ""
+            }
+        ]
+    },
+    "orwelliano": {
+        "entries": [
+            {
+                "meaning": "orwelliana",
                 "specification": ""
             }
         ]
@@ -37855,6 +37911,14 @@
             }
         ]
     },
+    "pulsar": {
+        "entries": [
+            {
+                "meaning": "puloi",
+                "specification": ""
+            }
+        ]
+    },
     "pulsera": {
         "entries": [
             {
@@ -41923,7 +41987,7 @@
             }
         ]
     },
-    "situación en la que una persona es vigilada por la posibilidad de que sea un criminal / situación de grave peligro de caza": {
+    "situación en la que una persona es vigilada por la posibilidad de que sea un criminal": {
         "entries": [
             {
                 "meaning": "hepsis",
@@ -41931,7 +41995,7 @@
             }
         ]
     },
-    "captura o asesinato": {
+    "situación de grave peligro de caza; captura o asesinato": {
         "entries": [
             {
                 "meaning": "hepsis",
@@ -45971,6 +46035,14 @@
         "entries": [
             {
                 "meaning": "loop klave kerro",
+                "specification": ""
+            }
+        ]
+    },
+    "un supuesto reloj interno de una persona el cual se creía en la antiguedad que generaba los impulsos en gente impulsiva": {
+        "entries": [
+            {
+                "meaning": "pneupuloi",
                 "specification": ""
             }
         ]

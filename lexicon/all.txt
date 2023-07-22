@@ -170,6 +170,7 @@ adoptado → adopto
 adoptar → adoptei
 adoración → adoro
 adorar → adorai
+adrenalina → adrenalina
 aduana → otertseqe
 adueñarse → doine
 adverbio → adverba
@@ -276,6 +277,7 @@ alfajor → almodratso
 alfil (ajedrez) → espare
 alfombra → corta
 alga → kalpa, alga
+algo cuyo valor o cantidad está entre el doble y el triple de otra cosa → superdoble
 algo o lugar oscuro y depresivo → auska
 algo → akoixa
 algoritmo → algoritmo
@@ -1028,6 +1030,7 @@ canto → qanzo
 caníbal → canibal
 caoba → untsua
 capa → elara
+capacidad de algo para mantener integro; consistente y no dañarse o degradarse con el tiempo → atomicita
 capaz → abil
 capilla → capela
 capital (ciudad) → enciuta
@@ -2010,7 +2013,8 @@ divisa → divisa
 división → diproxo
 divisor → dipre
 diálogo → dialogo
-doblar → fluksai
+doblar → fluksai, doblai
+doble → doble
 doce → dizidois
 doceavo → dizidoisix
 doctor → doktor
@@ -2109,6 +2113,7 @@ elefante → estsondo
 elegir → electoi
 elevar → levai, airoei, quai
 eliminar cosas repetidas de un conjunto → desredundaire
+eliminar y censurar la existencia de una persona → apersoi
 ella → eila
 ello, eso → so
 ellos (objeto, no se usa pero se mantiene por legacy) → soit
@@ -3799,6 +3804,7 @@ muestra → dorima
 mugre → mugar
 mugroso → mugaro
 mujer → meiperso
+multiplicar la cantidad de algo entre el doble y el triple → superdoblai
 multiplicar → multiproxei
 multitud → multita
 mundial → mondola
@@ -4062,6 +4068,7 @@ ortografía → ortografia, ortografica
 ortología → ortologia
 ortotipografía → ortotipografia, ortotipografica
 ortólogo → ortologo, ortologette
+orwelliano → orwelliana
 orégano → parxa
 os → zurer
 oscuridad → obskuridae, obskurita, auskuria
@@ -4696,6 +4703,7 @@ pulgada → pulgada
 pulida → polita
 pulmón → polmona
 pulpo → pulpusa
+pulsar → puloi
 pulsera → intsina
 puma → pambo
 punto de mira, diana → nesiga
@@ -5201,7 +5209,7 @@ sismólogo → sismologo, sismologette
 sistema solar → solarsistema
 sistema → sistema
 sitiar → sitei
-situación en la que una persona es vigilada por la posibilidad de que sea un criminal / situación de grave peligro de caza, captura o asesinato → hepsis
+situación en la que una persona es vigilada por la posibilidad de que sea un criminal, situación de grave peligro de caza; captura o asesinato → hepsis
 slime → limo, eslimo, eslime, slime, slimo
 soberbia → superbia
 soberbio → superbo
@@ -5700,6 +5708,7 @@ ufólogo → ufologo, ufologette
 ultimo → elasto
 ultílogo → ultilogo, ultilogette
 un bucle del que no puedes salir ya que crees que necesitar algo para salir que solo podrás conseguir si sales → loop klave kerro
+un supuesto reloj interno de una persona el cual se creía en la antiguedad que generaba los impulsos en gente impulsiva → pneupuloi
 un, una, uno, unos, unas → am
 unido → yoiko
 unir → yoi

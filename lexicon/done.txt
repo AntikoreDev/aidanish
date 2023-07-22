@@ -161,6 +161,7 @@ adoptado
 adoptar
 adoración
 adorar
+adrenalina
 aduana
 adueñarse
 adverbio
@@ -270,6 +271,7 @@ alfombra
 alga
 algarroba
 algo
+algo cuyo valor o cantidad está entre el doble y el triple de otra cosa
 algo o lugar oscuro y depresivo
 algoritmo
 alguien
@@ -1012,6 +1014,7 @@ canto angeligcal
 caníbal
 caoba
 capa
+capacidad de algo para mantener integro; consistente y no dañarse o degradarse con el tiempo
 capaz
 capellán
 capilla
@@ -1021,7 +1024,6 @@ capitalista
 capitán
 captar
 captura
-captura o asesinato
 capturar
 capullo
 cara
@@ -1972,6 +1974,7 @@ división
 divisor
 diálogo
 doblar
+doble
 doce
 doceavo
 doctor
@@ -2070,6 +2073,7 @@ elefante
 elegir
 elevar
 eliminar cosas repetidas de un conjunto
+eliminar y censurar la existencia de una persona
 ella
 ello
 ellos
@@ -3732,6 +3736,7 @@ mugroso
 mujer
 multa
 multiplicar
+multiplicar la cantidad de algo entre el doble y el triple
 multitud
 mundial
 mundo
@@ -3991,6 +3996,7 @@ ortografía
 ortología
 ortotipografía
 ortólogo
+orwelliano
 orégano
 os
 oscuridad
@@ -4608,6 +4614,7 @@ pulgada
 pulida
 pulmón
 pulpo
+pulsar
 pulsera
 puma
 punto
@@ -5106,7 +5113,8 @@ sismólogo
 sistema
 sistema solar
 sitiar
-situación en la que una persona es vigilada por la posibilidad de que sea un criminal / situación de grave peligro de caza
+situación de grave peligro de caza; captura o asesinato
+situación en la que una persona es vigilada por la posibilidad de que sea un criminal
 slime
 soberbia
 soberbio
@@ -5602,6 +5610,7 @@ ultrapasteurizar
 ultílogo
 un
 un bucle del que no puedes salir ya que crees que necesitar algo para salir que solo podrás conseguir si sales
+un supuesto reloj interno de una persona el cual se creía en la antiguedad que generaba los impulsos en gente impulsiva
 una
 unas
 unido

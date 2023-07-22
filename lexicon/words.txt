@@ -106,6 +106,7 @@ adoptei
 adopto
 adorai
 adoro
+adrenalina
 adva
 advei
 adverba
@@ -468,6 +469,7 @@ apeadela
 apeire
 apero
 aperso
+apersoi
 apifobia
 apika
 apikultura
@@ -619,6 +621,7 @@ atletisma
 atletismo
 atlette
 atokla
+atomicita
 atrasai
 atria
 atrio
@@ -1806,6 +1809,8 @@ dizixone
 dizixoneix
 dizkoia
 dizkoiai
+doblai
+doble
 dodo
 doerro
 dogma
@@ -4598,6 +4603,7 @@ ortologo
 ortotipografia
 ortotipografica
 ortsida
+orwelliana
 osala
 osalei
 osalo
@@ -5003,6 +5009,7 @@ pluvai
 pluvaoro
 pluviometria
 pluviometrica
+pneupuloi
 poco
 podofilia
 podologette
@@ -5269,6 +5276,7 @@ pulanda
 pulca
 pulder
 pulgada
+puloi
 pulpusa
 pulverfruge
 pumka
@@ -5952,6 +5960,8 @@ supavai
 superavit
 superbia
 superbo
+superdoblai
+superdoble
 supervisoi
 supoi
 suportai
