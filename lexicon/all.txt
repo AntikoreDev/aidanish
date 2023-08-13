@@ -3829,6 +3829,7 @@ muñeca (brazo) → intso
 muñeco, muñeca (objeto) → doli, clutso
 mágica → magika
 máquina → matsina
+más que perfecto → plusquamperfecta
 más → mais
 máscara → lufazia, maske
 médico → medikarette
