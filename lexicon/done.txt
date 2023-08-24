@@ -1806,6 +1806,7 @@ desatascar
 desatornillar
 desbloquear
 descalzarse
+descalzo
 descansar
 descanso
 descender
@@ -2671,6 +2672,7 @@ gardenia
 garra
 garrapata
 gas
+gaslighting
 gasolina
 gasolinera
 gasometría
@@ -2789,6 +2791,8 @@ grueso
 grulla
 grulla trompetera
 grupo
+gruñido
+gruñir
 grúa
 guacamole
 guano de murciélago
@@ -2800,6 +2804,7 @@ guardador
 guardar
 guardia
 guarida
+guarrido
 guay
 guerra
 guerrero
@@ -3372,6 +3377,7 @@ lujuría
 luna
 lunes
 luz
+luz de gas
 luz intermitente
 luz tenue
 lácteo
@@ -3413,6 +3419,7 @@ malasombra
 maldecir
 maldición
 maldito
+malhechor
 malherbología
 maligno
 malo
@@ -3731,6 +3738,7 @@ muela
 muerte
 muerto
 muestra
+mugir
 mugre
 mugroso
 mujer
@@ -4638,6 +4646,7 @@ párrafo
 péndulo
 pértiga
 pícido
+píxel
 pórtico
 público
 qubit
@@ -4955,6 +4964,7 @@ saldo
 salida
 saliente
 salir
+salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole
 salmón
 salsa
 salsa tártara
@@ -5126,6 +5136,7 @@ sobrino
 social
 socializar
 sociedad
+sociedad completamente basada en el dinero; donde el que tiene más dinero tiene inevitablemente más poder y donde la desigualdad entre las clases sociales es muy alta
 socio
 sociobiología
 sociobiólogo
@@ -5514,6 +5525,7 @@ trastorno
 tratado
 tratar
 trato
+trauma
 traumatología
 traumatólogo
 travesura
@@ -5812,6 +5824,7 @@ víctima
 vídeo
 víspera de día
 víspera de festivo
+vóxel
 web
 whisky
 wikipedia

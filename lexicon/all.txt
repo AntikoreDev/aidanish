@@ -621,7 +621,7 @@ audiometría → audiometria, audiometrica
 audiólogo → audiologo, audiologette
 audífono → audefono
 aullar → ululai
-aullido → ulule
+aullido → ulule, ulula
 aumentar → easairei
 aumento → easa
 aunque → ounqe, ounqa
@@ -1842,6 +1842,7 @@ desatascar → unestorai, unastaine
 desatornillar → desexkrabaire
 desbloquear → unlokei
 descalzarse → unpoire
+descalzo → unpoie, unpoiro
 descansar → durnei, hixei
 descanso → hixe
 descender → denseine, aurei
@@ -2712,6 +2713,7 @@ gardenia (flor) → gardenia
 garra → giarra
 garrapata → giarrapoita
 gas → gas
+gaslighting, luz de gas → mnemoruptura, gaslighting
 gasolina → gasola, nitor, nafta
 gasolinera → gasotela, nitortela, naftela
 gasometría → gasometria, gasometrica
@@ -2835,6 +2837,8 @@ grueso → groso
 grulla trompetera → trompescuela
 grulla → escuela
 grupo → lude, grupo
+gruñido, guarrido → orko
+gruñir → gurrai, orkai
 grúa → gruva
 guacamole → guacamole
 guante → luva
@@ -2991,8 +2995,8 @@ homicidio → homicidio
 homofobia → homofobia
 homografía → homografia, homografica
 homología → homologia
-homosexual → homosexualo
-homsexualidad → homosexualita
+homosexual → homosexualo, homoseksualo
+homsexualidad → homosexualita, homoseksualita
 homólogo → homologo, homologette
 hongo → likena, fungo, tunga
 hora → hora
@@ -3419,7 +3423,7 @@ lugar donde se origina una pandemia endemia o epidemia → punto zero
 lugar → locata, itela
 lujo → luxo
 lujoso → luxoso
-lujuría → luxuria
+lujuría → luxuria, luksuria
 luna → luna
 lunes → lunia
 luz intermitente → litika
@@ -3468,6 +3472,7 @@ maldecir → maldikei
 maldición → malditio
 maldito → mairato
 maldito → maldito
+malhechor → heundoiette
 malherbología → malherbologia
 maligno → heunxo
 malo → heune
@@ -3801,6 +3806,7 @@ muerte → morto
 muerto → morte
 muerto → morto
 muestra → dorima
+mugir → mujai
 mugre → mugar
 mugroso → mugaro
 mujer → meiperso
@@ -4434,6 +4440,7 @@ pirometría → pirometria, pirometrica
 pirámide → piramide
 pirómano → piromane
 pis → pikse
+pisar (sexual) → poi
 pisar → pisoi
 piscina → acoakisa
 piso, apartamento → empartamento, bloke
@@ -4724,6 +4731,7 @@ párrafo → parrafo
 péndulo → pendulo
 pértiga → felto
 pícido, pájaro carpintero → madraco, pincano, picide
+píxel → pixel
 pórtico → portecum
 público → publiko
 público → publiko
@@ -5040,6 +5048,7 @@ salchicha → karnolon, sausoxo, soyo
 saldo → saldo
 salida → evokatela
 saliente → evoke
+salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole → comandai, comandaire
 salir → evokai
 salmón → tsugo
 salsa tártara → tartara, tartaruma
@@ -5220,6 +5229,7 @@ sobrevivir → survivai
 sobrino → asineko
 social → sozial
 socializar → sozialei
+sociedad completamente basada en el dinero; donde el que tiene más dinero tiene inevitablemente más poder y donde la desigualdad entre las clases sociales es muy alta → luxocrasis, luksocrasis
 sociedad → soziata
 socio → sozio
 sociobiología → sociobiologia
@@ -5613,6 +5623,7 @@ trastorno → yiga
 tratado → trato, tratado
 tratar → traire, tiskai, tratai
 trato → tiska, trato, trao
+trauma → trauma
 traumatología → traumatologia
 traumatólogo → traumatologo, traumatologette
 travesura → inkinda
@@ -5913,6 +5924,7 @@ víctima → viktima
 vídeo → vidio
 víspera de día → henito
 víspera de festivo → ferehenita
+vóxel → voxel
 web → web
 whisky → wiski
 wikipedia → wikipedia

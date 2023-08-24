@@ -1272,6 +1272,8 @@ colta
 com
 coma
 comaize
+comandai
+comandaire
 comando
 combe
 combo
@@ -2756,6 +2758,7 @@ gardaxette
 gardenia
 garlo
 gas
+gaslighting
 gasola
 gasometria
 gasometrica
@@ -2911,6 +2914,7 @@ guma
 gumoi
 guoi
 guro
+gurrai
 guse
 gustoi
 guta
@@ -2994,6 +2998,7 @@ heterofobia
 heterosexualita
 heterosexualo
 heun
+heundoiette
 heune
 heunei
 heunesle
@@ -3088,6 +3093,8 @@ homoia
 homologette
 homologia
 homologo
+homoseksualita
+homoseksualo
 homosexualita
 homosexualo
 hone
@@ -3860,6 +3867,8 @@ ludaine
 lude
 lufaz
 lufazia
+luksocrasis
+luksuria
 lula
 luna
 lunia
@@ -3867,6 +3876,7 @@ lurge
 lutio
 luva
 luxo
+luxocrasis
 luxoso
 luxuria
 mace
@@ -4186,6 +4196,7 @@ mixei
 mixequei
 mixequeieto
 mixuia
+mnemoruptura
 mnemotecnia
 mnemoteknia
 moana
@@ -4271,6 +4282,7 @@ movai
 muco
 mugar
 mugaro
+mujai
 multiproxei
 multita
 mundologia
@@ -4584,6 +4596,8 @@ orgon
 origai
 origelo
 origo
+orkai
+orko
 orne
 ornitologette
 ornitologia
@@ -4970,6 +4984,7 @@ pistatso
 pistila
 pistola
 pite
+pixel
 pizza
 pizzatela
 plaga
@@ -6296,6 +6311,7 @@ trastoso
 tratado
 tratai
 trato
+trauma
 traumatologette
 traumatologia
 traumatologo
@@ -6468,6 +6484,7 @@ ukrania
 ulcera
 ultilogette
 ultilogo
+ulula
 ululai
 ulule
 umoeke
@@ -6509,7 +6526,9 @@ unpaireko
 unpaireoso
 unparezei
 unparezeitio
+unpoie
 unpoire
+unpoiro
 untsua
 unyoiko
 unzuna
@@ -6747,6 +6766,7 @@ vorto
 vorzoi
 vourage
 vouraige
+voxel
 voyeur
 voyeurette
 voyeurista

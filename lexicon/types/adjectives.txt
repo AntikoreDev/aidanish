@@ -27,14 +27,14 @@ acogedor → akaino
 acompañado → exekoro
 actual → airpose
 actualizado → airposaioko
-acuático → acoatiko
 acusado → akusako
+acuático → acoatiko
 adictivo → adiktoso
 adicto → adikto
 adoptado → adopto
 afilado → alfilago
-afónico → afono
 afortunado → helera
+afónico → afono
 agresivo → agresibo
 agrio → xigro
 albino → albino
@@ -52,17 +52,16 @@ amenazador → zroto
 amenazante → zrote
 amistoso → amikeso
 amplio → amplero
-anárquico → anarqiko
 ancho → faldo
 anidado → ineste
 anterior → andonko, prevo
 antiguo → antio
 antipático → antimaiso
 anual → yaroko
+anárquico → anarqiko
 apagado → off
 arcano → arcana
 ardiente → igneoso
-áspero → coarsa
 atrapado → zentso
 aturdido → xake
 aturdidor → xakoro
@@ -73,7 +72,6 @@ azul → anil
 bajo → pikoso
 barato → atsoso
 batido → socremeko
-bélico → beliko
 bello → belo
 beneficioso → benefitioso
 benigno → bainxo
@@ -89,6 +87,7 @@ brusco → zizenno
 bucal → oupare
 buen → Baine
 bueno → baine
+bélico → beliko
 cabezón, terco (insulto) → bluta
 cabrón → fuzo
 caducado → expiro
@@ -112,8 +111,8 @@ cerrado → kerraiso
 ciego → blinda
 cierto (especificando algo) → certo
 claro → klaro
-clásico → eclasiko
 claustrofóbico → claustrofobico
+clásico → eclasiko
 cocido → kozido
 cocinado → koxineioto
 colindante → colinte
@@ -122,15 +121,14 @@ coloquial → coloqio
 colorido → kolorido
 comburente → comburente
 comercial → komerziale
-cómodo → conforte
 compatible → kompatible
 complejo → complekso
 completo → kompleto
 complicado → complico
 comprobado → teste
+comunista → comunista
+comunista → comunista
 común → komuna
-comunista → comunista
-comunista → comunista
 condenado → condeno
 conectado → conekto
 confundido → afuska
@@ -150,19 +148,20 @@ crujiente → crusto
 culpable → riaxeso
 culto → litero
 curioso → kurioso
-débil → debila
+cómodo → conforte
 decente → dezente
 deficiente → defizente
 definido → definite
 definitivo → definite
 dejado → dexaireioko
 delgado → delekio
-demócrata → democrato
 democrático → democratika
+demócrata → democrato
 derretido → fundo, derretido, derrito
 derrotado → derroqo
 derrotista → derroqista
 desastroso → disastroso
+descalzo → unpoie, unpoiro
 desconocido → unmiseioko
 desechado → desexo
 deshecho → undono
@@ -188,11 +187,12 @@ doméstico → domestixo
 dudoso →  dubido
 dulce → dultse
 duro → tsosto
+débil → debila
 ecológico → ecologike
 efectivo → efektibo
 eficiente → efizente
-eléctrico → elektriko
 electrónico → elektrikono
+eléctrico → elektriko
 emotivo → emotivo
 empanado → ebrite
 empático → maise
@@ -203,9 +203,8 @@ endeudado → dutiako
 enfadado → rutsuko
 enfermo → ebilo
 entero → folo, ello
-enterrado → auro, enterro
 enterrado vivo → vitauro
-épico → epikar
+enterrado → auro, enterro
 ergonómico → ergonomo
 esmaltado → esmaro
 especial → espezial
@@ -224,7 +223,6 @@ expuesto → exposto
 extraño → estranno
 extremo → extremo
 extrovertido → extroverto
-fácil → fazilo
 falso → fakro
 falto → fala
 favorito → favo
@@ -238,12 +236,13 @@ fino → estretso
 forzado → forzaioso
 fresco (cuando se trata de algo novedoso) → siske, heruo, fresko
 fresco → fresko
-frío → aigeloso
 frito → frito
+frío → aigeloso
 fuerte → forte
 futuro → futura
-galáctico → galaksiko
+fácil → fazilo
 galleta → putsa
+galáctico → galaksiko
 gandúl → sugarriyo
 general → general
 genial → genelo
@@ -261,8 +260,8 @@ hambriento → fameno
 hipnotizado → hipnoto
 hogareño → heigaro
 horizontal → horizono
-húmedo → hemo
 húmedo y profundo → heruo
+húmedo → hemo
 igual → equalo
 ilimitado → unlimiteko
 imaginador → imagineiko
@@ -272,9 +271,9 @@ impresionable → impresable
 impresionante → impresivo
 impreso → izkratoso
 inaccesible → inakcesibla
-incómodo → inconforte
 incorrecto → incorrecto, inkorrektoko
 inculto → unlitero
+incómodo → inconforte
 indecente → undezente
 industrial → industriala, industrial
 infinito → unfiniko
@@ -289,14 +288,13 @@ intencional → intentiente
 interesante → interesanta
 intermitente → tika
 introvertido → introverto
-irónico → ironiko
 irritado → ezirutsuko
+irónico → ironiko
 jerárquico → jiderarqiko
 jodida → frikenko
 joven → nevako
 justo → iusto
 kafkiano → kafkiano
-lácteo → esneoro
 lagrimado → lakrimido
 largo → longo
 lascivo → invikso
@@ -313,14 +311,14 @@ listo (persona inteligente) → listo
 listo (preparado) → estedie, preparato
 literal → literal
 llamado → llamako
-lleno → ello, elloko
 lleno de bondad → bainido
 lleno de maldad → heunido
 lleno de vida → vitido
+lleno → ello, elloko
 local → local, locatako
 loco → loko, ankraro, friko
 lujoso → luxoso
-mágica → magika
+lácteo → esneoro
 magnético → magnetiso
 majo → hali
 mal → heun
@@ -331,9 +329,9 @@ maligno → heunxo
 malo → heune
 maloliente → heunesle
 manco → falman
-maniático → maniaco
 manipulado, manipulable → maniketa
 manipulador → manikete
+maniático → maniaco
 marchito → marxito
 marcial → martiala
 marrón → marro, brunno, bronzo, itsoso
@@ -352,7 +350,6 @@ minúsculo → miskolo
 mirado → avisoko
 mismo → mesmo
 misterioso → edariko
-místico → mistica
 modificado → modifikako
 monetario → monetareo
 mono → neko
@@ -363,6 +360,8 @@ muerto → morto
 mugroso → mugaro
 mundial → mondola
 muy cerrado, casi sin ventanas o puertas → zakerro
+mágica → magika
+místico → mistica
 natural → naturala
 negativo → nekatiko
 negro → nekro
@@ -380,8 +379,8 @@ oloroso → eslo
 olvidado → supardo, oblivo, husko
 original → origelo
 orwelliano → orwelliana
-oscuro → obskuro, auskura
 oscuro y depresivo → ausko
+oscuro → obskuro, auskura
 oxidado (de hacer algo) → rigi
 oxidado (metal) → ragiko
 paquete (insulto) → tsusta
@@ -428,12 +427,11 @@ propio → prope
 protegido → protecto
 próxima → entera
 próximo → proximo
-público → publiko
 pulida → polita
 puntuado → puntico
 puro → pura
 puto → puto
-rápido → rante
+público → publiko
 raro → rare, raro
 real → real
 rechazado → retsaiko
@@ -453,6 +451,7 @@ rosa → rosar
 roto → roto
 rudo → bardo
 ruidoso → audixoso
+rápido → rante
 sabroso → zaproso
 saciable → satiable
 sagrado → sacro
@@ -469,9 +468,9 @@ separado → unyoiko
 serio → serio
 siguiente → arenko
 silencioso → esparoso
+simple → simple, sampla 
 simpático → amaiso, simpo
 simpático → simaise
-simple → simple, sampla 
 sin color → kolorfala
 sin duda, indudablemente → dubafala
 sin sentido → sensofala
@@ -481,8 +480,8 @@ soberbio → superbo
 sobrevalorado → airvaluako
 social → sozial
 solo (estar solo) → ekoro
-soñador → pentsieko
 sordo → sorda
+soñador → pentsieko
 suave → iabe, lige
 sucio → druxo
 suficiente → sufizente
@@ -496,7 +495,6 @@ termal → termalo
 terminado → fino
 terrenal → terranal
 terrorífico → terruo, teruo
-tétrico → auskura
 tibio → templa
 tierno → aile
 trabajador → travaxeko
@@ -505,17 +503,15 @@ tranquilo → einxo, calmo
 transcriptiva → transcribiko
 trastornante → yigoiko
 triste → tristeko
+tétrico → auskura
 ultimo → elasto
-único → uniko
 unido → yoiko
 uperisado → uperisato
 urbano → urbe
 usual → usuala
-útil → utila
 vacante → vakante
 vacío → vatio
 vago → sugarra
-válido → valo, valito
 valorado → valuako
 vasto → vasto
 vecinal → neiborako
@@ -528,3 +524,8 @@ viejo (adjetivo) → igerne, igerno, elde, oko
 visto → viso
 vivo → vitoso
 vizco → quete
+válido → valo, valito
+áspero → coarsa
+épico → epikar
+único → uniko
+útil → utila

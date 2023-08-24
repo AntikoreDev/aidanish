@@ -2340,6 +2340,20 @@ comaizeio
 comaizeioto
 comaizeki
 comaizet
+comandai
+comandaie
+comandaieon
+comandaiet
+comandaiki
+comandaio
+comandaioto
+comandaire
+comandaireie
+comandaireieon
+comandaireio
+comandaireioto
+comandaireki
+comandairet
 comando
 combe
 combo
@@ -5552,6 +5566,7 @@ gardaxette
 gardenia
 garlo
 gas
+gaslighting
 gasola
 gasometria
 gasometrica
@@ -5815,6 +5830,13 @@ guoiki
 guoio
 guoioto
 guro
+gurrai
+gurraie
+gurraieon
+gurraiet
+gurraiki
+gurraio
+gurraioto
 guse
 gustoi
 gustoie
@@ -5958,6 +5980,7 @@ heterofobia
 heterosexualita
 heterosexualo
 heun
+heundoiette
 heune
 heunei
 heuneie
@@ -6118,6 +6141,8 @@ homoia
 homologette
 homologia
 homologo
+homoseksualita
+homoseksualo
 homosexualita
 homosexualo
 hone
@@ -7712,6 +7737,8 @@ ludaioto
 lude
 lufaz
 lufazia
+luksocrasis
+luksuria
 lula
 luna
 lunia
@@ -7719,6 +7746,7 @@ lurge
 lutio
 luva
 luxo
+luxocrasis
 luxoso
 luxuria
 mace
@@ -8242,6 +8270,7 @@ mixequeiki
 mixequeio
 mixequeioto
 mixuia
+mnemoruptura
 mnemotecnia
 mnemoteknia
 moana
@@ -8387,6 +8416,13 @@ movaioto
 muco
 mugar
 mugaro
+mujai
+mujaie
+mujaieon
+mujaiet
+mujaiki
+mujaio
+mujaioto
 multiproxei
 multiproxeie
 multiproxeieon
@@ -8946,6 +8982,14 @@ origaio
 origaioto
 origelo
 origo
+orkai
+orkaie
+orkaieon
+orkaiet
+orkaiki
+orkaio
+orkaioto
+orko
 orne
 ornitologette
 ornitologia
@@ -9614,6 +9658,7 @@ pistatso
 pistila
 pistola
 pite
+pixel
 pizza
 pizzatela
 plaga
@@ -9699,6 +9744,12 @@ poema
 poesia
 poi
 poibola
+poie
+poieon
+poiet
+poiki
+poio
+poioto
 poire
 poitexo
 poitsa
@@ -12512,6 +12563,7 @@ trataiki
 trataio
 trataioto
 trato
+trauma
 traumatologette
 traumatologia
 traumatologo
@@ -12852,6 +12904,7 @@ ukrania
 ulcera
 ultilogette
 ultilogo
+ulula
 ululai
 ululaie
 ululaieon
@@ -12989,6 +13042,7 @@ unparezeiki
 unparezeio
 unparezeioto
 unparezeitio
+unpoie
 unpoire
 unpoireie
 unpoireieon
@@ -12996,6 +13050,7 @@ unpoireio
 unpoireioto
 unpoireki
 unpoiret
+unpoiro
 untsua
 unyoiko
 unzuna
@@ -13407,6 +13462,7 @@ vouraigeio
 vouraigeioto
 vouraigeki
 vouraiget
+voxel
 voyeur
 voyeurette
 voyeurista

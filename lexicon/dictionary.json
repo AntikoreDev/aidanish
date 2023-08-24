@@ -5026,7 +5026,7 @@
     "aullido": {
         "entries": [
             {
-                "meaning": "ulule",
+                "meaning": "ulule, ulula",
                 "specification": ""
             }
         ]
@@ -14827,6 +14827,14 @@
             }
         ]
     },
+    "descalzo": {
+        "entries": [
+            {
+                "meaning": "unpoie, unpoiro",
+                "specification": ""
+            }
+        ]
+    },
     "descansar": {
         "entries": [
             {
@@ -21935,6 +21943,22 @@
             }
         ]
     },
+    "gaslighting": {
+        "entries": [
+            {
+                "meaning": "mnemoruptura, gaslighting",
+                "specification": ""
+            }
+        ]
+    },
+    "luz de gas": {
+        "entries": [
+            {
+                "meaning": "mnemoruptura, gaslighting",
+                "specification": ""
+            }
+        ]
+    },
     "gasolina": {
         "entries": [
             {
@@ -22915,6 +22939,30 @@
         "entries": [
             {
                 "meaning": "lude, grupo",
+                "specification": ""
+            }
+        ]
+    },
+    "gruñido": {
+        "entries": [
+            {
+                "meaning": "orko",
+                "specification": ""
+            }
+        ]
+    },
+    "guarrido": {
+        "entries": [
+            {
+                "meaning": "orko",
+                "specification": ""
+            }
+        ]
+    },
+    "gruñir": {
+        "entries": [
+            {
+                "meaning": "gurrai, orkai",
                 "specification": ""
             }
         ]
@@ -24182,7 +24230,7 @@
     "homosexual": {
         "entries": [
             {
-                "meaning": "homosexualo",
+                "meaning": "homosexualo, homoseksualo",
                 "specification": ""
             }
         ]
@@ -24190,7 +24238,7 @@
     "homsexualidad": {
         "entries": [
             {
-                "meaning": "homosexualita",
+                "meaning": "homosexualita, homoseksualita",
                 "specification": ""
             }
         ]
@@ -27658,7 +27706,7 @@
     "lujuría": {
         "entries": [
             {
-                "meaning": "luxuria",
+                "meaning": "luxuria, luksuria",
                 "specification": ""
             }
         ]
@@ -28043,6 +28091,14 @@
             },
             {
                 "meaning": "maldito",
+                "specification": ""
+            }
+        ]
+    },
+    "malhechor": {
+        "entries": [
+            {
+                "meaning": "heundoiette",
                 "specification": ""
             }
         ]
@@ -30687,6 +30743,14 @@
         "entries": [
             {
                 "meaning": "dorima",
+                "specification": ""
+            }
+        ]
+    },
+    "mugir": {
+        "entries": [
+            {
+                "meaning": "mujai",
                 "specification": ""
             }
         ]
@@ -35782,6 +35846,10 @@
     "pisar": {
         "entries": [
             {
+                "meaning": "poi",
+                "specification": "sexual"
+            },
+            {
                 "meaning": "pisoi",
                 "specification": ""
             }
@@ -38083,6 +38151,14 @@
         "entries": [
             {
                 "meaning": "madraco, pincano, picide",
+                "specification": ""
+            }
+        ]
+    },
+    "píxel": {
+        "entries": [
+            {
+                "meaning": "pixel",
                 "specification": ""
             }
         ]
@@ -40651,6 +40727,14 @@
             }
         ]
     },
+    "salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole": {
+        "entries": [
+            {
+                "meaning": "comandai, comandaire",
+                "specification": ""
+            }
+        ]
+    },
     "salir": {
         "entries": [
             {
@@ -42079,6 +42163,14 @@
         "entries": [
             {
                 "meaning": "sozialei",
+                "specification": ""
+            }
+        ]
+    },
+    "sociedad completamente basada en el dinero; donde el que tiene más dinero tiene inevitablemente más poder y donde la desigualdad entre las clases sociales es muy alta": {
+        "entries": [
+            {
+                "meaning": "luxocrasis, luksocrasis",
                 "specification": ""
             }
         ]
@@ -45279,6 +45371,14 @@
             }
         ]
     },
+    "trauma": {
+        "entries": [
+            {
+                "meaning": "trauma",
+                "specification": ""
+            }
+        ]
+    },
     "traumatología": {
         "entries": [
             {
@@ -47711,6 +47811,14 @@
         "entries": [
             {
                 "meaning": "ferehenita",
+                "specification": ""
+            }
+        ]
+    },
+    "vóxel": {
+        "entries": [
+            {
+                "meaning": "voxel",
                 "specification": ""
             }
         ]

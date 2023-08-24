@@ -1,4 +1,3 @@
-
 abandonar → ekorei, lostigai
 abanicar → cuendei
 abarcar → hombai
@@ -37,8 +36,8 @@ activar → aktivei
 actualizar → airposai
 actuar → aktoai
 acumular → acumai, buntsai
-acuñar → acuine
 acusar → akusai
+acuñar → acuine
 adelantar → alancai
 adelgazar → delekai
 administrar → administrei
@@ -75,22 +74,20 @@ alucinar → alutinai
 alzar → ancai
 amaestrar → amasterai
 amamantar → amamantai
-amañar → amaine
 amanecer → manzai
 amar → loi
 amargar → tsagrai
 amartillar, martillar → martexei
+amañar → amaine
 amenazar → zrotei
 amontonar → kievei
 amputar → amputai
 amueblar → furnai, moblai
-añadir → adoi
 anchar → faldai
 andar → andaire
 anidar → inestai
 anillar → rinkai
 anochecer → nitoi
-añorar → annorai
 anotar → anotai
 anunciar → advei, advertaire
 apagar → ofei
@@ -143,14 +140,16 @@ avanzar → enterei
 avergonzar → combroi
 avisar → avistei
 ayudar → ladei
+añadir → adoi
+añorar → annorai
 babear → clire
 bailar → danzeire
 bajar → aurei
 balanza → balantai
-bañar → baxei
 barajar → barajai
 barrer → furrei
 batear → batei
+bañar → baxei
 beber → acoi, trinkai
 bendecir → bendizei
 beneficiar → benefitiai, supavai
@@ -161,8 +160,8 @@ blindar → blindai
 bloquear → lokei
 bombardear → bombardai
 borrar → prusai
-brillar → briai
 brillar con luz tenue → glimai
+brillar → briai
 bromear → rusiai
 burlar → bulai
 buscar → findai
@@ -179,8 +178,8 @@ canalizar → kanalaize
 cancelar → kanzelei
 canjear → prizai
 cansar → infizei
-cantar → qanzei
 cantar angelical → ancantoire
+cantar → qanzei
 captar → kaptai
 capturar → kaptai
 carburar → carburai
@@ -274,10 +273,10 @@ coordinar → coordinai
 copiar → kopai
 coronar → koronai, koronaire
 correr → zurrai
-cortar → akutai
 cortar el césped → ebraixe
 cortar el pelo → ecaile
 cortar las uñas → enekai
+cortar → akutai
 cosechar, cultivar → cropai, aznai
 coser → ehelai
 costar (precio) → kostei
@@ -295,10 +294,10 @@ culpar → riaxai
 cumplir → kumplaire
 curar → kurai
 curiosear → kuriosei
-dañar → daxai, injurai
-dar → bei
 dar pereza → partsai
+dar → bei
 darse cuenta → indorai
+dañar → daxai, injurai
 deber (expresión) → debei
 deber → dutei
 decaer → decai, porei
@@ -306,8 +305,8 @@ decapitar → dantsai, fascai, fascaire
 decepcionar → deteptionei
 decidir → dezei
 decir (coloquial) → dikei
-decir → dikerei
 decir muchas palabrotas → cusai, vouraige
+decir → dikerei
 declarar → declaire
 deducir → deduktei
 defender → defendei
@@ -375,8 +374,8 @@ disciplinar → disciplaire
 discriminar → discrimai
 disculpar → diskaire
 disfrazar → desfroi, vangai
-disfrutar → gozoi
 disfrutar mucho → aioioi
+disfrutar → gozoi
 disipar → disipaire
 disolver → disolvai
 disparar → desparei
@@ -447,8 +446,8 @@ enseñar → esaroi
 ensordecer → sordai
 ensuciar → druxai
 entender → enderei, comprei
-enterrar → enterrei, auroi
 enterrar vivo → vitaurei
+enterrar → enterrei, auroi
 entrar → entrei
 entregar → entregai
 entrenar → traine, entraine
@@ -466,8 +465,8 @@ esconder → jidei
 escribir → izkribei
 escuchar → eskotsai
 escurrir → gutarei
-esforzarse → efoi, veuyei, veuyerai
 esforzarse mucho → reveuyerai
+esforzarse → efoi, veuyei, veuyerai
 esmaltar → esmaire
 espantar → escorrai
 esparcir, espolvorear → droupoi, hougire
@@ -481,8 +480,8 @@ esquilar → bouroi
 esquivar → inzei
 establecer → setei, establezei
 estallar → aixai
-estar → astei
 estar de pie → estandai
+estar → astei
 estirar → tritsai, punxai
 estresar → anorrei
 estudiar → estarei
@@ -521,8 +520,8 @@ formular → formulai
 forzar → forzai
 fragmentar → fractai
 fregar → mopai
-freír → fritei
 frenar → freine, detrei
+freír → fritei
 frotar → frotsai
 fumar → esmokai, inzai
 fumigar → fumigai
@@ -534,22 +533,23 @@ gemir → kemire
 generar → espaunaire
 girar, virar → virai
 gobernar → governei
-golpear → puntsai, bumpai
 golpear algo para intentar arreglarlo → impetaikse, impetaksai
+golpear → puntsai, bumpai
 gotear → dipai, tipai
 gozar → gozei
 grabar → grabai, ikrabai, recordai
 graznar → cuacai, graznai
 gritar → klizei
+gruñir → gurrai, orkai
 guardar → gaize
 guiar → redai
 gustar → gustoi
 haber → harei
-hablar → paire, falai
 hablar sin saber → farlai
-hacer → doi, faize, fai, fazei
+hablar → paire, falai
 hacer reir → sigisai
 hacer un tour → turei
+hacer → doi, faize, fai, fazei
 hacerse una paja → oargai
 hackear → hackei
 hechizar → xizai
@@ -615,9 +615,9 @@ limitar → limitei
 limpiar → likrai
 llamar → llamai
 llegar → irihei
-llenar → elloi, foloi
 llenar algo para aparentar algo cuantioso → bougire
 llenar o recargar algo innecesariamente → bougai
+llenar → elloi, foloi
 llevar → yeveire
 llorar → lakrimai, acoatai
 llover → pluvai, acoatei
@@ -660,13 +660,14 @@ modificar → modifikai
 modular → modulai
 montar (montar algo) → montai
 montar (montar en algo) → overai
-morir → mortei
 morir de hambre → estarvai
-mostrar → dorimei
+morir → mortei
 mostrar flash → bliqai
+mostrar → dorimei
 mover → movai
-multiplicar → multiproxei
+mugir → mujai
 multiplicar la cantidad de algo entre el doble y el triple → superdoblai
+multiplicar → multiproxei
 murmurar → surai
 mutar → mutai
 nacer → natai, naize
@@ -742,6 +743,7 @@ picar (minar) → minai
 pincelar → brutsei
 pinchar → pinkai
 pintar → pintei
+pisar (sexual) → poi
 pisar → pisoi
 planchar → plankai
 planear (plan) → planoi
@@ -753,8 +755,8 @@ posar → posei
 poseer → posesai
 posibilitar → posiblai, posibilai, posibilitai
 posponer → posposai
-practicar → praktikai
 practicar un hobby → hobbiai
+practicar → praktikai
 precisar → prezisei
 predecir, predicar → predikei
 predicar → predicai
@@ -790,8 +792,8 @@ publicar → publikai
 pulsar → puloi
 purificar (religión o místico) → haiai, purei
 quebrar → qibrai
-quedar → quaroi
 quedar sin → ranaire
+quedar → quaroi
 quemar → tsizirrei, ignodaxai
 querer → qarei
 quitar → removai
@@ -824,8 +826,8 @@ regar → rekai
 regresar → retornai
 rehacer → redoi, refai
 reir → gisai
-relucir → enlitai
 relucir húmedo → acolaine
+relucir → enlitai
 remar → esguelai
 remarcar → remarkei
 remasterizar → remastereize
@@ -874,6 +876,7 @@ saber → onetai
 sacar → retrai
 saciar → satiarei
 sacrificar → sacrifai
+salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole → comandai, comandaire
 salir → evokai
 saltar → pulai
 saludar → haiai
@@ -885,7 +888,6 @@ secar → driai
 sedar → sedai
 seguir → sigai
 seleccionar → selektei
-señalizar → sinnai
 sentar → sendai
 sentir → sensei
 sepultar → sepultai
@@ -893,6 +895,7 @@ ser → sei
 servir (para un jefe tipo mafia) → titsei
 servir (servicio) → servei
 servir (uso de algo) → sirvei
+señalizar → sinnai
 significar → mearei, daine
 silenciar → esparei
 simpatizar → simaise
@@ -906,10 +909,10 @@ soltar → soltai
 solver → solvai
 sombrear → tsadoi
 sonar → audei
-soñar → pentsizei
 sonreir → selai
 soportar → suportai
 sostener → sotenai, sotaine
+soñar → pentsizei
 subir → airei
 suceder (continuar) → enterai
 suceder (suceso) → berai
@@ -938,19 +941,19 @@ temblar → gaxei, atsei
 templar → temperai
 tender → ibsoi
 tener → taine
-teñir → tentai
 tensar → tentai
 tentar → soblasnei, movai
 terminar → teirnai
 terraformar → terraformei
-tirar → atai
+teñir → tentai
 tirar mierda o hablar mal fuertemente sobre algo o alguien → jarai
+tirar → atai
 tocar → toutsoi
 tomar → tomei
 torturar → apunderai
 tostar → tostai
-trabajar → travaxei
 trabajar duro, trabajar forzoso → tsunkei
+trabajar → travaxei
 traducir → translai
 traer → brogei
 traficar → trafikai
