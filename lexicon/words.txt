@@ -2436,6 +2436,7 @@ ezirutsuko
 ezurra
 ezurrai
 faba
+fabla
 facto
 fago
 fai
@@ -6443,6 +6444,7 @@ tsosto
 tsugo
 tsunami
 tsunkei
+tsurra
 tsusta
 tube
 tubekula

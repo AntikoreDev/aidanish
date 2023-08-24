@@ -1194,6 +1194,7 @@ chocolate
 chocolatero
 chocolatería
 choque
+chorizo
 chuche
 chupada
 chupar
@@ -1636,6 +1637,7 @@ cuchillo
 cuello
 cuenco
 cuenta
+cuento
 cuerda
 cuerno
 cuero
@@ -2643,6 +2645,7 @@ futbolista
 futuro
 futurología
 futurólogo
+fábula
 fácil
 fé
 fístula

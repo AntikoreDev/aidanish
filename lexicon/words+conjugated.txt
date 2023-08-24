@@ -4950,6 +4950,7 @@ ezurraiki
 ezurraio
 ezurraioto
 faba
+fabla
 facto
 fago
 fai
@@ -12845,6 +12846,7 @@ tsunkeiet
 tsunkeiki
 tsunkeio
 tsunkeioto
+tsurra
 tsusta
 tube
 tubekula

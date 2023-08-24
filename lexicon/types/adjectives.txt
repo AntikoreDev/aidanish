@@ -335,7 +335,6 @@ maniático → maniaco
 marchito → marxito
 marcial → martiala
 marrón → marro, brunno, bronzo, itsoso
-más que perfecto → plusquamperfecta
 masculino → masculine
 masivo → masivo
 maximo → oxtorra
@@ -362,6 +361,7 @@ mugroso → mugaro
 mundial → mondola
 muy cerrado, casi sin ventanas o puertas → zakerro
 mágica → magika
+más que perfecto → plusquamperfecta
 místico → mistica
 natural → naturala
 negativo → nekatiko
@@ -494,6 +494,7 @@ templado → tempero
 tenue → sove
 termal → termalo
 terminado → fino
+terminal (estado) → terminal
 terrenal → terranal
 terrorífico → terruo, teruo
 tibio → templa

@@ -9735,6 +9735,14 @@
             }
         ]
     },
+    "chorizo": {
+        "entries": [
+            {
+                "meaning": "tsurra",
+                "specification": ""
+            }
+        ]
+    },
     "chuche": {
         "entries": [
             {
@@ -13419,6 +13427,22 @@
             },
             {
                 "meaning": "akanta",
+                "specification": ""
+            }
+        ]
+    },
+    "cuento": {
+        "entries": [
+            {
+                "meaning": "fabla",
+                "specification": ""
+            }
+        ]
+    },
+    "fábula": {
+        "entries": [
+            {
+                "meaning": "fabla",
                 "specification": ""
             }
         ]
@@ -43990,8 +44014,12 @@
     "terminal": {
         "entries": [
             {
+                "meaning": "terminal",
+                "specification": "estado"
+            },
+            {
                 "meaning": "terminatela, terminal",
-                "specification": ""
+                "specification": "sitio"
             }
         ]
     },

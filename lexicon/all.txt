@@ -1211,6 +1211,7 @@ chocolate → xouclate
 chocolatero → xouclatette
 chocolatería → xouclatela
 choque → bumpo
+chorizo → tsurra
 chuche, caramelo → dultsina
 chupada → lika
 chupar → likai
@@ -1667,6 +1668,7 @@ cuello → corlo, pisotsa, otso
 cuenco, bol → kisa
 cuenta (números) → konta
 cuenta → akanta
+cuento, fábula → fabla
 cuerda → resta
 cuerno → corno
 cuerpo → corpo
@@ -5448,7 +5450,8 @@ teratología → teratologia
 tercero → triaix
 termal → termalo
 terminado → fino
-terminal → terminatela, terminal
+terminal (estado) → terminal
+terminal (sitio) → terminatela, terminal
 terminar → teirnai
 terminología → terminologia
 terminólogo → terminologo, terminologette

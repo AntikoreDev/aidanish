@@ -2974,6 +2974,7 @@ ei mamuz
 la mama
 la zugra
 ei pesejo
+la tsurra
 la oranjarina
 la manda
 ei mandoro
@@ -4170,6 +4171,7 @@ ei recto
 ei rektor
 la laira
 ei rekonto
+la fabla
 ei rekordo
 ei supte
 ei rekurso
@@ -5545,7 +5547,6 @@ ei marro
 ei brunno
 ei bronzo
 ei itsoso
-la plusquamperfecta
 la masculine
 ei masivo
 la oxtorra
@@ -5572,6 +5573,7 @@ ei mugaro
 la mondola
 ei zakerro
 la magika
+la plusquamperfecta
 la mistica
 la naturala
 ei nekatiko
@@ -5717,6 +5719,7 @@ ei tempero
 ei sove
 ei termalo
 ei fino
+la terminal
 la terranal
 ei terruo
 ei teruo
