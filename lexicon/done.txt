@@ -2065,6 +2065,7 @@ egiptología
 egiptólogo
 ejemplo
 ejercer
+ejercer luz de gas sobre alguien
 ejercicio
 el
 elección
@@ -5516,6 +5517,7 @@ transcriptiva
 transexual
 transexualidad
 transfobia
+transformar
 transitar
 transmutación
 transmutar

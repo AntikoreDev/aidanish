@@ -4202,7 +4202,9 @@ mixei
 mixequei
 mixequeieto
 mixuia
+mnemoruptaire
 mnemoruptura
+mnemorupturai
 mnemotecnia
 mnemoteknia
 moana
@@ -6297,6 +6299,7 @@ transcribiko
 transexualita
 transexualo
 transfobia
+transformai
 transita
 transitei
 translai

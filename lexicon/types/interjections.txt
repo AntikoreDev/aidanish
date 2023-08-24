@@ -1,9 +1,7 @@
-hola → hai
 adiós → adem
-buenos días → baine manzait (por la mañana, no se usa)
-buenos días → baine henit 
-buenas tardes → baine tarenit
-buenas noches → baine nitoit 
+buenas noches → baine nito
+buenas tardes → baine taren
+buenos días → baine hen
+buenos días → baine manza (por la mañana, no se usa)
+hola → hai
 vale → bai 
-
-

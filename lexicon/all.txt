@@ -878,11 +878,11 @@ bucarest → bukaresti
 bucle → loop
 budismo → budisma
 buen → baine
-buenas noches → baine nitoit
-buenas tardes → baine tarenit
+buenas noches → baine nito
+buenas tardes → baine taren
 bueno → baine
-buenos días → baine henit
-buenos días → baine manzait (por la mañana, no se usa)
+buenos días → baine hen
+buenos días → baine manza (por la mañana, no se usa)
 buey → zarra
 bufanda → bunfaza
 bufón → bulanere, xiabette
@@ -2102,6 +2102,7 @@ egipto → egipto
 egiptología → egiptologia
 egiptólogo → egiptologo, egiptologette
 ejemplo → exemplo
+ejercer luz de gas sobre alguien → mnemoruptaire, mnemorupturai
 ejercer → ecersai
 ejercicio → exersizo
 el → ei
@@ -5612,6 +5613,7 @@ transcriptiva → transcribiko
 transexual → transexualo
 transexualidad → transexualita
 transfobia → transfobia
+transformar → transformai, mutai
 transitar → transitei
 transmutación → transmuta
 transmutar → transmutai

@@ -7078,7 +7078,7 @@
     "buenas noches": {
         "entries": [
             {
-                "meaning": "baine nitoit",
+                "meaning": "baine nito",
                 "specification": ""
             }
         ]
@@ -7086,7 +7086,7 @@
     "buenas tardes": {
         "entries": [
             {
-                "meaning": "baine tarenit",
+                "meaning": "baine taren",
                 "specification": ""
             }
         ]
@@ -7102,11 +7102,11 @@
     "buenos días": {
         "entries": [
             {
-                "meaning": "baine henit",
+                "meaning": "baine hen",
                 "specification": ""
             },
             {
-                "meaning": "baine manzait (por la mañana, no se usa)",
+                "meaning": "baine manza (por la mañana, no se usa)",
                 "specification": ""
             }
         ]
@@ -16975,6 +16975,14 @@
         "entries": [
             {
                 "meaning": "exemplo",
+                "specification": ""
+            }
+        ]
+    },
+    "ejercer luz de gas sobre alguien": {
+        "entries": [
+            {
+                "meaning": "mnemoruptaire, mnemorupturai",
                 "specification": ""
             }
         ]
@@ -45283,6 +45291,14 @@
         "entries": [
             {
                 "meaning": "transfobia",
+                "specification": ""
+            }
+        ]
+    },
+    "transformar": {
+        "entries": [
+            {
+                "meaning": "transformai, mutai",
                 "specification": ""
             }
         ]

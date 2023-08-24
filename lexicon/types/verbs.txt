@@ -385,6 +385,8 @@ divertir → xiaibelai
 dividir → diproxei
 doblar → fluksai, doblai
 doler → dolei
+domar → domai
+dominar → domaine
 donar → donai
 dorar → aurai
 dormir → dormei
@@ -396,6 +398,7 @@ durar → dulai
 echar → etsoi
 edificar → tendoi
 editar → editei
+ejercer luz de gas sobre alguien → mnemoruptaire, mnemorupturai
 ejercer → ecersai
 elegir → electoi
 elevar → levai, airoei, quai
@@ -914,8 +917,6 @@ soportar → suportai
 sostener → sotenai, sotaine
 soñar → pentsizei
 subir → airei
-domar → domai
-dominar → domaine
 suceder (continuar) → enterai
 suceder (suceso) → berai
 sudar → suetai
@@ -963,6 +964,7 @@ tragar → quei
 traicionar → trastai
 trampear → trapai
 transcribir → transcribei
+transformar → transformai, mutai
 transitar → transitei
 transmutar → transmutai
 transportar → aconvoi
