@@ -1941,6 +1941,7 @@ diecisiete → dizisepto
 dieciséis → dizisexei
 diente de león (flor) → sedara
 diente → denta
+diestro → deiranno
 dieta → dieta
 dietético → dieteko
 diez → dez
@@ -3400,7 +3401,7 @@ lluvia de ideas → ideait-mixa
 lluvia → pluva, acoata
 lo que sea → oraben
 lo → xo (cosa)
-lobo → lauseto
+lobo → lupo, lauseto
 local → local, locatako
 loco → loko, ankraro, friko
 locura → ankraia
@@ -3773,7 +3774,7 @@ monólogo → monologo, monologette
 moqueta → mokete, moqete
 mora → blurra
 morado → morato
-morado → purpuro
+morado → purpuro, purpur
 morfofonología → morfofonologia
 morfología → morfologia
 morfometría → morfometria, morfometrica
@@ -3864,6 +3865,7 @@ narratología → narratologia
 narratólogo → narratologo, narratologette
 nativo → nativo
 natural → naturala
+naturaleza → natura
 navaja → navaia
 navegador (internet) → brouser, browser
 navidad → neven

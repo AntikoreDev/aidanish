@@ -1585,6 +1585,7 @@ degustai
 degustoi
 deida
 deino
+deiranno
 deirina
 deis
 deisa
@@ -3873,6 +3874,7 @@ luksuria
 lula
 luna
 lunia
+lupo
 lurge
 lutio
 luva
@@ -4333,6 +4335,7 @@ natai
 nataire
 natatia
 nativo
+natura
 naturala
 nau
 nauhen
@@ -5314,6 +5317,7 @@ puratio
 purei
 purna
 purnai
+purpur
 purpuro
 purra
 purro

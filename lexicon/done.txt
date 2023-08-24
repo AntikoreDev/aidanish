@@ -1903,6 +1903,7 @@ diecisiete
 dieciséis
 diente
 diente de león
+diestro
 dieta
 dietético
 diez
@@ -3796,6 +3797,7 @@ narratología
 narratólogo
 nativo
 natural
+naturaleza
 navaja
 navegador
 navidad

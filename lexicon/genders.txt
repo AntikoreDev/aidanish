@@ -2898,6 +2898,7 @@ la iriheia
 la baletrumbe
 la pluva
 la acoata
+ei lupo
 ei lauseto
 la ankraia
 la ugrarda
@@ -3247,6 +3248,7 @@ ei mokete
 ei moqete
 la blurra
 ei purpuro
+ei purpur
 la morfofonologia
 la morfologia
 la morfometria
@@ -5148,12 +5150,12 @@ ei crumbo
 ei biz
 ei xugino
 ei bubo
-ei zoranno
 ei sokete
 la afrika
 la arabeka
 ei atiko
 la egila
+la natura
 la klisila
 la ambar
 la anyel
@@ -5358,6 +5360,7 @@ ei boldako
 la determina
 la diagonal
 la hena
+ei deiranno
 ei dieteko
 ei nequalo
 ei derrenko
@@ -5758,6 +5761,7 @@ ei vitoso
 ei quete
 ei valo
 ei valito
+ei zoranno
 la coarsa
 la epikar
 ei uniko

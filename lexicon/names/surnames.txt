@@ -1,100 +1,343 @@
 
-Acaia → Roble
-Aito → Alto
-Anil → Azul
-Ankraro → Loco
-Arcana → Arcano
-Arima → Coral
-Asunna → Caseta
-Atria → Abedul
-Auriava → Río de oro
-Avistela → Mirador
-Bankexette → Banquero
-Bianco → Blanco
-Britaxette → Panadero
-Brixante → Brillante
-Bulanere → Bufón
-Calvo → Calvo
-Campelette → Campanero
-Cauginno → pequeño carcelero
-Dultse → Dulce
-Ebande → Búho
-Elme → Olmo
-Emelo → Guapo
-Epikar → Épico
-Equalo → Igual
-Esneaxette → Lechero
-Foko → Fuego
-Fola → Hoja
-Forno → Horno
-Grazero → Gracioso
-Hali → Majo
-Herfola → Hoja de hierro
-Herren → De hierro
-Herro → Hierro
-Hidranyea → Hidrángea
-Honito → Hombre nocturno
-Igernasunna → Casa vieja
-Igerne → Viejo
-Intresola (Sn significado)
-Introverto → Introvertido
-Jefe → Jefe
-Joglar → Juglar
-Jokaiette→ Jugador
-Kanala → Canal
-Karnirette → Carnicero
-Kasa → Casa
-Kempoloi → Campo de amor
-Koasta → Costa
-Koastutso → Costa de marfil
-Kolfisi → Tundra
-Kolorit → Colores
-Koraiso → Corazón
-Korko → Corcho
-Koxinette → Cocinero
-Kraba → Cangrejo
-Kraiette → Criada
-Laiette → Persona de ley
-Loi → Amor
-Madra → Madera
-Madracaia → Madera de roble
-Madrakuxette, Madrera → Leñador
-Magna, Grata → Grande
-Marit → Mares
-Materra → Tierra madre
-Mende → Mente
-Mistica → Místico
-Musikette → Músico
-Nevo → Nuevo
-Nevorein → Nuevo rey
-Nito → Noche
-Peskorette → Pescador
-Peskoventeie → Pescadero
-Petrohon → Hombre de piedra
-Petroit → Piedras
-Petroxette → Cantero
-Pikoler → Menor
-Praisoxette → Sacerdote
-Purro → Porro
-Qiava → Carcaj
-Rante → Rápido
-Rein → Rey
-Renno → Reino
-Rinka → Anillo
-Ritsa → Rico
-Roixa → Rosa
-Roxo → Rojo
-Securo → Seguro
-Sela → Sonrisa
-Sugarra → Vago
-Sundo → Profundo
-Sunriava → Río profundo
-Triai → Tres
-Ugro → Lodo
-Untsua → Caoba
-Vatio → Vacío
-Vita → Vida
-Xiabeloso → Divertido
-Xikorra → Buitre
-Zigar → Burro
-Torqero, Torqerette, Torqette → Desengrasador
+abil
+acaia
+acoa
+acoa
+acoatira
+agaisto
+aibelo
+aige
+aigela
+aigelaria
+aile
+aiprila
+aito
+akutoro
+aldeloi
+ana
+ancanton
+anglo
+anil
+arima
+ata
+atria
+atulipa
+audei
+auriava
+aurio
+autonno
+avistela
+azna
+bagon
+bainodo
+balantai
+bale
+barco
+baton
+bei
+belo
+berde
+beso
+bianco
+blai
+bola
+brita
+bulanere
+cailo
+calmo
+calvo
+capitanna
+cardo
+cargo
+castil
+celar
+circlo
+clia
+computera
+conforte
+coper
+cosmos
+coto
+crosa
+cuela
+culda
+culto
+dantsoro
+deiranno
+delekio
+delfino
+diamento
+dicembro
+diporko
+diske
+dixo
+doble
+doktor
+dole
+dominko
+domo
+dormebas
+dormei
+dracono
+druxo
+duxlano
+ebande
+eko
+elde
+elme
+emelo
+epikar
+eqipo
+erga
+esguela
+eskarra
+esne
+espannol
+este
+estelegas
+exo
+falco
+falcon
+falman
+fazilo
+febrero
+ferehen
+fin
+fisi
+floira
+flora
+foko
+fola
+forno
+forte
+francesa
+froga
+gazai
+genelo
+grata
+grazero
+guaira
+hali
+hegoa
+hen
+herfola
+herren
+herro
+hidranyea
+hipol
+hixtane
+horcasto
+hundo
+huske
+icor
+igerne
+inferno
+ironiko
+isla
+italeano
+iusto
+izboto
+januaro
+januo
+jideor
+jido
+joko
+junze
+kadro
+kale
+kalerkista
+kalerkoso
+kanala
+karno
+kasa
+kato
+kemno
+kempo
+kindo
+klave
+kloko
+koasta
+kolfisi
+kolor
+kora
+koraiso
+korko
+kotse
+koxina
+kraba
+kuastion
+kubo
+lamadra
+landa
+lango
+legal
+leon
+libro
+likraiso
+listo
+lito
+local
+loi
+loko
+lubo
+luna
+lunia
+lupo
+madra
+magna
+maio
+makora
+mallea
+manza
+mapa
+mare
+mareila
+martia
+marzea
+masa
+materra
+maza
+mela
+mesiga
+metala
+mola
+monki
+montanna
+montocondo
+musika
+natura
+natural
+neko
+nekro
+nektar
+nersu
+nevako
+neven
+nevo
+nevorein
+nimbo
+nivo
+norfloira
+norto
+novembo
+numo
+nuzel
+octambo
+oeste
+oi
+oliuma
+oliva
+ona
+onetai
+oranja
+ordo
+osalo
+oxtorer
+palme
+paz
+penze
+petro
+petrohon
+petros
+pikoler
+pikoso
+plaia
+pluva
+polaka
+polare
+pomo
+popula
+pora
+portoherro
+praisoi
+pula
+purpur
+purro
+qatrato
+qiava
+racoia
+racune
+rago
+raio
+rante
+rare
+razna
+real
+rein
+renno
+riava
+riel
+rioke
+rioko
+ritsa
+roixa
+roixeral
+rota
+roxo
+roxomelo
+ruby
+ruztarro
+sacro
+sak
+sale
+sanai
+savaxo
+securo
+securo
+seda
+sela
+septembro
+serio
+sigra
+sinzero
+sol
+solasta
+solnata
+sorda
+sozial
+sugarra
+sundo
+sunriava
+sur
+talasi
+taren
+tarena
+templa
+tempo
+tigra
+tondra
+topazio
+toro
+torqe
+torra
+tortoisa
+traxe
+traxhia
+trianglo
+trunko
+tsado
+tsosto
+tsugo
+tunga
+umoeke
+unzuna
+urso
+utso
+vaka
+vatio
+vedo
+vernia
+viri
+vita
+volkano
+web
+xeitore
+xolda
+xulio
+yordea
+zigar
+zima
+zoranno
+zunio
+zunno
+zurro

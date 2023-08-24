@@ -15635,6 +15635,14 @@
             }
         ]
     },
+    "diestro": {
+        "entries": [
+            {
+                "meaning": "deiranno",
+                "specification": ""
+            }
+        ]
+    },
     "dieta": {
         "entries": [
             {
@@ -27538,7 +27546,7 @@
     "lobo": {
         "entries": [
             {
-                "meaning": "lauseto",
+                "meaning": "lupo, lauseto",
                 "specification": ""
             }
         ]
@@ -30498,7 +30506,7 @@
                 "specification": ""
             },
             {
-                "meaning": "purpuro",
+                "meaning": "purpuro, purpur",
                 "specification": ""
             }
         ]
@@ -31227,6 +31235,14 @@
         "entries": [
             {
                 "meaning": "naturala",
+                "specification": ""
+            }
+        ]
+    },
+    "naturaleza": {
+        "entries": [
+            {
+                "meaning": "natura",
                 "specification": ""
             }
         ]

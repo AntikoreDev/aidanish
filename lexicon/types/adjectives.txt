@@ -170,6 +170,7 @@ destacado → boldako
 determinada → determina
 diagonal → diagonal
 diario → hena
+diestro → deiranno
 dietético → dieteko
 diferente → nequalo
 difícil → derrenko
@@ -527,6 +528,7 @@ visto → viso
 vivo → vitoso
 vizco → quete
 válido → valo, valito
+zurdo → zoranno
 áspero → coarsa
 épico → epikar
 único → uniko

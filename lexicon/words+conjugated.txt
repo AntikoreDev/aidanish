@@ -3055,6 +3055,7 @@ degustoio
 degustoioto
 deida
 deino
+deiranno
 deirina
 deis
 deisa
@@ -7743,6 +7744,7 @@ luksuria
 lula
 luna
 lunia
+lupo
 lurge
 lutio
 luva
@@ -8521,6 +8523,7 @@ nataireki
 natairet
 natatia
 nativo
+natura
 naturala
 nau
 nauhen
@@ -10426,6 +10429,7 @@ purnaiet
 purnaiki
 purnaio
 purnaioto
+purpur
 purpuro
 purra
 purro
