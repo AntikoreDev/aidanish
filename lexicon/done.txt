@@ -1991,7 +1991,9 @@ doler
 dolido
 dolor
 doloroso
+domar
 dominada
+dominar
 domingo
 dominio
 doméstico
@@ -2305,6 +2307,7 @@ español
 especial
 especialidad
 especializar
+especie
 espectador
 espectar
 espectro
@@ -3854,6 +3857,7 @@ ninguna forma
 ningún
 ningún lugar
 ningún momento
+ningún otro
 nitrogeno
 nivel
 niña

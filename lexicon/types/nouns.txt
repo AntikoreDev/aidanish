@@ -1591,6 +1591,7 @@ espantapájaros → escorraco
 espanto → escorro
 esparto → esparto
 especialidad → espezialitata
+especie → espezie
 espectador → espekteixette
 espectro → espector
 espectrofotometría → espectrofotometria, espectrofotometrica

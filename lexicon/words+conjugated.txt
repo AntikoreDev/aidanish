@@ -3689,6 +3689,20 @@ doleioto
 doli
 dolido
 dolo
+domai
+domaie
+domaieon
+domaiet
+domaiki
+domaine
+domaineie
+domaineieon
+domaineio
+domaineioto
+domaineki
+domainet
+domaio
+domaioto
 domestixo
 dominio
 dominko
@@ -4632,6 +4646,7 @@ espezialitaiki
 espezialitaio
 espezialitaioto
 espezialitata
+espezie
 espigoto
 espirita
 espirometria
@@ -8731,6 +8746,7 @@ nosologia
 nostalgia
 nota
 notela
+noter
 novembo
 nubula
 nude
@@ -9725,6 +9741,7 @@ plugaiki
 plugaio
 plugaioto
 pluma
+plus
 plusmarka
 plusquamperfecta
 plutonio

@@ -914,6 +914,8 @@ soportar → suportai
 sostener → sotenai, sotaine
 soñar → pentsizei
 subir → airei
+domar → domai
+dominar → domaine
 suceder (continuar) → enterai
 suceder (suceso) → berai
 sudar → suetai

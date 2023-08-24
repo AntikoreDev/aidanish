@@ -1835,6 +1835,8 @@ dolei
 doli
 dolido
 dolo
+domai
+domaine
 domestixo
 dominio
 dominko
@@ -2280,6 +2282,7 @@ esperanto
 espezial
 espezialitai
 espezialitata
+espezie
 espigoto
 espirita
 espirometria
@@ -4477,6 +4480,7 @@ nosologia
 nostalgia
 nota
 notela
+noter
 novembo
 nubula
 nude
@@ -5021,6 +5025,7 @@ plomo
 pluga
 plugai
 pluma
+plus
 plusmarka
 plusquamperfecta
 plutonio

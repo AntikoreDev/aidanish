@@ -2030,7 +2030,9 @@ doler → dolei
 dolido → dolo
 dolor → dole
 doloroso → dolido
+domar → domai
 dominada (ejercicio) → domonija
+dominar → domaine
 domingo → dominko
 dominio → dominio, domo
 doméstico → domestixo
@@ -2341,6 +2343,7 @@ español → espannol
 especial → espezial
 especialidad → espezialitata
 especializar → espezialitai
+especie → espezie
 espectador → espekteixette
 espectar → espektei
 espectro → espector
@@ -3920,6 +3923,7 @@ nigromante → nekromante
 ninguna forma → noforma
 ningún lugar → notela, nolocato
 ningún momento, nunca → nontsai
+ningún otro → noter
 ningún → none
 nitrogeno → nitroieno
 nivel → levela
@@ -4539,7 +4543,7 @@ por cierto → por zerto
 por cierto → por zerto
 por defecto → nurdefekto
 por favor → porqarei, porfevo
-por lo que → soqe
+por lo que → soqe, plus
 por qué → por qa
 por → por
 porche → escuara, esquara, arkubre

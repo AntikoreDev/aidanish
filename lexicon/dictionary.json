@@ -16359,11 +16359,27 @@
             }
         ]
     },
+    "domar": {
+        "entries": [
+            {
+                "meaning": "domai",
+                "specification": ""
+            }
+        ]
+    },
     "dominada": {
         "entries": [
             {
                 "meaning": "domonija",
                 "specification": "ejercicio"
+            }
+        ]
+    },
+    "dominar": {
+        "entries": [
+            {
+                "meaning": "domaine",
+                "specification": ""
             }
         ]
     },
@@ -18963,6 +18979,14 @@
         "entries": [
             {
                 "meaning": "espezialitai",
+                "specification": ""
+            }
+        ]
+    },
+    "especie": {
+        "entries": [
+            {
+                "meaning": "espezie",
                 "specification": ""
             }
         ]
@@ -31699,6 +31723,14 @@
             }
         ]
     },
+    "ningún otro": {
+        "entries": [
+            {
+                "meaning": "noter",
+                "specification": ""
+            }
+        ]
+    },
     "ningún": {
         "entries": [
             {
@@ -36614,7 +36646,7 @@
     "por lo que": {
         "entries": [
             {
-                "meaning": "soqe",
+                "meaning": "soqe, plus",
                 "specification": ""
             }
         ]

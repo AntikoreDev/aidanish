@@ -1104,6 +1104,7 @@ ei xouclate
 ei xouclatette
 la xouclatela
 ei bumpo
+la tsurra
 la dultsina
 la lika
 la ciberfobia
@@ -1476,6 +1477,7 @@ ei otso
 la kisa
 la konta
 la akanta
+la fabla
 la resta
 ei corno
 ei corpo
@@ -1928,6 +1930,7 @@ ei escorraco
 ei escorro
 ei esparto
 la espezialitata
+ei espezie
 ei espekteixette
 ei espector
 la espectrofotometria
@@ -2975,7 +2978,6 @@ ei mamuz
 la mama
 la zugra
 ei pesejo
-la tsurra
 la oranjarina
 la manda
 ei mandoro
@@ -3320,6 +3322,7 @@ la narratologia
 ei narratologo
 la narratologette
 ei nativo
+la natura
 la navaia
 ei brouser
 ei browser
@@ -4173,7 +4176,6 @@ ei recto
 ei rektor
 la laira
 ei rekonto
-la fabla
 ei rekordo
 ei supte
 ei rekurso
@@ -5155,7 +5157,6 @@ la afrika
 la arabeka
 ei atiko
 la egila
-la natura
 la klisila
 la ambar
 la anyel
