@@ -5545,6 +5545,7 @@ ei marro
 ei brunno
 ei bronzo
 ei itsoso
+la plusquamperfecta
 la masculine
 ei masivo
 la oxtorra
