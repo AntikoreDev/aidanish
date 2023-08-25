@@ -4430,6 +4430,7 @@ planimetría
 plano
 planta
 planta petrolífera
+planta violácea utilizada para crear el té purpur
 plantar
 plata
 plataforma
@@ -5651,6 +5652,7 @@ turrón
 tuyo
 tándem
 té
+té purpur tipico aidanés
 técnica
 técnico
 término

@@ -3135,6 +3135,7 @@ planimetría → planimetria, planimetrica
 plano → plane
 planta (flor) → planta
 planta petrolífera → nekrasoatela
+planta violácea utilizada para crear el té purpur → purpur
 planta, piso, suelo → pisoc
 plata → silvo
 plataforma → plataforma
@@ -3952,6 +3953,7 @@ turista → turista
 turno → turno
 turrón → bengela
 tándem → tandem
+té purpur tipico aidanés → purpur tsa, tsa purpur
 té → tsa
 técnica → texna
 técnico → texnette
