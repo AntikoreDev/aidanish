@@ -4355,6 +4355,22 @@
             }
         ]
     },
+    "arterial urbano": {
+        "entries": [
+            {
+                "meaning": "viato, viaton",
+                "specification": ""
+            }
+        ]
+    },
+    "carretera de muchas vías que conecta una ciudad con la autopista": {
+        "entries": [
+            {
+                "meaning": "viato, viaton",
+                "specification": ""
+            }
+        ]
+    },
     "arteriografía": {
         "entries": [
             {
@@ -4796,6 +4812,18 @@
             {
                 "meaning": "estorai, astaine",
                 "specification": ""
+            }
+        ]
+    },
+    "atasco": {
+        "entries": [
+            {
+                "meaning": "estora",
+                "specification": "generico"
+            },
+            {
+                "meaning": "via estora, ambotela",
+                "specification": "tráfico"
             }
         ]
     },
@@ -7771,7 +7799,7 @@
             },
             {
                 "meaning": "kale",
-                "specification": ""
+                "specification": "unidad"
             }
         ]
     },
@@ -8615,6 +8643,14 @@
         "entries": [
             {
                 "meaning": "karnoso",
+                "specification": ""
+            }
+        ]
+    },
+    "carnívoro": {
+        "entries": [
+            {
+                "meaning": "karnivoro",
                 "specification": ""
             }
         ]
@@ -10798,7 +10834,7 @@
     "coma": {
         "entries": [
             {
-                "meaning": "coma",
+                "meaning": "coma, vegeto estatia",
                 "specification": "salud"
             },
             {
@@ -17279,6 +17315,22 @@
             }
         ]
     },
+    "emoji": {
+        "entries": [
+            {
+                "meaning": "emoji",
+                "specification": ""
+            }
+        ]
+    },
+    "emoticono": {
+        "entries": [
+            {
+                "meaning": "emoji",
+                "specification": ""
+            }
+        ]
+    },
     "emotivo": {
         "entries": [
             {
@@ -21583,6 +21635,14 @@
             }
         ]
     },
+    "fructívoro": {
+        "entries": [
+            {
+                "meaning": "fructivoro",
+                "specification": ""
+            }
+        ]
+    },
     "fruta": {
         "entries": [
             {
@@ -23699,6 +23759,14 @@
             }
         ]
     },
+    "herbívoro": {
+        "entries": [
+            {
+                "meaning": "herbivoro",
+                "specification": ""
+            }
+        ]
+    },
     "herida": {
         "entries": [
             {
@@ -25487,6 +25555,14 @@
             }
         ]
     },
+    "insectívoro": {
+        "entries": [
+            {
+                "meaning": "insectivoro",
+                "specification": ""
+            }
+        ]
+    },
     "inserción": {
         "entries": [
             {
@@ -26791,6 +26867,14 @@
             }
         ]
     },
+    "lente": {
+        "entries": [
+            {
+                "meaning": "lensa, lense",
+                "specification": ""
+            }
+        ]
+    },
     "lenteja": {
         "entries": [
             {
@@ -26804,6 +26888,14 @@
             {
                 "meaning": "lendait",
                 "specification": ""
+            }
+        ]
+    },
+    "lentilla": {
+        "entries": [
+            {
+                "meaning": "lense",
+                "specification": "gafas"
             }
         ]
     },
@@ -28703,6 +28795,22 @@
         "entries": [
             {
                 "meaning": "zigarra",
+                "specification": ""
+            }
+        ]
+    },
+    "mariscada": {
+        "entries": [
+            {
+                "meaning": "arrainata",
+                "specification": ""
+            }
+        ]
+    },
+    "evento festivo típico del litoral; especialmente en rioko donde se sirven grandes cantidades de mariscos": {
+        "entries": [
+            {
+                "meaning": "arrainata",
                 "specification": ""
             }
         ]
@@ -31127,14 +31235,6 @@
             }
         ]
     },
-    "móvil": {
-        "entries": [
-            {
-                "meaning": "mobila, fone, fona",
-                "specification": "teléfono"
-            }
-        ]
-    },
     "música": {
         "entries": [
             {
@@ -32595,6 +32695,14 @@
         "entries": [
             {
                 "meaning": "huske, suparde",
+                "specification": ""
+            }
+        ]
+    },
+    "omnivoro": {
+        "entries": [
+            {
+                "meaning": "omnivoro",
                 "specification": ""
             }
         ]
@@ -34724,10 +34832,6 @@
             {
                 "meaning": "pilotufeso",
                 "specification": ""
-            },
-            {
-                "meaning": "pilotufeso",
-                "specification": ""
             }
         ]
     },
@@ -34934,6 +35038,10 @@
     "perdido": {
         "entries": [
             {
+                "meaning": "unaikalo",
+                "specification": "no tiene esperanza"
+            },
+            {
                 "meaning": "pardeyoso",
                 "specification": ""
             }
@@ -35067,6 +35175,30 @@
         "entries": [
             {
                 "meaning": "henpixette",
+                "specification": ""
+            }
+        ]
+    },
+    "periodo": {
+        "entries": [
+            {
+                "meaning": "yero",
+                "specification": "tiempo"
+            },
+            {
+                "meaning": "periode",
+                "specification": "cuerpo"
+            }
+        ]
+    },
+    "regla": {
+        "entries": [
+            {
+                "meaning": "periode",
+                "specification": "cuerpo"
+            },
+            {
+                "meaning": "rekla",
                 "specification": ""
             }
         ]
@@ -39311,14 +39443,6 @@
         "entries": [
             {
                 "meaning": "regiono",
-                "specification": ""
-            }
-        ]
-    },
-    "regla": {
-        "entries": [
-            {
-                "meaning": "rekla",
                 "specification": ""
             }
         ]
@@ -43823,6 +43947,30 @@
             }
         ]
     },
+    "teléfono fijo": {
+        "entries": [
+            {
+                "meaning": "telefono tokla, guirofono, telefono guiro",
+                "specification": ""
+            }
+        ]
+    },
+    "teléfono móvil": {
+        "entries": [
+            {
+                "meaning": "mobila, fone, fona",
+                "specification": ""
+            }
+        ]
+    },
+    "móvil": {
+        "entries": [
+            {
+                "meaning": "mobila, fone, fona",
+                "specification": ""
+            }
+        ]
+    },
     "teléfono": {
         "entries": [
             {
@@ -44959,6 +45107,14 @@
             }
         ]
     },
+    "torrente": {
+        "entries": [
+            {
+                "meaning": "torrenza",
+                "specification": ""
+            }
+        ]
+    },
     "torreta": {
         "entries": [
             {
@@ -45358,7 +45514,7 @@
     "tranvía": {
         "entries": [
             {
-                "meaning": "ciutrena",
+                "meaning": "ciutrena, trama, tram",
                 "specification": ""
             }
         ]
@@ -46799,6 +46955,22 @@
         "entries": [
             {
                 "meaning": "neiboro",
+                "specification": ""
+            }
+        ]
+    },
+    "vegano": {
+        "entries": [
+            {
+                "meaning": "vegano",
+                "specification": ""
+            }
+        ]
+    },
+    "vegetariano": {
+        "entries": [
+            {
+                "meaning": "vegetaro",
                 "specification": ""
             }
         ]

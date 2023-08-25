@@ -724,6 +724,7 @@ ambar
 ambientologette
 ambientologo
 ambo
+ambotela
 amerika
 amerizinto
 ametria
@@ -1053,6 +1054,7 @@ arraieon
 arraiet
 arraiki
 arraina
+arrainata
 arraineta
 arraio
 arraioto
@@ -4114,6 +4116,7 @@ emiteiki
 emiteio
 emiteioto
 emitero
+emoji
 emotia
 emotivo
 emozai
@@ -4762,6 +4765,7 @@ estomatologia
 estomatologo
 estonesa
 estonia
+estora
 estorai
 estoraie
 estoraieon
@@ -5468,6 +5472,7 @@ frotsaiet
 frotsaiki
 frotsaio
 frotsaioto
+fructivoro
 fruge
 fruka
 fruki
@@ -5831,6 +5836,7 @@ guarda
 guardia
 guasta
 guiro
+guirofono
 guma
 gumoi
 gumoie
@@ -5974,6 +5980,7 @@ herbeiki
 herbeio
 herbeioto
 herbepulai
+herbivoro
 herbologia
 herna
 herpetologette
@@ -6575,6 +6582,7 @@ inmunologo
 inocente
 inocentia
 insatiable
+insectivoro
 insekticida
 insekto
 inselei
@@ -6947,6 +6955,7 @@ kargaoro
 karico
 karitatoso
 karnirette
+karnivoro
 karno
 karnolon
 karnoso
@@ -7472,6 +7481,8 @@ lemgo
 lenda
 lendait
 lenna
+lensa
+lense
 lento
 leogra
 leon
@@ -8934,6 +8945,7 @@ oloioto
 olve
 omejo
 omeleto
+omnivoro
 on
 onatia
 oncologette
@@ -9488,6 +9500,7 @@ perilaiki
 perilaio
 perilaioto
 perilko
+periode
 perisologia
 peristerina
 perla
@@ -12445,6 +12458,7 @@ torqerette
 torqette
 torra
 torrata
+torrenza
 torta
 tortilla
 tortite
@@ -12514,6 +12528,8 @@ traireioto
 traireki
 trairet
 traka
+tram
+trama
 tramitologia
 transcriba
 transcribei
@@ -12968,6 +12984,7 @@ unagrupaiki
 unagrupaio
 unagrupaioto
 unagrupatio
+unaikalo
 unarkutsai
 unarkutsaie
 unarkutsaieon
@@ -13253,6 +13270,8 @@ vasto
 vater
 vatio
 vedo
+vegano
+vegetaro
 vehiklo
 veige
 veigeie
@@ -13344,6 +13363,8 @@ vexilogette
 vexilogia
 via
 viarante
+viato
+viaton
 vibrai
 vibraibo
 vibraie

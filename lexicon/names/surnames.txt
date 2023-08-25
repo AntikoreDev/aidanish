@@ -52,6 +52,7 @@ castil
 celar
 circlo
 clia
+colono
 computera
 conforte
 coper

@@ -526,6 +526,7 @@ arroz
 arte
 artefacto
 arteria
+arterial urbano
 arteriografía
 arteriología
 artesano
@@ -581,6 +582,7 @@ ataque
 ataque al corazón
 atardecer
 atascar
+atasco
 atención
 atender
 aterrar
@@ -1055,12 +1057,14 @@ carnaval
 carne
 carnicero
 carnoso
+carnívoro
 caro
 carpeta
 carpintero
 carpología
 carrera
 carretera
+carretera de muchas vías que conecta una ciudad con la autopista
 carro
 carruaje
 carta
@@ -2097,6 +2101,8 @@ emisor
 emitir
 emocionar
 emoción
+emoji
+emoticono
 emotivo
 empacar
 empalmar
@@ -2421,6 +2427,7 @@ europa
 evaporación
 evaporar
 evento
+evento festivo típico del litoral; especialmente en rioko donde se sirven grandes cantidades de mariscos
 evitar
 exacto
 exageración
@@ -2627,6 +2634,7 @@ friki de videojuegos
 frisbee
 frito
 frotar
+fructívoro
 fruta
 frío
 fucsia
@@ -2887,6 +2895,7 @@ heno
 hepatología
 hepatólogo
 herbología
+herbívoro
 herida
 herir
 hermana
@@ -3104,6 +3113,7 @@ insaciable
 inscribir
 insecticida
 insecto
+insectívoro
 inserción
 insertar
 instalación
@@ -3264,8 +3274,10 @@ lencería
 lengua
 lenguaje
 lenguaje de programación
+lente
 lenteja
 lentes
+lentilla
 lento
 lerdo
 letra
@@ -3495,6 +3507,7 @@ mariología
 marioneta
 mariposa
 mariquita
+mariscada
 marisco
 mariólogo
 marmota
@@ -3966,6 +3979,7 @@ oloroso
 olvidado
 olvidar
 olvido
+omnivoro
 once
 onceavo
 oncología
@@ -4265,6 +4279,7 @@ perforar
 perfume
 pergamino
 periodista
+periodo
 periquito
 perisología
 periódico
@@ -5335,6 +5350,8 @@ teletransporte
 televisión
 televisor
 teléfono
+teléfono fijo
+teléfono móvil
 telón
 tema
 temblar
@@ -5474,6 +5491,7 @@ torno
 toro
 torpedo
 torre
+torrente
 torreta
 torso
 torta
@@ -5701,6 +5719,8 @@ vasto
 vecinal
 vecindario
 vecino
+vegano
+vegetariano
 vehiculo de guerra
 vehículo
 veinte

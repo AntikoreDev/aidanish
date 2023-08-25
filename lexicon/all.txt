@@ -537,6 +537,7 @@ arroz → raz
 arte → arte
 artefacto → artefactum, artefacto
 arteria → arteria, atokla
+arterial urbano, carretera de muchas vías que conecta una ciudad con la autopista → viato, viaton
 arteriografía → arteriografia, arteriografica
 arteriología → arteriologia
 artesano → artisette
@@ -593,6 +594,8 @@ ataque → atakte, atake
 atardecer → tarena
 atardecer → tarenai
 atascar → estorai, astaine
+atasco (generico) → estora
+atasco (tráfico) → via estora, ambotela
 atención → atentio
 atender → atendai
 aterrar → terrai, escarai
@@ -964,7 +967,7 @@ caligrafía → caligrafia, caligrafica
 callado → unpaireoso
 callar → unpaire, noi
 calle (referencia general) → estrato
-calle → kale
+calle (unidad) → kale
 callejero → estratoge
 calmado → calmo
 calografía → calografia, calografica
@@ -1071,6 +1074,7 @@ carnaval → carnavala
 carne → karno
 carnicero → karnirette
 carnoso → karnoso
+carnívoro → karnivoro
 caro → karo
 carpeta → folda
 carpintero → madraxette
@@ -1340,7 +1344,7 @@ color → kolor, kromato
 colorear → kromatei, kolorei
 colorido → kolorido
 colorimetría → colorimetria, colorimetrica
-coma (salud) → coma
+coma (salud) → coma, vegeto estatia
 coma (texto) → coma
 comadreja → carriya
 comando → comando
@@ -2139,6 +2143,7 @@ emitir → emitei
 emocionar (emoción) → emozai
 emoción (emocionar) → emozio
 emoción (sentimiento) → emotia
+emoji, emoticono → emoji
 emotivo → emotivo
 empacar, empaquetar → paketai
 empalmar → apalmai
@@ -2666,6 +2671,7 @@ frisbee → frisbee
 frito → frito
 frito → frito
 frotar → frotsai
+fructívoro → fructivoro
 fruta → fruki
 frío → aige
 frío → aigeloso
@@ -2930,6 +2936,7 @@ heno → tseno
 hepatología → hepatologia
 hepatólogo → hepatologo, hepatologette
 herbología → herbologia
+herbívoro → herbivoro
 herida → daxe
 herir → daxei
 hermana → meileko, herna
@@ -3149,6 +3156,7 @@ insaciable → insatiable
 inscribir → azkribei
 insecticida → insekticida
 insecto → insekto
+insectívoro → insectivoro
 inserción → inserzo
 insertar → inserei
 instalación → instalatio
@@ -3310,8 +3318,10 @@ lema → leme, lema
 lencería → linzeria
 lengua → lemgo
 lenguaje de programación → codilango, prokramalango
+lente → lensa, lense
 lenteja → tsiko
 lentes → lendait
+lentilla (gafas) → lense
 lento → lento, levo
 lerdo → tsafala
 letra (canción) → lerite
@@ -3547,6 +3557,7 @@ mariología → mariologia
 marioneta → pupeto
 mariposa → blaigia
 mariquita → zigarra
+mariscada, evento festivo típico del litoral; especialmente en rioko donde se sirven grandes cantidades de mariscos → arrainata
 marisco → arraina
 mariólogo → mariologo, mariologette
 marmota → marmota
@@ -3850,7 +3861,6 @@ méxico → mexiko
 místico → mistica
 módem → modem
 módulo → modulo
-móvil (teléfono) → mobila, fone, fona
 música → musika
 música → musikette
 nacer → natai, naize
@@ -4035,6 +4045,7 @@ oloroso → eslo
 olvidado → supardo, oblivo, husko
 olvidar → supardaire, oblivei
 olvido → huske, suparde
+omnivoro → omnivoro
 once → dizixone
 onceavo → dizixoneix
 oncología → oncologia
@@ -4296,7 +4307,6 @@ pella → peia
 pelo, cabello → cailo
 pelota, bola → bola
 pelotudo → pilotufeso
-pelotudo → pilotufeso
 peluquero → cailoxette
 película → filmo
 penalizar → penalai
@@ -4322,6 +4332,7 @@ perca → eskada
 percha → pertsa, colca, colga
 perder → pardaire
 perdición → perditio
+perdido (no tiene esperanza) → unaikalo
 perdido → pardeyoso
 perdiz → lombo
 perdonar → pardonai, supardeixe
@@ -4340,6 +4351,8 @@ perforadora → perzroro
 perforar → perzroi, peirce
 pergamino → perge
 periodista → henpixette
+periodo (tiempo) → yero
+periodo, regla (cuerpo) → periode
 periquito → beke
 perisología → perisologia
 periódico → henpipra, nevapipra
@@ -5429,6 +5442,8 @@ telescopio → telescope
 teletransportar → teleportai
 teletransporte → teleporte
 televisión, televisor → televisoi
+teléfono fijo → telefono tokla, guirofono, telefono guiro
+teléfono móvil, móvil → mobila, fone, fona
 teléfono → telefono
 telón → beiloxte
 tema → subyecto
@@ -5571,6 +5586,7 @@ torno → torno
 toro → toro
 torpedo → torpedo
 torre → torra, hatena
+torrente → torrenza
 torreta → torrata, turreta
 torta → torta
 tortilla → tortilla, omeleto
@@ -5621,7 +5637,7 @@ transportador (regla) → aconvo
 transportar → aconvoi
 transportar, desplazar → deksplozai
 transporte → conve
-tranvía → ciutrena
+tranvía → ciutrena, trama, tram
 tras → tras
 trasnochar → transnitoi
 traspiés → troin
@@ -5800,6 +5816,8 @@ vasto → vasto
 vecinal → neiborako
 vecindario → neiborotela
 vecino → neiboro
+vegano → vegano
+vegetariano → vegetaro
 vehículo → vehiklo
 veinte → doisen
 vejez → igernesa, okosa, okoie, eldesa

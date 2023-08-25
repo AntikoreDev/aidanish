@@ -479,6 +479,8 @@ la artefactum
 ei artefacto
 la arteria
 la atokla
+ei viato
+ei viaton
 la arteriografia
 la arteriografica
 la arteriologia
@@ -532,6 +534,8 @@ la koraisagra
 la atakte
 la atake
 la tarena
+la estora
+la ambotela
 ei atentio
 la atlette
 la atletisma
@@ -1795,6 +1799,7 @@ ei emergenciologette
 ei emitero
 ei emozio
 la emotia
+la emoji
 la apalme
 la ebritaita
 la ebritaitita
@@ -2822,8 +2827,11 @@ la linzeria
 ei lemgo
 ei codilango
 ei prokramalango
+la lensa
+la lense
 ei tsiko
 la lendait
+la lense
 la tsafala
 ei lerite
 la letra
@@ -3028,6 +3036,7 @@ la mariologia
 ei pupeto
 la blaigia
 la zigarra
+la arrainata
 la arraina
 ei mariologo
 ei mariologette
@@ -3305,9 +3314,6 @@ la maske
 la medikarette
 ei modem
 ei modulo
-la mobila
-ei fone
-la fona
 la musika
 ei musikette
 la natatia
@@ -3726,7 +3732,6 @@ la perila
 la peia
 ei cailo
 la bola
-ei pilotufeso
 la cailoxette
 ei filmo
 la kirla
@@ -3763,6 +3768,8 @@ ei perzro
 ei perzroro
 la perge
 ei henpixette
+ei yero
+ei periode
 la beke
 la perisologia
 la henpipra
@@ -4631,6 +4638,10 @@ la teleologia
 ei telescope
 ei teleporte
 la televisoi
+ei guirofono
+la mobila
+ei fone
+la fona
 ei telefono
 ei beiloxte
 ei subyecto
@@ -4776,6 +4787,7 @@ ei toro
 ei torpedo
 la torra
 la hatena
+la torrenza
 la torrata
 la turreta
 la torta
@@ -4813,6 +4825,8 @@ la transmuta
 ei aconvo
 ei conve
 la ciutrena
+la trama
+la tram
 ei troin
 la celara
 la trastela
@@ -5286,6 +5300,7 @@ la capitalista
 ei tsarismatiko
 ei karitatoso
 ei karnoso
+ei karnivoro
 ei karo
 la simanata
 ei domodoio
@@ -5435,6 +5450,7 @@ ei heruo
 ei fresko
 ei fresko
 ei frito
+ei fructivoro
 ei aigeloso
 ei forte
 la futura
@@ -5460,6 +5476,7 @@ ei yuolo
 ei colo
 la legal
 ei fameno
+ei herbivoro
 ei hipnoto
 ei heigaro
 ei horizono
@@ -5488,6 +5505,7 @@ ei inmortal
 ei inmuno
 ei inocente
 la insatiable
+ei insectivoro
 ei instantako
 ei intelektualo
 ei intentiente
@@ -5596,6 +5614,7 @@ ei eslo
 ei supardo
 ei oblivo
 ei husko
+ei omnivoro
 ei origelo
 la orwelliana
 ei ausko
@@ -5616,6 +5635,7 @@ ei penzeiette
 ei penseivo
 ei pikolo
 ei meno
+ei unaikalo
 ei pardeyoso
 ei fiago
 ei fago
@@ -5748,6 +5768,8 @@ la sugarra
 ei valuako
 ei vasto
 ei neiborako
+ei vegano
+ei vegetaro
 la verta
 ei verdadeko
 la berde

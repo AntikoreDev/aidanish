@@ -101,6 +101,7 @@ capitalista → capitalista
 carismático → tsarismatiko
 caritativo → karitatoso
 carnoso → karnoso
+carnívoro → karnivoro
 caro → karo
 casero → simanata, domodoio
 castigado → jusaioto
@@ -238,6 +239,7 @@ forzado → forzaioso
 fresco (cuando se trata de algo novedoso) → siske, heruo, fresko
 fresco → fresko
 frito → frito
+fructívoro → fructivoro
 frío → aigeloso
 fuerte → forte
 futuro → futura
@@ -258,6 +260,7 @@ grueso → groso
 guapo → emelo
 guay → yuolo, colo, legal
 hambriento → fameno
+herbívoro → herbivoro
 hipnotizado → hipnoto
 hogareño → heigaro
 horizontal → horizono
@@ -283,6 +286,7 @@ inmortal → inmortal
 inmune → inmuno
 inocente → inocente
 insaciable → insatiable
+insectívoro → insectivoro
 instantáneo → instantako
 intelectual → intelektualo
 intencional → intentiente
@@ -379,6 +383,7 @@ ocupado → osalo
 ofensivo → ofensoko
 oloroso → eslo
 olvidado → supardo, oblivo, husko
+omnivoro → omnivoro
 original → origelo
 orwelliano → orwelliana
 oscuro y depresivo → ausko
@@ -397,6 +402,7 @@ pelotudo → pilotufeso
 pensador → penzeiette
 pensativo → penseivo
 pequeño → pikolo, meno
+perdido (no tiene esperanza) → unaikalo
 perdido → pardeyoso
 perezoso (persona) → fiago, fago
 perfecto → perfekto
@@ -518,6 +524,8 @@ vago → sugarra
 valorado → valuako
 vasto → vasto
 vecinal → neiborako
+vegano → vegano
+vegetariano → vegetaro
 verdad → verta
 verdadero → verdadeko
 verde → berde

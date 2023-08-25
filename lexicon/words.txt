@@ -334,6 +334,7 @@ ambar
 ambientologette
 ambientologo
 ambo
+ambotela
 amerika
 amerizinto
 ametria
@@ -533,6 +534,7 @@ arqeologo
 arqeozoologia
 arrai
 arraina
+arrainata
 arraineta
 arrantsa
 arrantsei
@@ -2032,6 +2034,7 @@ emesimo
 emfriteoro
 emitei
 emitero
+emoji
 emotia
 emotivo
 emozai
@@ -2344,6 +2347,7 @@ estomatologia
 estomatologo
 estonesa
 estonia
+estora
 estorai
 estosol
 estrane
@@ -2708,6 +2712,7 @@ frito
 froga
 froki
 frotsai
+fructivoro
 fruge
 fruka
 fruki
@@ -2915,6 +2920,7 @@ guarda
 guardia
 guasta
 guiro
+guirofono
 guma
 gumoi
 guoi
@@ -2986,6 +2992,7 @@ hepsis
 herba
 herbei
 herbepulai
+herbivoro
 herbologia
 herna
 herpetologette
@@ -3293,6 +3300,7 @@ inmunologo
 inocente
 inocentia
 insatiable
+insectivoro
 insekticida
 insekto
 inselei
@@ -3485,6 +3493,7 @@ kargaoro
 karico
 karitatoso
 karnirette
+karnivoro
 karno
 karnolon
 karnoso
@@ -3740,6 +3749,8 @@ lemgo
 lenda
 lendait
 lenna
+lensa
+lense
 lento
 leogra
 leon
@@ -4566,6 +4577,7 @@ oloi
 olve
 omejo
 omeleto
+omnivoro
 on
 onatia
 oncologette
@@ -4874,6 +4886,7 @@ perge
 perila
 perilai
 perilko
+periode
 perisologia
 peristerina
 perla
@@ -6271,6 +6284,7 @@ torqerette
 torqette
 torra
 torrata
+torrenza
 torta
 tortilla
 tortite
@@ -6292,6 +6306,8 @@ traia
 traine
 traire
 traka
+tram
+trama
 tramitologia
 transcriba
 transcribei
@@ -6506,6 +6522,7 @@ umoeke
 umoko
 unagrupai
 unagrupatio
+unaikalo
 unarkutsai
 unastaine
 unastaino
@@ -6641,6 +6658,8 @@ vasto
 vater
 vatio
 vedo
+vegano
+vegetaro
 vehiklo
 veige
 vela
@@ -6696,6 +6715,8 @@ vexilogette
 vexilogia
 via
 viarante
+viato
+viaton
 vibrai
 vibraibo
 vicunna

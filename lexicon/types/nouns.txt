@@ -416,6 +416,7 @@ arroz → raz
 arte → arte
 artefacto → artefactum, artefacto
 arteria → arteria, atokla
+arterial urbano, carretera de muchas vías que conecta una ciudad con la autopista → viato, viaton
 arteriografía → arteriografia, arteriografica
 arteriología → arteriologia
 artesano → artisette
@@ -456,6 +457,8 @@ atajo → arcuto
 ataque al corazón → koraisagra
 ataque → atakte, atake
 atardecer → tarena
+atasco (generico) → estora
+atasco (tráfico) → via estora, ambotela
 atención → atentio
 atleta → atlette
 atletismo → atletisma, atletismo
@@ -725,7 +728,7 @@ calendario → henlista, calendaro, calendario
 calentamiento → kaleirisa
 caligrafía → caligrafia, caligrafica
 calle (referencia general) → estrato
-calle → kale
+calle (unidad) → kale
 callejero → estratoge
 calografía → calografia, calografica
 calología → calologia
@@ -1015,7 +1018,7 @@ colonización → colonicea
 colono → colone
 color → kolor, kromato
 colorimetría → colorimetria, colorimetrica
-coma (salud) → coma
+coma (salud) → coma, vegeto estatia
 coma (texto) → coma
 comadreja → carriya
 comando → comando
@@ -1480,6 +1483,7 @@ emergenciólogo → emergenciologo, emergenciologette
 emisor → emitero
 emoción (emocionar) → emozio
 emoción (sentimiento) → emotia
+emoji, emoticono → emoji
 empalme → apalme
 empanada → ebritaita
 empanadilla → ebritaitita
@@ -2282,8 +2286,10 @@ lema → leme, lema
 lencería → linzeria
 lengua → lemgo
 lenguaje de programación → codilango, prokramalango
+lente → lensa, lense
 lenteja → tsiko
 lentes → lendait
+lentilla (gafas) → lense
 lerdo → tsafala
 letra (canción) → lerite
 letra (símbolo) → letra
@@ -2447,6 +2453,7 @@ mariología → mariologia
 marioneta → pupeto
 mariposa → blaigia
 mariquita → zigarra
+mariscada, evento festivo típico del litoral; especialmente en Rioko donde se sirven grandes cantidades de mariscos → arrainata
 marisco → arraina
 mariólogo → mariologo, mariologette
 marmota → marmota
@@ -2660,7 +2667,6 @@ máscara → lufazia, maske
 médico → medikarette
 módem → modem
 módulo → modulo
-móvil (teléfono) → mobila, fone, fona
 música → musika
 música → musikette
 nacimiento → natatia
@@ -2982,7 +2988,6 @@ peligro → perila
 pella → peia
 pelo, cabello → cailo
 pelota, bola → bola
-pelotudo → pilotufeso
 peluquero → cailoxette
 película → filmo
 pendiente (vestir) → kirla
@@ -3011,6 +3016,8 @@ perforación → perzro
 perforadora → perzroro
 pergamino → perge
 periodista → henpixette
+periodo (tiempo) →  yero
+periodo, regla (cuerpo) → periode
 periquito → beke
 perisología → perisologia
 periódico → henpipra, nevapipra
@@ -3721,6 +3728,8 @@ teleología → teleologia
 telescopio → telescope
 teletransporte → teleporte
 televisión, televisor → televisoi
+teléfono fijo → telefono tokla, guirofono, telefono guiro 
+teléfono móvil, móvil → mobila, fone, fona
 teléfono → telefono
 telón → beiloxte
 tema → subyecto
@@ -3830,6 +3839,7 @@ torno → torno
 toro → toro
 torpedo → torpedo
 torre → torra, hatena
+torrente → torrenza
 torreta → torrata, turreta
 torta → torta
 tortilla → tortilla, omeleto
@@ -3860,7 +3870,7 @@ transfobia → transfobia
 transmutación → transmuta
 transportador (regla) → aconvo
 transporte → conve
-tranvía → ciutrena
+tranvía → ciutrena, trama, tram
 traspiés → troin
 trastero → celara, trastela
 trasto → traste
