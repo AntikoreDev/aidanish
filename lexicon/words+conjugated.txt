@@ -9250,6 +9250,7 @@ papirologo
 paquete
 para
 parada
+paradimensional
 paradoksografia
 paradoksografica
 parafilia
