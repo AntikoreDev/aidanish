@@ -99,6 +99,7 @@ apostar → postai
 apoyar (ayudar o proteger) → eladei
 apoyar (colocar sobre algo) → ersoi
 apoyar, secundar → proi
+aprender rápido, aprender cultura general sin el objetivo de darle uso a futuro → gokoi
 aprender → aprendei
 aprobar → aprovai
 aprovechar → vorzoi
@@ -413,10 +414,11 @@ empacar, empaquetar → paketai
 empalmar → apalmai 
 empanar → ebritai
 empapelar → empaperai
-empatar → ligai, tai, tiai,
+empatar → ligai, tai, tiai
 empatizar → maise
 empeorar → heunei
 empezar → estaire
+empollar → cixei
 empotrar → empotrai
 empujar → pujai
 encantar → enkantai
@@ -514,6 +516,7 @@ fertilizar → feretai
 festejar → partai, faire, festai
 finalizar → finalei
 firmar → sennei
+firmar → signaire
 florecer → floirai
 flotar → flotai
 fluir → flogai
@@ -913,6 +916,7 @@ solver → solvai
 sombrear → tsadoi
 sonar → audei
 sonreir → selai
+soplar → sopulai, floi
 soportar → suportai
 sostener → sotenai, sotaine
 soñar → pentsizei

@@ -3795,6 +3795,22 @@
             }
         ]
     },
+    "aprender rápido": {
+        "entries": [
+            {
+                "meaning": "gokoi",
+                "specification": ""
+            }
+        ]
+    },
+    "aprender cultura general sin el objetivo de darle uso a futuro": {
+        "entries": [
+            {
+                "meaning": "gokoi",
+                "specification": ""
+            }
+        ]
+    },
     "aprender": {
         "entries": [
             {
@@ -8720,6 +8736,22 @@
             {
                 "meaning": "letera",
                 "specification": "texto"
+            }
+        ]
+    },
+    "cartel antiguo que indicaba a la gente que no portaba una brújula donde está el norte sur este y oeste": {
+        "entries": [
+            {
+                "meaning": "letoire, oireleto",
+                "specification": ""
+            }
+        ]
+    },
+    "cartel": {
+        "entries": [
+            {
+                "meaning": "leto",
+                "specification": ""
             }
         ]
     },
@@ -14595,6 +14627,22 @@
             }
         ]
     },
+    "deporte": {
+        "entries": [
+            {
+                "meaning": "esporte",
+                "specification": ""
+            }
+        ]
+    },
+    "deportista": {
+        "entries": [
+            {
+                "meaning": "esportette",
+                "specification": ""
+            }
+        ]
+    },
     "depresión": {
         "entries": [
             {
@@ -17418,7 +17466,7 @@
     "empatar": {
         "entries": [
             {
-                "meaning": "ligai, tai, tiai, ",
+                "meaning": "ligai, tai, tiai",
                 "specification": ""
             }
         ]
@@ -17471,6 +17519,22 @@
             },
             {
                 "meaning": "initiai, comaize",
+                "specification": ""
+            }
+        ]
+    },
+    "empollar": {
+        "entries": [
+            {
+                "meaning": "cixei",
+                "specification": ""
+            }
+        ]
+    },
+    "empollón": {
+        "entries": [
+            {
+                "meaning": "cixe",
                 "specification": ""
             }
         ]
@@ -20891,10 +20955,30 @@
             }
         ]
     },
+    "firma falsificada": {
+        "entries": [
+            {
+                "meaning": "signa fakro, fakrosigna",
+                "specification": ""
+            }
+        ]
+    },
+    "firma": {
+        "entries": [
+            {
+                "meaning": "signaro",
+                "specification": ""
+            }
+        ]
+    },
     "firmar": {
         "entries": [
             {
                 "meaning": "sennei",
+                "specification": ""
+            },
+            {
+                "meaning": "signaire",
                 "specification": ""
             }
         ]
@@ -21579,6 +21663,22 @@
         "entries": [
             {
                 "meaning": "izbocix",
+                "specification": ""
+            }
+        ]
+    },
+    "ratón de biblioteca": {
+        "entries": [
+            {
+                "meaning": "izbocix",
+                "specification": ""
+            }
+        ]
+    },
+    "friki de los deportes": {
+        "entries": [
+            {
+                "meaning": "esporcix, esportecix",
                 "specification": ""
             }
         ]
@@ -26411,6 +26511,14 @@
             }
         ]
     },
+    "katana": {
+        "entries": [
+            {
+                "meaning": "katana",
+                "specification": ""
+            }
+        ]
+    },
     "kebab": {
         "entries": [
             {
@@ -29055,6 +29163,14 @@
         "entries": [
             {
                 "meaning": "mortorratit",
+                "specification": ""
+            }
+        ]
+    },
+    "matasuegras": {
+        "entries": [
+            {
+                "meaning": "flocargoro",
                 "specification": ""
             }
         ]
@@ -35403,6 +35519,22 @@
         "entries": [
             {
                 "meaning": "perso",
+                "specification": ""
+            }
+        ]
+    },
+    "persona; generalmente de la tercera edad; que gusta de contar historias y anécdotas de su pasado": {
+        "entries": [
+            {
+                "meaning": "disketabroka",
+                "specification": ""
+            }
+        ]
+    },
+    "viejo cebolleta": {
+        "entries": [
+            {
+                "meaning": "disketabroka",
                 "specification": ""
             }
         ]
@@ -42675,6 +42807,22 @@
         "entries": [
             {
                 "meaning": "faba",
+                "specification": ""
+            }
+        ]
+    },
+    "soplar": {
+        "entries": [
+            {
+                "meaning": "sopulai, floi",
+                "specification": ""
+            }
+        ]
+    },
+    "soplido": {
+        "entries": [
+            {
+                "meaning": "sopolo, flo",
                 "specification": ""
             }
         ]

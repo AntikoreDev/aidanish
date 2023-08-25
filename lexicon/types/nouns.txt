@@ -821,6 +821,8 @@ carrera (universidad) → cursogra
 carretera → rakemno
 carruaje → azurreje
 carta (texto) → letera
+cartel antiguo que indicaba a la gente que no portaba una brújula donde está el norte sur este y oeste → letoire, oireleto
+cartel → leto
 cartero → leteraette
 cartilla → cartila
 cartografía → cartografia, cartografica
@@ -1312,6 +1314,8 @@ dentista → dentaxette
 dentríficio, pasta dental → dentacrema
 deontología → deontologia
 dependencia → dependentia
+deporte → esporte
+deportista → esportette
 depresión (montañas) → depresion
 depresión (sentimientos) → depresia, depreia
 depuración → puratio
@@ -1750,6 +1754,8 @@ filósofo → filosofette
 fin de semana → finaolexo
 fin → fin
 final → finale
+firma falsificada → signa fakro, fakrosigna
+firma → signaro
 fisiografía → fisiografia, fisiografica
 fisiología → fisiologia
 fisiopatología → fisiopatologia
@@ -1819,7 +1825,8 @@ fresno → katria
 fresón → frerna
 friki (despectivo) → cix, weabu
 friki de banderas → fliagacix
-friki de libros → izbocix
+friki de libros, ratón de biblioteca → izbocix
+friki de los deportes → esporcix, esportecix
 friki de ordenadores → computercix
 friki de videojuegos → jokocix, vidiojokocix
 friki, sabido → goko
@@ -2243,6 +2250,7 @@ jungla → jungla
 junta → junta
 justicia → iustika
 juzgado → jukse
+katana → katana
 kebab → kebab
 ketchup → ketchup
 kinesiología → kinesiologia
@@ -2475,6 +2483,7 @@ mastozoólogo → mastozoologo, mastozoologette
 mastólogo → mastologo, mastologette
 matadero → mataioro, mataitela, abatoro
 matarratas → mortorratit
+matasuegras → flocargoro
 matemática → matematika
 matemáticas → matematikas
 matemático → matematico
@@ -3029,6 +3038,7 @@ perseverancia → persevera
 persiana → yera, jerco
 persistencia → persivita
 persona → perso
+persona; generalmente de la tercera edad; que gusta de contar historias y anécdotas de su pasado, viejo cebolleta → disketabroka
 personal → personale
 personalización → personalizatio
 pesa rusa → giria, kettlebell 
@@ -3627,6 +3637,7 @@ somnofilia → somnofilia
 sonido → soniko
 sonrisa → sela
 sopa → faba
+soplido → sopolo, flo
 soteriología → soteriologia
 spoiler → espoiler, spoiler
 subida → aira

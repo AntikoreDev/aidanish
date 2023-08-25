@@ -988,6 +988,9 @@ la cursogra
 ei rakemno
 la azurreje
 la letera
+ei letoire
+ei oireleto
+ei leto
 la leteraette
 la cartila
 la cartografia
@@ -1591,6 +1594,8 @@ la dentaxette
 la dentacrema
 la deontologia
 la dependentia
+ei esporte
+ei esportette
 ei depresion
 la depresia
 la depreia
@@ -2132,6 +2137,8 @@ ei filosofette
 ei finaolexo
 ei fin
 la finale
+la fakrosigna
+ei signaro
 la fisiografia
 la fisiografica
 la fisiologia
@@ -2225,6 +2232,8 @@ ei cix
 ei weabu
 la fliagacix
 ei izbocix
+ei esporcix
+ei esportecix
 ei computercix
 ei jokocix
 ei vidiojokocix
@@ -2775,6 +2784,7 @@ la jungla
 la junta
 la iustika
 ei jukse
+la katana
 la kebab
 ei ketchup
 la kinesiologia
@@ -3065,6 +3075,7 @@ ei mataioro
 la mataitela
 ei abatoro
 ei mortorratit
+ei flocargoro
 la matematika
 la matematikas
 ei matematico
@@ -3785,6 +3796,7 @@ la yera
 ei jerco
 la persivita
 ei perso
+la disketabroka
 la personale
 ei personalizatio
 la giria
@@ -4513,6 +4525,8 @@ la somnofilia
 ei soniko
 la sela
 la faba
+ei sopolo
+ei flo
 la soteriologia
 ei espoiler
 ei spoiler
@@ -5402,6 +5416,7 @@ ei elektrikono
 ei elektriko
 ei emotivo
 ei ebrite
+ei cixe
 la maise
 ei on
 ei equo

@@ -459,6 +459,8 @@ apostar
 apoyar
 apoyo
 aprender
+aprender cultura general sin el objetivo de darle uso a futuro
+aprender rápido
 aprendizaje
 aprobación
 aprobado
@@ -1069,6 +1071,8 @@ carro
 carruaje
 carta
 carta de naipe
+cartel
+cartel antiguo que indicaba a la gente que no portaba una brújula donde está el norte sur este y oeste
 cartero
 cartilla
 cartografía
@@ -1776,6 +1780,8 @@ dentríficio
 deontología
 dependencia
 depender
+deporte
+deportista
 depresión
 deprimir
 deprisa
@@ -2120,6 +2126,8 @@ empeorar
 emperador
 emperatriz
 empezar
+empollar
+empollón
 empotración
 empotrar
 empresa
@@ -2541,6 +2549,8 @@ final
 finalizar
 finito
 fino
+firma
+firma falsificada
 firmar
 fisiografía
 fisiología
@@ -2629,6 +2639,7 @@ frigorífico
 friki
 friki de banderas
 friki de libros
+friki de los deportes
 friki de ordenadores
 friki de videojuegos
 frisbee
@@ -3216,6 +3227,7 @@ juzgado
 juzgar
 júpiter
 kafkiano
+katana
 kebab
 ketchup
 kinesiología
@@ -3539,6 +3551,7 @@ mastólogo
 matadero
 matar
 matarratas
+matasuegras
 matemática
 matemáticas
 matemático
@@ -4309,6 +4322,7 @@ persona que discrimina a los de su propio grupo social
 persona que hace 'honicidio'
 persona que lleva 300 litros de colonia a todos lados
 persona que se encargaba en época antigua de arreglar puertas y manivelas
+persona; generalmente de la tercera edad; que gusta de contar historias y anécdotas de su pasado
 persona; generalmente de la tercera edad; que habla con gente que no conoce por la calle como si fueran conocidos de toda la vida
 personal
 personalización
@@ -4727,6 +4741,7 @@ rata
 rata de agua
 ratio
 ratón
+ratón de biblioteca
 rayar
 rayo
 raza
@@ -5196,6 +5211,8 @@ sonido
 sonreir
 sonrisa
 sopa
+soplar
+soplido
 soportar
 sordo
 sostención
@@ -5792,6 +5809,7 @@ videoconsola
 videojuego
 vieira
 viejo
+viejo cebolleta
 viento
 vientre
 viernes

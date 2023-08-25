@@ -1210,6 +1210,8 @@ ciuta
 ciutatela
 ciutrena
 cix
+cixe
+cixei
 clasifike
 clasifikei
 claustrofobia
@@ -1777,6 +1779,7 @@ disimetrica
 disipaire
 diskaire
 diske
+disketabroka
 diskete
 diskordia
 diskreto
@@ -2293,7 +2296,11 @@ espirometrica
 esplata
 esplaxai
 espoiler
+esporcix
 esporgo
+esporte
+esportecix
+esportette
 esqalo
 esquara
 esquiro
@@ -2457,6 +2464,7 @@ faita
 faitai
 faize
 fakro
+fakrosigna
 fala
 falai
 falante
@@ -2590,8 +2598,11 @@ flax
 fletsa
 fliaga
 fliagacix
+flo
+flocargoro
 flogai
 flogo
+floi
 floira
 floirai
 flomai
@@ -2865,6 +2876,7 @@ gnoseologia
 gobo
 gobocupa
 goko
+gokoi
 golem
 golf
 golfette
@@ -3504,6 +3516,7 @@ kasa
 kaserola
 kasiya
 kasutsa
+katana
 katarsis
 kato
 katria
@@ -3760,6 +3773,8 @@ lerrai
 lerrako
 letera
 leteraette
+leto
+letoire
 letra
 letratablo
 letsuga
@@ -4553,6 +4568,7 @@ ogira
 ogo
 oi
 oire
+oireleto
 oitaire
 oitio
 oitosono
@@ -5854,6 +5870,8 @@ siger
 sigilografia
 sigilografica
 sigisai
+signaire
+signaro
 sigra
 sigraconve
 sigrai
@@ -5941,6 +5959,8 @@ somatologia
 somnofilia
 sonikemitero
 soniko
+sopolo
+sopulai
 soqe
 sorda
 sordai
@@ -6202,7 +6222,7 @@ texna
 texnette
 texnologia
 texnologika
-tiai,
+tiai
 ticket
 tiflologette
 tiflologia
