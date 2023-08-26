@@ -398,7 +398,7 @@ arena → auxa
 arenas movedizas → auxarran
 aretalogía → aretalogia
 arma → arma
-arma → armatia
+armada → armatia
 armadillo → puntsirra, armado
 armadura → armatsosto
 armario → orraqe
@@ -1682,6 +1682,7 @@ etólogo → etologo, etologette
 eucalipto → arsuce
 eudiometría → eudiometria, eudiometrica
 evento → evento
+alta mar → intramare
 exageración → hurro
 examen → examen
 examinación → examinatia
