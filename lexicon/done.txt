@@ -2243,6 +2243,7 @@ epizootiología
 epílogo
 equipo
 equivalente
+equivalente a 1 millón de muertes
 equivaler
 era
 ergología
@@ -5041,6 +5042,7 @@ sapo
 sargento
 sartén
 saturno
+satélite
 sauce llorón
 se
 se fueron

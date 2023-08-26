@@ -8084,6 +8084,7 @@ mediteioto
 meditia
 mediu
 megafono
+megamorto
 meia
 meicida
 meicidia
@@ -11489,6 +11490,7 @@ sanziareio
 sanziareioto
 sapo
 sarjento
+satelita
 satiable
 satiarei
 satiareie

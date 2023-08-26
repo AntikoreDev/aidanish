@@ -18459,6 +18459,14 @@
             }
         ]
     },
+    "equivalente a 1 millón de muertes": {
+        "entries": [
+            {
+                "meaning": "megamorto",
+                "specification": ""
+            }
+        ]
+    },
     "equivalente": {
         "entries": [
             {
@@ -41359,6 +41367,14 @@
         "entries": [
             {
                 "meaning": "saturno",
+                "specification": ""
+            }
+        ]
+    },
+    "satélite": {
+        "entries": [
+            {
+                "meaning": "satelita",
                 "specification": ""
             }
         ]

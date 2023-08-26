@@ -74,7 +74,6 @@ Marzo → marzea
 Mayo → Maio
 Miércoles → xeitore
 Moscú → Mosku
-Muerte → morto
 México → Mexiko
 Neptuno → neptuno
 Noruega → Norkia
@@ -1545,6 +1544,7 @@ epistemólogo → epistemologo, epistemologette
 epizootiología → epizootiologia
 epílogo → epilogo, epilogette
 equipo → eqipo
+equivalente a 1 millón de muertes → megamorto
 equivalente → eqivala
 era → era
 ergología → ergologia
@@ -2654,6 +2654,7 @@ motosierra → motorxerra
 movimiento → mova
 mueble → furno, moblo
 muela → mola
+muerte → morto
 muerto → morte
 muestra → dorima
 mugre → mugar
@@ -3525,6 +3526,7 @@ santuario → saintotela
 sapo → froga
 sargento → sarjento
 sartén → emfriteoro
+satélite → satelita
 sauce llorón → zaprusa
 secador, secadora → drioro
 sección → sektion

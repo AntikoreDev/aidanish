@@ -4076,6 +4076,7 @@ meditei
 meditia
 mediu
 megafono
+megamorto
 meia
 meicida
 meicidia
@@ -5753,6 +5754,7 @@ sanita
 sanziarei
 sapo
 sarjento
+satelita
 satiable
 satiarei
 saturno

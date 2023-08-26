@@ -73,7 +73,6 @@ la marzea
 ei maio
 ei xeitore
 ei mosku
-ei morto
 ei mexiko
 ei neptuno
 la norkia
@@ -1875,6 +1874,7 @@ la epizootiologia
 ei epilogo
 ei epilogette
 ei eqipo
+ei megamorto
 la eqivala
 la era
 la ergologia
@@ -3296,6 +3296,7 @@ la mova
 ei furno
 ei moblo
 la mola
+ei morto
 ei morte
 la dorima
 ei mugar
@@ -4373,6 +4374,7 @@ la saintotela
 la froga
 ei sarjento
 ei emfriteoro
+la satelita
 la zaprusa
 ei drioro
 ei sektion

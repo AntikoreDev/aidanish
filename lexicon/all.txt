@@ -2280,6 +2280,7 @@ epistemólogo → epistemologo, epistemologette
 epizootiología → epizootiologia
 epílogo → epilogo, epilogette
 equipo → eqipo
+equivalente a 1 millón de muertes → megamorto
 equivalente → eqivala
 equivaler → eqivalei
 era → era
@@ -5121,6 +5122,7 @@ sapo → froga
 sargento → sarjento
 sartén → emfriteoro
 saturno → saturno
+satélite → satelita
 sauce llorón → zaprusa
 se fueron (relacionado a sentimientos o conceptos) → dexaire
 se → eir
