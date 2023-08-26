@@ -2921,6 +2921,7 @@ la iriheia
 la baletrumbe
 la pluva
 la acoata
+ei afondo
 ei lupo
 ei lauseto
 la ankraia
@@ -5698,6 +5699,7 @@ ei puntico
 la pura
 ei puto
 ei publiko
+la afonda
 la paradimensional
 la rare
 ei raro

@@ -3429,6 +3429,7 @@ llover → pluvai, acoatei
 lluvia de balas → baletrumbe
 lluvia de ideas → ideait-mixa
 lluvia → pluva, acoata
+lo más bajo posible que se puede estar en algo → afondo
 lo que sea → oraben
 lo → xo (cosa)
 lobo → lupo, lauseto
@@ -4779,6 +4780,7 @@ pórtico → portecum
 público → publiko
 público → publiko
 qubit → qubit
+que ha tocado fondo → afonda
 que se escapa de las leyes de la geometría euclidiana → paradimensional
 que se jodan, a la mierda → injise
 que → qa
@@ -5575,6 +5577,7 @@ tiza → zirra
 toalla → toaia
 toallita → toaita
 tobillo → kidna, anclo
+tocar fondo, caer a lo más bajo → afondai
 tocar → toutsoi
 tocología → tocologia
 tocólogo → tocologo, tocologette

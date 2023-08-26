@@ -924,6 +924,7 @@ caducado
 caducar
 caducidad
 caer
+caer a lo más bajo
 cafetera
 cafetería
 café
@@ -3384,6 +3385,7 @@ lluvia
 lluvia de balas
 lluvia de ideas
 lo
+lo más bajo posible que se puede estar en algo
 lo que sea
 lobo
 local
@@ -4698,6 +4700,7 @@ pórtico
 público
 qubit
 que
+que ha tocado fondo
 que se escapa de las leyes de la geometría euclidiana
 que se jodan
 quebrar
@@ -5482,6 +5485,7 @@ toalla
 toallita
 tobillo
 tocar
+tocar fondo
 tocino
 tocología
 tocólogo

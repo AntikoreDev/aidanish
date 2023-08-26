@@ -166,6 +166,12 @@ afektoiet
 afektoiki
 afektoio
 afektoioto
+afondaie
+afondaieon
+afondaiet
+afondaiki
+afondaio
+afondaioto
 agrupaie
 agrupaieon
 agrupaiet

@@ -441,6 +441,7 @@ puntuado → puntico
 puro → pura
 puto → puto
 público → publiko
+que ha tocado fondo → afonda
 que se escapa de las leyes de la geometría euclidiana → paradimensional
 raro → rare, raro
 real → real

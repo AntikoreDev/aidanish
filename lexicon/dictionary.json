@@ -27795,6 +27795,14 @@
             }
         ]
     },
+    "lo más bajo posible que se puede estar en algo": {
+        "entries": [
+            {
+                "meaning": "afondo",
+                "specification": ""
+            }
+        ]
+    },
     "lo que sea": {
         "entries": [
             {
@@ -38595,6 +38603,14 @@
             }
         ]
     },
+    "que ha tocado fondo": {
+        "entries": [
+            {
+                "meaning": "afonda",
+                "specification": ""
+            }
+        ]
+    },
     "que se escapa de las leyes de la geometría euclidiana": {
         "entries": [
             {
@@ -45039,6 +45055,22 @@
         "entries": [
             {
                 "meaning": "kidna, anclo",
+                "specification": ""
+            }
+        ]
+    },
+    "tocar fondo": {
+        "entries": [
+            {
+                "meaning": "afondai",
+                "specification": ""
+            }
+        ]
+    },
+    "caer a lo más bajo": {
+        "entries": [
+            {
+                "meaning": "afondai",
                 "specification": ""
             }
         ]
