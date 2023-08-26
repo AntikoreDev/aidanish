@@ -277,6 +277,7 @@ almohada → bexe
 alometría → alometria, alometrica
 alpaca → pulca, kiva
 alquitrán → betarra
+alta mar → intramare
 altar → altar
 altavoz, parlante → parloro, sonikemitero
 alternativa → alternas
@@ -1682,7 +1683,6 @@ etólogo → etologo, etologette
 eucalipto → arsuce
 eudiometría → eudiometria, eudiometrica
 evento → evento
-alta mar → intramare
 exageración → hurro
 examen → examen
 examinación → examinatia
@@ -1749,6 +1749,7 @@ filmografía → filmografia, filmografica
 filmología → filmologia
 filo → fila
 filología → filologia
+filosofía antigua aidanesa por la que se elegía si el apellido de la madre o del padre debía ir primero o segundo en el nombre de su hijo; con el objetivo de darle una mejor estima → optima paternita
 filosofía → filosofia
 filólogo → filogette
 filósofo → filosofette
@@ -2959,6 +2960,7 @@ pastor → pastoro
 pata (animal) → pezna
 patada → poitsa
 patata → torkopa, tata, papa, potata, patata
+paternidad → paternita
 patio → enkampe, kampe
 pato → ana
 patografía → patografia, patografica

@@ -2523,6 +2523,14 @@
             }
         ]
     },
+    "alta mar": {
+        "entries": [
+            {
+                "meaning": "intramare",
+                "specification": ""
+            }
+        ]
+    },
     "altar": {
         "entries": [
             {
@@ -4140,7 +4148,11 @@
             {
                 "meaning": "arma",
                 "specification": ""
-            },
+            }
+        ]
+    },
+    "armada": {
+        "entries": [
             {
                 "meaning": "armatia",
                 "specification": ""
@@ -20883,6 +20895,14 @@
             }
         ]
     },
+    "filosofía antigua aidanesa por la que se elegía si el apellido de la madre o del padre debía ir primero o segundo en el nombre de su hijo; con el objetivo de darle una mejor estima": {
+        "entries": [
+            {
+                "meaning": "optima paternita",
+                "specification": ""
+            }
+        ]
+    },
     "filosofía": {
         "entries": [
             {
@@ -34511,6 +34531,14 @@
         "entries": [
             {
                 "meaning": "poitsire",
+                "specification": ""
+            }
+        ]
+    },
+    "paternidad": {
+        "entries": [
+            {
+                "meaning": "paternita",
                 "specification": ""
             }
         ]
@@ -48783,6 +48811,14 @@
         "entries": [
             {
                 "meaning": "oliuma",
+                "specification": ""
+            }
+        ]
+    },
+    "óptimo": {
+        "entries": [
+            {
+                "meaning": "optima",
                 "specification": ""
             }
         ]

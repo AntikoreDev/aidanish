@@ -541,5 +541,6 @@ válido → valo, valito
 zurdo → zoranno
 áspero → coarsa
 épico → epikar
+óptimo → optima
 único → uniko
 útil → utila

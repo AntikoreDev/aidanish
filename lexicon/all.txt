@@ -310,6 +310,7 @@ alometría → alometria, alometrica
 alpaca → pulca, kiva
 alquitrán → betarra
 alrededor → eriodo
+alta mar → intramare
 altar → altar
 altavoz, parlante → parloro, sonikemitero
 alternar → alternei
@@ -511,7 +512,7 @@ argelino → argelineo
 argentina → argentia
 argentino → argento
 arma → arma
-arma → armatia
+armada → armatia
 armadillo → puntsirra, armado
 armadura → armatsosto
 armario → orraqe
@@ -2575,6 +2576,7 @@ filmología → filmologia
 filo → fila
 filología → filologia
 filoso → filaso
+filosofía antigua aidanesa por la que se elegía si el apellido de la madre o del padre debía ir primero o segundo en el nombre de su hijo; con el objetivo de darle una mejor estima → optima paternita
 filosofía → filosofia
 filólogo → filogette
 filósofo → filosofette
@@ -4269,6 +4271,7 @@ pata (animal) → pezna
 patada → poitsa
 patata → torkopa, tata, papa, potata, patata
 patear → poitsire
+paternidad → paternita
 patio → enkampe, kampe
 pato → ana
 patografía → patografia, patografica
@@ -6036,6 +6039,7 @@ zócalo → sokete
 ñú → legas
 óculo → oculo
 óleo → oliuma
+óptimo → optima
 ósmosis → osmosis
 óvalo → oval
 óvulo → ovulo

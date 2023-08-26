@@ -304,6 +304,7 @@ la alometrica
 la pulca
 la kiva
 la betarra
+la intramare
 la altar
 ei parloro
 ei sonikemitero
@@ -3690,6 +3691,7 @@ la tata
 la papa
 la potata
 la patata
+la paternita
 la enkampe
 la kampe
 la ana
@@ -5805,5 +5807,6 @@ ei valito
 ei zoranno
 la coarsa
 la epikar
+la optima
 ei uniko
 la utila

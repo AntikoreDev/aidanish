@@ -3336,6 +3336,7 @@ interesanta
 interneta
 interval
 intra
+intramare
 intro
 introi
 introverto
@@ -4616,6 +4617,7 @@ ontologo
 opaine
 opaire
 optemizei
+optima
 optometria
 optometrica
 oraben
@@ -4835,6 +4837,7 @@ pastika
 pastoro
 pastoso
 patata
+paternita
 patografia
 patografica
 patologette

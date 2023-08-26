@@ -305,6 +305,7 @@ alometría
 alpaca
 alquitrán
 alrededor
+alta mar
 altar
 altavoz
 alternar
@@ -500,6 +501,7 @@ argelino
 argentina
 argentino
 arma
+armada
 armadillo
 armadura
 armar de valor
@@ -2541,6 +2543,7 @@ filo
 filología
 filoso
 filosofía
+filosofía antigua aidanesa por la que se elegía si el apellido de la madre o del padre debía ir primero o segundo en el nombre de su hijo; con el objetivo de darle una mejor estima
 filólogo
 filósofo
 fin
@@ -4198,6 +4201,7 @@ pata
 patada
 patata
 patear
+paternidad
 patio
 pato
 patografía
@@ -5942,6 +5946,7 @@ zócalo
 ñú
 óculo
 óleo
+óptimo
 ósmosis
 óvalo
 óvulo
