@@ -5373,6 +5373,7 @@ ei riaxeso
 ei litero
 ei kurioso
 ei conforte
+la tokiota
 la dezente
 ei defizente
 ei definite
