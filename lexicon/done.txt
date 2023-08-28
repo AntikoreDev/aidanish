@@ -1021,7 +1021,7 @@ canto angeligcal
 caníbal
 caoba
 capa
-capacidad de algo para mantener integro; consistente y no dañarse o degradarse con el tiempo
+capacidad de algo para mantenerse íntegro; consistente y no dañarse o degradarse con el tiempo
 capaz
 capellán
 capilla
@@ -1044,7 +1044,6 @@ carburar
 carburo
 carbón
 carcaj
-carcelero
 carcinología
 cardiografía
 cardiología
@@ -1142,6 +1141,7 @@ cena
 cenar
 cencerro
 ceniza
+censura y eliminación de una persona
 centaurea
 centella
 centellear
@@ -1426,6 +1426,7 @@ conjugación
 conjugado
 conjugar
 conjunto de cosas que quedan por terminar
+conjunto de factores; hechos o caracteristicas de un elemento que se repiten a lo largo de un conjunto
 conjunto o colección de herramientas
 conjurar
 conjuro
@@ -3057,6 +3058,8 @@ imaginar
 imantar
 imbécil
 imperio
+impersonación
+impersonar
 importante
 importar
 imposible
@@ -4336,6 +4339,8 @@ persona; generalmente de la tercera edad; que habla con gente que no conoce por 
 personal
 personalización
 personalizar
+personificación
+personificar
 pesa
 pesa rusa
 pesadilla

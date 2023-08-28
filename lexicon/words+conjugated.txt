@@ -2094,7 +2094,6 @@ cartometria
 cartometrica
 cartsela
 cartselenko
-cartselette
 cartula
 casca
 casino
@@ -2116,7 +2115,6 @@ catrilloe
 catro
 catroen
 catroix
-caugo
 causa
 causai
 causaie
@@ -2476,6 +2474,7 @@ conceptaiet
 conceptaiki
 conceptaio
 conceptaioto
+conceptia
 conceptio
 concepto
 concordia
@@ -6403,6 +6402,14 @@ imagineioto
 imake
 imfranto
 imperia
+imperso
+impersoi
+impersoie
+impersoieon
+impersoiet
+impersoiki
+impersoio
+impersoioto
 impetaikse
 impetaikseie
 impetaikseieon
@@ -9582,6 +9589,14 @@ persiveraio
 persiveraioto
 persivita
 perso
+persoi
+persoia
+persoie
+persoieon
+persoiet
+persoiki
+persoio
+persoioto
 personal
 personale
 personalizatio
@@ -9900,6 +9915,7 @@ pomologia
 pomologo
 pomotsa
 pompe
+ponsei
 pontai
 pontaie
 pontaieon
@@ -10430,6 +10446,13 @@ publikaiki
 publikaio
 publikaioto
 publiko
+pugnai
+pugnaie
+pugnaieon
+pugnaiet
+pugnaiki
+pugnaio
+pugnaioto
 puja
 pujai
 pujaie

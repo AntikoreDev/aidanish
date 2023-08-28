@@ -8355,7 +8355,7 @@
             }
         ]
     },
-    "capacidad de algo para mantener integro; consistente y no dañarse o degradarse con el tiempo": {
+    "capacidad de algo para mantenerse íntegro; consistente y no dañarse o degradarse con el tiempo": {
         "entries": [
             {
                 "meaning": "atomicita",
@@ -8527,14 +8527,6 @@
         "entries": [
             {
                 "meaning": "qiava",
-                "specification": ""
-            }
-        ]
-    },
-    "carcelero": {
-        "entries": [
-            {
-                "meaning": "cartselette, caugo",
                 "specification": ""
             }
         ]
@@ -9299,6 +9291,14 @@
         "entries": [
             {
                 "meaning": "axa, inzo",
+                "specification": ""
+            }
+        ]
+    },
+    "censura y eliminación de una persona": {
+        "entries": [
+            {
+                "meaning": "aperso",
                 "specification": ""
             }
         ]
@@ -11408,6 +11408,10 @@
             {
                 "meaning": "conceptio",
                 "specification": ""
+            },
+            {
+                "meaning": "conceptio, conceptia",
+                "specification": ""
             }
         ]
     },
@@ -11691,6 +11695,14 @@
         "entries": [
             {
                 "meaning": "conjugai",
+                "specification": ""
+            }
+        ]
+    },
+    "conjunto de factores; hechos o caracteristicas de un elemento que se repiten a lo largo de un conjunto": {
+        "entries": [
+            {
+                "meaning": "conceptia",
                 "specification": ""
             }
         ]
@@ -25079,6 +25091,22 @@
             }
         ]
     },
+    "impersonación": {
+        "entries": [
+            {
+                "meaning": "imperso",
+                "specification": ""
+            }
+        ]
+    },
+    "impersonar": {
+        "entries": [
+            {
+                "meaning": "impersoi",
+                "specification": ""
+            }
+        ]
+    },
     "importante": {
         "entries": [
             {
@@ -34918,7 +34946,7 @@
     "pelear": {
         "entries": [
             {
-                "meaning": "faitai",
+                "meaning": "faitai, pugnai",
                 "specification": ""
             }
         ]
@@ -35635,6 +35663,22 @@
         "entries": [
             {
                 "meaning": "personalizei",
+                "specification": ""
+            }
+        ]
+    },
+    "personificación": {
+        "entries": [
+            {
+                "meaning": "persoia",
+                "specification": ""
+            }
+        ]
+    },
+    "personificar": {
+        "entries": [
+            {
+                "meaning": "persoi",
                 "specification": ""
             }
         ]
@@ -38306,7 +38350,7 @@
     "puede ser": {
         "entries": [
             {
-                "meaning": "paidi sei",
+                "meaning": "ponsei",
                 "specification": ""
             }
         ]

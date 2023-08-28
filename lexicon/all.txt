@@ -1035,7 +1035,7 @@ canto → qanzo
 caníbal → canibal
 caoba → untsua
 capa → elara
-capacidad de algo para mantener integro; consistente y no dañarse o degradarse con el tiempo → atomicita
+capacidad de algo para mantenerse íntegro; consistente y no dañarse o degradarse con el tiempo → atomicita
 capaz → abil
 capilla → capela
 capital (ciudad) → enciuta
@@ -1058,7 +1058,6 @@ carburar → carburai
 carburo → carburo
 carbón → karbona, cocola
 carcaj → qiava
-carcelero → cartselette, caugo
 carcinología → carcinologia
 cardiografía → cardiografia, cardiografica
 cardiología → cardiologia
@@ -1154,6 +1153,7 @@ cenar → hingei
 cencerro → beletro
 cencerro, campana → campela
 ceniza → axa, inzo
+censura y eliminación de una persona → aperso
 centaurea (flor) → centara
 centella (chispa) → tai
 centella → centela
@@ -1416,6 +1416,7 @@ comunista → comunista
 común → komuna
 con → koi
 concepción → conceptio
+concepción → conceptio, conceptia
 concepto → concepto
 conceptuar → conceptai
 concha → akontse
@@ -1451,6 +1452,7 @@ congelar, helar → gelai
 conjugación → conjugatia
 conjugado → conjugo
 conjugar → conjugai
+conjunto de factores; hechos o caracteristicas de un elemento que se repiten a lo largo de un conjunto → conceptia
 conjunto o colección de herramientas → horia, ferramenteria
 conjurar → praecantai, xizai, praecantaire
 cono → cone
@@ -3094,6 +3096,8 @@ imaginar → imaginei
 imantar → magnetai
 imbécil → sunkrako
 imperio → imperia
+impersonación → imperso
+impersonar → impersoi
 importante → hembo, mora
 importar (importancia) → hembei, morai, importai, neize, opaire
 importar (producto) → importai, importei
@@ -4317,7 +4321,7 @@ pelador → peler
 peladura → pelde
 pelaje, cuero → cuoro, peltro
 pelar → pelai
-pelear → faitai
+pelear → faitai, pugnai
 peletero → cuorette
 pelicano → pelico
 peligrar → perilai
@@ -4406,6 +4410,8 @@ personal → personale
 personal → pertsonala
 personalización → personalizatio
 personalizar → personalizei
+personificación → persoia
+personificar → persoi
 pesa rusa → giria, kettlebell
 pesa → pesa
 pesadilla → heupentsi, heupentsio
@@ -4743,7 +4749,7 @@ psicópata → psicopata
 pua → pika
 publicar → publikai
 pueblo → popula
-puede ser → paidi sei
+puede ser → ponsei
 puente → ponto
 puercoespín → pigotira
 puerro → leko, kelena

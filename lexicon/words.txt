@@ -1140,7 +1140,6 @@ cartometria
 cartometrica
 cartsela
 cartselenko
-cartselette
 cartula
 casca
 casino
@@ -1156,7 +1155,6 @@ catrilloe
 catro
 catroen
 catroix
-caugo
 causa
 causai
 cavalria
@@ -1318,6 +1316,7 @@ comunisma
 comunista
 comunitatia
 conceptai
+conceptia
 conceptio
 concepto
 concordia
@@ -3229,6 +3228,8 @@ imagineiko
 imake
 imfranto
 imperia
+imperso
+impersoi
 impetaikse
 impetaksai
 impora
@@ -4926,6 +4927,8 @@ perseverai
 persiverai
 persivita
 perso
+persoi
+persoia
 personal
 personale
 personalizatio
@@ -5124,6 +5127,7 @@ pomologia
 pomologo
 pomotsa
 pompe
+ponsei
 pontai
 ponto
 pontso
@@ -5330,6 +5334,7 @@ psicosociologia
 psicosociologo
 publikai
 publiko
+pugnai
 puja
 pujai
 pukai

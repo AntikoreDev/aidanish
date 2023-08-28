@@ -964,8 +964,6 @@ ei carburo
 la karbona
 la cocola
 la qiava
-la cartselette
-ei caugo
 la carcinologia
 la cardiografia
 la cardiografica
@@ -2173,6 +2171,12 @@ ei foco
 ei fogo
 ei folklore
 la fola
+ei imperso
+ei aperso
+la persoia
+la conceptia
+ei conceptio
+la conceptia
 ei fondo
 la fonoaudiologia
 ei fonoaudiologo

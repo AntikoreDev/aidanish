@@ -572,6 +572,7 @@ huir → ezurrai
 idear → ideai
 imaginar → imaginei
 imantar → magnetai
+impersonar → impersoi
 importar (importancia) → hembei, morai, importai, neize, opaire
 importar (producto) → importai, importei
 impresionar → impresei
@@ -725,7 +726,7 @@ pedir → precai
 pegar (adherir) → pastai
 peinar → cailai, caile
 pelar → pelai
-pelear → faitai
+pelear → faitai, pugnai
 peligrar → perilai
 penalizar → penalai
 pender → pendei
@@ -741,6 +742,7 @@ perseguir → prosecai
 perseverar → perseverai
 persistir → persiverai
 personalizar → personalizei
+personificar → persoi
 pesar → pesai
 pescar → peskei
 pestañear → exorei

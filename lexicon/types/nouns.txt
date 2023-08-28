@@ -782,7 +782,7 @@ canto → qanzo
 caníbal → canibal
 caoba → untsua
 capa → elara
-capacidad de algo para mantener integro; consistente y no dañarse o degradarse con el tiempo → atomicita
+capacidad de algo para mantenerse íntegro; consistente y no dañarse o degradarse con el tiempo → atomicita
 capilla → capela
 capital (ciudad) → enciuta
 capital (dinero) → capital
@@ -800,7 +800,6 @@ carburante → carburanto
 carburo → carburo
 carbón → karbona, cocola
 carcaj → qiava
-carcelero → cartselette, caugo
 carcinología → carcinologia
 cardiografía → cardiografia, cardiografica
 cardiología → cardiologia
@@ -1784,6 +1783,11 @@ foco → foco
 fogata → fogo
 folclore → folklore
 folio → fola
+impersonación → imperso
+censura y eliminación de una persona → aperso
+personificación → persoia
+conjunto de factores; hechos o caracteristicas de un elemento que se repiten a lo largo de un conjunto → conceptia
+concepción → conceptio, conceptia
 fondo → fondo
 fonoaudiología → fonoaudiologia
 fonoaudiólogo → fonoaudiologo, fonoaudiologette
