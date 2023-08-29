@@ -8,7 +8,7 @@
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/aidanish?style=for-the-badge">
 </div>
 
-<img src="https://www.antikore.dev/img/aidanakia.png" alt="aidanish logo" align="right" width="128" height="128"/>
+<img src="https://www.antikore.dev/img/other/flag_aa.png" alt="aidanish logo" align="right" width="128" height="128"/>
 
 **Aidanish** is my own conlang that I made just for fun. A mixture between romanic, germanic and other languages, with a bunch of my own imagination and perversion. 
 
