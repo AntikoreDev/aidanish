@@ -1703,6 +1703,14 @@
             }
         ]
     },
+    "agradar": {
+        "entries": [
+            {
+                "meaning": "karai",
+                "specification": ""
+            }
+        ]
+    },
     "agradecer": {
         "entries": [
             {
@@ -12595,6 +12603,14 @@
         "entries": [
             {
                 "meaning": "coto",
+                "specification": ""
+            }
+        ]
+    },
+    "cortés": {
+        "entries": [
+            {
+                "meaning": "karaoso",
                 "specification": ""
             }
         ]
@@ -27407,6 +27423,14 @@
             }
         ]
     },
+    "limonada": {
+        "entries": [
+            {
+                "meaning": "ciraela",
+                "specification": ""
+            }
+        ]
+    },
     "limpiacristales": {
         "entries": [
             {
@@ -27459,6 +27483,14 @@
         "entries": [
             {
                 "meaning": "limusina",
+                "specification": ""
+            }
+        ]
+    },
+    "limón": {
+        "entries": [
+            {
+                "meaning": "cirae",
                 "specification": ""
             }
         ]
@@ -48727,6 +48759,14 @@
         "entries": [
             {
                 "meaning": "biz",
+                "specification": ""
+            }
+        ]
+    },
+    "zumo de naranja": {
+        "entries": [
+            {
+                "meaning": "oranjela",
                 "specification": ""
             }
         ]

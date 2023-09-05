@@ -1198,6 +1198,8 @@ cinematografia
 cinematografica
 cink
 cinologia
+cirae
+ciraela
 circlo
 circloko
 circo
@@ -3503,6 +3505,8 @@ kapsula
 kapta
 kaptai
 karabajo
+karai
+karaoso
 karbona
 karga
 kargaize
@@ -4628,6 +4632,7 @@ optometrica
 oraben
 oranja
 oranjarina
+oranjela
 oratio
 orden
 ordenai

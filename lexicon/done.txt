@@ -201,6 +201,7 @@ agitar
 agonía
 agorafobia
 agosto
+agradar
 agradecer
 agradecimiento
 agrafía
@@ -1535,6 +1536,7 @@ corte
 corteza
 cortina
 corto
+cortés
 cosa
 coscorro
 cosecha
@@ -3338,6 +3340,7 @@ lima
 limitado
 limitar
 limnología
+limonada
 limpiacristales
 limpiador
 limpiaparabrisas
@@ -3345,6 +3348,7 @@ limpiar
 limpieza
 limpio
 limusina
+limón
 linguisitico
 linterna
 liquen
@@ -5936,6 +5940,7 @@ zoólogo
 zulo
 zumbido
 zumo
+zumo de naranja
 zurdo
 zócalo
 ¡mira!

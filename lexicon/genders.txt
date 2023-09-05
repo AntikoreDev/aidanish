@@ -1054,6 +1054,7 @@ ei beletro
 la campela
 la axa
 ei inzo
+ei aperso
 la centara
 la tai
 la centela
@@ -1273,6 +1274,8 @@ ei comunicologette
 la comunitatia
 la comunisma
 ei conceptio
+ei conceptio
+la conceptia
 ei concepto
 la akontse
 la contia
@@ -1298,6 +1301,7 @@ ei configo
 ei confuzio
 ei gelaioro
 la conjugatia
+la conceptia
 la horia
 la ferramenteria
 ei cone
@@ -2171,12 +2175,6 @@ ei foco
 ei fogo
 ei folklore
 la fola
-ei imperso
-ei aperso
-la persoia
-la conceptia
-ei conceptio
-la conceptia
 ei fondo
 la fonoaudiologia
 ei fonoaudiologo
@@ -2666,6 +2664,7 @@ la imagenologia
 ei imaginatio
 ei sunkrako
 la imperia
+ei imperso
 ei izkratasoro
 ei impresio
 ei izkro
@@ -2888,11 +2887,13 @@ la lima
 ei lime
 la lima
 la limnologia
+la ciraela
 ei likravitro
 ei likraoro
 ei likraparavendo
 la likratia
 la limusina
+la cirae
 la lanterna
 ei liqen
 la mancuma
@@ -3808,6 +3809,7 @@ ei perso
 la disketabroka
 la personale
 ei personalizatio
+la persoia
 la giria
 ei kettlebell
 la pesa
@@ -5189,6 +5191,7 @@ ei zoologo
 ei zoologette
 ei crumbo
 ei biz
+la oranjela
 ei xugino
 ei bubo
 ei sokete
@@ -5372,6 +5375,7 @@ ei cornato
 ei correcto
 ei korrektoko
 ei coto
+ei karaoso
 ei crusto
 ei riaxeso
 ei litero

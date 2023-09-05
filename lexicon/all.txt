@@ -209,6 +209,7 @@ agitar → xatai
 agonía → agonia
 agorafobia → agorafobia
 agosto → agaisto
+agradar → karai
 agradecer → grazei
 agradecimiento → grazeizero
 agrafía → agrafia, agrafica
@@ -1564,6 +1565,7 @@ corte → kuta
 corteza → crusta
 cortina → kurtina
 corto → coto
+cortés → karaoso
 cosa → koixa
 coscorro (pan) → apatsa, apa, britango
 cosecha → cropo
@@ -3383,6 +3385,7 @@ lima (fruta) → lima
 limitado → limiteko
 limitar → limitei
 limnología → limnologia
+limonada → ciraela
 limpiacristales → likravitro
 limpiador → likraoro
 limpiaparabrisas → likraparavendo
@@ -3390,6 +3393,7 @@ limpiar → likrai
 limpieza → likratia
 limpio → likraiso
 limusina → limusina
+limón → cirae
 linguisitico → langoko
 linterna → lanterna
 liquen → liqen
@@ -6028,6 +6032,7 @@ zorro → zunio, fokso
 zoólogo → zoologo, zoologette
 zulo → crumbo
 zumbido → biz
+zumo de naranja → oranjela
 zumo → xugino, bubo
 zurdo → zoranno
 zócalo → sokete

@@ -875,6 +875,7 @@ cena → hinge, yantaro
 cencerro → beletro
 cencerro, campana → campela
 ceniza → axa, inzo
+censura y eliminación de una persona → aperso
 centaurea (flor) → centara
 centella (chispa) → tai
 centella → centela
@@ -1057,6 +1058,7 @@ comunicólogo → comunicologo, comunicologette
 comunidad → comunitatia
 comunismo → comunisma
 concepción → conceptio
+concepción → conceptio, conceptia
 concepto → concepto
 concha → akontse
 condado → contia
@@ -1076,6 +1078,7 @@ configuración → configo
 confusión → confuzio
 congelador → gelaioro
 conjugación → conjugatia
+conjunto de factores; hechos o caracteristicas de un elemento que se repiten a lo largo de un conjunto → conceptia
 conjunto o colección de herramientas → horia, ferramenteria
 cono → cone
 conocimiento → aonatia, hipe
@@ -1783,11 +1786,6 @@ foco → foco
 fogata → fogo
 folclore → folklore
 folio → fola
-impersonación → imperso
-censura y eliminación de una persona → aperso
-personificación → persoia
-conjunto de factores; hechos o caracteristicas de un elemento que se repiten a lo largo de un conjunto → conceptia
-concepción → conceptio, conceptia
 fondo → fondo
 fonoaudiología → fonoaudiologia
 fonoaudiólogo → fonoaudiologo, fonoaudiologette
@@ -2155,6 +2153,7 @@ imagenología → imagenologia
 imaginación → imaginatio
 imbécil → sunkrako
 imperio → imperia
+impersonación → imperso
 imprenta → izkratasoro
 impresión (impresionar, sorprender) → impresio
 impresión (impresora) → izkro
@@ -2332,11 +2331,13 @@ lija, lima (herramienta) → liya, afile
 lima (color) → lima, lime
 lima (fruta) → lima
 limnología → limnologia
+limonada → ciraela
 limpiacristales → likravitro
 limpiador → likraoro
 limpiaparabrisas → likraparavendo
 limpieza → likratia
 limusina → limusina
+limón → cirae
 linterna → lanterna
 liquen → liqen
 lirio (flor) → mancuma
@@ -3051,6 +3052,7 @@ persona → perso
 persona; generalmente de la tercera edad; que gusta de contar historias y anécdotas de su pasado, viejo cebolleta → disketabroka
 personal → personale
 personalización → personalizatio
+personificación → persoia
 pesa rusa → giria, kettlebell 
 pesa → pesa
 pesadilla → heupentsi, heupentsio
@@ -4155,6 +4157,7 @@ zorro → zunio, fokso
 zoólogo → zoologo, zoologette
 zulo → crumbo
 zumbido → biz
+zumo de naranja → oranjela
 zumo → xugino, bubo
 zócalo → sokete
 África → Afrika

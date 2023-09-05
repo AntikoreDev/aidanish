@@ -51,6 +51,7 @@ afilar → alfilai
 afirmar → aiei
 agachar → prigei
 agitar → xatai
+agradar → karai
 agradecer → grazei
 agrandar → oxtoai
 agredir → damaine
