@@ -1329,7 +1329,7 @@ colapso → colapso
 colar → colai, coilei
 coleccionar → colectoi
 colección → colectia
-colegio, escuela → esaroriun, eskola
+colegio, escuela → esaroriun, eskola, esaroitela
 colgar → colcai, colgai, coilei
 colibrí → liarta
 colina → yordea, sugal

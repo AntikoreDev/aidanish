@@ -1219,6 +1219,7 @@ ei colapso
 la colectia
 ei esaroriun
 la eskola
+la esaroitela
 la liarta
 la yordea
 ei sugal

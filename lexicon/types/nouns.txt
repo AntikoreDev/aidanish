@@ -1009,7 +1009,7 @@ cola (personas) → qeola
 colador → coladoro
 colapso → colapso
 colección → colectia
-colegio, escuela → esaroriun, eskola
+colegio, escuela → esaroriun, eskola, esaroitela
 colibrí → liarta
 colina → yordea, sugal
 colmena → bajiba
