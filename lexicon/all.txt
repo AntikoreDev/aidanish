@@ -3527,10 +3527,10 @@ mamografía → mamografia, mamografica
 mamut → mamuz
 mamá → mama
 mancha → zugra
-manchar → zugrai
+manchar → zugrai, teine
 manco → falman
 mancuerna → pesejo
-mandar → mandai
+mandar → mandai, endevai
 mandarina → oranjarina
 mando (concepto) → manda
 mando (objeto) → mandoro
@@ -3544,6 +3544,7 @@ mania → mania
 manicomio → frikostela, ankratela, frikheiga
 manifiesto → manifesto
 manillar → manile
+maniobrar → maneuvai
 manipulación → manika
 manipulado, manipulable → maniketa
 manipulador → manikete
@@ -4219,7 +4220,7 @@ papá → papa
 paquete (insulto) → tsusta
 paquete (insulto) → tsusta
 paquete (objeto) → paketara
-paquete → paquete
+paquete → pakete, endevo
 par → pare
 para → paira
 parabrisas → paravendo
@@ -4512,6 +4513,7 @@ piña → pinna, anani
 placa → plata
 placenta → ecombe
 placer → pleasa
+placer, complacer → plai
 plaga de justiniano → plaga dai justiniano
 plaga → plaga
 plan → plan
@@ -4549,6 +4551,7 @@ poción → potia
 poco a poco → en poco
 poco → piko, poco
 pocos → piko
+poder ser → ponsei
 poder → pontai, paidai
 poder → ponto
 podofilia → podofilia
@@ -4588,7 +4591,7 @@ por ahora → en nau
 por cierto → por zerto
 por cierto → por zerto
 por defecto → nurdefekto
-por favor → porqarei, porfevo
+por favor → si zu plai, porqarei
 por lo que → soqe, plus
 por qué → por qa
 por → por

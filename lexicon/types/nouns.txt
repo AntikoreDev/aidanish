@@ -2923,7 +2923,7 @@ papirólogo → papirologo, papirologette
 papá → papa
 paquete (insulto) → tsusta
 paquete (objeto) → paketara
-paquete → paquete
+paquete → pakete, endevo
 par → pare
 parabrisas → paravendo
 paracaídas → paratsute

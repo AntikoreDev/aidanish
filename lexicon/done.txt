@@ -1363,6 +1363,7 @@ compañía
 compendio
 compensación
 compensar
+complacer
 complejo
 complemento
 completar
@@ -3492,6 +3493,7 @@ mania
 manicomio
 manifiesto
 manillar
+maniobrar
 manipulable
 manipulación
 manipulado
@@ -4469,6 +4471,7 @@ poco
 poco a poco
 pocos
 poder
+poder ser
 podofilia
 podología
 podólogo

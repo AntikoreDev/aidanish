@@ -2064,6 +2064,8 @@ endemos
 enderei
 enderia
 enderizo
+endevai
+endevo
 endocrinologette
 endocrinologia
 endocrinologo
@@ -3978,6 +3980,7 @@ manda
 mandai
 mandoro
 manega
+maneuvai
 manga
 mango
 mania
@@ -4745,6 +4748,7 @@ paizo
 pakano
 paketai
 paketara
+pakete
 pal
 palabra
 palanca
@@ -4788,7 +4792,6 @@ papila
 papirologette
 papirologia
 papirologo
-paquete
 para
 parada
 paradimensional
@@ -5044,6 +5047,7 @@ pixel
 pizza
 pizzatela
 plaga
+plai
 plaia
 plan
 plane
@@ -5144,7 +5148,6 @@ por
 pora
 poratia
 porei
-porfevo
 porketsa
 porko
 porno
@@ -6134,6 +6137,7 @@ tecto
 tectovendo
 tectovendoioro
 tecvendo
+teine
 teirnai
 teja
 tekla

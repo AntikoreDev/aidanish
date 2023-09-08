@@ -373,6 +373,7 @@ diferir → diferei
 digerir → dijerai
 dirigir → dirijei
 disciplinar → disciplaire
+placer, complacer → plai
 discriminar → discrimai
 disculpar → diskaire
 disfrazar → desfroi, vangai
@@ -634,10 +635,11 @@ luchar → fistai
 machacar → pestai, matsakai
 maldecir → maldikei
 mamar → mamaire
-manchar → zugrai
-mandar → mandai
+manchar → zugrai, teine
+mandar → mandai, endevai
 manejar → turai
 manipular → manikai
+maniobrar → maneuvai
 mantener → ersai
 marcar → markai
 masacrar → masacrire
@@ -759,6 +761,7 @@ planear (plan) → planoi
 planear (volar) → planeai
 plantar → plantaire
 poder → pontai, paidai
+poder ser → ponsei
 poner → posai
 posar → posei
 poseer → posesai
