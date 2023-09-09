@@ -1575,6 +1575,7 @@ la defizientia
 ei definitio
 la deida
 ei delfino
+ei deliko
 la democratia
 la demografia
 la demografica
@@ -5395,6 +5396,7 @@ ei fundo
 ei derretido
 ei derrito
 ei derroqo
+ei delikoso
 la derroqista
 ei disastroso
 ei unpoie

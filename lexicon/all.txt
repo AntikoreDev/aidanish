@@ -1800,6 +1800,8 @@ delante → daotan
 deletrear → delektorei, espelei
 delfín → delfino
 delgado → delekio
+delicia → deliko
+delicioso → delikoso
 demandar → demandai
 demasiado → posmoi
 democracia → democratia

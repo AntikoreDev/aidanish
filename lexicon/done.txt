@@ -1771,6 +1771,8 @@ delante
 deletrear
 delfín
 delgado
+delicia
+delicioso
 demandar
 demasiado
 democracia

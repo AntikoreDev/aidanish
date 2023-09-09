@@ -1301,6 +1301,7 @@ deficiencia → defizientia
 definición → definitio
 deidad → deida
 delfín → delfino
+delicia → deliko
 democracia → democratia
 demografía → demografia, demografica
 demonio → damon, daemon
