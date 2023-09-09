@@ -1675,6 +1675,7 @@ culto
 cultura
 cumpleaños
 cumplir
+cumplir años
 cupón
 cura
 curar

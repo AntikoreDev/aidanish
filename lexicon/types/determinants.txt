@@ -62,7 +62,7 @@ doce → dizidois
 trece → dizitriai
 catorce → dizicatro
 quince → diziqinco
-dieciséis → dizisexei
+dieciséis → diziseksei
 diecisiete → dizisepto
 dieciocho → diziocto
 diecinueve → dizinonio
@@ -91,7 +91,7 @@ Sexto → Sekseix
 Septimo → Septoix
 Octavo → Octoix
 Noveno → Nonoix
-Décimo → dizix
+Décimo → Dezix
 Onceavo → Dizixoneix
 Doceavo → Dizidoisix
 

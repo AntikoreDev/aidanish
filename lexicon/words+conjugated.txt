@@ -3436,6 +3436,7 @@ dezeiki
 dezeio
 dezeioto
 dezente
+dezix
 dezo
 diabetologette
 diabetologia
@@ -3649,10 +3650,9 @@ dizidoisix
 dizinonio
 diziocto
 diziqinco
+diziseksei
 dizisepto
-dizisexei
 dizitriai
-dizix
 dizixone
 dizixoneix
 dizkoia
@@ -6017,6 +6017,13 @@ henito
 henlista
 henpipra
 henpixette
+henyarai
+henyaraie
+henyaraieon
+henyaraiet
+henyaraiki
+henyaraio
+henyaraioto
 henyaro
 hepatologette
 hepatologia
