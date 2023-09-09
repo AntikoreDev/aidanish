@@ -4560,6 +4560,7 @@ obskuro
 oceania
 oceanografia
 oceanografica
+ocidental
 ocio
 ociotempo
 octambo
@@ -4655,6 +4656,7 @@ organografica
 organologia
 orgia
 orgon
+oriental
 origai
 origelo
 origo

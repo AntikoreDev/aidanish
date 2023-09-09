@@ -3972,6 +3972,7 @@ objeto
 obtener
 obvio
 oca
+occidental
 oceania
 oceanografía
 oceanía
@@ -4047,6 +4048,7 @@ organización
 organografía
 organología
 orgía
+oriental
 orientar
 origen
 original

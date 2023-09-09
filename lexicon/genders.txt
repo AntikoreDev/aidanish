@@ -5387,6 +5387,8 @@ la tokiota
 la dezente
 ei defizente
 ei definite
+ei ocidental
+ei oriental
 ei definite
 ei dexaireioko
 ei delekio

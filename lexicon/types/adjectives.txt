@@ -155,6 +155,8 @@ de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; 
 decente → dezente
 deficiente → defizente
 definido → definite
+occidental → ocidental
+oriental → oriental
 definitivo → definite
 dejado → dexaireioko
 delgado → delekio
