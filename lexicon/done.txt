@@ -472,6 +472,9 @@ apuñalada
 apuñalamiento
 apuñalar
 apólogo
+aquel
+aquella
+aquello
 aquí
 arabia saudita
 aracnofobia
@@ -2518,6 +2521,7 @@ febrero
 fecha
 federación
 felicidad
+felicidades
 feliz
 femenino
 femicida
@@ -3889,6 +3893,7 @@ nevado
 nevar
 nevera
 neólogo
+ni
 ni siquiera
 nido
 niebla
@@ -5685,6 +5690,7 @@ tímpano
 tío
 título
 tú
+u
 ualabí
 ubicación
 ucrania
@@ -5912,6 +5918,7 @@ xenón
 xerografía
 xilografía
 xilófono
+y
 ya
 ya no
 yak

@@ -888,7 +888,7 @@ buenas noches → baine nito
 buenas tardes → baine taren
 bueno → baine
 buenos días → baine hen
-buenos días → baine manza (por la mañana, no se usa)
+buenos días → baine manza
 buey → zarra
 bufanda → bunfaza
 bufón → bulanere, xiabette
@@ -2090,7 +2090,6 @@ día festivo, festivo → ferehen
 día → hen
 dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento, simplemente por creer que "el resto iban" o "yo pensaba que x quería" → aer paire, lude noi
 dólar → dolar
-e → e
 ebullición, evaporación → inherba
 echar → etsoi
 echarse alguien los huevos a tuto, armar de valor, echarle huevos → retrai nai valia
@@ -2333,7 +2332,7 @@ escurrida → guta
 escurridor → gutaoro
 escurrir → gutarei
 escándalo → estantsa
-ese, esa, esas, esos → eisa
+ese, esa, esas, esos, aquel, aquello, aquella → eisa
 esencia → esentia
 esforzarse mucho → reveuyerai
 esforzarse → efoi, veuyei, veuyerai
@@ -2551,6 +2550,7 @@ febrero → febrero
 fecha → daita
 federación → federatio
 felicidad → aibela
+felicidades → favoras
 feliz, alegre → aibelo
 femenino → femenine
 femicida → femicida, meiecida, meicida
@@ -3813,7 +3813,7 @@ montículo → kieva, montinna
 montón (cosas) → buntso, cumo, kieve
 montón (es un montón!) → plenti
 monóculo → monoklo
-monólogo → monologo, monologette
+monólogo → monologo
 moqueta → mokete, moqete
 mora → blurra
 morado → morato
@@ -3952,6 +3952,7 @@ nevado → aigeloso
 nevar → aigelai
 nevera, frigorífico, refrigerador → ingoesmar
 neólogo → neologo, neologette
+ni → ne, nor
 nido → nesta
 niebla → nubula
 nieta → meioeke
@@ -4020,7 +4021,7 @@ néctar → nektar
 níscalo → niscalo, mixuia
 núcleo → kora
 número → numo, emesimo
-o → o
+o, u → o, or
 obispo → bispo
 objetivo → asiga
 objeto → item
@@ -6006,6 +6007,7 @@ xenón → xenon
 xerografía → kserografia, kserografica
 xilografía → ksilografia, ksilografica
 xilófono → xelofono
+y, e → e, er
 ya no → nomais
 ya → aia
 yak → yak

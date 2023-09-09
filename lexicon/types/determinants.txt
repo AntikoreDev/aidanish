@@ -1,5 +1,5 @@
 Este, esta, estas, estos → eita
-Ese, esa, esas, esos → eisa
+Ese, esa, esas, esos, aquel, aquello, aquella → eisa
 
 # Indefinidos
 un, una, uno, unos, unas → am

@@ -2147,6 +2147,7 @@ equai
 equalo
 equator
 equo
+er
 era
 erbusto
 ereasei
@@ -2509,6 +2510,7 @@ fataine
 fato
 favo
 favorai
+favoras
 fazei
 fazia
 fazilai
@@ -4284,7 +4286,6 @@ monografette
 monografia
 monografica
 monoklo
-monologette
 monologo
 monorroda
 monstro
@@ -4387,6 +4388,7 @@ nauhen
 navaia
 nazi
 nazismo
+ne
 neare
 nearei
 necrofilia
@@ -4509,6 +4511,7 @@ nono
 nonoix
 nontsai
 noperso
+nor
 norkeo
 norkia
 normal
@@ -4633,6 +4636,7 @@ optemizei
 optima
 optometria
 optometrica
+or
 oraben
 oranja
 oranjarina

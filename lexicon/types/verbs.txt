@@ -293,6 +293,7 @@ cruzar → crosai
 cubrir → kubrai, cortai
 cuidar → culdei
 culpar → riaxai
+cumplir años → henyarai
 cumplir → kumplaire
 curar → kurai
 curiosear → kuriosei
@@ -373,7 +374,6 @@ diferir → diferei
 digerir → dijerai
 dirigir → dirijei
 disciplinar → disciplaire
-placer, complacer → plai
 discriminar → discrimai
 disculpar → diskaire
 disfrazar → desfroi, vangai
@@ -638,8 +638,8 @@ mamar → mamaire
 manchar → zugrai, teine
 mandar → mandai, endevai
 manejar → turai
-manipular → manikai
 maniobrar → maneuvai
+manipular → manikai
 mantener → ersai
 marcar → markai
 masacrar → masacrire
@@ -756,12 +756,13 @@ pinchar → pinkai
 pintar → pintei
 pisar (sexual) → poi
 pisar → pisoi
+placer, complacer → plai
 planchar → plankai
 planear (plan) → planoi
 planear (volar) → planeai
 plantar → plantaire
-poder → pontai, paidai
 poder ser → ponsei
+poder → pontai, paidai
 poner → posai
 posar → posei
 poseer → posesai

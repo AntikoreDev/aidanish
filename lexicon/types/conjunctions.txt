@@ -1,7 +1,8 @@
-si (afirmación) → ai 
-si (condicional) → si, se
-porque → debai
-pero → nur
 aunque → ounqe, ounqa
-o → o
-e → e
+ni → ne, nor
+o, u → o, or
+pero → nur
+porque → debai
+si (afirmación) → ai
+si (condicional) → si, se
+y, e → e, er

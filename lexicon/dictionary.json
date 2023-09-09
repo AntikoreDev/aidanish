@@ -7170,7 +7170,7 @@
                 "specification": ""
             },
             {
-                "meaning": "baine manza (por la mañana, no se usa)",
+                "meaning": "baine manza",
                 "specification": ""
             }
         ]
@@ -16875,14 +16875,6 @@
             }
         ]
     },
-    "e": {
-        "entries": [
-            {
-                "meaning": "e",
-                "specification": ""
-            }
-        ]
-    },
     "ebullición": {
         "entries": [
             {
@@ -18923,6 +18915,30 @@
             }
         ]
     },
+    "aquel": {
+        "entries": [
+            {
+                "meaning": "eisa",
+                "specification": ""
+            }
+        ]
+    },
+    "aquello": {
+        "entries": [
+            {
+                "meaning": "eisa",
+                "specification": ""
+            }
+        ]
+    },
+    "aquella": {
+        "entries": [
+            {
+                "meaning": "eisa",
+                "specification": ""
+            }
+        ]
+    },
     "esencia": {
         "entries": [
             {
@@ -20687,6 +20703,14 @@
         "entries": [
             {
                 "meaning": "aibela",
+                "specification": ""
+            }
+        ]
+    },
+    "felicidades": {
+        "entries": [
+            {
+                "meaning": "favoras",
                 "specification": ""
             }
         ]
@@ -30854,7 +30878,7 @@
     "monólogo": {
         "entries": [
             {
-                "meaning": "monologo, monologette",
+                "meaning": "monologo",
                 "specification": ""
             }
         ]
@@ -31983,6 +32007,14 @@
             }
         ]
     },
+    "ni": {
+        "entries": [
+            {
+                "meaning": "ne, nor",
+                "specification": ""
+            }
+        ]
+    },
     "nido": {
         "entries": [
             {
@@ -32526,7 +32558,15 @@
     "o": {
         "entries": [
             {
-                "meaning": "o",
+                "meaning": "o, or",
+                "specification": ""
+            }
+        ]
+    },
+    "u": {
+        "entries": [
+            {
+                "meaning": "o, or",
                 "specification": ""
             }
         ]
@@ -48531,6 +48571,22 @@
         "entries": [
             {
                 "meaning": "xelofono",
+                "specification": ""
+            }
+        ]
+    },
+    "y": {
+        "entries": [
+            {
+                "meaning": "e, er",
+                "specification": ""
+            }
+        ]
+    },
+    "e": {
+        "entries": [
+            {
+                "meaning": "e, er",
                 "specification": ""
             }
         ]
