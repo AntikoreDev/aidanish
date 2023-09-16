@@ -1177,7 +1177,7 @@ cerdo → porko, pigo
 cereal → zereal
 cerebro → mentio
 cereza → roxuba
-cero → zuro
+cero → zero
 cero → zuro
 cerrado → kerraiso
 cerradura → klavika
@@ -5607,7 +5607,7 @@ tocólogo → tocologo, tocologette
 toda forma → aldeforma
 todavía → enoun
 todavía → enoun
-todo (cosas)→ aldex
+todo (cosas) → aldex
 todo momento, siempre → ertsai
 todo → aldex
 todos (personas) → aldexet

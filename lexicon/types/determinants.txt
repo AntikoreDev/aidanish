@@ -32,7 +32,7 @@ otro lugar → otela, olocato
 otra cosa → okoixa
 otro momento → otempo
 
-todo (cosas)→ aldex
+todo (cosas) → aldex
 toda forma → aldeforma
 todos (personas) → aldexet
 todo momento, siempre → ertsai
@@ -46,7 +46,7 @@ cada → etse
 varios → eixamete, vari
 
 # Cardinales
-cero → zuro
+cero → zero
 uno → one
 dos → dois
 tres → triai
