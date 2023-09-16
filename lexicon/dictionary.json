@@ -23507,6 +23507,14 @@
             }
         ]
     },
+    "haber niebla": {
+        "entries": [
+            {
+                "meaning": "nubulai",
+                "specification": ""
+            }
+        ]
+    },
     "haber": {
         "entries": [
             {
@@ -23571,10 +23579,26 @@
             }
         ]
     },
+    "hacer sol": {
+        "entries": [
+            {
+                "meaning": "solai",
+                "specification": ""
+            }
+        ]
+    },
     "hacer un tour": {
         "entries": [
             {
                 "meaning": "turei",
+                "specification": ""
+            }
+        ]
+    },
+    "hacer viento": {
+        "entries": [
+            {
+                "meaning": "vendai",
                 "specification": ""
             }
         ]
@@ -32443,6 +32467,14 @@
         "entries": [
             {
                 "meaning": "nimboso",
+                "specification": ""
+            }
+        ]
+    },
+    "nublar": {
+        "entries": [
+            {
+                "meaning": "nimboi",
                 "specification": ""
             }
         ]

@@ -2899,6 +2899,7 @@ guía (objeto) → redaioro
 guía (persona) → redaixette
 género → genera
 haba → aba
+haber niebla → nubulai
 haber → harei
 habilidad → estila
 habitación → vitaitela
@@ -2907,7 +2908,9 @@ hablante → pairante, pairette, falante, falette
 hablar sin saber → farlai
 hablar → paire, falai
 hacer reir → sigisai
+hacer sol → solai
 hacer un tour → turei
+hacer viento → vendai
 hacer → doi, faize, fai, fazei
 hacerrisas → gisette (persona que intenta hacer gracia de manera común pero solo es molesto)
 hacerse una paja → oargai
@@ -4005,6 +4008,7 @@ novio, novia → loimike
 nube seta → likenimbo
 nube → nimbo
 nublado → nimboso
+nublar → nimboi
 nuclear → nuzelar
 nudo → nude
 nudo → nukra

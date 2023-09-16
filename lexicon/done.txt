@@ -2866,6 +2866,7 @@ guía
 género
 haba
 haber
+haber niebla
 habilidad
 habitación
 habla
@@ -2874,7 +2875,9 @@ hablar
 hablar sin saber
 hacer
 hacer reir
+hacer sol
 hacer un tour
+hacer viento
 hacerrisas
 hacerse una paja
 hacha
@@ -3949,6 +3952,7 @@ novio
 nube
 nube seta
 nublado
+nublar
 nuclear
 nudo
 nuestro

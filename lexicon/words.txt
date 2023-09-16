@@ -4467,6 +4467,7 @@ nevon
 nevotia
 niki
 nimbo
+nimboi
 nimboso
 nipomo
 niscalo
@@ -4532,6 +4533,7 @@ notela
 noter
 novembo
 nubula
+nubulai
 nude
 nufara
 nukra
@@ -5972,6 +5974,7 @@ soit
 soka
 sokete
 sol
+solai
 solar
 solarga
 solarsistema
@@ -6724,6 +6727,7 @@ velociraptoroko
 velocita
 vena
 venaza
+vendai
 vendexa
 vendo
 vendoioro
