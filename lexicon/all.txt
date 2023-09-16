@@ -806,6 +806,7 @@ bisexualidad → bisexualita
 bismuto → bismuto
 bisonte → bisonte
 bit → bit, bito
+bizco → quete
 biólogo → biologo, biologette
 blanco → bianco
 blando → bloneto
@@ -2717,7 +2718,6 @@ funeral → funeral
 fusil → fusil
 futbolista → futbolista, futbolette
 futuro → futura
-futuro → proximo
 futurología → futurologia
 futurólogo → futurologo, futurologette
 fácil → fazilo
@@ -3261,8 +3261,8 @@ joder → injisai
 joder → xograstei
 jodida → frikenko
 jornada → henata, iornada
-joven → nevako
-joven → neve, nevon
+joven (adjetivo) → nevako
+joven (sustantivo) → neve, nevon
 juego → joko
 jueves → traxhia
 juez → juksette
@@ -4747,8 +4747,7 @@ prueba → proba
 prímula → acuprila
 príncipe → prince
 prólogo → prologo, prologette
-próxima → entera
-próximo → proximo
+próxima → entera, proxima
 pseudología → pseudologia
 psicobiología → psicobiologia
 psicofisiología → psicofisiologia
@@ -5064,7 +5063,7 @@ ron → rone
 rondar → rondai
 ropa → ropa, vano
 rosa → roixa
-rosa → rosar
+rosa → rosa
 rotación → rotatio
 rotar → rotai
 roto → roto
@@ -5972,7 +5971,6 @@ viudo, viuda → viuto
 vivienda → vivaitela
 vivir → vivai
 vivo → vitoso
-vizco → quete
 vocabulario → vokabulatio
 vocal → vokal
 vocina → vocine

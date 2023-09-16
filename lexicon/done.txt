@@ -794,6 +794,7 @@ bisexualidad
 bismuto
 bisonte
 bit
+bizco
 biólogo
 blanco
 blando
@@ -4668,7 +4669,6 @@ prímula
 príncipe
 prólogo
 próxima
-próximo
 pseudología
 psicobiología
 psicofisiología
@@ -5884,7 +5884,6 @@ viudo
 vivienda
 vivir
 vivo
-vizco
 vocabulario
 vocal
 vocina

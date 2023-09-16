@@ -6515,6 +6515,14 @@
             }
         ]
     },
+    "bizco": {
+        "entries": [
+            {
+                "meaning": "quete",
+                "specification": ""
+            }
+        ]
+    },
     "biólogo": {
         "entries": [
             {
@@ -22036,10 +22044,6 @@
             {
                 "meaning": "futura",
                 "specification": ""
-            },
-            {
-                "meaning": "proximo",
-                "specification": ""
             }
         ]
     },
@@ -26451,11 +26455,11 @@
         "entries": [
             {
                 "meaning": "nevako",
-                "specification": ""
+                "specification": "adjetivo"
             },
             {
                 "meaning": "neve, nevon",
-                "specification": ""
+                "specification": "sustantivo"
             }
         ]
     },
@@ -38370,15 +38374,7 @@
     "próxima": {
         "entries": [
             {
-                "meaning": "entera",
-                "specification": ""
-            }
-        ]
-    },
-    "próximo": {
-        "entries": [
-            {
-                "meaning": "proximo",
+                "meaning": "entera, proxima",
                 "specification": ""
             }
         ]
@@ -40934,7 +40930,7 @@
                 "specification": ""
             },
             {
-                "meaning": "rosar",
+                "meaning": "rosa",
                 "specification": ""
             }
         ]
@@ -48283,14 +48279,6 @@
         "entries": [
             {
                 "meaning": "vitoso",
-                "specification": ""
-            }
-        ]
-    },
-    "vizco": {
-        "entries": [
-            {
-                "meaning": "quete",
                 "specification": ""
             }
         ]

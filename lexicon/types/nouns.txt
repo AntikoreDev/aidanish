@@ -1852,7 +1852,6 @@ fundición → fuseitela
 funeral → funeral
 fusil → fusil
 futbolista → futbolista, futbolette
-futuro → proximo
 futurología → futurologia
 futurólogo → futurologo, futurologette
 fé → fai
@@ -2244,7 +2243,7 @@ jerarquía → jiderarqia
 jersey → jersey, tuske
 jirafa → terke, oxpisotsa
 jornada → henata, iornada
-joven → neve, nevon
+joven (sustantivo) → neve, nevon
 juego → joko
 juez → juksette
 jugador de baloncesto → bolacester, bolacestette
@@ -2641,7 +2640,6 @@ monóculo → monoklo
 monólogo → monologo
 moqueta → mokete, moqete
 mora → blurra
-morado → purpuro, purpur
 morfofonología → morfofonologia
 morfología → morfologia
 morfometría → morfometria, morfometrica
@@ -2693,7 +2691,6 @@ nacimiento → natatia
 nacionalidad → agizaia
 nanotecnología → nanotecnologia
 napolitana → miniga
-naranja (color) → oranja
 naranja (fruta) → oranja
 narciso (flor) → nersu
 nariz → vono
@@ -3477,7 +3474,6 @@ roca → roca
 roce → rotse
 rodilla → gidilla
 roedor → rodento
-rojo → roixo
 rol → rol
 rollito → roloki
 rollo → rolo

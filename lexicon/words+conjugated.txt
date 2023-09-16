@@ -10469,7 +10469,7 @@ proteiret
 proton
 provenza
 proverbio
-proximo
+proxima
 prozeso
 prusai
 prusaie
@@ -11422,7 +11422,7 @@ rondaioto
 rone
 ropa
 ropakisa
-rosar
+rosa
 rota
 rotai
 rotaie

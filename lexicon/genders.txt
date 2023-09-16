@@ -2262,7 +2262,6 @@ ei funeral
 ei fusil
 la futbolista
 ei futbolette
-ei proximo
 la futurologia
 ei futurologo
 ei futurologette
@@ -3278,8 +3277,6 @@ ei monologo
 ei mokete
 ei moqete
 la blurra
-ei purpuro
-ei purpur
 la morfofonologia
 la morfologia
 la morfometria
@@ -3341,7 +3338,6 @@ la natatia
 la agizaia
 la nanotecnologia
 la miniga
-la oranja
 la oranja
 ei nersu
 ei vono
@@ -4317,7 +4313,6 @@ la roca
 ei rotse
 la gidilla
 ei rodento
-ei roixo
 ei rol
 la roloki
 ei rolo
@@ -5274,7 +5269,6 @@ la altruista
 ei anco
 ei tsagrioso
 ei tsagrio
-la mallea
 ei zroto
 ei zrote
 ei amikeso
@@ -5297,7 +5291,6 @@ ei avarito
 ei combrako
 ei avisto
 ei avistoko
-la anil
 ei pikoso
 ei atsoso
 ei socremeko
@@ -5305,7 +5298,6 @@ ei belo
 ei benefitioso
 ei bainxo
 ei bainaro
-ei bianco
 ei bloneto
 ei lokeioto
 ei piloko
@@ -5330,7 +5322,6 @@ la capitalista
 ei tsarismatiko
 ei karitatoso
 ei karnoso
-ei karnivoro
 ei karo
 la simanata
 ei domodoio
@@ -5387,18 +5378,16 @@ la tokiota
 la dezente
 ei defizente
 ei definite
-ei ocidental
-ei oriental
 ei definite
 ei dexaireioko
 ei delekio
+ei delikoso
 la democratika
 ei democrato
 ei fundo
 ei derretido
 ei derrito
 ei derroqo
-ei delikoso
 la derroqista
 ei disastroso
 ei unpoie
@@ -5411,7 +5400,6 @@ ei boldako
 la determina
 la diagonal
 la hena
-ei deiranno
 ei dieteko
 ei nequalo
 ei derrenko
@@ -5486,10 +5474,8 @@ ei heruo
 ei fresko
 ei fresko
 ei frito
-ei fructivoro
 ei aigeloso
 ei forte
-la futura
 ei fazilo
 la putsa
 ei galaksiko
@@ -5512,7 +5498,6 @@ ei yuolo
 ei colo
 la legal
 ei fameno
-ei herbivoro
 ei hipnoto
 ei heigaro
 ei horizono
@@ -5541,18 +5526,15 @@ ei inmortal
 ei inmuno
 ei inocente
 la insatiable
-ei insectivoro
 ei instantako
 ei intelektualo
 ei intentiente
 la interesanta
-la tika
 ei introverto
 ei ezirutsuko
 ei ironiko
 ei jiderarqiko
 ei frikenko
-ei nevako
 ei iusto
 ei kafkiano
 ei lakrimido
@@ -5560,6 +5542,7 @@ ei longo
 ei invikso
 la legal
 ei foreno
+ei nevako
 ei lento
 ei levo
 la leve
@@ -5601,10 +5584,6 @@ la manikete
 ei maniaco
 ei marxito
 la martiala
-ei marro
-ei brunno
-ei bronzo
-ei itsoso
 la masculine
 ei masivo
 la oxtorra
@@ -5635,13 +5614,13 @@ la plusquamperfecta
 la mistica
 la naturala
 ei nekatiko
-ei nekro
 ei aigeloso
 ei normal
 ei nimboso
 ei nuzelar
 ei nevo
 ei obeo
+ei ocidental
 ei jido
 ei osalo
 ei osalo
@@ -5650,7 +5629,7 @@ ei eslo
 ei supardo
 ei oblivo
 ei husko
-ei omnivoro
+ei oriental
 ei origelo
 la orwelliana
 ei ausko
@@ -5707,7 +5686,7 @@ ei prono
 ei prope
 ei protecto
 la entera
-ei proximo
+la proxima
 la polita
 ei puntico
 la pura
@@ -5729,9 +5708,7 @@ ei enlitaro
 la remoneiata
 ei repentoso
 la ritsa
-ei roxo
 ei romantiko
-ei rosar
 ei roto
 ei bardo
 ei audixoso
@@ -5806,11 +5783,8 @@ la sugarra
 ei valuako
 ei vasto
 ei neiborako
-ei vegano
-ei vegetaro
 la verta
 ei verdadeko
-la berde
 ei verifeko
 ei vertico
 ei igerne
@@ -5818,11 +5792,8 @@ ei igerno
 la elde
 ei oko
 ei viso
-ei vitoso
-ei quete
 ei valo
 ei valito
-ei zoranno
 la coarsa
 la epikar
 la optima
