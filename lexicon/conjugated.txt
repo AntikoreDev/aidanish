@@ -5338,6 +5338,12 @@ receteiet
 receteiki
 receteio
 receteioto
+recomaizeie
+recomaizeieon
+recomaizeio
+recomaizeioto
+recomaizeki
+recomaizet
 recordaie
 recordaieon
 recordaiet
@@ -5398,6 +5404,12 @@ reguardaiet
 reguardaiki
 reguardaio
 reguardaioto
+reinitiaie
+reinitiaieon
+reinitiaiet
+reinitiaiki
+reinitiaio
+reinitiaioto
 reiseie
 reiseieon
 reiseio

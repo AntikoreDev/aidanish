@@ -819,6 +819,7 @@ carrera (juego) → zurraion
 carrera (universidad) → cursogra
 carretera → rakemno
 carruaje → azurreje
+carrusel → carrusel
 carta (texto) → letera
 cartel antiguo que indicaba a la gente que no portaba una brújula donde está el norte sur este y oeste → letoire, oireleto
 cartel → leto
@@ -1473,6 +1474,7 @@ egiptología → egiptologia
 egiptólogo → egiptologo, egiptologette
 ejemplo → exemplo
 ejercicio → exersizo
+el hecho de darse cuenta de algo → indora
 elección →  electio
 electricidad → elektritia
 electrocardiografía → electrocardiografia, electrocardiografica
@@ -3172,7 +3174,8 @@ polarimetría → polarimetria, polarimetrica
 poledance → poledance, poledanza, poledanze
 polemología → polemologia
 policía (coloquial) → controletta, controlette
-policía → polizia
+policía (en general) → polizia
+policía (persona) → polizette, securette
 poligrafía → poligrafia, poligrafica
 polimetría → polimetria, polimetrica
 politicólogo → politicologo, politicologette

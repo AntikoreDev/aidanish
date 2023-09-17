@@ -1086,6 +1086,7 @@ carrera (juego) → zurraion
 carrera (universidad) → cursogra
 carretera → rakemno
 carruaje → azurreje
+carrusel → carrusel
 carta (texto) → letera
 cartel antiguo que indicaba a la gente que no portaba una brújula donde está el norte sur este y oeste → letoire, oireleto
 cartel → leto
@@ -2123,6 +2124,7 @@ ejemplo → exemplo
 ejercer luz de gas sobre alguien → mnemoruptaire, mnemorupturai
 ejercer → ecersai
 ejercicio → exersizo
+el hecho de darse cuenta de algo → indora
 el → ei
 el, los → ei
 elección → electio
@@ -3179,6 +3181,7 @@ innecesariamente lleno o recargado → bouge
 inocencia → inocentia
 inocente → inocente
 inocente → inocente
+inoloro → eslofala
 insaciable → insatiable
 inscribir → azkribei
 insecticida → insekticida
@@ -3878,6 +3881,7 @@ museografía → museografia, museografica
 museología → museologia
 museólogo → museologo, museologette
 musgo → moso
+musical → musikal
 musicología → musicologia
 musicólogo → musicologo, musicologette
 mutar → mutai
@@ -4575,7 +4579,8 @@ polarimetría → polarimetria, polarimetrica
 poledance → poledance, poledanza, poledanze
 polemología → polemologia
 policía (coloquial) → controletta, controlette
-policía → polizia
+policía (en general) → polizia
+policía (persona) → polizette, securette
 poligrafía → poligrafia, poligrafica
 polimetría → polimetria, polimetrica
 politicólogo → politicologo, politicologette
@@ -4938,6 +4943,7 @@ rehacer → redoi, refai
 reina → reine
 reina, dama (ajedrez) → meila
 reinado → reina
+reiniciar → reinitiai, recomaize
 reino → renno
 reir → gisai
 relación → relatio
@@ -5269,6 +5275,7 @@ simple → simple, sampla
 simpático → amaiso, simpo
 simpático → simaise
 sin color → kolorfala
+sin daño, sin dolor → daxafala
 sin duda, indudablemente → dubafala
 sin embargo → orne
 sin sentido → sensofala
@@ -5408,6 +5415,7 @@ símbolo → simbolo
 símbolo, signos → simo
 síndrome → sindroma
 sólido → solido
+sútil → indorafala
 tabaco → tavake
 taberna → ingotela, taverna, taberna
 tabique → privono

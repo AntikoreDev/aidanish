@@ -842,6 +842,7 @@ regalar → regalei
 regar → rekai
 regresar → retornai
 rehacer → redoi, refai
+reiniciar → reinitiai, recomaize
 reir → gisai
 relucir húmedo → acolaine
 relucir → enlitai

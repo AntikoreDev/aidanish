@@ -985,6 +985,7 @@ ei zurraion
 la cursogra
 ei rakemno
 la azurreje
+ei carrusel
 la letera
 ei letoire
 ei oireleto
@@ -1786,6 +1787,7 @@ ei egiptologo
 ei egiptologette
 ei exemplo
 ei exersizo
+la indora
 ei electio
 la elektritia
 la electrocardiografia
@@ -3953,6 +3955,8 @@ la polemologia
 la controletta
 ei controlette
 la polizia
+ei polizette
+ei securette
 la poligrafia
 la poligrafica
 la polimetria
@@ -5525,6 +5529,7 @@ ei aurvaluako
 ei inmortal
 ei inmuno
 ei inocente
+la eslofala
 la insatiable
 ei instantako
 ei intelektualo
@@ -5535,6 +5540,7 @@ ei ezirutsuko
 ei ironiko
 ei jiderarqiko
 ei frikenko
+ei nevako
 ei iusto
 ei kafkiano
 ei lakrimido
@@ -5542,7 +5548,6 @@ ei longo
 ei invikso
 la legal
 ei foreno
-ei nevako
 ei lento
 ei levo
 la leve
@@ -5608,6 +5613,7 @@ ei unpaireko
 ei morto
 ei mugaro
 la mondola
+ei musikal
 ei zakerro
 la magika
 la plusquamperfecta
@@ -5735,6 +5741,7 @@ ei amaiso
 ei simpo
 la simaise
 la kolorfala
+la daxafala
 la dubafala
 la sensofala
 la vitafala
@@ -5752,6 +5759,7 @@ ei druxo
 ei sufizente
 ei supto
 ei piskizo
+la indorafala
 ei enterino
 la texnologika
 ei tempero

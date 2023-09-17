@@ -2086,6 +2086,7 @@ carnavala
 carpologia
 carriya
 carrota
+carrusel
 cartila
 cartografette
 cartografia
@@ -2976,6 +2977,7 @@ daraioto
 dario
 data
 daxa
+daxafala
 daxai
 daxaie
 daxaieon
@@ -4552,6 +4554,7 @@ eslime
 eslimo
 eslingo
 eslo
+eslofala
 esmaire
 esmaireie
 esmaireieon
@@ -6504,6 +6507,8 @@ incubaioto
 incube
 indaksa
 indigo
+indora
+indorafala
 indorai
 indoraie
 indoraieon
@@ -8574,6 +8579,7 @@ musicologette
 musicologia
 musicologo
 musika
+musikal
 musikette
 muskete
 musta
@@ -9960,6 +9966,7 @@ politicologo
 politologette
 politologia
 politologo
+polizette
 polizia
 polmona
 polo
@@ -10849,6 +10856,13 @@ receteio
 receteioto
 reciento
 recipente
+recomaize
+recomaizeie
+recomaizeieon
+recomaizeio
+recomaizeioto
+recomaizeki
+recomaizet
 recordai
 recordaie
 recordaieon
@@ -10938,6 +10952,13 @@ reguardo
 rein
 reina
 reine
+reinitiai
+reinitiaie
+reinitiaieon
+reinitiaiet
+reinitiaiki
+reinitiaio
+reinitiaioto
 reise
 reiseie
 reiseieon
@@ -11608,6 +11629,7 @@ savaxo
 se
 sebrutsa
 secur
+securette
 securitatia
 securo
 securzinto

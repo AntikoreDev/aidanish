@@ -8751,6 +8751,14 @@
             }
         ]
     },
+    "carrusel": {
+        "entries": [
+            {
+                "meaning": "carrusel",
+                "specification": ""
+            }
+        ]
+    },
     "carta": {
         "entries": [
             {
@@ -17155,6 +17163,14 @@
         "entries": [
             {
                 "meaning": "exersizo",
+                "specification": ""
+            }
+        ]
+    },
+    "el hecho de darse cuenta de algo": {
+        "entries": [
+            {
+                "meaning": "indora",
                 "specification": ""
             }
         ]
@@ -25779,6 +25795,14 @@
             }
         ]
     },
+    "inoloro": {
+        "entries": [
+            {
+                "meaning": "eslofala",
+                "specification": ""
+            }
+        ]
+    },
     "insaciable": {
         "entries": [
             {
@@ -31399,6 +31423,14 @@
             }
         ]
     },
+    "musical": {
+        "entries": [
+            {
+                "meaning": "musikal",
+                "specification": ""
+            }
+        ]
+    },
     "musicología": {
         "entries": [
             {
@@ -37003,7 +37035,11 @@
             },
             {
                 "meaning": "polizia",
-                "specification": ""
+                "specification": "en general"
+            },
+            {
+                "meaning": "polizette, securette",
+                "specification": "persona"
             }
         ]
     },
@@ -39927,6 +39963,14 @@
             }
         ]
     },
+    "reiniciar": {
+        "entries": [
+            {
+                "meaning": "reinitiai, recomaize",
+                "specification": ""
+            }
+        ]
+    },
     "reino": {
         "entries": [
             {
@@ -42551,6 +42595,22 @@
             }
         ]
     },
+    "sin daño": {
+        "entries": [
+            {
+                "meaning": "daxafala",
+                "specification": ""
+            }
+        ]
+    },
+    "sin dolor": {
+        "entries": [
+            {
+                "meaning": "daxafala",
+                "specification": ""
+            }
+        ]
+    },
     "sin duda": {
         "entries": [
             {
@@ -43707,6 +43767,14 @@
         "entries": [
             {
                 "meaning": "solido",
+                "specification": ""
+            }
+        ]
+    },
+    "sútil": {
+        "entries": [
+            {
+                "meaning": "indorafala",
                 "specification": ""
             }
         ]

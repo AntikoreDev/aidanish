@@ -1,3 +1,6 @@
+
+
+
 a punto de terminar → afinale
 abalconado → evokinde
 abandonado → ekoreko
@@ -98,7 +101,6 @@ capitalista → capitalista
 carismático → tsarismatiko
 caritativo → karitatoso
 carnoso → karnoso
-
 caro → karo
 casero → simanata, domodoio
 castigado → jusaioto
@@ -258,7 +260,6 @@ grueso → groso
 guapo → emelo
 guay → yuolo, colo, legal
 hambriento → fameno
-
 hipnotizado → hipnoto
 hogareño → heigaro
 horizontal → horizono
@@ -283,6 +284,7 @@ infravalorado → aurvaluako
 inmortal → inmortal
 inmune → inmuno
 inocente → inocente
+inoloro → eslofala
 insaciable → insatiable
 instantáneo → instantako
 intelectual → intelektualo
@@ -293,6 +295,7 @@ irritado → ezirutsuko
 irónico → ironiko
 jerárquico → jiderarqiko
 jodida → frikenko
+joven (adjetivo) → nevako
 justo → iusto
 kafkiano → kafkiano
 lagrimado → lakrimido
@@ -300,7 +303,6 @@ largo → longo
 lascivo → invikso
 legal → legal
 lejano → foreno
-joven (adjetivo) → nevako
 lento → lento, levo
 leve → leve
 libre → libero, liberso
@@ -359,6 +361,7 @@ mudo → unpaireko
 muerto → morto
 mugroso → mugaro
 mundial → mondola
+musical → musikal
 muy cerrado, casi sin ventanas o puertas → zakerro
 mágica → magika
 más que perfecto → plusquamperfecta
@@ -378,7 +381,6 @@ ocupado → osalo
 ofensivo → ofensoko
 oloroso → eslo
 olvidado → supardo, oblivo, husko
-
 oriental → oriental
 original → origelo
 orwelliano → orwelliana
@@ -475,6 +477,7 @@ simple → simple, sampla
 simpático → amaiso, simpo
 simpático → simaise
 sin color → kolorfala
+sin daño, sin dolor → daxafala
 sin duda, indudablemente → dubafala
 sin sentido → sensofala
 sin vida → vitafala
@@ -490,6 +493,7 @@ sucio → druxo
 suficiente → sufizente
 supto → supto
 sutil → piskizo
+sútil → indorafala
 tardío → enterino
 tecnológica → texnologika
 templado → tempero

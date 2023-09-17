@@ -1076,6 +1076,7 @@ carretera
 carretera de muchas vías que conecta una ciudad con la autopista
 carro
 carruaje
+carrusel
 carta
 carta de naipe
 cartel
@@ -2093,6 +2094,7 @@ ejercer
 ejercer luz de gas sobre alguien
 ejercicio
 el
+el hecho de darse cuenta de algo
 elección
 electricidad
 electrocardiografía
@@ -3143,6 +3145,7 @@ inmunólogo
 innecesariamente lleno o recargado
 inocencia
 inocente
+inoloro
 insaciable
 inscribir
 insecticida
@@ -3821,6 +3824,7 @@ museografía
 museología
 museólogo
 musgo
+musical
 musicología
 musicólogo
 mutar
@@ -4860,6 +4864,7 @@ regreso
 rehacer
 reina
 reinado
+reiniciar
 reino
 reir
 relación
@@ -5186,6 +5191,8 @@ simplemente por creer que "el resto iban" o "yo pensaba que x quería"
 simpático
 sin
 sin color
+sin daño
+sin dolor
 sin duda
 sin embargo
 sin sentido
@@ -5322,6 +5329,7 @@ sílaba
 símbolo
 síndrome
 sólido
+sútil
 tabaco
 taberna
 tabique

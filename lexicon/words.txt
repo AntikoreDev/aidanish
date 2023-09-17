@@ -1132,6 +1132,7 @@ carnavala
 carpologia
 carriya
 carrota
+carrusel
 cartila
 cartografette
 cartografia
@@ -1560,6 +1561,7 @@ darai
 dario
 data
 daxa
+daxafala
 daxai
 daxe
 daxei
@@ -2236,6 +2238,7 @@ eslime
 eslimo
 eslingo
 eslo
+eslofala
 esmaire
 esmarediske
 esmarei
@@ -3264,6 +3267,8 @@ incubai
 incube
 indaksa
 indigo
+indora
+indorafala
 indorai
 industria
 industrial
@@ -4350,6 +4355,7 @@ musicologette
 musicologia
 musicologo
 musika
+musikal
 musikette
 muskete
 musta
@@ -5136,6 +5142,7 @@ politicologo
 politologette
 politologia
 politologo
+polizette
 polizia
 polmona
 polo
@@ -5509,6 +5516,7 @@ receta
 recetei
 reciento
 recipente
+recomaize
 recordai
 recordo
 recovei
@@ -5538,6 +5546,7 @@ reguardo
 rein
 reina
 reine
+reinitiai
 reise
 reisitela
 reiso
@@ -5794,6 +5803,7 @@ savaxo
 se
 sebrutsa
 secur
+securette
 securitatia
 securo
 securzinto
