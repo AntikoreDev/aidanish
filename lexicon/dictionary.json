@@ -35751,6 +35751,18 @@
             }
         ]
     },
+    "persona": {
+        "entries": [
+            {
+                "meaning": "persona",
+                "specification": "forma muy formal"
+            },
+            {
+                "meaning": "perso",
+                "specification": ""
+            }
+        ]
+    },
     "persona o cosa que trae mala suerte o infortunio": {
         "entries": [
             {
@@ -35799,10 +35811,10 @@
             }
         ]
     },
-    "persona": {
+    "persona que siempre está emocionada por todo; a veces de forma nerviosa y agitada; o que te cuenta cosas poco interesantes con mucha emoción hasta un punto que es molesto": {
         "entries": [
             {
-                "meaning": "perso",
+                "meaning": "panfilos",
                 "specification": ""
             }
         ]
