@@ -1690,7 +1690,8 @@ cuervo → corvo
 cuestión → kuastion
 cueva → encova, erga
 cuidado → culda
-cuidar → culdei
+cuidar (genérico) → culdei
+cuidar (por preocupación) → kaire
 culo → cule, bango, botso, anusa
 culpa → riaxa
 culpable → riaxeso
