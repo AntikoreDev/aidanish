@@ -1,11 +1,12 @@
 # Aidanish Language
 <div align="center">
-<a href="https://github.com/AntikoreDev/aidanish" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/aidanish?style=for-the-badge"></a>
-<a href="https://github.com/AntikoreDev/aidanish/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/aidanish?style=for-the-badge"></a>
-<a href="https://github.com/AntikoreDev/aidanish/blob/main/lexicon/words+conjugated.txt"><img alt = "Words" src = "https://img.shields.io/tokei/lines/github/AntikoreDev/aidanish?label=Word%20Count&style=for-the-badge"></a>
-<br>
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntikoreDev/aidanish?style=for-the-badge">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/aidanish?style=for-the-badge">
+	<a href="https://github.com/AntikoreDev/aidanish" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/aidanish?style=for-the-badge"></a>
+	<a href="https://github.com/AntikoreDev/aidanish/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/aidanish?style=for-the-badge"></a>
+	<img alt="Discord" src="https://img.shields.io/discord/714504927329910847?style=for-the-badge&logo=discord&label=Discord&labelColor=%23111111&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2FxxggrY5">
+	<br>
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntikoreDev/aidanish?style=for-the-badge">
+	<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/AntikoreDev/aidanish?style=for-the-badge">
+	<img alt="Made in Spain" src="https://img.shields.io/badge/Made%20in-Spain-FF0000?style=for-the-badge&labelColor=FF0000&color=FFFF00">
 </div>
 
 <img src="https://www.antikore.dev/img/other/flag_aa.png" alt="aidanish logo" align="right" width="128" height="128"/>
