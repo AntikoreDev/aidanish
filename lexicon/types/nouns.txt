@@ -1481,8 +1481,7 @@ electrocardiografía → electrocardiografia, electrocardiografica
 electroencefalografía → electroencefalografia, electroencefalografica
 electrofisiología → electrofisiologia
 electrometría → electrometria, electrometrica
-electrón → electron
-electrón → elektronno
+electrón → elektronno, electron
 elefante → estsondo
 embarcadero → embarcatero
 embarco → embarco
@@ -1974,11 +1973,16 @@ grifo (animal) → grifo
 grillo → audixora
 gripe aviar → acriko flubila
 gripe española → espanna flubila
+sonido de estática eléctrica → vizel
+estática eléctrica → 
 gripe porcina → porko flubila
 gripe → flubila
 grosella → baretsa
 grulla trompetera → trompescuela
 grulla → escuela
+lugar propenso a desprendimientos → bocarra
+hora actual → hentempo
+desprendimiento → bocar
 grupo → lude, grupo
 gruñido, guarrido → orko
 grúa → gruva
@@ -3524,6 +3528,8 @@ saltamontes → herbepulai
 salto → pula
 salud → vitaiko
 saludo → saluto
+roca gigante → bocarro
+horas extra → prolaboro
 salvapantallas → visayagaizere
 salón → asteitela
 sandalía → sande

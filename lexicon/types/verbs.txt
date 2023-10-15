@@ -290,7 +290,10 @@ criar → krai
 crucificar → crosafikai
 crujir → crustai
 cruzar → crosai
+actuar como un gruñón → bocarrai
 cubrir → kubrai, cortai
+desprender → bocai
+hacer horas extra → prolaborai
 cuidar (genérico) → culdei
 cuidar (por preocupación) → kaire
 culpar → riaxai
@@ -498,6 +501,7 @@ evitar → voitai, saire
 exagerar → hurrai
 examinar → examinai, testai
 excitar → enusei
+poner en funcionamiento un proyecto después de ser terminado → ploi
 excusar → excusai
 experimentar → experimentai, testai, testei
 expirar → expirai

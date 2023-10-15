@@ -1760,6 +1760,23 @@ blurra
 bluta
 bobal
 bobsleigh
+bocai
+bocaie
+bocaieon
+bocaiet
+bocaiki
+bocaio
+bocaioto
+bocar
+bocarra
+bocarrai
+bocarraie
+bocarraieon
+bocarraiet
+bocarraiki
+bocarraio
+bocarraioto
+bocarro
 boglo
 bola
 bolacesta
@@ -1908,6 +1925,7 @@ bulaio
 bulaioto
 bulanere
 bulba
+bum
 bumpai
 bumpaie
 bumpaieon
@@ -2227,6 +2245,7 @@ climaia
 climatologette
 climatologia
 climatologo
+clin
 clip
 clire
 clireie
@@ -5399,6 +5418,7 @@ fontaneria
 fontanette
 fontanika
 fonto
+foou
 fora
 forbafor
 forco
@@ -6022,6 +6042,7 @@ henito
 henlista
 henpipra
 henpixette
+hentempo
 henyarai
 henyaraie
 henyaraieon
@@ -6287,6 +6308,7 @@ huaibeio
 huaibeioto
 huaibeki
 huaibet
+huf
 humanita
 hunco
 hundaire
@@ -7155,6 +7177,7 @@ klagaiet
 klagaiki
 klagaio
 klagaioto
+klap
 klapa
 klapai
 klapaie
@@ -7387,6 +7410,7 @@ kraiette
 kraiki
 kraio
 kraioto
+krak
 krapa
 kraporo
 kratsa
@@ -7618,6 +7642,7 @@ liberaioto
 libero
 liberso
 libertia
+libidette
 libreria
 librete
 libro
@@ -8106,6 +8131,7 @@ matsakaio
 matsakaioto
 matsasa
 matsina
+mau
 mauia
 mauiai
 mauiaie
@@ -8148,6 +8174,7 @@ mediteio
 mediteioto
 meditia
 mediu
+mee
 megafono
 megamorto
 meia
@@ -8601,6 +8628,7 @@ mutaiki
 mutaio
 mutaioto
 mutse
+muu
 muzka
 na
 nafta
@@ -8827,6 +8855,7 @@ noio
 noioto
 noisa
 noiso
+noknok
 nokoi
 nokoixa
 nokpo
@@ -9497,6 +9526,7 @@ patriska
 patrologia
 patronna
 patrono
+pau
 pausa
 pausai
 pausaie
@@ -9597,6 +9627,7 @@ peon
 pepera
 peperoni
 pepperoni
+per
 pera
 perda
 perditio
@@ -9735,6 +9766,7 @@ petiaioto
 petitia
 petra
 petracoasia
+petringo
 petro
 petrografia
 petrografica
@@ -9899,6 +9931,13 @@ plato
 pleasa
 plenti
 plika
+ploi
+ploie
+ploieon
+ploiet
+ploiki
+ploio
+ploioto
 ploka
 plomo
 pluga
@@ -9988,6 +10027,7 @@ polutaio
 polutaioto
 polutio
 poluto
+pom
 pomo
 pomologette
 pomologia
@@ -10414,6 +10454,14 @@ prokramaio
 prokramaioto
 prokramalango
 prokramatio
+prolaborai
+prolaboraie
+prolaboraieon
+prolaboraiet
+prolaboraiki
+prolaboraio
+prolaboraioto
+prolaboro
 prologette
 prologo
 prolongaire
@@ -10581,6 +10629,7 @@ puloio
 puloioto
 pulpusa
 pulverfruge
+pum
 pumka
 pumo
 puntico
@@ -12259,6 +12308,7 @@ sustibaiet
 sustibaiki
 sustibaio
 sustibaioto
+sux
 suxiza
 suxizo
 taberna
@@ -12561,6 +12611,7 @@ tigron
 tika
 tike
 tiki
+tikitak
 tikle
 tiko
 tilde
@@ -12993,6 +13044,7 @@ trustoio
 trustoioto
 trutsa
 tsa
+tsaclin
 tsado
 tsadoi
 tsadoie
@@ -13070,6 +13122,7 @@ tsisigra
 tsismografia
 tsismografica
 tsistera
+tsiz
 tsizirrei
 tsizirreie
 tsizirreieon
@@ -13694,6 +13747,9 @@ vixeiet
 vixeiki
 vixeio
 vixeioto
+viz
+vizel
+vizviz
 vocine
 voitai
 voitaie

@@ -1797,8 +1797,8 @@ la electroencefalografica
 la electrofisiologia
 la electrometria
 la electrometrica
-ei electron
 ei elektronno
+ei electron
 ei estsondo
 ei embarcatero
 ei embarco
@@ -2419,10 +2419,14 @@ la raca
 ei espigoto
 ei grifo
 la audixora
+ei vizel
 la flubila
 la baretsa
 la trompescuela
 la escuela
+la bocarra
+ei hentempo
+ei bocar
 ei lude
 ei grupo
 ei orko
@@ -4373,6 +4377,8 @@ la herbepulai
 la pula
 ei vitaiko
 ei saluto
+ei bocarro
+ei prolaboro
 la visayagaizere
 la asteitela
 la sande
@@ -5486,6 +5492,7 @@ ei fazilo
 la putsa
 ei galaksiko
 ei sugarriyo
+ei bocarro
 la general
 ei genelo
 ei glutonno

@@ -138,6 +138,7 @@ actual → airpose
 actualización → airposo
 actualizado → airposaioko
 actualizar → airposai
+actuar como un gruñón → bocarrai
 actuar → aktoai
 acuario → acoario
 acuerdo → akordo
@@ -1908,6 +1909,8 @@ despedir → adei
 despensa → celara
 despertar → loteire
 desplazar → loamai
+desprender → bocai
+desprendimiento → bocar
 después → enter
 destacado → boldako
 destacar → boldai
@@ -2134,8 +2137,7 @@ electrocardiografía → electrocardiografia, electrocardiografica
 electroencefalografía → electroencefalografia, electroencefalografica
 electrofisiología → electrofisiologia
 electrometría → electrometria, electrometrica
-electrón → electron
-electrón → elektronno
+electrón → elektronno, electron
 electrónico → elektrikono
 elefante → estsondo
 elegir → electoi
@@ -2463,6 +2465,7 @@ estudio → estaro
 estufa → estufa
 esturión → estsuela, esturion, cantsa
 estándar → estandar
+estática eléctrica →
 estómago → ingeriun
 estúpido → esporgo
 eternidad → ertsekoidae, ertse
@@ -2878,6 +2881,7 @@ grulla → escuela
 grupo → lude, grupo
 gruñido, guarrido → orko
 gruñir → gurrai, orkai
+gruñón, cabezota → bocarro
 grúa → gruva
 guacamole → guacamole
 guante → luva
@@ -2911,6 +2915,7 @@ habla → para
 hablante → pairante, pairette, falante, falette
 hablar sin saber → farlai
 hablar → paire, falai
+hacer horas extra → prolaborai
 hacer reir → sigisai
 hacer sol → solai
 hacer un tour → turei
@@ -3042,7 +3047,9 @@ homosexual → homosexualo, homoseksualo
 homsexualidad → homosexualita, homoseksualita
 homólogo → homologo, homologette
 hongo → likena, fungo, tunga
+hora actual → hentempo
 hora → hora
+horas extra → prolaboro
 horizontal → horizono
 horizonte → horizone
 hormiga → nekroandaivo
@@ -3474,6 +3481,7 @@ lucio → lutio
 luciérnaga → blailita
 luego → ogenter
 lugar donde se origina una pandemia endemia o epidemia → punto zero
+lugar propenso a desprendimientos → bocarra
 lugar → locata, itela
 lujo → luxo
 lujoso → luxoso
@@ -3631,6 +3639,7 @@ matasuegras → flocargoro
 matemática → matematika
 matemáticas → matematikas
 matemático → matematico
+material de mala calidad → petringo
 material → materia
 matraz, probeta → matrace, probacupa
 matrimonio → zimisyoixo
@@ -4418,6 +4427,7 @@ persiana → yera, jerco
 persistencia → persivita
 persistir → persiverai
 persona (forma muy formal) → persona
+persona muy salida → libidette
 persona o cosa que trae mala suerte o infortunio → yinke
 persona que busca activamente asiento en el transporte público → velociraptoroko
 persona que discrimina a los de su propio grupo social → patricida
@@ -4605,6 +4615,7 @@ pomología → pomologia
 pompa → bobal, pompe
 pomólogo → pomologo, pomologette
 poncho → pontso
+poner en funcionamiento un proyecto después de ser terminado → ploi
 poner → posai
 por ahora → en nau
 por cierto → por zerto
@@ -5057,6 +5068,7 @@ robar → rovai
 roble → acaia
 robo → rovo
 robot → robot
+roca gigante → bocarro
 roca → roca
 roce → rotse
 rodar → rodai
@@ -5341,6 +5353,25 @@ sombrear → tsadoi
 sombrero → tsadoya, horro
 somnofilia → somnofilia
 sonar → audei
+sonido de aplauso → klap
+sonido de buho → uhu uhu
+sonido de caja registradora → clin, tsaclin
+sonido de callar → sux
+sonido de chispazo → tsiz
+sonido de disparo → pau
+sonido de estática eléctrica → viz, vizviz
+sonido de estática eléctrica → vizel
+sonido de explosión → bum, pum
+sonido de gato → mau
+sonido de golpe → pom
+sonido de oveja → mee
+sonido de perro → uau uau, huf
+sonido de portazo → pom
+sonido de reloj → tikitak
+sonido de rotura → krak
+sonido de tocar una puerta → noknok
+sonido de vaca → muu
+sonido de viento → foou
 sonido → soniko
 sonreir → selai
 sonrisa → sela
@@ -5700,7 +5731,7 @@ transportar → aconvoi
 transportar, desplazar → deksplozai
 transporte → conve
 tranvía → ciutrena, trama, tram
-tras → tras
+tras → per, tras
 trasnochar → transnitoi
 traspiés → troin
 trastear → trastei, toutseire

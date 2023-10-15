@@ -926,6 +926,11 @@ blurra
 bluta
 bobal
 bobsleigh
+bocai
+bocar
+bocarra
+bocarrai
+bocarro
 boglo
 bola
 bolacesta
@@ -1008,6 +1013,7 @@ bula
 bulai
 bulanere
 bulba
+bum
 bumpai
 bumpo
 bun
@@ -1225,6 +1231,7 @@ climaia
 climatologette
 climatologia
 climatologo
+clin
 clip
 clire
 clokai
@@ -2669,6 +2676,7 @@ fontaneria
 fontanette
 fontanika
 fonto
+foou
 fora
 forbafor
 forco
@@ -3010,6 +3018,7 @@ henito
 henlista
 henpipra
 henpixette
+hentempo
 henyarai
 henyaro
 hepatologette
@@ -3167,6 +3176,7 @@ hostexette
 hougire
 huaba
 huaibe
+huf
 humanita
 hunco
 hundaire
@@ -3585,6 +3595,7 @@ kiva
 kiwi
 klaga
 klagai
+klap
 klapa
 klapai
 klaritatio
@@ -3685,6 +3696,7 @@ kraba
 krai
 kraia
 kraiette
+krak
 krapa
 kraporo
 kratsa
@@ -3814,6 +3826,7 @@ liberai
 libero
 liberso
 libertia
+libidette
 libreria
 librete
 libro
@@ -4074,6 +4087,7 @@ matrona
 matsakai
 matsasa
 matsina
+mau
 mauia
 mauiai
 maza
@@ -4098,6 +4112,7 @@ mediocrita
 meditei
 meditia
 mediu
+mee
 megafono
 megamorto
 meia
@@ -4365,6 +4380,7 @@ mustanekro
 mustatso
 mutai
 mutse
+muu
 muzka
 na
 nafta
@@ -4501,6 +4517,7 @@ nograi
 noi
 noisa
 noiso
+noknok
 nokoi
 nokoixa
 nokpo
@@ -4883,6 +4900,7 @@ patriska
 patrologia
 patronna
 patrono
+pau
 pausa
 pausai
 pause
@@ -4929,6 +4947,7 @@ peon
 pepera
 peperoni
 pepperoni
+per
 pera
 perda
 perditio
@@ -4989,6 +5008,7 @@ petiai
 petitia
 petra
 petracoasia
+petringo
 petro
 petrografia
 petrografica
@@ -5093,6 +5113,7 @@ plato
 pleasa
 plenti
 plika
+ploi
 ploka
 plomo
 pluga
@@ -5152,6 +5173,7 @@ polo
 polutai
 polutio
 poluto
+pom
 pomo
 pomologette
 pomologia
@@ -5320,6 +5342,8 @@ prokrama
 prokramai
 prokramalango
 prokramatio
+prolaborai
+prolaboro
 prologette
 prologo
 prolongaire
@@ -5379,6 +5403,7 @@ pulgada
 puloi
 pulpusa
 pulverfruge
+pum
 pumka
 pumo
 puntico
@@ -6097,6 +6122,7 @@ sushi
 sustai
 sustancea
 sustibai
+sux
 suxiza
 suxizo
 taberna
@@ -6285,6 +6311,7 @@ tigron
 tika
 tike
 tiki
+tikitak
 tikle
 tiko
 tilde
@@ -6489,6 +6516,7 @@ trunko
 trustoi
 trutsa
 tsa
+tsaclin
 tsado
 tsadoi
 tsadoro
@@ -6530,6 +6558,7 @@ tsisigra
 tsismografia
 tsismografica
 tsistera
+tsiz
 tsizirrei
 tsizirreitela
 tsoaga
@@ -6854,6 +6883,9 @@ vivai
 vivaitela
 vixe
 vixei
+viz
+vizel
+vizviz
 vocine
 voitai
 vokabulatio

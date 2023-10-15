@@ -1,0 +1,18 @@
+sonido de aplauso → klap
+sonido de buho → uhu uhu
+sonido de caja registradora → clin, tsaclin
+sonido de callar → sux
+sonido de chispazo → tsiz
+sonido de disparo → pau
+sonido de estática eléctrica → viz, vizviz
+sonido de explosión → bum, pum
+sonido de gato → mau
+sonido de golpe → pom
+sonido de oveja → mee
+sonido de perro → uau uau, huf
+sonido de portazo → pom
+sonido de reloj → tikitak
+sonido de rotura → krak
+sonido de tocar una puerta → noknok
+sonido de vaca → muu
+sonido de viento → foou

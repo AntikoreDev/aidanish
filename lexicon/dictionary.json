@@ -1143,6 +1143,14 @@
             }
         ]
     },
+    "actuar como un gruñón": {
+        "entries": [
+            {
+                "meaning": "bocarrai",
+                "specification": ""
+            }
+        ]
+    },
     "actuar": {
         "entries": [
             {
@@ -15375,6 +15383,22 @@
             }
         ]
     },
+    "desprender": {
+        "entries": [
+            {
+                "meaning": "bocai",
+                "specification": ""
+            }
+        ]
+    },
+    "desprendimiento": {
+        "entries": [
+            {
+                "meaning": "bocar",
+                "specification": ""
+            }
+        ]
+    },
     "después": {
         "entries": [
             {
@@ -17254,11 +17278,7 @@
     "electrón": {
         "entries": [
             {
-                "meaning": "electron",
-                "specification": ""
-            },
-            {
-                "meaning": "elektronno",
+                "meaning": "elektronno, electron",
                 "specification": ""
             }
         ]
@@ -23335,6 +23355,22 @@
             }
         ]
     },
+    "gruñón": {
+        "entries": [
+            {
+                "meaning": "bocarro",
+                "specification": ""
+            }
+        ]
+    },
+    "cabezota": {
+        "entries": [
+            {
+                "meaning": "bocarro",
+                "specification": ""
+            }
+        ]
+    },
     "grúa": {
         "entries": [
             {
@@ -23595,6 +23631,14 @@
         "entries": [
             {
                 "meaning": "paire, falai",
+                "specification": ""
+            }
+        ]
+    },
+    "hacer horas extra": {
+        "entries": [
+            {
+                "meaning": "prolaborai",
                 "specification": ""
             }
         ]
@@ -24659,10 +24703,26 @@
             }
         ]
     },
+    "hora actual": {
+        "entries": [
+            {
+                "meaning": "hentempo",
+                "specification": ""
+            }
+        ]
+    },
     "hora": {
         "entries": [
             {
                 "meaning": "hora",
+                "specification": ""
+            }
+        ]
+    },
+    "horas extra": {
+        "entries": [
+            {
+                "meaning": "prolaboro",
                 "specification": ""
             }
         ]
@@ -28167,6 +28227,14 @@
             }
         ]
     },
+    "lugar propenso a desprendimientos": {
+        "entries": [
+            {
+                "meaning": "bocarra",
+                "specification": ""
+            }
+        ]
+    },
     "lugar": {
         "entries": [
             {
@@ -29427,6 +29495,14 @@
         "entries": [
             {
                 "meaning": "matematico",
+                "specification": ""
+            }
+        ]
+    },
+    "material de mala calidad": {
+        "entries": [
+            {
+                "meaning": "petringo",
                 "specification": ""
             }
         ]
@@ -35767,6 +35843,14 @@
             }
         ]
     },
+    "persona muy salida": {
+        "entries": [
+            {
+                "meaning": "libidette",
+                "specification": ""
+            }
+        ]
+    },
     "persona o cosa que trae mala suerte o infortunio": {
         "entries": [
             {
@@ -37215,6 +37299,14 @@
         "entries": [
             {
                 "meaning": "pontso",
+                "specification": ""
+            }
+        ]
+    },
+    "poner en funcionamiento un proyecto después de ser terminado": {
+        "entries": [
+            {
+                "meaning": "ploi",
                 "specification": ""
             }
         ]
@@ -40875,6 +40967,14 @@
             }
         ]
     },
+    "roca gigante": {
+        "entries": [
+            {
+                "meaning": "bocarro",
+                "specification": ""
+            }
+        ]
+    },
     "roca": {
         "entries": [
             {
@@ -43155,6 +43255,154 @@
         "entries": [
             {
                 "meaning": "audei",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de aplauso": {
+        "entries": [
+            {
+                "meaning": "klap",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de buho": {
+        "entries": [
+            {
+                "meaning": "uhu uhu",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de caja registradora": {
+        "entries": [
+            {
+                "meaning": "clin, tsaclin",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de callar": {
+        "entries": [
+            {
+                "meaning": "sux",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de chispazo": {
+        "entries": [
+            {
+                "meaning": "tsiz",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de disparo": {
+        "entries": [
+            {
+                "meaning": "pau",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de estática eléctrica": {
+        "entries": [
+            {
+                "meaning": "viz, vizviz",
+                "specification": ""
+            },
+            {
+                "meaning": "vizel",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de explosión": {
+        "entries": [
+            {
+                "meaning": "bum, pum",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de gato": {
+        "entries": [
+            {
+                "meaning": "mau",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de golpe": {
+        "entries": [
+            {
+                "meaning": "pom",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de oveja": {
+        "entries": [
+            {
+                "meaning": "mee",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de perro": {
+        "entries": [
+            {
+                "meaning": "uau uau, huf",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de portazo": {
+        "entries": [
+            {
+                "meaning": "pom",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de reloj": {
+        "entries": [
+            {
+                "meaning": "tikitak",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de rotura": {
+        "entries": [
+            {
+                "meaning": "krak",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de tocar una puerta": {
+        "entries": [
+            {
+                "meaning": "noknok",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de vaca": {
+        "entries": [
+            {
+                "meaning": "muu",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido de viento": {
+        "entries": [
+            {
+                "meaning": "foou",
                 "specification": ""
             }
         ]
@@ -46082,7 +46330,7 @@
     "tras": {
         "entries": [
             {
-                "meaning": "tras",
+                "meaning": "per, tras",
                 "specification": ""
             }
         ]

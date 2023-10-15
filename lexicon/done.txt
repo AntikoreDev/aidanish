@@ -132,6 +132,7 @@ actualización
 actualizado
 actualizar
 actuar
+actuar como un gruñón
 acuario
 acuerdo
 acumulación
@@ -910,6 +911,7 @@ cabe
 cabello
 caber
 cabeza
+cabezota
 cabezón
 cabina
 cable
@@ -1876,6 +1878,8 @@ despedir
 despensa
 despertar
 desplazar
+desprender
+desprendimiento
 después
 destacado
 destacar
@@ -2433,6 +2437,7 @@ estudio
 estufa
 esturión
 estándar
+estática eléctrica
 estérnido
 estómago
 estúpido
@@ -2841,6 +2846,7 @@ grulla trompetera
 grupo
 gruñido
 gruñir
+gruñón
 grúa
 guacamole
 guano de murciélago
@@ -2877,6 +2883,7 @@ hablante
 hablar
 hablar sin saber
 hacer
+hacer horas extra
 hacer reir
 hacer sol
 hacer un tour
@@ -3010,6 +3017,8 @@ homsexualidad
 homólogo
 hongo
 hora
+hora actual
+horas extra
 horizontal
 horizonte
 hormiga
@@ -3434,6 +3443,7 @@ luciérnaga
 luego
 lugar
 lugar donde se origina una pandemia endemia o epidemia
+lugar propenso a desprendimientos
 lujo
 lujoso
 lujuría
@@ -3588,6 +3598,7 @@ matemática
 matemáticas
 matemático
 material
+material de mala calidad
 matraz
 matrimonio
 matriz
@@ -4354,6 +4365,7 @@ persistencia
 persistir
 persona
 persona en contra de las cosas nuevas
+persona muy salida
 persona o cosa que trae mala suerte o infortunio
 persona que busca activamente asiento en el transporte público
 persona que discrimina a los de su propio grupo social
@@ -4524,6 +4536,7 @@ pompa
 pomólogo
 poncho
 poner
+poner en funcionamiento un proyecto después de ser terminado
 por
 por ahora
 por cierto
@@ -4978,6 +4991,7 @@ roble
 robo
 robot
 roca
+roca gigante
 roce
 rodar
 rodilla
@@ -5255,6 +5269,24 @@ sombrero
 somnofilia
 sonar
 sonido
+sonido de aplauso
+sonido de buho
+sonido de caja registradora
+sonido de callar
+sonido de chispazo
+sonido de disparo
+sonido de estática eléctrica
+sonido de explosión
+sonido de gato
+sonido de golpe
+sonido de oveja
+sonido de perro
+sonido de portazo
+sonido de reloj
+sonido de rotura
+sonido de tocar una puerta
+sonido de vaca
+sonido de viento
 sonreir
 sonrisa
 sopa
