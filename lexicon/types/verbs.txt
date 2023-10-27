@@ -34,6 +34,7 @@ acordar (recordar) → akordai
 acostumbrar → acostumai
 activar → aktivei
 actualizar → airposai
+actuar como un gruñón → bocarrai
 actuar → aktoai
 acumular → acumai, buntsai
 acusar → akusai
@@ -113,6 +114,7 @@ arreglar, reparar → repaire
 arrepentirse → repentai
 arriesgar → riskai
 arrodillarse → gidillai
+ascender al cielo → estelegaize
 ascender → anseine, airei
 asediar → sievai, sievei
 asemejarse → lokai, asemeire
@@ -290,10 +292,7 @@ criar → krai
 crucificar → crosafikai
 crujir → crustai
 cruzar → crosai
-actuar como un gruñón → bocarrai
 cubrir → kubrai, cortai
-desprender → bocai
-hacer horas extra → prolaborai
 cuidar (genérico) → culdei
 cuidar (por preocupación) → kaire
 culpar → riaxai
@@ -359,6 +358,7 @@ desnudar → abiarei
 despedir → adei
 despertar → loteire
 desplazar → loamai
+desprender → bocai
 destacar → boldai
 destellear → taire
 desterrar → desterrai
@@ -426,6 +426,7 @@ empeorar → heunei
 empezar → estaire
 empollar → cixei
 empotrar → empotrai
+emprender → entreprenai
 empujar → pujai
 encantar → enkantai
 encegar → blindai
@@ -501,7 +502,6 @@ evitar → voitai, saire
 exagerar → hurrai
 examinar → examinai, testai
 excitar → enusei
-poner en funcionamiento un proyecto después de ser terminado → ploi
 excusar → excusai
 experimentar → experimentai, testai, testei
 expirar → expirai
@@ -561,6 +561,9 @@ haber niebla → nubulai
 haber → harei
 hablar sin saber → farlai
 hablar → paire, falai
+hacer horas extra → prolaborai
+hacer más bonito → fanzai
+hacer que un sistema funcione completamente por Internet; sin espacio físico → netifai
 hacer reir → sigisai
 hacer sol → solai
 hacer un tour → turei
@@ -764,6 +767,7 @@ pincelar → brutsei
 pinchar → pinkai
 pintar → pintei
 pisar (sexual) → poi
+pisar a otros por beneficio propio → auratai
 pisar → pisoi
 placer, complacer → plai
 planchar → plankai
@@ -772,6 +776,7 @@ planear (volar) → planeai
 plantar → plantaire
 poder ser → ponsei
 poder → pontai, paidai
+poner en funcionamiento un proyecto después de ser terminado → ploi
 poner → posai
 posar → posei
 poseer → posesai
@@ -866,7 +871,7 @@ repostar → tsargai
 representar → representei
 reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
-reptar → aurandaire, okroi
+reptar → aurandaire, okroi, colegai
 residir → reise
 resistir → resistai
 resolver →  resolei

@@ -551,6 +551,7 @@ artrología → artrologia
 artículo → articulo, articlo
 arvicolino → arvicolino, arvicolo
 arándano → aniluba
+ascender al cielo → estelegaize
 ascender → anseine, airei
 ascenso → ansenno
 ascensor → airoro
@@ -1760,6 +1761,7 @@ de hecho → enfacto
 de la → dala
 de nada → non lanai
 de todas formas → da alde forma
+de un futuro cercano → postmoderna
 de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo → tokiota
 de → da
 debajo → berora
@@ -2184,6 +2186,8 @@ empollar → cixei
 empollón → cixe
 empotración → empotratio
 empotrar → empotrai
+emprendedor → entreprenor
+emprender → entreprenai
 empresa → enterprisa, kompania
 empujar → pujai
 empuje → puja
@@ -2388,6 +2392,7 @@ esperanto → esperanto
 esperanza → aikala
 esperar (esperar algo) → aikalai
 esperar (tiempo) → herrei, haile
+espermatozoide → bianguro
 espesar → hexegai
 espeso → hexego
 espesura → hexegia
@@ -2532,6 +2537,7 @@ extranjero → estrane
 extrañar → estrannai
 extraño → estranno
 extraño, desconocido → estranne
+extremadamente bondadoso → estelegaze
 extremo → extremo
 extremo → extremo
 extrovertido → extroverto
@@ -2901,7 +2907,7 @@ guillotina → dantsoro, gillotina
 guisante → pite
 guitarra → gitarra
 gula → glutonia
-gusano → guro
+gusano → guro, colegi
 gustar → gustoi
 guía (objeto) → redaioro
 guía (persona) → redaixette
@@ -2916,6 +2922,8 @@ hablante → pairante, pairette, falante, falette
 hablar sin saber → farlai
 hablar → paire, falai
 hacer horas extra → prolaborai
+hacer más bonito → fanzai
+hacer que un sistema funcione completamente por internet; sin espacio físico → netifai
 hacer reir → sigisai
 hacer sol → solai
 hacer un tour → turei
@@ -3268,6 +3276,7 @@ jarrón, florero → diarra
 jaula → xolda
 jazmín (flor) → terisna
 jefe → jefe, printsiale, antso, casca
+jengibre → azura, raske
 jerarquía → jiderarqia
 jersey → jersey, tuske
 jerárquico → jiderarqiko
@@ -3585,6 +3594,7 @@ manzanilla → pomotsa
 maná → haia
 mapa → mapa
 mapache → mapatso, racune
+maquinaria → matsinaria
 mar → mare
 maratón → maraton
 marca → marka
@@ -4433,6 +4443,7 @@ persona que busca activamente asiento en el transporte público → velociraptor
 persona que discrimina a los de su propio grupo social → patricida
 persona que hace 'honicidio' → honicida
 persona que lleva 300 litros de colonia a todos lados → bombetanolette
+persona que para crecer o beneficiarse él mismo es capaz de pisar a los demás → aurataiette
 persona que se encargaba en época antigua de arreglar puertas y manivelas → torqette, torqerette
 persona que siempre está emocionada por todo; a veces de forma nerviosa y agitada; o que te cuenta cosas poco interesantes con mucha emoción hasta un punto que es molesto → panfilos
 persona → perso
@@ -4524,6 +4535,7 @@ pirámide → piramide
 pirómano → piromane
 pis → pikse
 pisar (sexual) → poi
+pisar a otros por beneficio propio → auratai
 pisar → pisoi
 piscina → acoakisa
 piso, apartamento → empartamento, bloke
@@ -5004,7 +5016,7 @@ representar → representei
 reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
 reprografía → reprografia, reprografica
-reptar → aurandaire, okroi
+reptar → aurandaire, okroi, colegai
 reptil → reptile
 repuesto → tsargo
 república → republika
@@ -6010,6 +6022,7 @@ vislumbrar, vigilar → veige
 vista → vista
 visto → viso
 visualización → visoatio
+visualmente agradable → fanze
 visón → orgon
 vitalidad → vitalita
 vitamina → vitamine

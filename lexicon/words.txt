@@ -656,6 +656,8 @@ aura
 aurai
 auram
 aurandaire
+auratai
+aurataiette
 aurei
 aurio
 aurnara
@@ -721,6 +723,7 @@ azna
 aznai
 aznatela
 aztai
+azura
 azurreje
 bacon
 bacteriologette
@@ -859,6 +862,7 @@ bexe
 biancai
 biancara
 bianco
+bianguro
 biatse
 bibliografia
 bibliografica
@@ -1271,6 +1275,8 @@ colca
 colcai
 colectia
 colectoi
+colegai
+colegi
 colga
 colgai
 colinte
@@ -2127,6 +2133,8 @@ entraine
 entratela
 entregai
 entrei
+entreprenai
+entreprenor
 entropia
 entsave
 enuse
@@ -2353,7 +2361,9 @@ estavo
 estavoro
 este
 estedie
+estelegaize
 estelegas
+estelegaze
 estena
 estenografia
 estenografica
@@ -2501,6 +2511,8 @@ fame
 fameno
 famina
 fanso
+fanzai
+fanze
 fargo
 fargustarra
 farla
@@ -4087,6 +4099,7 @@ matrona
 matsakai
 matsasa
 matsina
+matsinaria
 mau
 mauia
 mauiai
@@ -4460,6 +4473,7 @@ nersu
 nesiga
 nesta
 neta
+netifai
 neumologette
 neumologia
 neumologo
@@ -5236,6 +5250,7 @@ postal
 postalcoda
 postalcodiko
 poste
+postmoderna
 posto
 postre
 potata
@@ -5517,6 +5532,7 @@ rantio
 ranuncula
 rare
 raro
+raske
 rasta
 rata
 ratio

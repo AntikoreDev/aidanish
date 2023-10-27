@@ -1,6 +1,3 @@
-
-
-
 a punto de terminar → afinale
 abalconado → evokinde
 abandonado → ekoreko
@@ -150,6 +147,7 @@ culpable → riaxeso
 culto → litero
 curioso → kurioso
 cómodo → conforte
+de un futuro cercano → postmoderna
 de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo → tokiota
 decente → dezente
 deficiente → defizente
@@ -225,6 +223,7 @@ expirado → expiro
 explosivo → explodiko
 expuesto → exposto
 extraño → estranno
+extremadamente bondadoso → estelegaze
 extremo → extremo
 extrovertido → extroverto
 falso → fakro
@@ -247,7 +246,6 @@ fácil → fazilo
 galleta → putsa
 galáctico → galaksiko
 gandúl → sugarriyo
-gruñón, cabezota → bocarro
 general → general
 genial → genelo
 glotón, goloso → glutonno
@@ -258,6 +256,7 @@ gratis → atsoko
 grave → grave
 grosero → uskoro
 grueso → groso
+gruñón, cabezota → bocarro
 guapo → emelo
 guay → yuolo, colo, legal
 hambriento → fameno
@@ -530,6 +529,7 @@ verificado → verifeko
 vertical → vertico
 viejo (adjetivo) → igerne, igerno, elde, oko
 visto → viso
+visualmente agradable → fanze
 válido → valo, valito
 áspero → coarsa
 épico → epikar

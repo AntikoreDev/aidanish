@@ -1351,6 +1351,7 @@ deslizamiento → esleia
 desmayo → dizkoia
 desnudo → abiare
 despensa → celara
+desprendimiento → bocar
 destello → destelo
 destino → desteno
 destornillador → desexkraboro
@@ -1500,6 +1501,7 @@ empatía → maiso
 emperador → emperos
 emperatriz → emperas
 empotración → empotratio
+emprendedor → entreprenor
 empresa → enterprisa, kompania
 empuje → puja
 encanto → enxanto, encanto
@@ -1617,6 +1619,7 @@ espeleólogo → espeleologo, espeleologette
 espera → herre
 esperantista → esperantesta
 esperanza → aikala
+espermatozoide → bianguro
 espesura → hexegia
 espina → tira
 espirometría → espirometria, espirometrica
@@ -1672,6 +1675,7 @@ estudio → estaro
 estufa → estufa
 esturión → estsuela, esturion, cantsa
 estándar → estandar
+estática eléctrica → 
 estómago → ingeriun
 estúpido → esporgo
 eternidad → ertsekoidae, ertse
@@ -1973,16 +1977,11 @@ grifo (animal) → grifo
 grillo → audixora
 gripe aviar → acriko flubila
 gripe española → espanna flubila
-sonido de estática eléctrica → vizel
-estática eléctrica → 
 gripe porcina → porko flubila
 gripe → flubila
 grosella → baretsa
 grulla trompetera → trompescuela
 grulla → escuela
-lugar propenso a desprendimientos → bocarra
-hora actual → hentempo
-desprendimiento → bocar
 grupo → lude, grupo
 gruñido, guarrido → orko
 grúa → gruva
@@ -2000,7 +1999,7 @@ guillotina → dantsoro, gillotina
 guisante → pite
 guitarra → gitarra
 gula → glutonia
-gusano → guro
+gusano → guro, colegi
 guía (objeto) → redaioro
 guía (persona) → redaixette
 género → genera
@@ -2108,7 +2107,9 @@ homosexual → homosexualo, homoseksualo
 homsexualidad → homosexualita, homoseksualita
 homólogo → homologo, homologette
 hongo → likena, fungo, tunga
+hora actual → hentempo
 hora → hora
+horas extra → prolaboro
 horizonte → horizone
 hormiga → nekroandaivo
 hormigueo → mitsisila
@@ -2245,6 +2246,7 @@ jarrón, florero → diarra
 jaula → xolda
 jazmín (flor) → terisna
 jefe → jefe, printsiale, antso, casca
+jengibre → azura, raske
 jerarquía → jiderarqia
 jersey → jersey, tuske
 jirafa → terke, oxpisotsa
@@ -2385,6 +2387,7 @@ lucha → fista
 lucio → lutio
 luciérnaga → blailita
 lugar donde se origina una pandemia endemia o epidemia → punto zero
+lugar propenso a desprendimientos → bocarra
 lugar → locata, itela
 lujo → luxo
 lujuría → luxuria, luksuria
@@ -2461,6 +2464,7 @@ manzanilla → pomotsa
 maná → haia
 mapa → mapa
 mapache → mapatso, racune
+maquinaria → matsinaria
 mar → mare
 maratón → maraton
 marca → marka
@@ -3053,6 +3057,7 @@ perseverancia → persevera
 persiana → yera, jerco
 persistencia → persivita
 persona (forma muy formal) → persona
+persona que para crecer o beneficiarse él mismo es capaz de pisar a los demás → aurataiette 
 persona que siempre está emocionada por todo; a veces de forma nerviosa y agitada; o que te cuenta cosas poco interesantes con mucha emoción hasta un punto que es molesto → panfilos
 persona → perso
 persona; generalmente de la tercera edad; que gusta de contar historias y anécdotas de su pasado, viejo cebolleta → disketabroka
@@ -3479,6 +3484,7 @@ rizo → rize
 roble → acaia
 robo → rovo
 robot → robot
+roca gigante → bocarro
 roca → roca
 roce → rotse
 rodilla → gidilla
@@ -3528,8 +3534,6 @@ saltamontes → herbepulai
 salto → pula
 salud → vitaiko
 saludo → saluto
-roca gigante → bocarro
-horas extra → prolaboro
 salvapantallas → visayagaizere
 salón → asteitela
 sandalía → sande
@@ -3656,6 +3660,7 @@ sombra → tsado
 sombreador → tsadoro
 sombrero → tsadoya, horro
 somnofilia → somnofilia
+sonido de estática eléctrica → vizel
 sonido → soniko
 sonrisa → sela
 sopa → faba

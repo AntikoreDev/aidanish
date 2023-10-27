@@ -4487,6 +4487,14 @@
             }
         ]
     },
+    "ascender al cielo": {
+        "entries": [
+            {
+                "meaning": "estelegaize",
+                "specification": ""
+            }
+        ]
+    },
     "ascender": {
         "entries": [
             {
@@ -14191,6 +14199,14 @@
             }
         ]
     },
+    "de un futuro cercano": {
+        "entries": [
+            {
+                "meaning": "postmoderna",
+                "specification": ""
+            }
+        ]
+    },
     "de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo": {
         "entries": [
             {
@@ -17667,6 +17683,22 @@
             }
         ]
     },
+    "emprendedor": {
+        "entries": [
+            {
+                "meaning": "entreprenor",
+                "specification": ""
+            }
+        ]
+    },
+    "emprender": {
+        "entries": [
+            {
+                "meaning": "entreprenai",
+                "specification": ""
+            }
+        ]
+    },
     "empresa": {
         "entries": [
             {
@@ -19383,6 +19415,14 @@
             }
         ]
     },
+    "espermatozoide": {
+        "entries": [
+            {
+                "meaning": "bianguro",
+                "specification": ""
+            }
+        ]
+    },
     "espesar": {
         "entries": [
             {
@@ -20555,6 +20595,14 @@
             },
             {
                 "meaning": "estranne",
+                "specification": ""
+            }
+        ]
+    },
+    "extremadamente bondadoso": {
+        "entries": [
+            {
+                "meaning": "estelegaze",
                 "specification": ""
             }
         ]
@@ -23530,7 +23578,7 @@
     "gusano": {
         "entries": [
             {
-                "meaning": "guro",
+                "meaning": "guro, colegi",
                 "specification": ""
             }
         ]
@@ -23639,6 +23687,22 @@
         "entries": [
             {
                 "meaning": "prolaborai",
+                "specification": ""
+            }
+        ]
+    },
+    "hacer más bonito": {
+        "entries": [
+            {
+                "meaning": "fanzai",
+                "specification": ""
+            }
+        ]
+    },
+    "hacer que un sistema funcione completamente por internet; sin espacio físico": {
+        "entries": [
+            {
+                "meaning": "netifai",
                 "specification": ""
             }
         ]
@@ -26511,6 +26575,14 @@
             }
         ]
     },
+    "jengibre": {
+        "entries": [
+            {
+                "meaning": "azura, raske",
+                "specification": ""
+            }
+        ]
+    },
     "jerarquía": {
         "entries": [
             {
@@ -29051,6 +29123,14 @@
         "entries": [
             {
                 "meaning": "mapatso, racune",
+                "specification": ""
+            }
+        ]
+    },
+    "maquinaria": {
+        "entries": [
+            {
+                "meaning": "matsinaria",
                 "specification": ""
             }
         ]
@@ -35891,6 +35971,14 @@
             }
         ]
     },
+    "persona que para crecer o beneficiarse él mismo es capaz de pisar a los demás": {
+        "entries": [
+            {
+                "meaning": "aurataiette",
+                "specification": ""
+            }
+        ]
+    },
     "persona que se encargaba en época antigua de arreglar puertas y manivelas": {
         "entries": [
             {
@@ -36603,6 +36691,14 @@
             },
             {
                 "meaning": "pisoi",
+                "specification": ""
+            }
+        ]
+    },
+    "pisar a otros por beneficio propio": {
+        "entries": [
+            {
+                "meaning": "auratai",
                 "specification": ""
             }
         ]
@@ -40446,7 +40542,7 @@
     "reptar": {
         "entries": [
             {
-                "meaning": "aurandaire, okroi",
+                "meaning": "aurandaire, okroi, colegai",
                 "specification": ""
             }
         ]
@@ -48579,6 +48675,14 @@
         "entries": [
             {
                 "meaning": "visoatio",
+                "specification": ""
+            }
+        ]
+    },
+    "visualmente agradable": {
+        "entries": [
+            {
+                "meaning": "fanze",
                 "specification": ""
             }
         ]
