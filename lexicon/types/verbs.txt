@@ -609,6 +609,9 @@ intentar → trei
 interesar → interesai
 introducir → introi
 intrusear → intrudai
+invertir (dinero) → investai
+invertir (orden) → invertai
+invertir el uso de dos palabras en una oración por error → invortai, invocabulai
 investigar → edaroi
 invitar → invitei
 ir → hei

@@ -26219,6 +26219,26 @@
             }
         ]
     },
+    "invertir": {
+        "entries": [
+            {
+                "meaning": "investai",
+                "specification": "dinero"
+            },
+            {
+                "meaning": "invertai",
+                "specification": "orden"
+            }
+        ]
+    },
+    "invertir el uso de dos palabras en una oración por error": {
+        "entries": [
+            {
+                "meaning": "invortai, invocabulai",
+                "specification": ""
+            }
+        ]
+    },
     "investigación": {
         "entries": [
             {
