@@ -2766,6 +2766,7 @@ geomorfólogo
 geranio
 gerontología
 gerontólogo
+gerundio
 geógrafo
 geólogo
 gigantografía
@@ -3091,6 +3092,8 @@ imaginador
 imaginar
 imantar
 imbécil
+imitador
+imitar
 imperio
 impersonación
 impersonar
@@ -3188,6 +3191,7 @@ intentar
 intento
 interesante
 interesar
+interfaz
 intermitente
 internet
 intervalo
@@ -3433,6 +3437,7 @@ lo más bajo posible que se puede estar en algo
 lo que sea
 lobo
 local
+localizar
 loco
 locura
 lodazal
@@ -3659,6 +3664,8 @@ melodía
 melografía
 melón
 meme
+memo
+memorizar
 mena
 menaje
 mencionar
@@ -4228,6 +4235,7 @@ parque
 parrilla
 parroquia
 parte
+participio
 partida
 partido
 partir
@@ -5343,6 +5351,7 @@ sujetador
 sujetapapeles
 sujetar
 sujetavelas
+sujeto
 suliveyar
 sumar
 sumergir
@@ -5753,11 +5762,13 @@ término
 tétrico
 tímpano
 tío
+típico
 título
 tú
 u
 ualabí
 ubicación
+ubicar
 ucrania
 ucraniano
 ufología
@@ -5798,6 +5809,7 @@ usual
 usuario
 utero
 utilidad
+utilizar una palabra de forma incorrecta en una frase pero sin qué imposibilite que se entienda
 uva
 uña
 vaca

@@ -1330,6 +1330,10 @@
     "adiós": {
         "entries": [
             {
+                "meaning": "heio",
+                "specification": "forma antigua"
+            },
+            {
                 "meaning": "adem",
                 "specification": ""
             }
@@ -9979,6 +9983,10 @@
         "entries": [
             {
                 "meaning": "cientsette",
+                "specification": ""
+            },
+            {
+                "meaning": "cientsifika",
                 "specification": ""
             }
         ]
@@ -22679,6 +22687,14 @@
             }
         ]
     },
+    "gerundio": {
+        "entries": [
+            {
+                "meaning": "gerundo",
+                "specification": ""
+            }
+        ]
+    },
     "geógrafo": {
         "entries": [
             {
@@ -25327,6 +25343,14 @@
             }
         ]
     },
+    "imitar": {
+        "entries": [
+            {
+                "meaning": "memoi",
+                "specification": ""
+            }
+        ]
+    },
     "imperio": {
         "entries": [
             {
@@ -26127,6 +26151,14 @@
         "entries": [
             {
                 "meaning": "interesai",
+                "specification": ""
+            }
+        ]
+    },
+    "interfaz": {
+        "entries": [
+            {
+                "meaning": "interfazia",
                 "specification": ""
             }
         ]
@@ -28167,6 +28199,18 @@
             }
         ]
     },
+    "localizar": {
+        "entries": [
+            {
+                "meaning": "localai",
+                "specification": "traducir"
+            },
+            {
+                "meaning": "lokaize",
+                "specification": "encontrar"
+            }
+        ]
+    },
     "loco": {
         "entries": [
             {
@@ -30027,6 +30071,30 @@
         "entries": [
             {
                 "meaning": "meme",
+                "specification": ""
+            }
+        ]
+    },
+    "memo": {
+        "entries": [
+            {
+                "meaning": "memo",
+                "specification": ""
+            }
+        ]
+    },
+    "imitador": {
+        "entries": [
+            {
+                "meaning": "memo",
+                "specification": ""
+            }
+        ]
+    },
+    "memorizar": {
+        "entries": [
+            {
+                "meaning": "memoire",
                 "specification": ""
             }
         ]
@@ -34727,6 +34795,14 @@
         "entries": [
             {
                 "meaning": "parte",
+                "specification": ""
+            }
+        ]
+    },
+    "participio": {
+        "entries": [
+            {
+                "meaning": "partizipio",
                 "specification": ""
             }
         ]
@@ -39938,6 +40014,10 @@
     "recuerdo": {
         "entries": [
             {
+                "meaning": "memoir",
+                "specification": ""
+            },
+            {
                 "meaning": "rekordo, supte",
                 "specification": ""
             }
@@ -43855,6 +43935,14 @@
             }
         ]
     },
+    "sujeto": {
+        "entries": [
+            {
+                "meaning": "sujeto",
+                "specification": "persona"
+            }
+        ]
+    },
     "suliveyar": {
         "entries": [
             {
@@ -47239,6 +47327,14 @@
             }
         ]
     },
+    "típico": {
+        "entries": [
+            {
+                "meaning": "tipika, tipikar",
+                "specification": ""
+            }
+        ]
+    },
     "título": {
         "entries": [
             {
@@ -47268,6 +47364,14 @@
             {
                 "meaning": "ubikatio, locato",
                 "specification": ""
+            }
+        ]
+    },
+    "ubicar": {
+        "entries": [
+            {
+                "meaning": "lokaize",
+                "specification": "encontrar"
             }
         ]
     },
@@ -47595,6 +47699,14 @@
         "entries": [
             {
                 "meaning": "utilidae",
+                "specification": ""
+            }
+        ]
+    },
+    "utilizar una palabra de forma incorrecta en una frase pero sin qué imposibilite que se entienda": {
+        "entries": [
+            {
+                "meaning": "convortai",
                 "specification": ""
             }
         ]

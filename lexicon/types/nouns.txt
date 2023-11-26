@@ -1915,6 +1915,7 @@ geranio (flor) → galina
 geranio → alisla
 gerontología → gerontologia
 gerontólogo → gerontologo, gerontologette
+gerundio → gerundo
 geógrafo → geografette
 geólogo → geologo, geologette
 gigantografía → gigantografia, gigantografica
@@ -2209,6 +2210,7 @@ insulto → insulto, retro, insulso
 intelecto → intelekto
 intención → intentio
 intento → tre
+interfaz → interfazia
 internet → interneta
 intervalo → interval
 intestino delgado → piko intestino
@@ -2542,6 +2544,7 @@ melodía → melodia
 melografía → melografia, melografica
 melón → meloko
 meme → meme
+memo, imitador → memo
 mena → vena
 menaje → furnitia, menagio
 mención → mentio
@@ -2954,6 +2957,7 @@ parque → parke, jokotela
 parrilla → grila
 parroquia → parroqia
 parte → parte
+participio → partizipio
 partida (juego) → jokaizara
 partido (juego, deporte) → jokaizera
 partido (político) → partero
@@ -3398,6 +3402,7 @@ recto → recto
 rector → rektor
 recubrimiento, cápsula, protección, trinchera, nido, bunker, guarida → laira
 recuento → rekonto
+recuerdo → memoir
 recuerdo → rekordo, supte
 recurso → rekurso
 red de pesca, trampa para atraer turistas con el objetivo de sacarles mucho dinero → arraineta
@@ -3682,6 +3687,7 @@ suicidio → suicidio
 sujetador → sujeizo, braz
 sujetapapeles → sujepipra
 sujetavelas → sujecandala
+sujeto (persona) → sujeto
 superavit → superavit
 superficie → supratela
 supervivencia → surviva

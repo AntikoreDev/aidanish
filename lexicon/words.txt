@@ -1194,6 +1194,7 @@ cienciologette
 cienciologo
 cientsa
 cientsette
+cientsifika
 cientsologia
 cifra
 cifrato
@@ -1414,6 +1415,7 @@ controlpanela
 convai
 convalidai
 conve
+convortai
 conyuge
 coordenata
 coordinai
@@ -2862,6 +2864,7 @@ gerontologia
 gerontologo
 gerra
 gerraxette
+gerundo
 giaqeta
 giar
 giarra
@@ -3007,6 +3010,7 @@ hei
 heiga
 heiganimal
 heigaro
+heio
 helera
 heleria
 heliografia
@@ -3374,6 +3378,7 @@ intentiente
 intentio
 interesai
 interesanta
+interfazia
 interneta
 interval
 intra
@@ -3912,6 +3917,7 @@ llamako
 llamata
 loamai
 local
+localai
 localneta
 locata
 locatako
@@ -3923,6 +3929,7 @@ loi
 loiere
 loimike
 lokai
+lokaize
 lokei
 lokeioto
 lokeo
@@ -4155,6 +4162,9 @@ membro
 meme
 memi
 memo
+memoi
+memoir
+memoire
 mena
 menagio
 menale
@@ -4890,6 +4900,7 @@ partai
 parte
 partei
 partero
+partizipio
 partsa
 partsai
 parxa
@@ -6100,6 +6111,7 @@ sujenasit
 sujenasoit
 sujepipra
 sujeta
+sujeto
 sukai
 sukra
 sumire
@@ -6344,6 +6356,8 @@ tinka
 tinkei
 tipai
 tipe
+tipika
+tipikar
 tipo
 tipografia
 tipografica

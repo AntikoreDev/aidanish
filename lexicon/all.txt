@@ -162,6 +162,7 @@ adicción → adiktia
 adición → ado
 adictivo → adiktoso
 adicto → adikto
+adiós (forma antigua) → heio
 adiós → adem
 administrador → administreiette
 administrar → administrei
@@ -1240,6 +1241,7 @@ ciencia → cientsa
 cienciología → cientsologia
 cienciólogo → cienciologo, cienciologette
 científico → cientsette
+científico → cientsifika
 cierto (especificando algo) → certo
 cierto → zerto
 ciervo → perlo, deino
@@ -2799,6 +2801,7 @@ geranio (flor) → galina
 geranio → alisla
 gerontología → gerontologia
 gerontólogo → gerontologo, gerontologette
+gerundio → gerundo
 geógrafo → geografette
 geólogo → geologo, geologette
 gigantografía → gigantografia, gigantografica
@@ -3122,6 +3125,7 @@ imaginador → imagineiko
 imaginar → imaginei
 imantar → magnetai
 imbécil → sunkrako
+imitar → memoi
 imperio → imperia
 impersonación → imperso
 impersonar → impersoi
@@ -3223,6 +3227,7 @@ intentar → trei
 intento → tre
 interesante → interesanta
 interesar → interesai
+interfaz → interfazia
 intermitente → tika
 internet → interneta
 intervalo → interval
@@ -3473,6 +3478,7 @@ lo que sea → oraben
 lo → xo (cosa)
 lobo → lupo, lauseto
 local → local, locatako
+localizar (traducir) → localai
 loco → loko, ankraro, friko
 locura → ankraia
 lodazal → ugrarda
@@ -3705,6 +3711,8 @@ melodía → melodia
 melografía → melografia, melografica
 melón → meloko
 meme → meme
+memo, imitador → memo
+memorizar → memoire
 mena → vena
 menaje → furnitia, menagio
 mencionar → mentsei
@@ -4289,6 +4297,7 @@ parque → parke, jokotela
 parrilla → grila
 parroquia → parroqia
 parte → parte
+participio → partizipio
 partida (juego) → jokaizara
 partido (juego, deporte) → jokaizera
 partido (político) → partero
@@ -4941,6 +4950,7 @@ recto → recto
 rector → rektor
 recubrimiento, cápsula, protección, trinchera, nido, bunker, guarida → laira
 recuento → rekonto
+recuerdo → memoir
 recuerdo → rekordo, supte
 recuperar (salud) → recovei
 recurso → rekurso
@@ -5429,6 +5439,7 @@ sujetador → sujeizo, braz
 sujetapapeles → sujepipra
 sujetar, agarrar → sujei
 sujetavelas → sujecandala
+sujeto (persona) → sujeto
 suliveyar, encantar → aloi
 sumar → suproxei
 sumergir, irse por el desagüe → sumire
@@ -5845,10 +5856,12 @@ término → termino
 tétrico → auskura
 tímpano → timpano
 tío → benpai
+típico → tipika, tipikar
 título → titula
 tú → zu
 ualabí → gualabi, walabi
 ubicación → ubikatio, locato
+ubicar, localizar (encontrar) → lokaize
 ucrania → ukrania
 ucraniano → ukraneo
 ufología → ufologia
@@ -5887,6 +5900,7 @@ usual → usuala
 usuario → usuario
 utero → utero
 utilidad → utilidae
+utilizar una palabra de forma incorrecta en una frase pero sin qué imposibilite que se entienda → convortai
 uva → uba
 uña → neka
 vaca → vaka

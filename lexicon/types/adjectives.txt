@@ -106,6 +106,7 @@ cautivo → kautivita
 centenario → ozenoso
 cerrado → kerraiso
 ciego → blinda
+científico → cientsifika
 cierto (especificando algo) → certo
 claro → klaro
 claustrofóbico → claustrofobico
@@ -512,6 +513,7 @@ transcriptiva → transcribiko
 trastornante → yigoiko
 triste → tristeko
 tétrico → auskura
+típico → tipika, tipikar
 ultimo → elasto
 unido → yoiko
 uperisado → uperisato

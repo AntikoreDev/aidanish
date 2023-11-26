@@ -585,6 +585,7 @@ huir → ezurrai
 idear → ideai
 imaginar → imaginei
 imantar → magnetai
+imitar → memoi
 impersonar → impersoi
 importar (importancia) → hembei, morai, importai, neize, opaire
 importar (producto) → importai, importei
@@ -644,6 +645,7 @@ llenar → elloi, foloi
 llevar → yeveire
 llorar → lakrimai, acoatai
 llover → pluvai, acoatei
+localizar (traducir) → localai
 lograr → lokrai
 luchar → fistai
 machacar → pestai, matsakai
@@ -666,6 +668,7 @@ mearte de miedo → pikseterroi
 medir → metairre
 meditar → meditei
 mejorar → bainei
+memorizar → memoire
 mencionar → mentsei
 mensajear → mesajire
 mentalizar → mentaire
@@ -1012,9 +1015,11 @@ triturar → trituroi
 tronar → trumbai
 truncar → truncai
 turnar → turnoi
+ubicar, localizar (encontrar) → lokaize
 unir → yoi
 uperisar, ultrapasteurizar → uperisai
 usar → usei
+utilizar una palabra de forma incorrecta en una frase pero sin qué imposibilite que se entienda → convortai
 valer → valei
 validar → validai
 valorar → valuai

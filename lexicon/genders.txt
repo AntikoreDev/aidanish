@@ -2348,6 +2348,7 @@ la alisla
 la gerontologia
 ei gerontologo
 ei gerontologette
+ei gerundo
 la geografette
 ei geologo
 ei geologette
@@ -2729,6 +2730,7 @@ ei insulso
 ei intelekto
 ei intentio
 la tre
+la interfazia
 la interneta
 la interval
 ei intro
@@ -3140,6 +3142,7 @@ la melografia
 la melografica
 ei meloko
 la meme
+ei memo
 la vena
 la furnitia
 ei menagio
@@ -3681,6 +3684,7 @@ la jokotela
 la grila
 la parroqia
 la parte
+ei partizipio
 la jokaizara
 la jokaizera
 ei partero
@@ -4222,6 +4226,7 @@ ei recto
 ei rektor
 la laira
 ei rekonto
+ei memoir
 ei rekordo
 ei supte
 ei rekurso
@@ -4576,6 +4581,7 @@ ei sujeizo
 la braz
 la sujepipra
 la sujecandala
+ei sujeto
 ei superavit
 la supratela
 la surviva
@@ -5350,6 +5356,7 @@ la kautivita
 ei ozenoso
 ei kerraiso
 la blinda
+la cientsifika
 ei certo
 ei klaro
 ei claustrofobico
@@ -5798,6 +5805,8 @@ ei transcribiko
 ei yigoiko
 ei tristeko
 la auskura
+la tipika
+la tipikar
 ei elasto
 ei yoiko
 ei uperisato
