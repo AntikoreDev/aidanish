@@ -553,7 +553,10 @@ asediar
 asedio
 asemejarse
 asentir
+asesinar
+asesinato
 asesinato de un hombre por discriminación hacia el sexo masculino
+asesino
 asia
 asiento
 asignar
@@ -1850,6 +1853,7 @@ desconectar
 desconocido
 descorchar
 describir
+descripción
 desde
 desear
 desechado
@@ -2556,7 +2560,9 @@ fetiche
 feto
 fez
 fibra
+ficción
 ficha
+ficticio
 fideo
 fiebre
 fiebre amarilla
@@ -3202,6 +3208,7 @@ introducir
 introvertido
 intrusear
 intruso
+inventar
 invernadero
 invertir
 invertir el uso de dos palabras en una oración por error
@@ -4396,6 +4403,7 @@ persona que se encargaba en época antigua de arreglar puertas y manivelas
 persona que siempre está emocionada por todo; a veces de forma nerviosa y agitada; o que te cuenta cosas poco interesantes con mucha emoción hasta un punto que es molesto
 persona; generalmente de la tercera edad; que gusta de contar historias y anécdotas de su pasado
 persona; generalmente de la tercera edad; que habla con gente que no conoce por la calle como si fueran conocidos de toda la vida
+personaje
 personal
 personalización
 personalizar
@@ -4972,6 +4980,8 @@ restaurante
 restaurar
 resto
 resultado
+resumen
+resumir
 resurrección
 retener
 retirar
@@ -5171,6 +5181,8 @@ sepultar
 sepultura
 sequía
 ser
+serie
+serie de televisión
 serigrafía
 serio
 serología

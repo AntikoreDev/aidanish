@@ -498,6 +498,8 @@ la aniluba
 ei ansenno
 ei airoro
 la sieva
+ei asesanato
+la asesain
 la asenda
 la asimetria
 la asimetrica
@@ -1623,6 +1625,7 @@ ei unastaino
 ei unestoro
 ei hixe
 ei densenno
+ei deskriptio
 ei desexo
 ei zorro
 ei desbarco
@@ -2126,6 +2129,7 @@ ei kinko
 ei feto
 ei fez
 ei fibre
+ei fiktio
 la fista
 la fixoa
 ei fever
@@ -3824,6 +3828,7 @@ la aurataiette
 la panfilos
 ei perso
 la disketabroka
+ei tsarakto
 la personale
 ei personalizatio
 la persoia
@@ -4298,6 +4303,7 @@ ei resto
 ei zorve
 ei deproxo
 la resola
+la sumari
 ei resurrectio
 la testa
 ei retartato
@@ -4447,6 +4453,8 @@ ei septakono
 la sepulta
 la dria
 la eskarratia
+ei tiviserie
+ei serie
 la serigrafia
 la serigrafica
 la serologia
@@ -5493,6 +5501,7 @@ ei zunno
 ei zonno
 ei utego
 ei ferivo
+ei fikto
 ei filaso
 ei finiko
 ei estretso

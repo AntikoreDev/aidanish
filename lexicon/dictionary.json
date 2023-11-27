@@ -4555,10 +4555,34 @@
             }
         ]
     },
+    "asesinar": {
+        "entries": [
+            {
+                "meaning": "asesaine",
+                "specification": ""
+            }
+        ]
+    },
     "asesinato de un hombre por discriminación hacia el sexo masculino": {
         "entries": [
             {
                 "meaning": "honicidia",
+                "specification": ""
+            }
+        ]
+    },
+    "asesinato": {
+        "entries": [
+            {
+                "meaning": "asesanato",
+                "specification": ""
+            }
+        ]
+    },
+    "asesino": {
+        "entries": [
+            {
+                "meaning": "asesain",
                 "specification": ""
             }
         ]
@@ -15159,6 +15183,14 @@
             }
         ]
     },
+    "descripción": {
+        "entries": [
+            {
+                "meaning": "deskriptio",
+                "specification": ""
+            }
+        ]
+    },
     "desde": {
         "entries": [
             {
@@ -20979,10 +21011,26 @@
             }
         ]
     },
+    "ficción": {
+        "entries": [
+            {
+                "meaning": "fiktio",
+                "specification": ""
+            }
+        ]
+    },
     "ficha": {
         "entries": [
             {
                 "meaning": "fista",
+                "specification": ""
+            }
+        ]
+    },
+    "ficticio": {
+        "entries": [
+            {
+                "meaning": "fikto",
                 "specification": ""
             }
         ]
@@ -26239,6 +26287,14 @@
         "entries": [
             {
                 "meaning": "intrudo",
+                "specification": ""
+            }
+        ]
+    },
+    "inventar": {
+        "entries": [
+            {
+                "meaning": "iventai",
                 "specification": ""
             }
         ]
@@ -36115,6 +36171,14 @@
             }
         ]
     },
+    "personaje": {
+        "entries": [
+            {
+                "meaning": "tsarakto",
+                "specification": ""
+            }
+        ]
+    },
     "personal": {
         "entries": [
             {
@@ -40851,6 +40915,22 @@
             }
         ]
     },
+    "resumen": {
+        "entries": [
+            {
+                "meaning": "sumari",
+                "specification": ""
+            }
+        ]
+    },
+    "resumir": {
+        "entries": [
+            {
+                "meaning": "sumarai, sumaire",
+                "specification": ""
+            }
+        ]
+    },
     "resurrección": {
         "entries": [
             {
@@ -42435,6 +42515,22 @@
         "entries": [
             {
                 "meaning": "sei",
+                "specification": ""
+            }
+        ]
+    },
+    "serie de televisión": {
+        "entries": [
+            {
+                "meaning": "tiviserie",
+                "specification": ""
+            }
+        ]
+    },
+    "serie": {
+        "entries": [
+            {
+                "meaning": "serie",
                 "specification": ""
             }
         ]

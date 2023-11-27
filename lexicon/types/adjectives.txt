@@ -234,6 +234,7 @@ feliz, alegre → aibelo
 femenino → femenine
 feo → zunno, zonno, utego
 festivo → ferivo
+ficticio → fikto
 filoso → filaso
 finito → finiko
 fino → estretso

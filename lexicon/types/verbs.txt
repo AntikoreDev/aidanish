@@ -119,6 +119,7 @@ ascender → anseine, airei
 asediar → sievai, sievei
 asemejarse → lokai, asemeire
 asentir → asensei
+asesinar → asesaine
 asignar → asignai
 aspirar → aspirai
 astillar → artsai
@@ -610,6 +611,7 @@ intentar → trei
 interesar → interesai
 introducir → introi
 intrusear → intrudai
+inventar → iventai
 invertir (dinero) → investai
 invertir (orden) → invertai
 invertir el uso de dos palabras en una oración por error → invortai, invocabulai
@@ -888,6 +890,7 @@ restablecer → resetei
 restar → deproxei
 restar → restei, deproxei
 restaurar → restorai
+resumir → sumarai, sumaire
 retener → rentiei
 retirar → retroi
 retrasar → retrai

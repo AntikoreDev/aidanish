@@ -571,6 +571,9 @@ asenda
 asensei
 aserna
 asero
+asesain
+asesaine
+asesanato
 asia
 asiga
 asignai
@@ -1693,6 +1696,7 @@ desextela
 desfro
 desfroi
 deskriptei
+deskriptio
 desktop
 deslina
 deslinai
@@ -2577,6 +2581,8 @@ fiagia
 fiago
 fibre
 figura
+fiktio
+fikto
 fila
 filaso
 filastra
@@ -3438,6 +3444,7 @@ itsoso
 iustika
 iustikai
 iusto
+iventai
 ivorte
 izbocix
 izboiko
@@ -5926,6 +5933,7 @@ septoix
 sepulta
 sepultai
 sequencia
+serie
 serigrafia
 serigrafica
 serio
@@ -6114,6 +6122,9 @@ sujeta
 sujeto
 sukai
 sukra
+sumaire
+sumarai
+sumari
 sumire
 sundere
 sundo
@@ -6376,6 +6387,7 @@ titanno
 titse
 titsei
 titula
+tiviserie
 toaia
 toaita
 tocologette
@@ -6564,6 +6576,7 @@ tsampeon
 tsampeonato
 tsampinna
 tsandelera
+tsarakto
 tsardo
 tsargai
 tsargo

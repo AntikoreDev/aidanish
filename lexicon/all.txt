@@ -560,7 +560,10 @@ asediar → sievai, sievei
 asedio → sieva
 asemejarse → lokai, asemeire
 asentir → asensei
+asesinar → asesaine
 asesinato de un hombre por discriminación hacia el sexo masculino → honicidia
+asesinato → asesanato
+asesino → asesain
 asia → asia
 asiento → asenda
 asignar → asignai
@@ -1882,6 +1885,7 @@ desconectar → desconektai
 desconocido → unmiseioko
 descorchar → unarkutsai
 describir → deskriptei
+descripción → deskriptio
 desde → daze
 desear → dezeai, pregardai
 desechado → desexo
@@ -2586,7 +2590,9 @@ fetiche → fetixa, kinko
 feto → feto
 fez → fez
 fibra → fibre
+ficción → fiktio
 ficha → fista
+ficticio → fikto
 fideo → fixoa
 fiebre amarilla → fever mallea
 fiebre → fever
@@ -3238,6 +3244,7 @@ introducir → introi
 introvertido → introverto
 intrusear → intrudai
 intruso → intrudo
+inventar → iventai
 invernadero → aznatela, invernadero, aigelere
 invertir (dinero) → investai
 invertir (orden) → invertai
@@ -4461,6 +4468,7 @@ persona que siempre está emocionada por todo; a veces de forma nerviosa y agita
 persona → perso
 persona; generalmente de la tercera edad; que gusta de contar historias y anécdotas de su pasado, viejo cebolleta → disketabroka
 persona; generalmente de la tercera edad; que habla con gente que no conoce por la calle como si fueran conocidos de toda la vida → unloioko
+personaje → tsarakto
 personal → personal
 personal → personale
 personal → pertsonala
@@ -5055,6 +5063,8 @@ restaurante → restorante
 restaurar → restorai
 resto → reste, resto, zorve, deproxo
 resultado → resola
+resumen → sumari
+resumir → sumarai, sumaire
 resurrección → resurrectio
 retener → rentiei
 retirar → retroi
@@ -5255,6 +5265,8 @@ sepultura → sepulta
 sequía → dria
 sequía → eskarratia
 ser → sei
+serie de televisión → tiviserie
+serie → serie
 serigrafía → serigrafia, serigrafica
 serio → serio
 serología → serologia

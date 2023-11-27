@@ -429,6 +429,8 @@ arándano → aniluba
 ascenso → ansenno
 ascensor → airoro
 asedio → sieva
+asesinato → asesanato
+asesino → asesain
 asiento → asenda
 asimetría → asimetria, asimetrica
 asiriología → asiriologia
@@ -1338,6 +1340,7 @@ desastre → disastra
 desatascador → unastainoro, unastaino, unestoro
 descanso → hixe
 descenso → densenno
+descripción → deskriptio
 desecho, basura → desexo, zorro
 desembarco → desbarco
 desembocadura (río) → rioke
@@ -1744,6 +1747,7 @@ fetiche → fetixa, kinko
 feto → feto
 fez → fez
 fibra → fibre
+ficción → fiktio
 ficha → fista
 fideo → fixoa
 fiebre amarilla → fever mallea
@@ -3065,6 +3069,7 @@ persona que para crecer o beneficiarse él mismo es capaz de pisar a los demás 
 persona que siempre está emocionada por todo; a veces de forma nerviosa y agitada; o que te cuenta cosas poco interesantes con mucha emoción hasta un punto que es molesto → panfilos
 persona → perso
 persona; generalmente de la tercera edad; que gusta de contar historias y anécdotas de su pasado, viejo cebolleta → disketabroka
+personaje → tsarakto
 personal → personale
 personalización → personalizatio
 personificación → persoia
@@ -3462,6 +3467,7 @@ respuesta → reposta
 restaurante → restorante
 resto → reste, resto, zorve, deproxo
 resultado → resola
+resumen → sumari
 resurrección → resurrectio
 reto → testa
 retrasado → retartato, retardato
@@ -3588,6 +3594,8 @@ septágono → septakono
 sepultura → sepulta
 sequía → dria
 sequía → eskarratia
+serie de televisión → tiviserie
+serie → serie
 serigrafía → serigrafia, serigrafica
 serología → serologia
 serpiente cascabel → crotalo
