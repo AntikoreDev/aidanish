@@ -541,6 +541,9 @@ arrainata
 arraineta
 arrantsa
 arrantsei
+arsonai
+arsonisma
+arsonista
 arsuce
 arte
 artefacto
@@ -3915,6 +3918,8 @@ litologia
 litologo
 litora
 litoral
+litsa
+litsai
 litum
 litumgrax
 liya
@@ -5108,6 +5113,7 @@ pirografia
 pirografica
 pirologia
 piromane
+piromanette
 pirometria
 pirometrica
 pisa
@@ -5425,6 +5431,7 @@ psicosociologia
 psicosociologo
 publikai
 publiko
+pugna
 pugnai
 puja
 pujai
@@ -6554,6 +6561,7 @@ trone
 tropas
 tropologia
 trovai
+trovarette
 truka
 trumbai
 trumbe

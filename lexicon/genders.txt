@@ -808,6 +808,7 @@ ei kubrutso
 la zigar
 ei findaoro
 ei findette
+la trovarette
 ei perpetro
 la cansenda
 ei butano
@@ -3765,6 +3766,9 @@ ei peler
 la pelde
 ei cuoro
 ei peltro
+la litsa
+la faita
+la pugna
 ei cuorette
 ei pelico
 la perila
@@ -3906,9 +3910,12 @@ la piretologia
 la pirografia
 la pirografica
 la pirologia
+la arsonisma
 la pirometria
 la pirometrica
 la piramide
+la arsonista
+la piromanette
 la piromane
 ei pikse
 la acoakisa

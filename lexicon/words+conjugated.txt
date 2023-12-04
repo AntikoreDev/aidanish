@@ -1075,6 +1075,15 @@ arrantseiet
 arrantseiki
 arrantseio
 arrantseioto
+arsonai
+arsonaie
+arsonaieon
+arsonaiet
+arsonaiki
+arsonaio
+arsonaioto
+arsonisma
+arsonista
 arsuce
 arte
 artefacto
@@ -7845,6 +7854,14 @@ litologia
 litologo
 litora
 litoral
+litsa
+litsai
+litsaie
+litsaieon
+litsaiet
+litsaiki
+litsaio
+litsaioto
 litum
 litumgrax
 liya
@@ -9992,6 +10009,7 @@ pirografia
 pirografica
 pirologia
 piromane
+piromanette
 pirometria
 pirometrica
 pisa
@@ -10717,6 +10735,7 @@ publikaiki
 publikaio
 publikaioto
 publiko
+pugna
 pugnai
 pugnaie
 pugnaieon
@@ -13178,6 +13197,7 @@ trovaiet
 trovaiki
 trovaio
 trovaioto
+trovarette
 truka
 trumbai
 trumbaie

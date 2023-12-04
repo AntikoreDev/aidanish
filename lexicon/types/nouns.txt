@@ -679,6 +679,7 @@ burrito → burrito, kubrutso
 burro → zigar
 buscador (cosa) → findaoro
 buscador (persona) → findette
+buscador → trovarette
 busto → perpetro
 butaca → cansenda
 butano → butano
@@ -3018,6 +3019,7 @@ pelador de patatas → torkopeler
 pelador → peler
 peladura → pelde
 pelaje, cuero → cuoro,  peltro
+pelea → litsa, faita, pugna
 peletero → cuorette
 pelicano → pelico
 peligro → perila
@@ -3136,8 +3138,10 @@ piraña → piranna
 piretología → piretologia
 pirografía → pirografia, pirografica
 pirología → pirologia
+piromanía → arsonisma 
 pirometría → pirometria, pirometrica
 pirámide → piramide
+pirómano → arsonista, piromanette
 pirómano → piromane
 pis → pikse
 piscina → acoakisa

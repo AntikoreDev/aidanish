@@ -532,6 +532,12 @@ arrantseiet
 arrantseiki
 arrantseio
 arrantseioto
+arsonaie
+arsonaieon
+arsonaiet
+arsonaiki
+arsonaio
+arsonaioto
 artsaie
 artsaieon
 artsaiet
@@ -3928,6 +3934,12 @@ linkeiet
 linkeiki
 linkeio
 linkeioto
+litsaie
+litsaieon
+litsaiet
+litsaiki
+litsaio
+litsaioto
 liyareie
 liyareieon
 liyareio

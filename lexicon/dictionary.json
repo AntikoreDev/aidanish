@@ -7324,6 +7324,10 @@
             {
                 "meaning": "findette",
                 "specification": "persona"
+            },
+            {
+                "meaning": "trovarette",
+                "specification": ""
             }
         ]
     },
@@ -35451,10 +35455,18 @@
             }
         ]
     },
+    "pelea": {
+        "entries": [
+            {
+                "meaning": "litsa, faita, pugna",
+                "specification": ""
+            }
+        ]
+    },
     "pelear": {
         "entries": [
             {
-                "meaning": "faitai, pugnai",
+                "meaning": "litsai, faitai, pugnai",
                 "specification": ""
             }
         ]
@@ -36811,6 +36823,14 @@
             }
         ]
     },
+    "piromanía": {
+        "entries": [
+            {
+                "meaning": "arsonisma",
+                "specification": ""
+            }
+        ]
+    },
     "pirometría": {
         "entries": [
             {
@@ -36829,6 +36849,10 @@
     },
     "pirómano": {
         "entries": [
+            {
+                "meaning": "arsonista, piromanette",
+                "specification": ""
+            },
             {
                 "meaning": "piromane",
                 "specification": ""
@@ -38775,6 +38799,14 @@
         "entries": [
             {
                 "meaning": "provenza",
+                "specification": ""
+            }
+        ]
+    },
+    "provocar un incendio a propósito": {
+        "entries": [
+            {
+                "meaning": "arsonai",
                 "specification": ""
             }
         ]

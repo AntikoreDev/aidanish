@@ -749,7 +749,7 @@ pedir → precai
 pegar (adherir) → pastai
 peinar → cailai, caile
 pelar → pelai
-pelear → faitai, pugnai
+pelear → litsai, faitai, pugnai
 peligrar → perilai
 penalizar → penalai
 pender → pendei
@@ -823,6 +823,7 @@ pronosticar → pronostikaire
 proponer → petiai, propoize
 prosperar → prosperai
 proteger → protectai
+provocar un incendio a propósito → arsonai
 publicar → publikai
 pulsar → puloi
 purificar (religión o místico) → haiai, purei

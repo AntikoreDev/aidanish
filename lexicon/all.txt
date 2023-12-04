@@ -909,6 +909,7 @@ burrito → burrito, kubrutso
 burro → zigar
 buscador (cosa) → findaoro
 buscador (persona) → findette
+buscador → trovarette
 buscar → findai
 busto → perpetro
 butaca → cansenda
@@ -4380,7 +4381,8 @@ pelador → peler
 peladura → pelde
 pelaje, cuero → cuoro, peltro
 pelar → pelai
-pelear → faitai, pugnai
+pelea → litsa, faita, pugna
+pelear → litsai, faitai, pugnai
 peletero → cuorette
 pelicano → pelico
 peligrar → perilai
@@ -4550,8 +4552,10 @@ piraña → piranna
 piretología → piretologia
 pirografía → pirografia, pirografica
 pirología → pirologia
+piromanía → arsonisma
 pirometría → pirometria, pirometrica
 pirámide → piramide
+pirómano → arsonista, piromanette
 pirómano → piromane
 pis → pikse
 pisar (sexual) → poi
@@ -4799,6 +4803,7 @@ proteína → proteina
 protón → proton
 proverbio → proverbio
 provincia → provenza
+provocar un incendio a propósito → arsonai
 prueba → proba
 prímula → acuprila
 príncipe → prince

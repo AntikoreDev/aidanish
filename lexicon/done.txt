@@ -4315,6 +4315,7 @@ pelador de patatas
 peladura
 pelaje
 pelar
+pelea
 pelear
 peletero
 pelicano
@@ -4480,6 +4481,7 @@ piraña
 piretología
 pirografía
 pirología
+piromanía
 pirometría
 pirámide
 pirómano
@@ -4717,6 +4719,7 @@ proteína
 protón
 proverbio
 provincia
+provocar un incendio a propósito
 prueba
 prímula
 príncipe
