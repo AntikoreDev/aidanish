@@ -3117,6 +3117,7 @@ la maionesa
 ei oxtoro
 la alta
 la maza
+la calaboa
 ei bontso
 la juca
 la manza
@@ -3311,6 +3312,7 @@ ei moskito
 ei mosqito
 la mostara
 la merla
+ei motivatio
 ei motivo
 la motorroda
 la motorroda
@@ -5645,6 +5647,7 @@ ei miskolo
 ei avisoko
 ei mesmo
 ei edariko
+la moderna
 ei modifikako
 ei monetareo
 ei neko

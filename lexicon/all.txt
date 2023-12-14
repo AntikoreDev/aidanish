@@ -3680,6 +3680,7 @@ mayor → oxtorer
 mayoría → oxtoro
 mayúscula → alta
 maza → maza
+mazmorra, calabozo → calaboa
 mazorca (maíz, por ejemplo) → bontso
 maíz → juca
 mañana (hora del día) → manza
@@ -3835,6 +3836,7 @@ modalidad → modole
 modelo → model, modelo
 moderador → moderaiette
 moderar → moderai
+moderno → moderna
 modificación → modifikatio
 modificado → modifikako
 modificar → modifikai
@@ -3883,6 +3885,8 @@ mosquito → moskito, mosqito
 mostaza → mostara, merla
 mostrar flash → bliqai
 mostrar → dorimei
+motivación → motivatio
+motivar → motivai
 motivo de guerra → casus belli
 motivo → motivo
 moto → motorroda

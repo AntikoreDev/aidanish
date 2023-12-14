@@ -1065,6 +1065,7 @@ caile
 cailo
 cailoro
 cailoxette
+calaboa
 calamitas
 calanula
 calcografia
@@ -4322,6 +4323,7 @@ modelo
 modem
 moderai
 moderaiette
+moderna
 modifikai
 modifikako
 modifikatio
@@ -4383,6 +4385,8 @@ mosku
 moso
 mosqito
 mostara
+motivai
+motivatio
 motivo
 motor
 motorroda

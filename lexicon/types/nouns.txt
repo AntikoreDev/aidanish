@@ -2522,6 +2522,7 @@ mayonesa → maionesa
 mayoría → oxtoro
 mayúscula → alta
 maza → maza
+mazmorra, calabozo → calaboa
 mazorca (maíz, por ejemplo) → bontso
 maíz → juca
 mañana (hora del día) → manza
@@ -2668,6 +2669,7 @@ mosca → blainekro
 mosquete → muskete
 mosquito → moskito, mosqito
 mostaza → mostara, merla
+motivación → motivatio
 motivo de guerra → casus belli
 motivo → motivo
 moto → motorroda
@@ -3236,7 +3238,7 @@ posesivo (lengua) → posesive
 posición → posaieo
 posología → posologia
 postal → postal
-poste → poste, forco 
+poste → poste, forco
 postre → sundo, postre
 postura → poste
 pozo → racoia

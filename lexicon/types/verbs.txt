@@ -693,6 +693,7 @@ morir de hambre → estarvai
 morir → mortei
 mostrar flash → bliqai
 mostrar → dorimei
+motivar → motivai
 mover → movai
 mugir → mujai
 multiplicar la cantidad de algo entre el doble y el triple → superdoblai

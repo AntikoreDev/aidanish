@@ -2031,6 +2031,7 @@ cailet
 cailo
 cailoro
 cailoxette
+calaboa
 calamitas
 calanula
 calcografia
@@ -8612,6 +8613,7 @@ moderaiette
 moderaiki
 moderaio
 moderaioto
+moderna
 modifikai
 modifikaie
 modifikaieon
@@ -8715,6 +8717,14 @@ mosku
 moso
 mosqito
 mostara
+motivai
+motivaie
+motivaieon
+motivaiet
+motivaiki
+motivaio
+motivaioto
+motivatio
 motivo
 motor
 motorroda
