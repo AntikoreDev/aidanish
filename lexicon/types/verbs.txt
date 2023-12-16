@@ -504,6 +504,7 @@ exagerar → hurrai
 examinar → examinai, testai
 excitar → enusei
 excusar → excusai
+existir → estai
 experimentar → experimentai, testai, testei
 expirar → expirai
 explicar → esplaxai, espelai
