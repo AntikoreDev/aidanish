@@ -1960,6 +1960,7 @@ diamante → diamento
 diana → nesiga
 diario → hena
 diario → hengia
+diarrea → afluga
 dibujante → dixette
 dibujar → dixai
 dibujo → dixo
