@@ -3083,6 +3083,7 @@ heunido
 heunodo
 heuntsado
 heunxo
+heupentsai
 heupentsi
 heupentsio
 hexakono

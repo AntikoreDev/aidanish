@@ -981,6 +981,7 @@ teletransportar → teleportai
 temblar → gaxei, atsei
 templar → temperai
 tender → ibsoi
+tener una pesadilla → heupentsai
 tener → taine
 tensar → tentai
 tentar → soblasnei, movai

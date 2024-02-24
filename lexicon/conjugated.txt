@@ -3100,6 +3100,12 @@ heuneiet
 heuneiki
 heuneio
 heuneioto
+heupentsaie
+heupentsaieon
+heupentsaiet
+heupentsaiki
+heupentsaio
+heupentsaioto
 hexegaie
 hexegaieon
 hexegaiet
