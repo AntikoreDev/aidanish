@@ -3950,6 +3950,7 @@ música → musika
 música → musikette
 nacer → natai, naize
 nacimiento → natatia
+nacional → agizan
 nacionalidad → agizaia
 nada → nokoixa
 nadar → nataire

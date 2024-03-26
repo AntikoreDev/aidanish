@@ -85,6 +85,7 @@ bucal → oupare
 buen → Baine
 bueno → baine
 bélico → beliko
+nacional → agizan
 cabezón, terco (insulto) → bluta
 cabrón → fuzo
 caducado → expiro
