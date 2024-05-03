@@ -4,23 +4,26 @@ bizco → quete
 blanco → bianco
 carnívoro → karnivoro
 diestro → deiranno
+estafador → lerrako, zoike
 fructívoro → fructivoro
 futuro → futura
 herbívoro → herbivoro
 insectívoro → insectivoro
 intermitente → tika
 marrón → marro, brunno, bronzo, itsoso
+material de mala calidad → petringo 
 morado → purpuro, purpur
 naranja (color) → oranja
 negro → nekro
+obseso → oclure
 omnivoro → omnivoro
+persona muy salida → libidette
+retenido → ataino
 rojo → roixo
 rojo → roxo
 rosa → rosa
 vegano → vegano
 vegetariano → vegetaro
-persona muy salida → libidette
 verde → berde
 vivo → vitoso
-material de mala calidad → petringo 
 zurdo → zoranno

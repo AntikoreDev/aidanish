@@ -295,7 +295,7 @@ alimentar → nisigerei, flomai
 alimento → flomiga, nisingo
 alineación → aliniatio
 alineado → aliniato
-alinear → aliniai
+alinear → alaine
 alita de pollo → acrivingo
 aliviar → alivai
 allí → alie, alan
@@ -356,6 +356,7 @@ amenazante → zrote
 amenazar → zrotei
 ametralladora → metrallaro
 ametría → ametria, ametrica
+amianto → mallera
 amigo con derecho → rotsenko
 amigo, amiga → amike, amiko, amika
 amistad → amikia
@@ -366,6 +367,7 @@ amor patriótico → onterraloi
 amor → loi
 ampelografía → ampelografia, ampelografica
 ampelología → ampelologia
+ampersand, y comercial → et-tsara
 amplio → amplero
 amputación → amputatio
 amputación → unmembria
@@ -735,7 +737,7 @@ base → base
 bastante → bixa
 bastantes → bixa
 bastilla → bastila
-bastión → baluaro, bastiraa
+bastión → baluaro, bastira
 bastón → baton
 basura → grax
 batalla → bataila
@@ -826,7 +828,7 @@ bloqueo → lokeo
 boa → zisga
 bobo → keke
 bobsleigh → bobsleigh
-boca → oupa
+boca → opa, oupa
 bocadillo → britango
 bodega → vinotela, celara, birratela
 bola de nieve → aigebola
@@ -837,7 +839,7 @@ bollo → bollo, bun
 bolsa → baga
 bolsillo → pokete
 bolso → poketo
-bolígrafo → tentaoro
+bolígrafo → tentaoro, boli, pen
 bomba → bomba
 bombardear → bombardai
 bombardero → bombardoro
@@ -1104,6 +1106,7 @@ cartometría → cartometria, cartometrica
 cartulina → cartula
 cartógrafo → cartografette
 cartón → cardo
+carácter (símbolo) → tsara
 casa → kasa, domo
 cascada → moana
 casco → antsal
@@ -1277,9 +1280,11 @@ circunstancia → zirkuntantia
 ciruela → pluma
 cisne → aista
 cisterna → cesterna
+cita, reunión → rendevou, rendezvous
 citología → citologia
 citólogo → citologo, citologette
 ciudad → ciuta, ciutatela
+ciudadela → ciutatela
 claridad → klaritatio
 claro (refiriendote a algo que es claro) → klaro (ejemplo: ¡claro que si me importan!)
 claro → klaro
@@ -1573,6 +1578,7 @@ cortar las uñas → enekai
 cortar → akutai
 corte → kuta
 corteza → crusta
+cortina de teatro → cortin
 cortina → kurtina
 corto → coto
 cortés → karaoso
@@ -1656,6 +1662,7 @@ crédito (de crear algo) → credito
 crónica → cronike
 cuadrado → qatrato
 cuadro → kadro
+cuadruplex → quadruplex
 cuadrícula → qatratiko, griya
 cual → qal
 cualquier cosa → ekoixa
@@ -1686,6 +1693,7 @@ cubrir → kubrai, cortai
 cucaracha → mustanekro, mikoro
 cuchara → cuela, boutsara
 cuchillo → akuttere, nivo
+cuello de botella → otsotino
 cuello → corlo, pisotsa, otso
 cuenco, bol → kisa
 cuenta (números) → konta
@@ -1740,8 +1748,9 @@ cáscara (platano) → muzka
 cátodo → catodo
 célula → celula
 césped → briaxa
-círculo → circlo
+círculo → radion, circlo
 cóctel → coktel
+códex → codex
 código postal → postalcodiko, postalcoda
 código → codiko
 cólera → xolera
@@ -2109,6 +2118,7 @@ día festivo, festivo → ferehen
 día → hen
 dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento, simplemente por creer que "el resto iban" o "yo pensaba que x quería" → aer paire, lude noi
 dólar → dolar
+dúplex → duplex
 ebullición, evaporación → inherba
 echar → etsoi
 echarse alguien los huevos a tuto, armar de valor, echarle huevos → retrai nai valia
@@ -2118,6 +2128,7 @@ ecografía → ecografia, ecografica
 ecología → ecologia
 ecológico → ecologike
 econometría → econometria, econometrica
+economía → economia
 ecotoxicología → ecotoksicologia
 ecuador → equator
 ecólogo → ecologo, ecologette
@@ -2428,8 +2439,10 @@ estadio → estadia
 estado → estatio
 estados unidos → estatioit yoiko, usa
 estadounidense → usono
+estafa → zoiko
 estafador → lerrako
-estafador → lerrako
+estafador → lerrako, zoike
+estafar → zoine
 estalactita → espeleoka
 estalagmita → espeleona
 estallar → aixai
@@ -2444,7 +2457,7 @@ estar de pie, estante → estante
 estar → astei
 estatua → estatua
 estatura → estatura
-estaño → tenno
+estaño → tenno, astin
 este → este
 este, esta, estas, estos → eita
 estenografía → estenografia, estenografica
@@ -2464,6 +2477,7 @@ estomatólogo → estomatologo, estomatologette
 estonia → estonia
 estonio → estonesa
 estratigrafía → estratigrafia, estratigrafica
+estrecho → tino
 estrella de mar → marestrela
 estrella → estrela
 estresado → anorrako
@@ -2781,7 +2795,7 @@ gastar → gastai
 gastroenterología → gastroenterologia
 gastroenterólogo → gastroenterologo, gastroenterologette
 gatillo → triyo
-gato (animal) → kato, menino, minino
+gato (animal) → kato, menino, minino, katen
 gato (herramienta) → criketa
 gato montés → savakato
 gaviota → tagaro
@@ -2955,7 +2969,7 @@ hacia → haiza
 hackear → hackei
 hada → farura
 hagiografía → hagiografia, hagiografica
-halcón → halokun, falcon, falco
+halcón → halokun, falcon, falco, condor
 hallowen → halloween
 halterofilia → halterofilia
 hambre → zugra, fame
@@ -3179,7 +3193,7 @@ industria → industria
 industrial → industriala, industrial
 infancia → infantia, kindatia
 infectología → infectologia
-infierno → inferno
+infierno → inferno, averno
 infijo → infikso
 infinito → unfiniko
 inflación → inflatio
@@ -3366,6 +3380,7 @@ laringólogo → laringologo, laringologette
 lasaña → lasanna
 lascivo → invikso
 lata → canna
+latín → latin
 latón, azófar → laton
 lava → lava
 lavado → xaguata
@@ -3373,7 +3388,7 @@ lavadora → xaguatoro
 lavanda (flor) → lavanda
 lavar → xaguai
 lavavajillas → vadixaguaioro
-leche → esnea
+leche → esnea, lato
 lechero → esneaxette
 lechuga → letsuga
 lechuza → xendo
@@ -3525,8 +3540,8 @@ lágrima → lacrima, lakrima
 lámpara de araña → candelera, tsandelera
 lámpara → litaoro
 lápida → mortopetro
-lápiz, lapicero → izkrioro, lapito
-láser → lazer
+lápiz, lapicero → lapen, izkrioro, lapito
+láser → lazer, laser
 látigo → latikate
 léxico, lexicon → lexico
 líder → aderge, xefo
@@ -3853,6 +3868,7 @@ monadología → monadologia
 moneda → pinne
 monetario → monetareo
 monitor → dorimeder
+monje → reculen, bonzo
 mono → monki, aco
 mono → neko
 monociclo → monorroda
@@ -3896,6 +3912,7 @@ moto → motorroda
 motocicleta → motorroda
 motor → motor
 motosierra → motorxerra
+motín → motin
 mover → movai
 movimiento → mova
 muchas gracias → naito grazei
@@ -3912,6 +3929,7 @@ mugir → mujai
 mugre → mugar
 mugroso → mugaro
 mujer → meiperso
+multiplex → multiplex
 multiplicar la cantidad de algo entre el doble y el triple → superdoblai
 multiplicar → multiproxei
 multitud → multita
@@ -4084,6 +4102,9 @@ o, u → o, or
 obispo → bispo
 objetivo → asiga
 objeto → item
+obsesionarse → oclurei
+obsesión → atainara, oclura
+obseso → oclure
 obtener → elokrai
 obvio → obeo
 obvio → obeo
@@ -4302,6 +4323,7 @@ parasitología → parasitologia
 parasitólogo → parasitologo, parasitologette
 parasol → estosol
 parecer → aseire, lokai
+pareja → paren
 paremiología → paremiologia
 paremiólogo → paremiologo, paremiologette
 pariente → pai
@@ -4457,7 +4479,8 @@ permiso → permiso
 permitir → permisai
 pero → nur
 perpendicular → perpendicular
-perro → doerro, hundo, canino
+perro salchicha → junzundo
+perro → hundo, doerro, canino, canin
 persa → persa
 perseguir → prosecai
 perseverancia → persevera
@@ -4905,6 +4928,7 @@ radiografía → radiografia, radiografica
 radiología → radiologia
 radiometría → radiometria, radiometrica
 radiotelegrafía → radiotelegrafia, radiotelegrafica
+radián → radian
 radiólogo → radiologo, radiologette
 rama → brianke, anka
 ramen → ramen
@@ -4915,6 +4939,7 @@ raro → rare, raro
 rascacielos → kailokikro
 rascar → kikroi
 rasta → rasta
+rasuradora (manual) → razor, razoro
 rata de agua → acorrata
 rata → rata
 ratio → ratio
@@ -4979,6 +5004,7 @@ red de pesca, trampa para atraer turistas con el objetivo de sacarles mucho dine
 red local → localneta, neta locatako,
 red social → sozialneta
 red → neta
+redil → qalem
 redondo → circloko
 reducir de tamaño o cambiar la forma de una palabra para que esta suene mejor → microvortisma
 reenvío → redario
@@ -5009,7 +5035,7 @@ reino → renno
 reir → gisai
 relación → relatio
 relativo → relative
-religión → relicro
+religión → relicro, reculo
 reliquia → relicua
 relleno de una almohada → bourege
 reloj de muñeca → klokonna
@@ -5079,7 +5105,9 @@ resultado → resola
 resumen → sumari
 resumir → sumarai, sumaire
 resurrección → resurrectio
-retener → rentiei
+retener → ataina
+retener → ataine
+retenido → ataino
 retirar → retroi
 reto → testa
 retrasado → retartato, retardato
@@ -5101,6 +5129,7 @@ rezar → praisoi
 rezo → praiso
 riachuelo → lenda, riatsa
 rico → ritsa
+rienda → qale
 riesgo → risko
 rifle → rifle
 rima → rima
@@ -5338,6 +5367,7 @@ simpatizante → simaisere
 simpatizar → simaise
 simpatía → simaiso
 simple → simple, sampla
+simplex → simplex
 simpático → amaiso, simpo
 simpático → simaise
 sin color → kolorfala
@@ -5807,6 +5837,7 @@ trece → dizitriai
 treinta → triaien
 tren → trena
 trenza → trence
+trepar con las manos → araine
 trepar → acoaire
 tres en raya → exo, exou, triaiette
 tres → triai
@@ -5854,6 +5885,7 @@ truncar → truncai
 tráfico → trafiko
 tránsito → transita
 trío → trio
+tríplex → triplex
 tsunami → tsunami, tzunami, zunami
 tu, tuyo → zui
 tubería → tubia
@@ -5918,6 +5950,7 @@ urial → bovo, urial
 urografía → urografia, urografica
 urología → urologia
 uruguay → uruguai
+uróboros → ouroboros
 urólogo → urologo, urologette
 usar → usei
 uso → use
@@ -6025,7 +6058,7 @@ vetar → paine, banai
 veto → bana, paina, paine
 vexilología → vexilogia
 vexilólogo → vexilogette
-vez → meto, vex
+vez → meto
 via → via
 viajar → vixei
 viaje → vixe

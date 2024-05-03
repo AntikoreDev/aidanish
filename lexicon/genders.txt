@@ -331,6 +331,7 @@ la zrota
 ei metrallaro
 la ametria
 la ametrica
+la mallera
 ei rotsenko
 la amike
 ei amiko
@@ -341,6 +342,7 @@ la loi
 la ampelografia
 la ampelografica
 la ampelologia
+la et-tsara
 ei amputatio
 la unmembria
 la analogia
@@ -647,7 +649,7 @@ ei basalto
 la base
 la bastila
 ei baluaro
-la bastiraa
+la bastira
 ei baton
 la grax
 la bataila
@@ -733,6 +735,7 @@ ei lokeo
 la zisga
 la keke
 ei bobsleigh
+la opa
 la oupa
 ei britango
 la vinotela
@@ -749,6 +752,8 @@ la baga
 ei pokete
 ei poketo
 ei tentaoro
+la boli
+ei pen
 la bomba
 ei bombardoro
 ei ignoextingette
@@ -1002,6 +1007,7 @@ la cartometrica
 la cartula
 la cartografette
 ei cardo
+la tsara
 la kasa
 ei domo
 la moana
@@ -1166,10 +1172,13 @@ la zirkuntantia
 la pluma
 la aista
 la cesterna
+ei rendevou
+la rendezvous
 la citologia
 ei citologo
 ei citologette
 la ciuta
+la ciutatela
 la ciutatela
 ei klaritatio
 la klase
@@ -1381,6 +1390,7 @@ ei korruptio
 ei kutoro
 la kuta
 la crusta
+ei cortin
 la kurtina
 la koixa
 la apatsa
@@ -1468,6 +1478,7 @@ ei credito
 ei cronike
 ei qatrato
 ei kadro
+ei quadruplex
 ei qatratiko
 la griya
 ei quartel
@@ -1485,6 +1496,7 @@ la cuela
 la boutsara
 la akuttere
 ei nivo
+ei otsotino
 ei corlo
 la pisotsa
 ei otso
@@ -1539,8 +1551,10 @@ la muzka
 ei catodo
 la celula
 la briaxa
+ei radion
 ei circlo
 ei coktel
+ei codex
 ei postalcodiko
 la postalcoda
 ei codiko
@@ -1769,6 +1783,7 @@ la decima
 ei ferehen
 ei hen
 ei dolar
+ei duplex
 la inherba
 ei eco
 la ecocardiografia
@@ -1778,6 +1793,7 @@ la ecografica
 la ecologia
 la econometria
 la econometrica
+la economia
 la ecotoksicologia
 ei ecologo
 ei ecologette
@@ -1998,7 +2014,7 @@ la parada
 la estadia
 ei estatio
 ei usono
-ei lerrako
+ei zoiko
 la espeleoka
 la espeleona
 ei aixo
@@ -2011,6 +2027,7 @@ la estante
 la estatua
 la estatura
 ei tenno
+la astin
 la este
 la estenografia
 la estenografica
@@ -2324,6 +2341,7 @@ ei triyo
 ei kato
 ei menino
 ei minino
+la katen
 la criketa
 ei savakato
 ei tagaro
@@ -2474,6 +2492,7 @@ la hagiografica
 ei halokun
 ei falcon
 ei falco
+ei condor
 ei halloween
 la halterofilia
 la zugra
@@ -2701,6 +2720,7 @@ la infantia
 la kindatia
 la infectologia
 ei inferno
+ei averno
 ei infikso
 ei inflatio
 la influentia
@@ -2844,6 +2864,7 @@ ei laringologo
 ei laringologette
 la lasanna
 la canna
+la latin
 ei laton
 la lava
 la xaguata
@@ -2851,6 +2872,7 @@ ei xaguatoro
 la lavanda
 ei vadixaguaioro
 la esnea
+ei lato
 la esneaxette
 la letsuga
 ei xendo
@@ -2980,9 +3002,11 @@ la candelera
 la tsandelera
 ei litaoro
 ei mortopetro
+la lapen
 ei izkrioro
 ei lapito
 la lazer
+la laser
 la latikate
 ei lexico
 la aderge
@@ -3277,6 +3301,8 @@ ei tempeo
 la monadologia
 ei pinne
 ei dorimeder
+ei reculen
+ei bonzo
 la monki
 ei aco
 la monorroda
@@ -3320,6 +3346,7 @@ la motorroda
 la motorroda
 ei motor
 la motorxerra
+ei motin
 la mova
 ei furno
 ei moblo
@@ -3329,6 +3356,7 @@ ei morte
 la dorima
 ei mugar
 ei meiperso
+ei multiplex
 la multita
 ei mondo
 la mundologia
@@ -3471,6 +3499,8 @@ ei emesimo
 ei bispo
 la asiga
 ei item
+la atainara
+la oclura
 la malira
 la oceania
 la oceanografia
@@ -3683,6 +3713,7 @@ la parasitologia
 ei parasitologo
 la parasitologette
 ei estosol
+la paren
 la paremiologia
 ei paremiologo
 ei paremiologette
@@ -3823,9 +3854,11 @@ la henpipra
 la nevapipra
 la perla
 ei permiso
-ei doerro
+ei junzundo
 ei hundo
+ei doerro
 ei canino
+la canin
 la persa
 la persevera
 la yera
@@ -4200,6 +4233,7 @@ la radiometria
 la radiometrica
 la radiotelegrafia
 la radiotelegrafica
+la radian
 ei radiologo
 ei radiologette
 la brianke
@@ -4210,6 +4244,8 @@ la range
 la ranuncula
 ei kailokikro
 la rasta
+ei razor
+ei razoro
 la acorrata
 la rata
 ei ratio
@@ -4250,6 +4286,7 @@ la arraineta
 la localneta
 la sozialneta
 la neta
+la qalem
 ei redario
 la refera
 la espelektia
@@ -4270,6 +4307,7 @@ la reina
 ei renno
 ei relatio
 ei relicro
+ei reculo
 la relicua
 ei bourege
 la klokonna
@@ -4316,6 +4354,7 @@ ei deproxo
 la resola
 la sumari
 ei resurrectio
+la ataina
 la testa
 ei retartato
 ei retardato
@@ -4334,6 +4373,7 @@ ei rein
 ei praiso
 la lenda
 la riatsa
+la qale
 ei risko
 ei rifle
 la rima
@@ -4518,6 +4558,7 @@ la simetria
 la simetrica
 la simaisere
 ei simaiso
+ei simplex
 la sinologia
 la sintomatologia
 ei sinologo
@@ -4958,6 +4999,7 @@ la turfa
 ei trafiko
 la transita
 ei trio
+ei triplex
 la tsunami
 la tzunami
 la zunami
@@ -5018,6 +5060,7 @@ ei urial
 la urografia
 la urografica
 la urologia
+la ouroboros
 ei urologo
 ei urologette
 ei use
@@ -5116,7 +5159,6 @@ la paine
 la vexilogia
 ei vexilogette
 ei meto
-ei vex
 ei vixe
 ei vibraibo
 la vicunna
@@ -5491,6 +5533,7 @@ la espezial
 ei hexego
 ei eskemeko
 ei lerrako
+ei tino
 la estimai
 ei anorrako
 ei anorrieren

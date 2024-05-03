@@ -215,6 +215,7 @@ especial → espezial
 espeso → hexego
 esquemático → eskemeko
 estafador → lerrako
+estrecho → tino
 estimar → estimai
 estresado → anorrako
 estresante → anorrieren

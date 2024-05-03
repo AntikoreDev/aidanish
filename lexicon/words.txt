@@ -265,6 +265,7 @@ akutai
 akutoro
 akuttere
 ala
+alaine
 alan
 alancai
 alancara
@@ -298,7 +299,6 @@ algoritmo
 alicatai
 alicator
 alie
-aliniai
 aliniatio
 aliniato
 alisla
@@ -500,6 +500,7 @@ aracneta
 aracnologette
 aracnologia
 aracnologo
+araine
 araknofobia
 aran
 aravita
@@ -604,6 +605,7 @@ astaine
 astato
 astei
 asteitela
+astin
 astre
 astrezinto
 astro
@@ -620,6 +622,10 @@ astronomo
 asunna
 ata
 atai
+ataina
+atainara
+ataine
+ataino
 atake
 ataktai
 atakte
@@ -699,6 +705,7 @@ auxarran
 avaritia
 avarito
 avenua
+averno
 avionno
 avisei
 avisoko
@@ -793,7 +800,7 @@ basalto
 base
 basta
 bastila
-bastiraa
+bastira
 bataila
 batailon
 bate
@@ -953,6 +960,7 @@ bolakarno
 boldai
 boldako
 boletus
+boli
 bolkar
 bollo
 bomba
@@ -964,6 +972,7 @@ bombetanolette
 bone
 bongo
 bontso
+bonzo
 bota
 bote
 botelo
@@ -1111,6 +1120,7 @@ candelera
 candeloro
 canibal
 canibalisma
+canin
 canino
 canna
 cannon
@@ -1267,6 +1277,7 @@ cocola
 cocolito
 cocotologia
 codai
+codex
 codicologia
 codiko
 codilango
@@ -1352,6 +1363,7 @@ condena
 condenaire
 condeno
 condo
+condor
 condrografia
 condrografica
 condrologia
@@ -1448,6 +1460,7 @@ correcto
 corroiso
 corta
 cortai
+cortin
 cortso
 corveta
 corvo
@@ -1932,6 +1945,7 @@ dultseza
 dultsina
 dunko
 duo
+duplex
 duplografia
 duplografica
 duproxei
@@ -1974,6 +1988,7 @@ ecologo
 ecombe
 econometria
 econometrica
+economia
 ecotoksicologia
 edafologette
 edafologia
@@ -2423,6 +2438,7 @@ estundaxe
 estungai
 estungo
 esturion
+et-tsara
 etanol
 etempo
 eteraz
@@ -3519,6 +3535,7 @@ junze
 junzei
 junzette
 junziasa
+junzundo
 jusa
 jusai
 jusaioto
@@ -3588,6 +3605,7 @@ kasiya
 kasutsa
 katana
 katarsis
+katen
 kato
 katria
 katsai
@@ -3801,6 +3819,7 @@ landa
 lango
 langoko
 lanterna
+lapen
 lapislazuli
 lapito
 laptop
@@ -3809,7 +3828,10 @@ laringologette
 laringologia
 laringologo
 lasanna
+laser
 latikate
+latin
+lato
 laton
 lauseto
 lava
@@ -4034,6 +4056,7 @@ maldito
 malherbologia
 malira
 mallea
+mallera
 malva
 mama
 mamaire
@@ -4390,6 +4413,7 @@ mosku
 moso
 mosqito
 mostara
+motin
 motivai
 motivatio
 motivo
@@ -4404,6 +4428,7 @@ muco
 mugar
 mugaro
 mujai
+multiplex
 multiproxei
 multita
 mundologia
@@ -4638,6 +4663,9 @@ oceanografica
 ocidental
 ocio
 ociotempo
+oclura
+oclure
+oclurei
 octambo
 octo
 octoen
@@ -4709,6 +4737,7 @@ onterriko
 ontologette
 ontologia
 ontologo
+opa
 opaine
 opaire
 optemizei
@@ -4779,12 +4808,14 @@ otorrinolaringologia
 otorrinolaringologo
 otso
 otsorra
+otsotino
 oun
 ounqa
 ounqe
 oupa
 oupare
 oupila
+ouroboros
 ova
 oval
 overa
@@ -4910,6 +4941,7 @@ parei
 paremiologette
 paremiologia
 paremiologo
+paren
 pargo
 parisa
 parke
@@ -4974,6 +5006,7 @@ pelde
 peler
 pelico
 peltro
+pen
 penalai
 penalite
 pendei
@@ -5485,6 +5518,8 @@ puto
 putsa
 qa
 qal
+qale
+qalem
 qansequentia
 qanto
 qanzautora
@@ -5510,6 +5545,7 @@ qinesiologia
 qinesiologo
 qinteto
 qiza
+quadruplex
 quai
 qualda
 quaro
@@ -5531,6 +5567,7 @@ racobale
 racoi
 racoia
 racune
+radian
 radio
 radiobiologia
 radiografia
@@ -5540,6 +5577,7 @@ radiologia
 radiologo
 radiometria
 radiometrica
+radion
 radiotelegrafia
 radiotelegrafica
 ragi
@@ -5579,6 +5617,7 @@ rationai
 raz
 raza
 razna
+razor
 razoro
 reactai
 reactoro
@@ -5605,6 +5644,8 @@ recordo
 recovei
 rectal
 recto
+reculen
+reculo
 redai
 redaioro
 redaixette
@@ -5671,12 +5712,13 @@ remonetai
 removai
 renaizento
 renaizo
+rendevou
+rendezvous
 reneva
 renevai
 renevo
 renevoi
 renno
-rentiei
 reologia
 repaira
 repaire
@@ -6018,6 +6060,7 @@ simetria
 simetrica
 simo
 simple
+simplex
 simpo
 sindroma
 sinna
@@ -6381,6 +6424,7 @@ timpano
 tinera
 tinka
 tinkei
+tino
 tipai
 tipe
 tipika
@@ -6543,6 +6587,7 @@ trintsera
 trintso
 trio
 tripa
+triplex
 tripofobia
 triproxei
 trirroda
@@ -6593,6 +6638,7 @@ tsampeon
 tsampeonato
 tsampinna
 tsandelera
+tsara
 tsarakto
 tsardo
 tsargai
@@ -6876,7 +6922,6 @@ vesukila
 veuye
 veuyei
 veuyerai
-vex
 vexilogette
 vexilogia
 via
@@ -7121,6 +7166,9 @@ zizenno
 zizga
 zizge
 zobexe
+zoike
+zoiko
+zoine
 zombie
 zone
 zonno

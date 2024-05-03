@@ -68,7 +68,7 @@ aleatorizar → rungiai
 alegrar → aibelai
 alicatar → alicatai
 alimentar → nisigerei, flomai
-alinear → aliniai
+alinear → alaine
 aliviar → alivai
 almacenar → esmarei
 alternar → alternei
@@ -492,6 +492,7 @@ espíar → espai
 esquilar → bouroi
 esquivar → inzei
 establecer → setei, establezei
+estafar → zoine
 estallar → aixai
 estar de pie → estandai
 estar → astei
@@ -711,6 +712,7 @@ normalizar → normalai
 notificar → nevai
 nublar → nimboi
 numerar → numai
+obsesionarse → oclurei
 obtener → elokrai
 ocultar → jidei, obskaire
 ocupar → osalei, elloize
@@ -894,7 +896,7 @@ restar → deproxei
 restar → restei, deproxei
 restaurar → restorai
 resumir → sumarai, sumaire
-retener → rentiei
+retener → ataine
 retirar → retroi
 retrasar → retrai
 retroceder → retrei
@@ -1015,6 +1017,7 @@ trastear, probar cosas → tinkei
 trastornar → yigai
 tratar → traire, tiskai, tratai
 trazar → trazai
+trepar con las manos → araine
 trepar → acoaire
 tributar → tributai
 triplicar → triproxei

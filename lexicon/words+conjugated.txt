@@ -595,6 +595,13 @@ akutaioto
 akutoro
 akuttere
 ala
+alaine
+alaineie
+alaineieon
+alaineio
+alaineioto
+alaineki
+alainet
 alan
 alancai
 alancaie
@@ -646,13 +653,6 @@ alicataio
 alicataioto
 alicator
 alie
-aliniai
-aliniaie
-aliniaieon
-aliniaiet
-aliniaiki
-aliniaio
-aliniaioto
 aliniatio
 aliniato
 alisla
@@ -1010,6 +1010,13 @@ aracneta
 aracnologette
 aracnologia
 aracnologo
+araine
+araineie
+araineieon
+araineio
+araineioto
+araineki
+arainet
 araknofobia
 aran
 aravita
@@ -1210,6 +1217,7 @@ asteiki
 asteio
 asteioto
 asteitela
+astin
 astre
 astrezinto
 astro
@@ -1230,6 +1238,16 @@ ataie
 ataieon
 ataiet
 ataiki
+ataina
+atainara
+ataine
+ataineie
+ataineieon
+ataineio
+ataineioto
+ataineki
+atainet
+ataino
 ataio
 ataioto
 atake
@@ -1389,6 +1407,7 @@ auxarran
 avaritia
 avarito
 avenua
+averno
 avionno
 avisei
 aviseie
@@ -1549,7 +1568,7 @@ basalto
 base
 basta
 bastila
-bastiraa
+bastira
 bataila
 batailon
 bate
@@ -1823,6 +1842,7 @@ boldaio
 boldaioto
 boldako
 boletus
+boli
 bolkar
 bollo
 bomba
@@ -1846,6 +1866,7 @@ bombetanolette
 bone
 bongo
 bontso
+bonzo
 bota
 bote
 botelo
@@ -2077,6 +2098,7 @@ candelera
 candeloro
 canibal
 canibalisma
+canin
 canino
 canna
 cannon
@@ -2323,6 +2345,7 @@ codaiet
 codaiki
 codaio
 codaioto
+codex
 codicologia
 codiko
 codilango
@@ -2552,6 +2575,7 @@ condenaireki
 condenairet
 condeno
 condo
+condor
 condrografia
 condrografica
 condrologia
@@ -2804,6 +2828,7 @@ cortaiet
 cortaiki
 cortaio
 cortaioto
+cortin
 cortso
 corveta
 corvo
@@ -3918,6 +3943,7 @@ dultseza
 dultsina
 dunko
 duo
+duplex
 duplografia
 duplografica
 duproxei
@@ -4014,6 +4040,7 @@ ecologo
 ecombe
 econometria
 econometrica
+economia
 ecotoksicologia
 edafologette
 edafologia
@@ -4937,6 +4964,7 @@ estungaio
 estungaioto
 estungo
 esturion
+et-tsara
 etanol
 etempo
 eteraz
@@ -7065,6 +7093,7 @@ junzeio
 junzeioto
 junzette
 junziasa
+junzundo
 jusa
 jusai
 jusaie
@@ -7206,6 +7235,7 @@ kasiya
 kasutsa
 katana
 katarsis
+katen
 kato
 katria
 katsai
@@ -7683,6 +7713,7 @@ landa
 lango
 langoko
 lanterna
+lapen
 lapislazuli
 lapito
 laptop
@@ -7691,7 +7722,10 @@ laringologette
 laringologia
 laringologo
 lasanna
+laser
 latikate
+latin
+lato
 laton
 lauseto
 lava
@@ -8114,6 +8148,7 @@ maldito
 malherbologia
 malira
 mallea
+mallera
 malva
 mama
 mamaire
@@ -8734,6 +8769,7 @@ mosku
 moso
 mosqito
 mostara
+motin
 motivai
 motivaie
 motivaieon
@@ -8766,6 +8802,7 @@ mujaiet
 mujaiki
 mujaio
 mujaioto
+multiplex
 multiproxei
 multiproxeie
 multiproxeieon
@@ -9156,6 +9193,15 @@ oceanografica
 ocidental
 ocio
 ociotempo
+oclura
+oclure
+oclurei
+oclureie
+oclureieon
+oclureiet
+oclureiki
+oclureio
+oclureioto
 octambo
 octo
 octoen
@@ -9305,6 +9351,7 @@ onterriko
 ontologette
 ontologia
 ontologo
+opa
 opaine
 opaineie
 opaineieon
@@ -9429,12 +9476,14 @@ otorrinolaringologia
 otorrinolaringologo
 otso
 otsorra
+otsotino
 oun
 ounqa
 ounqe
 oupa
 oupare
 oupila
+ouroboros
 ova
 oval
 overa
@@ -9638,6 +9687,7 @@ pareioto
 paremiologette
 paremiologia
 paremiologo
+paren
 pargo
 parisa
 parke
@@ -9762,6 +9812,7 @@ pelde
 peler
 pelico
 peltro
+pen
 penalai
 penalaie
 penalaieon
@@ -10873,6 +10924,8 @@ puto
 putsa
 qa
 qal
+qale
+qalem
 qansequentia
 qanto
 qanzautora
@@ -10916,6 +10969,7 @@ qinesiologia
 qinesiologo
 qinteto
 qiza
+quadruplex
 quai
 quaie
 quaieon
@@ -10967,6 +11021,7 @@ racoiki
 racoio
 racoioto
 racune
+radian
 radio
 radiobiologia
 radiografia
@@ -10976,6 +11031,7 @@ radiologia
 radiologo
 radiometria
 radiometrica
+radion
 radiotelegrafia
 radiotelegrafica
 ragi
@@ -11045,6 +11101,7 @@ rationaioto
 raz
 raza
 razna
+razor
 razoro
 reactai
 reactaie
@@ -11125,6 +11182,8 @@ recoveio
 recoveioto
 rectal
 recto
+reculen
+reculo
 redai
 redaie
 redaieon
@@ -11323,6 +11382,8 @@ removaio
 removaioto
 renaizento
 renaizo
+rendevou
+rendezvous
 reneva
 renevai
 renevaie
@@ -11340,13 +11401,6 @@ renevoiki
 renevoio
 renevoioto
 renno
-rentiei
-rentieie
-rentieieon
-rentieiet
-rentieiki
-rentieio
-rentieioto
 reologia
 repaira
 repaire
@@ -12120,6 +12174,7 @@ simetria
 simetrica
 simo
 simple
+simplex
 simpo
 sindroma
 sinna
@@ -12831,6 +12886,7 @@ tinkeiet
 tinkeiki
 tinkeio
 tinkeioto
+tino
 tipai
 tipaie
 tipaieon
@@ -13167,6 +13223,7 @@ trintsera
 trintso
 trio
 tripa
+triplex
 tripofobia
 triproxei
 triproxeie
@@ -13277,6 +13334,7 @@ tsampeon
 tsampeonato
 tsampinna
 tsandelera
+tsara
 tsarakto
 tsardo
 tsargai
@@ -13836,7 +13894,6 @@ veuyeraiet
 veuyeraiki
 veuyeraio
 veuyeraioto
-vex
 vexilogette
 vexilogia
 via
@@ -14279,6 +14336,15 @@ zizenno
 zizga
 zizge
 zobexe
+zoike
+zoiko
+zoine
+zoineie
+zoineieon
+zoineio
+zoineioto
+zoineki
+zoinet
 zombie
 zone
 zonno

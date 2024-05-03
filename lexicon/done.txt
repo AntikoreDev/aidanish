@@ -346,6 +346,7 @@ amenazante
 amenazar
 ametralladora
 ametría
+amianto
 amiga
 amigo
 amigo con derecho
@@ -357,6 +358,7 @@ amor
 amor patriótico
 ampelografía
 ampelología
+ampersand
 amplio
 amputación
 amputar
@@ -1095,6 +1097,7 @@ cartometría
 cartulina
 cartógrafo
 cartón
+carácter
 casa
 cascada
 casco
@@ -1262,9 +1265,11 @@ circunstancia
 ciruela
 cisne
 cisterna
+cita
 citología
 citólogo
 ciudad
+ciudadela
 claridad
 claro
 clase
@@ -1548,6 +1553,7 @@ cortar las uñas
 corte
 corteza
 cortina
+cortina de teatro
 corto
 cortés
 cosa
@@ -1632,6 +1638,7 @@ crédito
 crónica
 cuadrado
 cuadro
+cuadruplex
 cuadrícula
 cual
 cualquier
@@ -1662,6 +1669,7 @@ cucaracha
 cuchara
 cuchillo
 cuello
+cuello de botella
 cuenco
 cuenta
 cuento
@@ -1713,6 +1721,7 @@ célula
 césped
 círculo
 cóctel
+códex
 código
 código postal
 cólera
@@ -2075,6 +2084,7 @@ día
 día festivo
 dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento
 dólar
+dúplex
 e
 ebullición
 echar
@@ -2086,6 +2096,7 @@ ecografía
 ecología
 ecológico
 econometría
+economía
 ecotoxicología
 ecuador
 ecólogo
@@ -2398,7 +2409,9 @@ estadio
 estado
 estados unidos
 estadounidense
+estafa
 estafador
+estafar
 estalactita
 estalagmita
 estallar
@@ -2434,6 +2447,7 @@ estonia
 estonio
 estos
 estratigrafía
+estrecho
 estrella
 estrella de mar
 estresado
@@ -3326,6 +3340,7 @@ las
 lasaña
 lascivo
 lata
+latín
 latón
 lava
 lavado
@@ -3799,6 +3814,7 @@ monadología
 moneda
 monetario
 monitor
+monje
 mono
 monociclo
 monografía
@@ -3838,6 +3854,7 @@ moto
 motocicleta
 motor
 motosierra
+motín
 mover
 movimiento
 muchas gracias
@@ -3854,6 +3871,7 @@ mugre
 mugroso
 mujer
 multa
+multiplex
 multiplicar
 multiplicar la cantidad de algo entre el doble y el triple
 multitud
@@ -4025,6 +4043,9 @@ o
 obispo
 objetivo
 objeto
+obsesionarse
+obsesión
+obseso
 obtener
 obvio
 oca
@@ -4239,6 +4260,7 @@ parasol
 parcela
 parecer
 pared
+pareja
 paremiología
 paremiólogo
 pariente
@@ -4393,6 +4415,7 @@ perpendicular
 perpetrar
 perrito caliente
 perro
+perro salchicha
 persa
 perseguir
 perseverancia
@@ -4823,6 +4846,7 @@ radiografía
 radiología
 radiometría
 radiotelegrafía
+radián
 radiólogo
 raja
 rajar
@@ -4835,6 +4859,7 @@ raro
 rascacielos
 rascar
 rasta
+rasuradora
 rata
 rata de agua
 ratio
@@ -4896,6 +4921,7 @@ red
 red de pesca
 red local
 red social
+redil
 redondo
 reducir de tamaño o cambiar la forma de una palabra para que esta suene mejor
 reenvío
@@ -4996,6 +5022,7 @@ resumen
 resumir
 resurrección
 retener
+retenido
 retirar
 reto
 retorno
@@ -5019,6 +5046,7 @@ rezar
 rezo
 riachuelo
 rico
+rienda
 riesgo
 rifle
 rima
@@ -5250,6 +5278,7 @@ simpatizar
 simpatía
 simple
 simplemente por creer que "el resto iban" o "yo pensaba que x quería"
+simplex
 simpático
 sin
 sin color
@@ -5714,6 +5743,7 @@ treinta
 tren
 trenza
 trepar
+trepar con las manos
 tres
 tres en raya
 triatlon
@@ -5758,6 +5788,7 @@ truncar
 tráfico
 tránsito
 trío
+tríplex
 tsunami
 tu
 tubería
@@ -5827,6 +5858,7 @@ urial
 urografía
 urología
 uruguay
+uróboros
 urólogo
 usar
 uso
@@ -6021,6 +6053,7 @@ xerografía
 xilografía
 xilófono
 y
+y comercial
 ya
 ya no
 yak
