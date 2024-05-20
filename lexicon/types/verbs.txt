@@ -267,6 +267,7 @@ contar (con algo) → akoixei
 contar (contar a alguien algo) → rekoixei
 contar (números o cosas) → kontoi
 contener → containe, koi
+inundar → fluvai
 continuar → enterai, pronkai
 contraer → contraine
 contratar → asignai
