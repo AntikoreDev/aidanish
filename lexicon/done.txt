@@ -3693,6 +3693,7 @@ melografía
 melón
 meme
 memo
+memoria
 memorizar
 mena
 menaje
@@ -4170,6 +4171,7 @@ otro momento
 otros
 otólogo
 oveja
+ovni
 oxidado
 oxidar[se]
 ozono
@@ -4840,6 +4842,7 @@ quiz
 quizá
 quokka
 racionar
+racismo
 ración
 radio
 radiobiología
@@ -5331,8 +5334,10 @@ soja
 sol
 solar
 soldado
+soledad
 soler
 solidificar
+solitud
 solo
 soltar
 solución

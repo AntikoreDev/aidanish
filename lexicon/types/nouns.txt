@@ -1956,6 +1956,7 @@ glosario → glose, lexicon
 glotología → glotologia
 gnoseología → gnoseologia
 gobierno → governo
+ovni → estranne blaiette artefactum, eba
 gofre → xafla
 golem → golem
 golf → golf
@@ -2565,6 +2566,7 @@ melografía → melografia, melografica
 melón → meloko
 meme → meme
 memo, imitador → memo
+memoria → memoria
 mena → vena
 menaje → furnitia, menagio
 mención → mentio
@@ -3384,6 +3386,7 @@ quinesiólogo → qinesiologo, qinesiologette
 quinteto → qinteto
 quiz → quiz
 quokka → cuoca
+racismo → razisma
 ración → ration
 radio (aparato) → radio
 radio (elemento) → radio
@@ -3699,6 +3702,8 @@ soja → soya
 sol → sol
 solar, parcela → solar, parza
 soldado, guerrero → gerraxette
+soledad → ekoria
+solitud → ekorasia
 solución → solva
 somatología → somatologia
 sombra → tsado

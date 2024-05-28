@@ -1960,6 +1960,7 @@ dvd
 e
 easa
 easairei
+eba
 ebande
 ebila
 ebilai
@@ -2035,9 +2036,11 @@ eixamete
 eklesia
 eko
 ekoixa
+ekorasia
 ekorei
 ekoreko
 ekoretio
+ekoria
 ekoro
 ekurga
 elade
@@ -4207,6 +4210,7 @@ memo
 memoi
 memoir
 memoire
+memoria
 mena
 menagio
 menale
@@ -5617,6 +5621,7 @@ ration
 rationai
 raz
 raza
+razisma
 razna
 razor
 razoro

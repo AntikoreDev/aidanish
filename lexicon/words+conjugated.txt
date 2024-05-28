@@ -3982,6 +3982,7 @@ easaireiet
 easaireiki
 easaireio
 easaireioto
+eba
 ebande
 ebila
 ebilai
@@ -4129,6 +4130,7 @@ eixamete
 eklesia
 eko
 ekoixa
+ekorasia
 ekorei
 ekoreie
 ekoreieon
@@ -4138,6 +4140,7 @@ ekoreio
 ekoreioto
 ekoreko
 ekoretio
+ekoria
 ekoro
 ekurga
 elade
@@ -8407,6 +8410,7 @@ memoireio
 memoireioto
 memoireki
 memoiret
+memoria
 mena
 menagio
 menale
@@ -11107,6 +11111,7 @@ rationaio
 rationaioto
 raz
 raza
+razisma
 razna
 razor
 razoro

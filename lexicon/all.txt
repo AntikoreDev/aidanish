@@ -3740,6 +3740,7 @@ melografía → melografia, melografica
 melón → meloko
 meme → meme
 memo, imitador → memo
+memoria → memoria
 memorizar → memoire
 mena → vena
 menaje → furnitia, menagio
@@ -4229,6 +4230,7 @@ otro momento → otempo
 otro, otros (personas, cosas) → oter
 otólogo → otologo, otologette
 oveja → omejo
+ovni → estranne blaiette artefactum, eba
 oxidado (de hacer algo) → rigi
 oxidado (metal) → ragiko
 oxidar[se] → ragiai
@@ -4921,6 +4923,7 @@ quiz → quiz
 quizá → qiza
 quokka → cuoca
 racionar → rationai
+racismo → razisma
 ración → ration
 radio (aparato) → radio
 radio (elemento) → radio
@@ -5420,8 +5423,10 @@ soja → soya
 sol → sol
 solar, parcela → solar, parza
 soldado, guerrero → gerraxette
+soledad → ekoria
 soler → dai
 solidificar → solidai
+solitud → ekorasia
 solo (adverbio) → nokpo
 solo (estar solo) → ekoro
 soltar → soltai

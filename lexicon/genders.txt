@@ -2402,6 +2402,7 @@ ei lexicon
 la glotologia
 la gnoseologia
 ei governo
+la eba
 la xafla
 ei golem
 ei golf
@@ -3175,6 +3176,7 @@ la melografica
 ei meloko
 la meme
 ei memo
+la memoria
 la vena
 la furnitia
 ei menagio
@@ -4222,6 +4224,7 @@ ei qinesiologette
 ei qinteto
 ei quiz
 la cuoca
+la razisma
 ei ration
 ei radio
 ei radio
@@ -4608,6 +4611,8 @@ ei sol
 ei solar
 la parza
 la gerraxette
+la ekoria
+la ekorasia
 la solva
 la somatologia
 ei tsado

@@ -30339,6 +30339,14 @@
             }
         ]
     },
+    "memoria": {
+        "entries": [
+            {
+                "meaning": "memoria",
+                "specification": ""
+            }
+        ]
+    },
     "memorizar": {
         "entries": [
             {
@@ -34275,6 +34283,14 @@
         "entries": [
             {
                 "meaning": "omejo",
+                "specification": ""
+            }
+        ]
+    },
+    "ovni": {
+        "entries": [
+            {
+                "meaning": "estranne blaiette artefactum, eba",
                 "specification": ""
             }
         ]
@@ -39795,6 +39811,14 @@
             }
         ]
     },
+    "racismo": {
+        "entries": [
+            {
+                "meaning": "razisma",
+                "specification": ""
+            }
+        ]
+    },
     "ración": {
         "entries": [
             {
@@ -43803,6 +43827,14 @@
             }
         ]
     },
+    "soledad": {
+        "entries": [
+            {
+                "meaning": "ekoria",
+                "specification": ""
+            }
+        ]
+    },
     "soler": {
         "entries": [
             {
@@ -43815,6 +43847,14 @@
         "entries": [
             {
                 "meaning": "solidai",
+                "specification": ""
+            }
+        ]
+    },
+    "solitud": {
+        "entries": [
+            {
+                "meaning": "ekorasia",
                 "specification": ""
             }
         ]
