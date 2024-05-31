@@ -193,7 +193,6 @@ aione
 aiprebotelo
 aiprei
 aipreio
-aipreiroso
 aipreixo
 aipreoso
 aiprila
@@ -266,19 +265,23 @@ akutoro
 akuttere
 ala
 alaine
+alair
 alan
 alancai
 alancara
 alanco
 alarme
+alaur
 albanea
 albanexe
+albetran
 albinisma
 albino
 alcoholimetria
 alcoholimetrica
 alcohometria
 alcohometrica
+aldaotan
 aldea
 aldeano
 aldeforma
@@ -416,7 +419,7 @@ aniluba
 anima
 animal
 anio
-anito.
+anito
 anka
 ankrai
 ankraia
@@ -592,6 +595,7 @@ asiriologo
 asle
 aslei
 asletio
+aslon
 asoa
 asoai
 asoaso
@@ -716,7 +720,6 @@ avistoko
 axa
 axele
 axelva
-axi
 axiologia
 axonometria
 axonometrica
@@ -727,6 +730,7 @@ ayato
 ayatotela
 ayatuko
 aye
+ayen
 ayenter
 ayette
 azaharo
@@ -756,6 +760,7 @@ bainarei
 bainaro
 baine
 bainei
+bainere
 bainido
 bainodo
 bainxo
@@ -859,7 +864,6 @@ berlina
 berline
 berno
 bero
-berora
 bertsa
 bertsai
 bertse
@@ -1231,6 +1235,7 @@ cink
 cinologia
 cirae
 ciraela
+circa
 circlo
 circloko
 circo
@@ -1327,7 +1332,6 @@ comburente
 combustable
 combustio
 combusto
-come
 cometai
 comic
 compadai
@@ -2100,6 +2104,7 @@ emperos
 empotrai
 empotratio
 en
+enaun
 encanto
 encefalografia
 encefalografica
@@ -2210,6 +2215,7 @@ ergonomia
 ergonomo
 ergota
 ergote
+eriodai
 eriodo
 erko
 erotologette
@@ -3099,6 +3105,7 @@ heun
 heundoiette
 heune
 heunei
+heunere
 heunesle
 heunido
 heunodo
@@ -3409,8 +3416,10 @@ insulso
 insulto
 intelekto
 intelektualo
+intem
 intentiente
 intentio
+inter
 interesai
 interesanta
 interfazia
@@ -4180,7 +4189,6 @@ mediocre
 mediocrita
 meditei
 meditia
-mediu
 mee
 megafono
 megamorto
@@ -4306,6 +4314,7 @@ minerette
 miniga
 minino
 minna
+minos
 minute
 miologia
 miraclo
@@ -4591,6 +4600,7 @@ nivoxerra
 nizaga
 nizagal
 nnordo
+no
 noforma
 nograi
 noi
@@ -4693,6 +4703,7 @@ ofrerai
 oftalmologette
 oftalmologia
 oftalmologo
+ogen
 ogenter
 ogira
 ogo
@@ -5269,10 +5280,13 @@ pomologia
 pomologo
 pomotsa
 pompe
+pondoi
 ponsei
 pontai
+pontaine
 ponto
 pontso
+ponvisoi
 ponzai
 ponzo
 popula
@@ -5287,6 +5301,7 @@ porno
 pornografia
 poro
 porpura
+porqa
 porqarei
 porta
 portabekit
@@ -5338,8 +5353,8 @@ praisoi
 praisotela
 praisoxette
 praktikai
-pre
 pre-andehen
+pre-anito
 precai
 precaia
 predicado
@@ -5522,7 +5537,7 @@ putarra
 puto
 putsa
 qa
-qal
+qain
 qale
 qalem
 qansequentia
@@ -5541,7 +5556,6 @@ qeola
 qiava
 qibra
 qibrai
-qim
 qinco
 qincoen
 qincoix
@@ -5552,6 +5566,7 @@ qinteto
 qiza
 quadruplex
 quai
+qual
 qualda
 quaro
 quaroi
@@ -6113,7 +6128,6 @@ sofa
 sofrologette
 sofrologia
 sofrologo
-soit
 soka
 sokete
 sol
@@ -7119,6 +7133,7 @@ yogur
 yoi
 yoiko
 yoixo
+yontai
 yonto
 yorai
 yordea

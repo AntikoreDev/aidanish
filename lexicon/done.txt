@@ -29,7 +29,6 @@ abeja
 aberración
 abertura
 abeto
-abiertamente
 abierto
 abisal
 abismal
@@ -1726,6 +1725,7 @@ código
 código postal
 cólera
 cómic
+cómo
 cómodo
 cónyuge
 cúrcuma
@@ -2118,6 +2118,8 @@ ejercer luz de gas sobre alguien
 ejercicio
 el
 el hecho de darse cuenta de algo
+el mejor
+el peor
 elección
 electricidad
 electrocardiografía
@@ -3519,6 +3521,7 @@ madrastra
 madre
 madrid
 madriguera
+madrugar
 maestro
 maestría
 magdalena
@@ -4571,7 +4574,10 @@ poco
 poco a poco
 pocos
 poder
+poder hacer
 poder ser
+poder tener
+poder ver
 podofilia
 podología
 podólogo
@@ -5070,6 +5076,7 @@ roca
 roca gigante
 roce
 rodar
+rodear
 rodilla
 roedor
 rojo

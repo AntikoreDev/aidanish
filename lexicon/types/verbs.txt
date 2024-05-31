@@ -788,6 +788,9 @@ planear (plan) → planoi
 planear (volar) → planeai
 plantar → plantaire
 poder ser → ponsei
+poder hacer → pondoi
+poder tener → pontaine
+poder ver → ponvisoi
 poder → pontai, paidai
 poner en funcionamiento un proyecto después de ser terminado → ploi
 poner → posai
@@ -817,6 +820,7 @@ probar → probai
 procastinar → procastinai
 proceder → procedei
 procesar → procesai
+rodear → eriodai
 procrastinar → procrastinei
 producir → proteire
 programar → prokramai, codai
@@ -1027,6 +1031,7 @@ tronar → trumbai
 truncar → truncai
 turnar → turnoi
 ubicar, localizar (encontrar) → lokaize
+madrugar → yontai
 unir → yoi
 uperisar, ultrapasteurizar → uperisai
 usar → usei

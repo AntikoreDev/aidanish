@@ -3165,6 +3165,7 @@ pirología → pirologia
 piromanía → arsonisma 
 pirometría → pirometria, pirometrica
 pirámide → piramide
+pirámide (forma geométrica) → piramide, frustro, frustrum, frusto, frustum
 pirómano → arsonista, piromanette
 pirómano → piromane
 pis → pikse

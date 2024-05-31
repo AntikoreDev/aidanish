@@ -29,7 +29,6 @@ abeja → blaimallea
 aberración → aberratio
 abertura → aipreixo
 abeto → karzua
-abiertamente → aipreiroso
 abierto → apero, aipreoso
 abisal → abysal
 abismal → oxtuoro
@@ -87,7 +86,6 @@ acampar → akempei
 acapella → acapela
 acariciar → caricai
 acartonar → cardoi
-acaso → nurne
 acaso → nurne
 acceder → akcisei
 accesibilidad → akcesibila
@@ -151,7 +149,7 @@ acuático → acoatiko
 acuñar → acuine
 adelantamiento → alancara
 adelantar → alancai
-adelante → daotan (otan)
+adelante → daotan
 adelanto → alanco
 adelgazar → delekai
 además → ademais
@@ -414,13 +412,13 @@ anillar → rinkai
 anillo → rinka
 animal → animal, besta
 aniversario → yaroia
-anoche → anito.
+anoche → anito
 anochecer → nitoi
 anochecer → nitoia
 anomalía → anomalia
 anotar → anotai
 ante → ante
-anteanoche → pre→anito.
+anteanoche → pre-anito
 anterior → andonko, prevo
 antes de ayer → pre-andehen
 antes → ande
@@ -1112,7 +1110,7 @@ cascada → moana
 casco → antsal
 casero → simanata, domodoio
 caseta, cabaña → asunna, kasutsa
-casi → axi
+casi → aslon, circa
 casilla → kasiya
 casino → casino
 caso → caso
@@ -1384,7 +1382,6 @@ comercio → komerzio
 cometer, perpetrar → cometai
 comida → ingo
 como (comparación) → asle
-como (pregunta) → com, come
 comodidad → conforta
 compadecer → compadai
 comparación → asletio
@@ -1521,7 +1518,7 @@ conteo → konto
 contexto → conteksto
 continuar → enterai, pronkai
 continuista → enderizo
-contra → kuntroi, ainsta
+contra → ainsta, kuntroi
 contraer → contraine
 contraseña → codivorto
 contratar → asignai
@@ -1664,7 +1661,7 @@ cuadrado → qatrato
 cuadro → kadro
 cuadruplex → quadruplex
 cuadrícula → qatratiko, griya
-cual → qal
+cual → qual
 cualquier cosa → ekoixa
 cualquier forma → eforma
 cualquier lugar → elocato
@@ -1755,6 +1752,7 @@ código postal → postalcodiko, postalcoda
 código → codiko
 cólera → xolera
 cómic, tebeo → comic
+cómo (pregunta) → com
 cómodo → conforte
 cúrcuma → cucumo
 dacriología → dacriologia
@@ -1779,7 +1777,7 @@ de todas formas → da alde forma
 de un futuro cercano → postmoderna
 de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo → tokiota
 de → da
-debajo → berora
+debajo → alaur
 deber (algo que debes) → dute
 deber (colegio) → esaroidute
 deber (expresión) → debei
@@ -1817,7 +1815,7 @@ deidad → deida
 dejado → dexaireioko
 dejar → dexaire
 del → dai
-delante → daotan
+delante → daotan, aldaotan
 deletrear → delektorei, espelei
 delfín → delfino
 delgado → delekio
@@ -1839,7 +1837,7 @@ densimetría → densimetria, densimetrica
 densitometría → densitometria, densitometrica
 dentadura → dentatia
 dentista → dentaxette
-dentro → intro
+dentro → intro, inter
 dentríficio, pasta dental → dentacrema
 deontología → deontologia
 dependencia → dependentia
@@ -1952,7 +1950,7 @@ deterger → detergire
 determinación → determinatia
 determinada → determina
 determinar → determinai
-detrás → betran (dabetran)
+detrás → betran, albetran
 deuda → dutia
 devolver → voltai
 diabetología → diabetologia
@@ -2150,6 +2148,8 @@ ejercer luz de gas sobre alguien → mnemoruptaire, mnemorupturai
 ejercer → ecersai
 ejercicio → exersizo
 el hecho de darse cuenta de algo → indora
+el mejor → bainodo
+el peor → heunodo
 el → ei
 el, los → ei
 elección → electio
@@ -2167,7 +2167,7 @@ eliminar cosas repetidas de un conjunto → desredundaire
 eliminar y censurar la existencia de una persona → apersoi
 ella → eila
 ello, eso → so
-ellos (objeto, no se usa pero se mantiene por legacy) → soit
+ellos (objetos) → so
 ellos → eire
 eléctrico → elektriko
 embalar → embalai
@@ -2232,7 +2232,7 @@ encharcar → culdai
 enchufar → plugai
 enchufe, tomacorriente → pluga
 enciclopedia → enciklopedia
-encima → overa
+encima → alair
 enclave → entsave
 encoger → nograi
 encontrar → zunaire, trovai
@@ -3296,7 +3296,6 @@ jabón → moape, sapo, baxugo
 jacinto (flor) → irsis
 jade → jade
 jalapeño → jalapenno
-jamás → nontsai
 jamás, nunca → nontsai
 jamón → iamon
 japonés → japonesa
@@ -3500,9 +3499,9 @@ llover → pluvai, acoatei
 lluvia de balas → baletrumbe
 lluvia de ideas → ideait-mixa
 lluvia → pluva, acoata
+lo (cosa) → xo
 lo más bajo posible que se puede estar en algo → afondo
 lo que sea → oraben
-lo → xo (cosa)
 lobo → lupo, lauseto
 local → local, locatako
 localizar (traducir) → localai
@@ -3524,7 +3523,7 @@ lucha → fista
 luchar → fistai
 lucio → lutio
 luciérnaga → blailita
-luego → ogenter
+luego → ogen, ogenter
 lugar donde se origina una pandemia endemia o epidemia → punto zero
 lugar propenso a desprendimientos → bocarra
 lugar → locata, itela
@@ -3560,6 +3559,7 @@ madre (formal) → matrona
 madre → meipai
 madrid → madrid
 madriguera → maheiga
+madrugar → yontai
 maestro → mastero
 maestría → masteria
 magdalena → magadia
@@ -3723,7 +3723,7 @@ medicinal → medikarer
 medida → metirra
 medidor → metera
 medio (transporte, comunicación) → metia
-medio → mediu
+medio → media
 mediocre → mediocre
 mediocridad → mediocrita
 mediodía → mitaheno
@@ -3731,7 +3731,7 @@ medir → metairre
 meditación → meditia
 meditar → meditei
 megáfono → megafono
-mejor → bainodo
+mejor → bainere
 mejorar → bainei
 mellizo → meliza
 melocotón, durazno → apomo
@@ -3747,7 +3747,7 @@ menaje → furnitia, menagio
 mencionar → mentsei
 mención → mentio
 menor → pikoler
-menos → menus
+menos → minos, menus
 mensaje → mesaje
 mensajear → mesajire
 menta → menta
@@ -3801,7 +3801,7 @@ miel → mela
 mielografía → mielografia, mielografica
 miembro (cuerpo) → membro
 miembro (de un grupo) → membro
-mientras → engeri
+mientras → engeri, intem
 mierda → merto, keska
 miga → minna, aya
 mil → ailla
@@ -3953,7 +3953,7 @@ musicología → musicologia
 musicólogo → musicologo, musicologette
 mutar → mutai
 muy cerrado, casi sin ventanas o puertas → zakerro
-muy → moi
+muy → naito, moi
 muñeca (brazo) → intso
 muñeco, muñeca (objeto) → doli, clutso
 mágica → magika
@@ -4050,7 +4050,7 @@ niñez → kindeka
 niño → kindo, infante, nenno
 niños (conjunto) → kindara
 no te metas → non entreiet
-no → non
+no → non, no
 noche → nito
 nogal → nuzelara
 nombrar → nombrai
@@ -4093,7 +4093,7 @@ nuez → nuzel
 numerar → numai
 numerología → numerologia
 numerólogo → numerologo, numerologette
-nunca → nontsai
+nunca, jamás → nontsai
 nutricionista → dietexette
 nutriología → nutriologia
 néctar → nektar
@@ -4440,7 +4440,7 @@ pentalogía → pentalogia
 pentágono → pentakono
 peonza → virante, rotaio
 peonía (flor) → aravita
-peor → heunodo
+peor → heunere
 pepinillo → frico
 pepino → pepera
 pepperoni → pepperoni, peperoni
@@ -4649,7 +4649,10 @@ poción → potia
 poco a poco → en poco
 poco → piko, poco
 pocos → piko
+poder hacer → pondoi
 poder ser → ponsei
+poder tener → pontaine
+poder ver → ponvisoi
 poder → pontai, paidai
 poder → ponto
 podofilia → podofilia
@@ -4693,12 +4696,12 @@ por cierto → por zerto
 por defecto → nurdefekto
 por favor → si zu plai, porqarei
 por lo que → soqe, plus
-por qué → por qa
+por qué → porqa, por qa
 por → por
 porche → escuara, esquara, arkubre
 pornografía → porno, pornografia
 poro → poro
-porque → debai
+porque (respuesta) → debai
 porro → purro
 portaaviones → portavionnit
 portabandera → portafliaga
@@ -4820,7 +4823,7 @@ promesa → priosa
 prometer → priosai
 promover → promovai
 pronosticar → pronostikaire
-pronto → ayenter
+pronto → ayen, ayenter
 pronóstico → pronostiko
 propenso → prono
 propio → prope
@@ -4912,7 +4915,7 @@ quererte tanto a ti mismo hasta el punto de necesitar atención médica, crear u
 queso en polvo → pulverfruge
 queso → fruge
 quiebra → qibra
-quien → qim
+quien → qain
 quince → diziqinco
 quinesiología → qinesiologia
 quinesiólogo → qinesiologo, qinesiologette
@@ -5153,6 +5156,7 @@ roca gigante → bocarro
 roca → roca
 roce → rotse
 rodar → rodai
+rodear → eriodai
 rodilla → gidilla
 roedor → rodento
 rojo → roixo
@@ -5399,7 +5403,7 @@ situación en la que una persona es vigilada por la posibilidad de que sea un cr
 slime → limo, eslimo, eslime, slime, slimo
 soberbia → superbia
 soberbio → superbo
-sobre → airo, overa
+sobre → airo, overa, alair
 sobrepasar → surpaize
 sobrevalorado → airvaluako
 sobrevivir → survivai
@@ -5736,7 +5740,7 @@ tocar → toutsoi
 tocología → tocologia
 tocólogo → tocologo, tocologette
 toda forma → aldeforma
-todavía → enoun
+todavía → enaun, enoun
 todavía → enoun
 todo (cosas) → aldex
 todo momento, siempre → ertsai

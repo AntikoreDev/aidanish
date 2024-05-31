@@ -3,7 +3,7 @@ ante → ante
 bajo → vao
 cabe → kabe
 con → koi
-contra → kuntroi, ainsta
+contra → ainsta, kuntroi
 de → da
 desde → daze
 durante → koante
@@ -16,7 +16,7 @@ para → paira
 por → por
 según → ezer
 sin → nokoi
-sobre → airo, overa
+sobre → airo, overa, alair
 tras → per, tras
 versus → versus
 via → via

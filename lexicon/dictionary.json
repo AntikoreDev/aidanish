@@ -267,14 +267,6 @@
             }
         ]
     },
-    "abiertamente": {
-        "entries": [
-            {
-                "meaning": "aipreiroso",
-                "specification": ""
-            }
-        ]
-    },
     "abierto": {
         "entries": [
             {
@@ -729,10 +721,6 @@
     },
     "acaso": {
         "entries": [
-            {
-                "meaning": "nurne",
-                "specification": ""
-            },
             {
                 "meaning": "nurne",
                 "specification": ""
@@ -1250,7 +1238,7 @@
     "adelante": {
         "entries": [
             {
-                "meaning": "daotan (otan)",
+                "meaning": "daotan",
                 "specification": ""
             }
         ]
@@ -3374,7 +3362,7 @@
     "anoche": {
         "entries": [
             {
-                "meaning": "anito.",
+                "meaning": "anito",
                 "specification": ""
             }
         ]
@@ -3418,7 +3406,7 @@
     "anteanoche": {
         "entries": [
             {
-                "meaning": "pre",
+                "meaning": "pre-anito",
                 "specification": ""
             }
         ]
@@ -8970,7 +8958,7 @@
     "casi": {
         "entries": [
             {
-                "meaning": "axi",
+                "meaning": "aslon, circa",
                 "specification": ""
             }
         ]
@@ -11168,10 +11156,6 @@
             {
                 "meaning": "asle",
                 "specification": "comparación"
-            },
-            {
-                "meaning": "com, come",
-                "specification": "pregunta"
             }
         ]
     },
@@ -12274,7 +12258,7 @@
     "contra": {
         "entries": [
             {
-                "meaning": "kuntroi, ainsta",
+                "meaning": "ainsta, kuntroi",
                 "specification": ""
             }
         ]
@@ -13422,7 +13406,7 @@
     "cual": {
         "entries": [
             {
-                "meaning": "qal",
+                "meaning": "qual",
                 "specification": ""
             }
         ]
@@ -14155,6 +14139,14 @@
             }
         ]
     },
+    "cómo": {
+        "entries": [
+            {
+                "meaning": "com",
+                "specification": "pregunta"
+            }
+        ]
+    },
     "cómodo": {
         "entries": [
             {
@@ -14354,7 +14346,7 @@
     "debajo": {
         "entries": [
             {
-                "meaning": "berora",
+                "meaning": "alaur",
                 "specification": ""
             }
         ]
@@ -14650,7 +14642,7 @@
     "delante": {
         "entries": [
             {
-                "meaning": "daotan",
+                "meaning": "daotan, aldaotan",
                 "specification": ""
             }
         ]
@@ -14826,7 +14818,7 @@
     "dentro": {
         "entries": [
             {
-                "meaning": "intro",
+                "meaning": "intro, inter",
                 "specification": ""
             }
         ]
@@ -15742,7 +15734,7 @@
     "detrás": {
         "entries": [
             {
-                "meaning": "betran (dabetran)",
+                "meaning": "betran, albetran",
                 "specification": ""
             }
         ]
@@ -17379,6 +17371,22 @@
             }
         ]
     },
+    "el mejor": {
+        "entries": [
+            {
+                "meaning": "bainodo",
+                "specification": ""
+            }
+        ]
+    },
+    "el peor": {
+        "entries": [
+            {
+                "meaning": "heunodo",
+                "specification": ""
+            }
+        ]
+    },
     "el": {
         "entries": [
             {
@@ -17534,8 +17542,8 @@
     "ellos": {
         "entries": [
             {
-                "meaning": "soit",
-                "specification": "objeto, no se usa pero se mantiene por legacy"
+                "meaning": "so",
+                "specification": "objetos"
             },
             {
                 "meaning": "eire",
@@ -18074,7 +18082,7 @@
     "encima": {
         "entries": [
             {
-                "meaning": "overa",
+                "meaning": "alair",
                 "specification": ""
             }
         ]
@@ -28391,6 +28399,14 @@
             }
         ]
     },
+    "lo": {
+        "entries": [
+            {
+                "meaning": "xo",
+                "specification": "cosa"
+            }
+        ]
+    },
     "lo más bajo posible que se puede estar en algo": {
         "entries": [
             {
@@ -28403,14 +28419,6 @@
         "entries": [
             {
                 "meaning": "oraben",
-                "specification": ""
-            }
-        ]
-    },
-    "lo": {
-        "entries": [
-            {
-                "meaning": "xo (cosa)",
                 "specification": ""
             }
         ]
@@ -28582,7 +28590,7 @@
     "luego": {
         "entries": [
             {
-                "meaning": "ogenter",
+                "meaning": "ogen, ogenter",
                 "specification": ""
             }
         ]
@@ -28875,6 +28883,14 @@
         "entries": [
             {
                 "meaning": "maheiga",
+                "specification": ""
+            }
+        ]
+    },
+    "madrugar": {
+        "entries": [
+            {
+                "meaning": "yontai",
                 "specification": ""
             }
         ]
@@ -30186,7 +30202,7 @@
                 "specification": "transporte, comunicación"
             },
             {
-                "meaning": "mediu",
+                "meaning": "media",
                 "specification": ""
             },
             {
@@ -30254,7 +30270,7 @@
     "mejor": {
         "entries": [
             {
-                "meaning": "bainodo",
+                "meaning": "bainere",
                 "specification": ""
             }
         ]
@@ -30398,7 +30414,7 @@
     "menos": {
         "entries": [
             {
-                "meaning": "menus",
+                "meaning": "minos, menus",
                 "specification": ""
             }
         ]
@@ -30834,7 +30850,7 @@
     "mientras": {
         "entries": [
             {
-                "meaning": "engeri",
+                "meaning": "engeri, intem",
                 "specification": ""
             }
         ]
@@ -32034,7 +32050,7 @@
     "muy": {
         "entries": [
             {
-                "meaning": "moi",
+                "meaning": "naito, moi",
                 "specification": ""
             }
         ]
@@ -32826,7 +32842,7 @@
     "no": {
         "entries": [
             {
-                "meaning": "non",
+                "meaning": "non, no",
                 "specification": ""
             }
         ]
@@ -35974,7 +35990,7 @@
     "peor": {
         "entries": [
             {
-                "meaning": "heunodo",
+                "meaning": "heunere",
                 "specification": ""
             }
         ]
@@ -37615,10 +37631,34 @@
             }
         ]
     },
+    "poder hacer": {
+        "entries": [
+            {
+                "meaning": "pondoi",
+                "specification": ""
+            }
+        ]
+    },
     "poder ser": {
         "entries": [
             {
                 "meaning": "ponsei",
+                "specification": ""
+            }
+        ]
+    },
+    "poder tener": {
+        "entries": [
+            {
+                "meaning": "pontaine",
+                "specification": ""
+            }
+        ]
+    },
+    "poder ver": {
+        "entries": [
+            {
+                "meaning": "ponvisoi",
                 "specification": ""
             }
         ]
@@ -37946,7 +37986,7 @@
     "por qué": {
         "entries": [
             {
-                "meaning": "por qa",
+                "meaning": "porqa, por qa",
                 "specification": ""
             }
         ]
@@ -37987,7 +38027,7 @@
         "entries": [
             {
                 "meaning": "debai",
-                "specification": ""
+                "specification": "respuesta"
             }
         ]
     },
@@ -38958,7 +38998,7 @@
     "pronto": {
         "entries": [
             {
-                "meaning": "ayenter",
+                "meaning": "ayen, ayenter",
                 "specification": ""
             }
         ]
@@ -39726,7 +39766,7 @@
     "quien": {
         "entries": [
             {
-                "meaning": "qim",
+                "meaning": "qain",
                 "specification": ""
             }
         ]
@@ -41647,6 +41687,14 @@
         "entries": [
             {
                 "meaning": "rodai",
+                "specification": ""
+            }
+        ]
+    },
+    "rodear": {
+        "entries": [
+            {
+                "meaning": "eriodai",
                 "specification": ""
             }
         ]
@@ -43622,7 +43670,7 @@
     "sobre": {
         "entries": [
             {
-                "meaning": "airo, overa",
+                "meaning": "airo, overa, alair",
                 "specification": ""
             }
         ]
@@ -46378,7 +46426,7 @@
     "todavía": {
         "entries": [
             {
-                "meaning": "enoun",
+                "meaning": "enaun, enoun",
                 "specification": ""
             },
             {

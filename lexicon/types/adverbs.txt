@@ -9,8 +9,8 @@ hoy → nauhen
 entonces → urte
 antes de ayer → pre-andehen
 pasado mañana → pos-enterehen
-anoche → anito.
-anteanoche → pre→anito.
+anoche → anito
+anteanoche → pre-anito
 todavía → enoun
 siempre → ertsai
 aún → oun
@@ -18,9 +18,9 @@ ya no → nomais
 jamás, nunca → nontsai
 temprano → yonto
 tarde → egente
-luego → ogenter
-pronto → ayenter
-mientras → engeri
+luego → ogen, ogenter
+pronto → ayen, ayenter
+mientras → engeri, intem
 
 # Lugar
 aquí → ake, atan
@@ -29,16 +29,16 @@ allí → alie, alan
 cerca → neare
 lejos → fore
 junto → xa
-delante → daotan
-detrás → betran (dabetran)
+delante → daotan, aldaotan
+detrás → betran, albetran
 atrás → betran
-adelante → daotan (otan)
+adelante → daotan
 alrededor → eriodo
 enfrente → imfranto
-encima → overa
-debajo → berora
+encima → alair
+debajo → alaur
 fuera → fora
-dentro → intro
+dentro → intro, inter
 abajo → aur
 arriba → air
 a la derecha, hacia la derecha → aldereite
@@ -46,31 +46,32 @@ a la izquierda, hacia la izquierda → alzoraite
 al lado de → ensero
 
 # Modo
-abiertamente → aipreiroso
 bien → bain
 mal → heun
 solo (adverbio) → nokpo
-peor → heunodo
-mejor → bainodo
+mejor → bainere
+peor → heunere
+el peor → heunodo
+el mejor → bainodo
 así → aze
 despacio → lento
-todavía → enoun
+todavía → enaun, enoun
 deprisa → rantio
 
 # Cantidad
 poco → piko, poco
 mucho → naito
-muy → moi
+muy → naito, moi
 bastante → bixa
 todo → aldex
 más → mais
-menos → menus
+menos → minos, menus
 tan → asle, tan
 tanto → tante
 demasiado → posmoi
-casi → axi
+casi → aslon, circa
 forma irónica de decir casi → quasi
-medio → mediu
+medio → media
 apenas → apare
 así de → aze da
 harto → rakoso
@@ -88,26 +89,24 @@ verdaderamente → zertente
 # Duda
 probablemente → probekoien
 quizá → qiza
-acaso → nurne
 puede ser → ponsei
 
 # Negación
-no → non
-nunca → nontsai
+no → non, no
+nunca, jamás → nontsai
 tampoco → nonete
 negativamente → nekatikoien
-jamás → nontsai
 
 # Interrogativo
-como (pregunta) → com, come
+cómo (pregunta) → com
 cuando → conde
 donde → donde
-por qué → por qa
-quien → qim
+por qué → porqa, por qa
+quien → qain
 que → qa
-cual → qal
-hasta → haita
+cual → qual
 cuanto → qanto
+hasta → haita
 
 # Relativo
 como (comparación) → asle

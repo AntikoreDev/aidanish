@@ -8,7 +8,7 @@ ello, eso → so
 nosotros → nare
 vosotros → zure
 ellos → eire
-ellos (objeto, no se usa pero se mantiene por legacy) → soit
+ellos (objetos) → so
 
 # Posesivos
 mi → nai
@@ -25,4 +25,4 @@ se → eir
 nos → narer
 os → zurer
 los → eirer
-lo → xo (cosa)
+lo (cosa) → xo 

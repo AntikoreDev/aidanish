@@ -415,7 +415,6 @@ aipreiki
 aipreio
 aipreio
 aipreioto
-aipreiroso
 aipreixo
 aipreoso
 aiprila
@@ -602,6 +601,7 @@ alaineio
 alaineioto
 alaineki
 alainet
+alair
 alan
 alancai
 alancaie
@@ -613,14 +613,17 @@ alancaioto
 alancara
 alanco
 alarme
+alaur
 albanea
 albanexe
+albetran
 albinisma
 albino
 alcoholimetria
 alcoholimetrica
 alcohometria
 alcohometrica
+aldaotan
 aldea
 aldeano
 aldeforma
@@ -836,7 +839,7 @@ aniluba
 anima
 animal
 anio
-anito.
+anito
 anka
 ankrai
 ankraia
@@ -1180,6 +1183,7 @@ asleiki
 asleio
 asleioto
 asletio
+aslon
 asoa
 asoai
 asoaie
@@ -1430,7 +1434,6 @@ avistoko
 axa
 axele
 axelva
-axi
 axiologia
 axonometria
 axonometrica
@@ -1441,6 +1444,7 @@ ayato
 ayatotela
 ayatuko
 aye
+ayen
 ayenter
 ayette
 azaharo
@@ -1494,6 +1498,7 @@ baineiet
 baineiki
 baineio
 baineioto
+bainere
 bainido
 bainodo
 bainxo
@@ -1681,7 +1686,6 @@ berlina
 berline
 berno
 bero
-berora
 bertsa
 bertsai
 bertsaie
@@ -2263,6 +2267,7 @@ cink
 cinologia
 cirae
 ciraela
+circa
 circlo
 circloko
 circo
@@ -2479,7 +2484,6 @@ comburente
 combustable
 combustio
 combusto
-come
 cometai
 cometaie
 cometaieon
@@ -4266,6 +4270,7 @@ empotraio
 empotraioto
 empotratio
 en
+enaun
 encanto
 encefalografia
 encefalografica
@@ -4508,6 +4513,13 @@ ergonomia
 ergonomo
 ergota
 ergote
+eriodai
+eriodaie
+eriodaieon
+eriodaiet
+eriodaiki
+eriodaio
+eriodaioto
 eriodo
 erko
 erotologette
@@ -6219,6 +6231,7 @@ heuneiet
 heuneiki
 heuneio
 heuneioto
+heunere
 heunesle
 heunido
 heunodo
@@ -6841,8 +6854,10 @@ insulso
 insulto
 intelekto
 intelektualo
+intem
 intentiente
 intentio
+inter
 interesai
 interesaie
 interesaieon
@@ -8368,7 +8383,6 @@ mediteiki
 mediteio
 mediteioto
 meditia
-mediu
 mee
 megafono
 megamorto
@@ -8566,6 +8580,7 @@ minerette
 miniga
 minino
 minna
+minos
 minute
 miologia
 miraclo
@@ -9067,6 +9082,7 @@ nivoxerra
 nizaga
 nizagal
 nnordo
+no
 noforma
 nograi
 nograie
@@ -9253,6 +9269,7 @@ ofreraioto
 oftalmologette
 oftalmologia
 oftalmologo
+ogen
 ogenter
 ogira
 ogo
@@ -10279,6 +10296,13 @@ pomologia
 pomologo
 pomotsa
 pompe
+pondoi
+pondoie
+pondoieon
+pondoiet
+pondoiki
+pondoio
+pondoioto
 ponsei
 ponseie
 ponseieon
@@ -10291,10 +10315,24 @@ pontaie
 pontaieon
 pontaiet
 pontaiki
+pontaine
+pontaineie
+pontaineieon
+pontaineio
+pontaineioto
+pontaineki
+pontainet
 pontaio
 pontaioto
 ponto
 pontso
+ponvisoi
+ponvisoie
+ponvisoieon
+ponvisoiet
+ponvisoiki
+ponvisoio
+ponvisoioto
 ponzai
 ponzaie
 ponzaieon
@@ -10321,6 +10359,7 @@ porno
 pornografia
 poro
 porpura
+porqa
 porqarei
 porta
 portabekit
@@ -10444,8 +10483,8 @@ praktikaiet
 praktikaiki
 praktikaio
 praktikaioto
-pre
 pre-andehen
+pre-anito
 precai
 precaia
 precaie
@@ -10934,7 +10973,7 @@ putarra
 puto
 putsa
 qa
-qal
+qain
 qale
 qalem
 qansequentia
@@ -10971,7 +11010,6 @@ qibraiet
 qibraiki
 qibraio
 qibraioto
-qim
 qinco
 qincoen
 qincoix
@@ -10988,6 +11026,7 @@ quaiet
 quaiki
 quaio
 quaioto
+qual
 qualda
 quaro
 quaroi
@@ -12257,7 +12296,6 @@ sofa
 sofrologette
 sofrologia
 sofrologo
-soit
 soka
 sokete
 sol
@@ -14247,6 +14285,13 @@ yoiko
 yoio
 yoioto
 yoixo
+yontai
+yontaie
+yontaieon
+yontaiet
+yontaiki
+yontaio
+yontaioto
 yonto
 yorai
 yoraie
