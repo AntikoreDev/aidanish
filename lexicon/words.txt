@@ -294,6 +294,7 @@ aldexet
 alergologette
 alergologia
 alergologo
+alfabeto
 alfilago
 alfilai
 alfilatio
@@ -387,6 +388,7 @@ andaivo
 ande
 andehen
 andesita
+andesora
 andonko
 andorra
 andorreo
@@ -427,6 +429,7 @@ ankrai
 ankraia
 ankraro
 ankratela
+anladei
 annorai
 anomalia
 anomas
@@ -562,7 +565,9 @@ arteriografica
 arteriologia
 articlo
 articulo
+artiletra
 artisette
+artisora
 artista
 artrografia
 artrografica
@@ -2162,6 +2167,7 @@ entero
 enterprisa
 enterrei
 enterro
+entesora
 entita
 entomologette
 entomologia
@@ -2281,6 +2287,8 @@ eskoltoi
 eskotsai
 eskozei
 eskozo
+eslantai
+eslanto
 eslava
 eslavai
 eslavo
@@ -2445,6 +2453,7 @@ estserra
 estsondo
 estsuela
 estufa
+estulta
 estundaxe
 estungai
 estungo
@@ -2843,6 +2852,7 @@ futurologette
 futurologia
 futurologo
 fuzo
+gago
 gaia
 gaiza
 gaize
@@ -3014,6 +3024,7 @@ gualabi
 guarda
 guardia
 guasta
+guglai
 guiro
 guirofono
 guma
@@ -3392,6 +3403,7 @@ injo
 injurai
 inkinda
 inkinde
+inklina
 inklinai
 inkoastatela
 inkorrektoko
@@ -3525,6 +3537,8 @@ jelsinki
 jena
 jenai
 jerco
+jeroglifia
+jeroglifo
 jersey
 jidei
 jideor
@@ -3572,6 +3586,7 @@ kailokikro
 kaina
 kaine
 kaire
+kaka
 kalamo
 kalatrono
 kalculei
@@ -3983,6 +3998,10 @@ locata
 locatako
 locato
 locuo
+loga
+logai
+logatela
+loge
 logette
 logo
 loi
@@ -4091,6 +4110,7 @@ mandoro
 manega
 maneuvai
 manga
+mangai
 mango
 mania
 maniaco
@@ -4247,6 +4267,7 @@ mercadologette
 mercadologia
 mercadologo
 mercuria
+meridian
 merla
 merreca
 mertai
@@ -5155,6 +5176,7 @@ pinkai
 pinkiporke
 pinko
 pinna
+pinnai
 pinne
 pino
 pinta
@@ -5330,6 +5352,7 @@ pos-enterehen
 posai
 posaieo
 posakisa
+poscritum
 pose
 posei
 posesai
@@ -5378,6 +5401,7 @@ prenza
 preparatio
 preparato
 preparei
+prescritum
 presentatio
 presente
 presentei
@@ -6162,8 +6186,13 @@ soniko
 sopolo
 sopulai
 soqe
+sora
+sorate
+soratia
 sorda
 sordai
+sore
+sorette
 sotaine
 sotenai
 soteno
@@ -7020,12 +7049,15 @@ viuto
 viutonekro
 vivai
 vivaitela
+viver
+viverei
 vixe
 vixei
 viz
 vizel
 vizviz
 vocine
+vofen
 voitai
 vokabulatio
 vokal

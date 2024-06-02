@@ -2227,6 +2227,14 @@
             }
         ]
     },
+    "alfabeto": {
+        "entries": [
+            {
+                "meaning": "alfabeto",
+                "specification": ""
+            }
+        ]
+    },
     "alfajor": {
         "entries": [
             {
@@ -4475,6 +4483,14 @@
         "entries": [
             {
                 "meaning": "artrologia",
+                "specification": ""
+            }
+        ]
+    },
+    "artículo básico para vivir": {
+        "entries": [
+            {
+                "meaning": "viver",
                 "specification": ""
             }
         ]
@@ -6859,7 +6875,15 @@
         "entries": [
             {
                 "meaning": "asero",
-                "specification": ""
+                "specification": "geometría"
+            }
+        ]
+    },
+    "lateral": {
+        "entries": [
+            {
+                "meaning": "asero",
+                "specification": "geometría"
             }
         ]
     },
@@ -7343,6 +7367,14 @@
             }
         ]
     },
+    "buscar en internet": {
+        "entries": [
+            {
+                "meaning": "guglai",
+                "specification": ""
+            }
+        ]
+    },
     "buscar": {
         "entries": [
             {
@@ -7467,7 +7499,7 @@
             },
             {
                 "meaning": "ayato",
-                "specification": ""
+                "specification": "animal"
             }
         ]
     },
@@ -7476,6 +7508,14 @@
             {
                 "meaning": "kabe",
                 "specification": ""
+            }
+        ]
+    },
+    "cabecera": {
+        "entries": [
+            {
+                "meaning": "andesora, prescritum",
+                "specification": "texto"
             }
         ]
     },
@@ -7491,7 +7531,7 @@
         "entries": [
             {
                 "meaning": "antsasa, casca",
-                "specification": ""
+                "specification": "cuerpo"
             }
         ]
     },
@@ -7550,7 +7590,7 @@
     "caca": {
         "entries": [
             {
-                "meaning": "nnordo, fecta",
+                "meaning": "kaka, nnordo, fecta",
                 "specification": ""
             }
         ]
@@ -11106,7 +11146,7 @@
                 "specification": "coloquial"
             },
             {
-                "meaning": "ingerai, ingoi",
+                "meaning": "ingoi, ingerai, mangai",
                 "specification": ""
             }
         ]
@@ -11404,6 +11444,10 @@
             {
                 "meaning": "kompra",
                 "specification": ""
+            },
+            {
+                "meaning": "loge",
+                "specification": ""
             }
         ]
     },
@@ -11418,7 +11462,7 @@
     "comprar": {
         "entries": [
             {
-                "meaning": "kompraire",
+                "meaning": "logai, kompraire",
                 "specification": ""
             }
         ]
@@ -11456,6 +11500,14 @@
         ]
     },
     "comprobar": {
+        "entries": [
+            {
+                "meaning": "tseqai, testai, tseiqe",
+                "specification": ""
+            }
+        ]
+    },
+    "fijarse detenidamente": {
         "entries": [
             {
                 "meaning": "tseqai, testai, tseiqe",
@@ -19066,7 +19118,7 @@
     "escrito": {
         "entries": [
             {
-                "meaning": "izkriba",
+                "meaning": "sore, izkriba",
                 "specification": ""
             }
         ]
@@ -19086,7 +19138,7 @@
     "escritura": {
         "entries": [
             {
-                "meaning": "izkribatia",
+                "meaning": "soratia, izkribatia",
                 "specification": ""
             }
         ]
@@ -20859,6 +20911,14 @@
             }
         ]
     },
+    "facilitar que algo ocurra": {
+        "entries": [
+            {
+                "meaning": "anladei",
+                "specification": ""
+            }
+        ]
+    },
     "facilitar": {
         "entries": [
             {
@@ -21263,6 +21323,14 @@
         "entries": [
             {
                 "meaning": "figura",
+                "specification": ""
+            }
+        ]
+    },
+    "fijar algo": {
+        "entries": [
+            {
+                "meaning": "pinnai",
                 "specification": ""
             }
         ]
@@ -22110,7 +22178,7 @@
     "friki de libros": {
         "entries": [
             {
-                "meaning": "izbocix",
+                "meaning": "izbocix, sorette",
                 "specification": ""
             }
         ]
@@ -22118,7 +22186,7 @@
     "ratón de biblioteca": {
         "entries": [
             {
-                "meaning": "izbocix",
+                "meaning": "izbocix, sorette",
                 "specification": ""
             }
         ]
@@ -25458,7 +25526,7 @@
     "idiota": {
         "entries": [
             {
-                "meaning": "hunko, fruka",
+                "meaning": "hunko, fruka, estulta",
                 "specification": ""
             }
         ]
@@ -25763,10 +25831,18 @@
             }
         ]
     },
+    "inclinación": {
+        "entries": [
+            {
+                "meaning": "eslanto, inklina",
+                "specification": ""
+            }
+        ]
+    },
     "inclinar": {
         "entries": [
             {
-                "meaning": "inklinai",
+                "meaning": "eslantai, inklinai",
                 "specification": ""
             }
         ]
@@ -26363,6 +26439,30 @@
             }
         ]
     },
+    "intercambiar": {
+        "entries": [
+            {
+                "meaning": "logai, kamboi",
+                "specification": ""
+            }
+        ]
+    },
+    "intercambio": {
+        "entries": [
+            {
+                "meaning": "loge",
+                "specification": ""
+            }
+        ]
+    },
+    "adqusición": {
+        "entries": [
+            {
+                "meaning": "loge",
+                "specification": ""
+            }
+        ]
+    },
     "interesante": {
         "entries": [
             {
@@ -26879,6 +26979,22 @@
         "entries": [
             {
                 "meaning": "jiderarqia",
+                "specification": ""
+            }
+        ]
+    },
+    "jeroglifico": {
+        "entries": [
+            {
+                "meaning": "artisora, jeroglifia",
+                "specification": ""
+            }
+        ]
+    },
+    "jeroglifo": {
+        "entries": [
+            {
+                "meaning": "artiletra, jeroglifo",
                 "specification": ""
             }
         ]
@@ -27818,7 +27934,7 @@
     "libro": {
         "entries": [
             {
-                "meaning": "izboto, libro",
+                "meaning": "libro, sorate, izboto",
                 "specification": ""
             }
         ]
@@ -28434,7 +28550,7 @@
     "lobo": {
         "entries": [
             {
-                "meaning": "lupo, lauseto",
+                "meaning": "lupo, vofen, lauseto",
                 "specification": ""
             }
         ]
@@ -28526,7 +28642,7 @@
     "lombriz": {
         "entries": [
             {
-                "meaning": "siguro",
+                "meaning": "siguro, gago",
                 "specification": ""
             }
         ]
@@ -30547,6 +30663,22 @@
         "entries": [
             {
                 "meaning": "dersei",
+                "specification": ""
+            }
+        ]
+    },
+    "meridiano": {
+        "entries": [
+            {
+                "meaning": "meridian",
+                "specification": ""
+            }
+        ]
+    },
+    "husos horarios": {
+        "entries": [
+            {
+                "meaning": "meridian",
                 "specification": ""
             }
         ]
@@ -36903,6 +37035,14 @@
             }
         ]
     },
+    "pie de texto": {
+        "entries": [
+            {
+                "meaning": "entesora, poscritum",
+                "specification": ""
+            }
+        ]
+    },
     "pie": {
         "entries": [
             {
@@ -38223,6 +38363,22 @@
         "entries": [
             {
                 "meaning": "postal",
+                "specification": ""
+            }
+        ]
+    },
+    "postdata": {
+        "entries": [
+            {
+                "meaning": "poscritum",
+                "specification": ""
+            }
+        ]
+    },
+    "postscript": {
+        "entries": [
+            {
+                "meaning": "poscritum",
                 "specification": ""
             }
         ]
@@ -42263,6 +42419,14 @@
             }
         ]
     },
+    "salir a comprar artículos de vida básicos": {
+        "entries": [
+            {
+                "meaning": "viverei",
+                "specification": ""
+            }
+        ]
+    },
     "salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole": {
         "entries": [
             {
@@ -45659,6 +45823,14 @@
             }
         ]
     },
+    "tenderete": {
+        "entries": [
+            {
+                "meaning": "loga",
+                "specification": ""
+            }
+        ]
+    },
     "tendero": {
         "entries": [
             {
@@ -46038,7 +46210,7 @@
     "texto": {
         "entries": [
             {
-                "meaning": "izkrebo",
+                "meaning": "sora, izkrebo",
                 "specification": ""
             }
         ]
@@ -46106,7 +46278,7 @@
     "tienda": {
         "entries": [
             {
-                "meaning": "kompraitela",
+                "meaning": "loga, logatela, kompraitela",
                 "specification": ""
             }
         ]

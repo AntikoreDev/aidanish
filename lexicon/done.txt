@@ -161,6 +161,7 @@ adoptado
 adoptar
 adoración
 adorar
+adqusición
 adrenalina
 aduana
 adueñarse
@@ -266,6 +267,7 @@ alemán
 alergología
 alergólogo
 aleta
+alfabeto
 alfajor
 alfil
 alfombra
@@ -544,6 +546,7 @@ artista
 artrografía
 artrología
 artículo
+artículo básico para vivir
 arvicolino
 arándano
 ascender
@@ -897,6 +900,7 @@ burrito
 burro
 buscador
 buscar
+buscar en internet
 busto
 butaca
 butano
@@ -913,6 +917,7 @@ caballito de mar
 caballo
 cabaña
 cabe
+cabecera
 cabello
 caber
 cabeza
@@ -2540,6 +2545,7 @@ extrovertido
 eyaculación
 eyacular
 facilitar
+facilitar que algo ocurra
 faisán
 falda
 fallar
@@ -2591,6 +2597,8 @@ fiel
 fieltro
 fiesta
 figura
+fijar algo
+fijarse detenidamente
 fila
 filmografía
 filmología
@@ -3084,6 +3092,7 @@ humo
 humor
 huracán
 hurón
+husos horarios
 huérfano
 huésped
 huída
@@ -3143,6 +3152,7 @@ inaccesible
 incar
 incertidumbre
 incienso
+inclinación
 inclinar
 incluir
 incluso
@@ -3216,6 +3226,8 @@ intencional
 intención
 intentar
 intento
+intercambiar
+intercambio
 interesante
 interesar
 interfaz
@@ -3278,6 +3290,8 @@ jazmín
 jefe
 jengibre
 jerarquía
+jeroglifico
+jeroglifo
 jersey
 jerárquico
 jirafa
@@ -3344,6 +3358,7 @@ las
 lasaña
 lascivo
 lata
+lateral
 latín
 latón
 lava
@@ -3719,6 +3734,7 @@ mercadología
 mercadólogo
 mercurio
 merecer
+meridiano
 merluza
 mermelada
 mes
@@ -4490,6 +4506,7 @@ picar
 pico
 pictografía
 pie
+pie de texto
 piedra
 piedra papel tijera
 piel
@@ -4646,9 +4663,11 @@ posición
 posología
 posponer
 postal
+postdata
 poste
 posterior
 postre
+postscript
 postura
 potar
 pozo
@@ -5150,6 +5169,7 @@ saldo
 salida
 saliente
 salir
+salir a comprar artículos de vida básicos
 salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole
 salmón
 salsa
@@ -5555,6 +5575,7 @@ temática
 tenaza
 tenazas
 tender
+tenderete
 tendero
 tenedor
 tener

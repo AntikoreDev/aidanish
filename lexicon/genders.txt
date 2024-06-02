@@ -275,6 +275,7 @@ la alergologia
 ei alergologo
 ei alergologette
 la fina
+ei alfabeto
 ei almodratso
 la espare
 la corta
@@ -492,6 +493,7 @@ la artisette
 la artrografia
 la artrografica
 la artrologia
+ei viver
 ei articulo
 ei articlo
 ei arvicolino
@@ -733,7 +735,6 @@ ei biologette
 ei bloke
 ei lokeo
 la zisga
-la keke
 ei bobsleigh
 la opa
 la oupa
@@ -830,6 +831,8 @@ la cavalria
 ei marayato
 la ayette
 ei ayato
+la andesora
+ei prescritum
 la antsasa
 la casca
 la cabin
@@ -839,6 +842,7 @@ ei koato
 la gate
 ei visco
 ei morogo
+la kaka
 ei nnordo
 la fecta
 ei cacauato
@@ -942,6 +946,7 @@ la qanzautora
 la petrotela
 ei petroxette
 ei qanzigo
+la qantita
 ei acoino
 la cantimpla
 la cantena
@@ -1230,7 +1235,6 @@ la qeola
 ei coladoro
 ei colapso
 la colectia
-ei yoyo
 ei esaroriun
 la eskola
 la esaroitela
@@ -1938,11 +1942,13 @@ ei busterre
 ei buste
 ei escorpio
 ei eskozo
+ei sore
 la izkriba
 la izkretela
 la izkrotela
 ei desto
 ei desktop
+la soratia
 la izkribatia
 ei escroto
 la escuadra
@@ -2267,6 +2273,7 @@ ei cix
 ei weabu
 la fliagacix
 ei izbocix
+ei sorette
 ei esporcix
 ei esportecix
 ei computercix
@@ -2403,7 +2410,6 @@ ei lexicon
 la glotologia
 la gnoseologia
 ei governo
-la eba
 la xafla
 ei golem
 ei golf
@@ -2689,8 +2695,6 @@ la ideologia
 ei ideologo
 ei ideologette
 ei lango
-ei hunko
-la fruka
 la idolologia
 la eklesia
 la praisotela
@@ -2713,6 +2717,8 @@ ei magneto
 la inakcesibila
 ei inzertidumbre
 ei incenso
+ei eslanto
+la inklina
 la inconforta
 ei proko
 ei incube
@@ -2759,6 +2765,7 @@ ei insulso
 ei intelekto
 ei intentio
 la tre
+ei loge
 la interfazia
 la interneta
 la interval
@@ -2809,6 +2816,10 @@ la casca
 la azura
 la raske
 la jiderarqia
+la artisora
+la jeroglifia
+la artiletra
+ei jeroglifo
 ei jersey
 ei tuske
 la terke
@@ -2917,8 +2928,9 @@ ei vademecum
 la manual
 ei primer
 la primera
-ei izboto
 ei libro
+la sorate
+ei izboto
 la licantropia
 la licensa
 ei licenso
@@ -2973,6 +2985,7 @@ la pluva
 la acoata
 ei afondo
 ei lupo
+ei vofen
 ei lauseto
 la ankraia
 la ugrarda
@@ -2982,6 +2995,7 @@ ei logette
 ei lokro
 la lomba
 ei siguro
+ei gago
 la rame
 la longoteda
 ei locuo
@@ -3105,9 +3119,6 @@ la blaigia
 la zigarra
 la arrainata
 la arraina
-la qantita
-la aluran
-ei turan
 ei mariologo
 ei mariologette
 la marmota
@@ -3196,6 +3207,7 @@ la mercadologia
 ei mercadologo
 ei mercadologette
 la mercuria
+la meridian
 ei xun
 ei mutse
 la iamela
@@ -3612,6 +3624,7 @@ ei autonno
 ei otologo
 ei otologette
 ei omejo
+la eba
 ei ozone
 la pacenza
 ei pacto
@@ -3872,6 +3885,8 @@ la yera
 ei jerco
 la persivita
 la persona
+la aluran
+ei turan
 la aurataiette
 la panfilos
 ei perso
@@ -3917,6 +3932,8 @@ ei pikote
 ei ampico
 la pictografia
 la pictografica
+la entesora
+ei poscritum
 la poi
 ei petro
 la petra
@@ -3958,11 +3975,11 @@ la arsonisma
 la pirometria
 la pirometrica
 la piramide
-la piramide
 ei frustro
 ei frustrum
 ei frusto
 ei frustum
+la piramide
 la arsonista
 la piromanette
 la piromane
@@ -4083,6 +4100,7 @@ ei posesive
 ei posaieo
 la posologia
 ei postal
+ei poscritum
 ei poste
 ei forco
 ei sundo
@@ -4775,6 +4793,7 @@ ei templo
 la subyectata
 la kratsa
 la alicator
+la loga
 ei venteixette
 la tinera
 ei trintso
@@ -4820,6 +4839,7 @@ la tita
 la tetralogia
 ei tetronimo
 ei zalgo
+la sora
 ei izkrebo
 ei teologo
 ei teologette
@@ -4830,6 +4850,8 @@ ei tiqe
 ei ticket
 ei vedo
 ei tempo
+la loga
+la logatela
 la kompraitela
 la hace
 la terra
@@ -5262,6 +5284,7 @@ la yate
 la yequa
 ei yero
 ei yogur
+ei yoyo
 la herrunna
 la carrota
 ei poire

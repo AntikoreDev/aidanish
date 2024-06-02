@@ -169,6 +169,7 @@ brillar con luz tenue → glimai
 brillar → briai
 bromear → rusiai
 burlar → bulai
+buscar en internet → guglai
 buscar → findai
 caber → kuai
 caducar → expirai
@@ -221,7 +222,7 @@ colocar → kolokaire
 colonizar → colonicei
 colorear → kromatei, kolorei
 combinar → comboi
-comer → ingerai, ingoi
+comer → ingoi, ingerai, mangai
 comerciar → komerzai
 cometer, perpetrar → cometai
 compadecer → compadai
@@ -233,9 +234,9 @@ completar → kompletai
 complicar → complicai
 componer → composai
 comportarse → unbisei
-comprar → kompraire
+comprar → logai, kompraire
 comprender → comprendai
-comprobar → tseqai, testai, tseiqe
+comprobar, fijarse detenidamente → tseqai, testai, tseiqe
 computar → computai
 conceptuar → conceptai
 condenar → condenaire
@@ -267,7 +268,6 @@ contar (con algo) → akoixei
 contar (contar a alguien algo) → rekoixei
 contar (números o cosas) → kontoi
 contener → containe, koi
-inundar → fluvai
 continuar → enterai, pronkai
 contraer → contraine
 contratar → asignai
@@ -519,12 +519,14 @@ extinguir → extingei
 extraer → tractaine
 extrañar → estrannai
 eyacular → gumoi
+facilitar que algo ocurra → anladei
 facilitar → fazilai
 fallar → errai
 faltar → falai
 favorar → favorai
 fertilizar → feretai
 festejar → partai, faire, festai
+fijar algo → pinnai
 finalizar → finalei
 firmar → sennei
 firmar → signaire
@@ -597,7 +599,7 @@ impresionar → impresei
 imprimir → izkratarosotei
 impulsar → bustai
 incar → hincai
-inclinar → inklinai
+inclinar → eslantai, inklinai
 incluir → includei
 incordiar → prokei, tsordai
 incubar → incubai
@@ -611,9 +613,11 @@ inscribir → azkribei
 insertar → inserei
 instalar → instalai
 intentar → trei
+intercambiar → logai, kamboi
 interesar → interesai
 introducir → introi
 intrusear → intrudai
+inundar → fluvai
 inventar → iventai
 invertir (dinero) → investai
 invertir (orden) → invertai
@@ -654,6 +658,7 @@ localizar (traducir) → localai
 lograr → lokrai
 luchar → fistai
 machacar → pestai, matsakai
+madrugar → yontai
 maldecir → maldikei
 mamar → mamaire
 manchar → zugrai, teine
@@ -787,8 +792,8 @@ planchar → plankai
 planear (plan) → planoi
 planear (volar) → planeai
 plantar → plantaire
-poder ser → ponsei
 poder hacer → pondoi
+poder ser → ponsei
 poder tener → pontaine
 poder ver → ponvisoi
 poder → pontai, paidai
@@ -820,7 +825,6 @@ probar → probai
 procastinar → procastinai
 proceder → procedei
 procesar → procesai
-rodear → eriodai
 procrastinar → procrastinei
 producir → proteire
 programar → prokramai, codai
@@ -912,6 +916,7 @@ rezar → praisoi
 rimar → rimai
 robar → rovai
 rodar → rodai
+rodear → eriodai
 romper → rompeire
 rondar → rondai
 rotar → rotai
@@ -923,6 +928,7 @@ saber → onetai
 sacar → retrai
 saciar → satiarei
 sacrificar → sacrifai
+salir a comprar artículos de vida básicos → viverei
 salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole → comandai, comandaire
 salir → evokai
 saltar → pulai
@@ -1031,7 +1037,6 @@ tronar → trumbai
 truncar → truncai
 turnar → turnoi
 ubicar, localizar (encontrar) → lokaize
-madrugar → yontai
 unir → yoi
 uperisar, ultrapasteurizar → uperisai
 usar → usei

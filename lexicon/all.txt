@@ -274,6 +274,7 @@ alemán → duxlano
 alergología → alergologia
 alergólogo → alergologo, alergologette
 aleta → fina
+alfabeto → alfabeto
 alfajor → almodratso
 alfil (ajedrez) → espare
 alfombra → corta
@@ -549,6 +550,7 @@ artesano → artisette
 artista → artista, artisette
 artrografía → artrografia, artrografica
 artrología → artrologia
+artículo básico para vivir → viver
 artículo → articulo, articlo
 arvicolino → arvicolino, arvicolo
 arándano → aniluba
@@ -848,7 +850,7 @@ bombón → tsoklo
 bongo → bongo
 bonito → piloko
 boquilla → oupila
-borde → asero
+borde, lateral (geometría) → asero
 borracho → trunko
 borrador (boceto) → druxeto
 borrador (herramienta) → prusaioro
@@ -910,6 +912,7 @@ burro → zigar
 buscador (cosa) → findaoro
 buscador (persona) → findette
 buscador → trovarette
+buscar en internet → guglai
 buscar → findai
 busto → perpetro
 butaca → cansenda
@@ -926,17 +929,18 @@ caballero (que monta a caballo) → ayette
 caballería → veria, cavalria
 caballito de mar → marayato
 caballo (ajedrez) → ayette
-caballo → ayato
+caballo (animal) → ayato
 cabe → kabe
+cabecera (texto) → andesora, prescritum
 caber → kuai
-cabeza → antsasa, casca
+cabeza (cuerpo) → antsasa, casca
 cabezón, terco (insulto) → bluta
 cabina → cabin
 cable → guiro, tokla
 cabra → koato, gate, visco
 cabrón → fuzo
 cabrón → morogo
-caca → nnordo, fecta
+caca → kaka, nnordo, fecta
 cacahuete, cacahuate → cacauato
 cacao → cacao
 cacerola → kaserola
@@ -1376,7 +1380,7 @@ combustión → combustio
 combusto → combusto
 comedor → ingotela
 comer (coloquial) → ingoi
-comer → ingerai, ingoi
+comer → ingoi, ingerai, mangai
 comercial → komerziale
 comerciar → komerzai
 comercio → komerzio
@@ -1414,12 +1418,12 @@ comportamiento → unba
 comportarse → unbisei
 compra → kompra
 comprador → kompraixette
-comprar → kompraire
+comprar → logai, kompraire
 comprender → comprendai
 comprensión → comprendo
 comprobación → tseqe
 comprobado → teste
-comprobar → tseqai, testai, tseiqe
+comprobar, fijarse detenidamente → tseqai, testai, tseiqe
 computar → computai
 comunicología → comunicologia
 comunicólogo → comunicologo, comunicologette
@@ -2352,10 +2356,10 @@ escopetazo → buste
 escorpión → escorpio
 escozor → eskozo
 escribir → izkribei
-escrito → izkriba
+escrito → sore, izkriba
 escritorio (mueble) → izkretela, izkrotela
 escritorio (ordenador) → desto, desktop
-escritura → izkribatia
+escritura → soratia, izkribatia
 escroto → escroto
 escuadra → escuadra
 escuadrón → escuadra
@@ -2568,6 +2572,7 @@ extremo → extremo
 extrovertido → extroverto
 eyaculación → guma
 eyacular → gumoi
+facilitar que algo ocurra → anladei
 facilitar → fazilai
 faisán → fanso
 falda → fuana, saia
@@ -2619,6 +2624,7 @@ fiel → faiette
 fieltro → feltro
 fiesta → festa, parta, faira
 figura → figura
+fijar algo → pinnai
 fila → linia
 filmografía → filmografia, filmografica
 filmología → filmologia
@@ -2725,7 +2731,7 @@ fresón → frerna
 freír → fritei
 friki (despectivo) → cix, weabu
 friki de banderas → fliagacix
-friki de libros, ratón de biblioteca → izbocix
+friki de libros, ratón de biblioteca → izbocix, sorette
 friki de los deportes → esporcix, esportecix
 friki de ordenadores → computercix
 friki de videojuegos → jokocix, vidiojokocix
@@ -3137,7 +3143,7 @@ ideografía → ideografia, ideografica
 ideología → ideologia
 ideólogo → ideologo, ideologette
 idioma, lenguaje → lango
-idiota → hunko, fruka
+idiota → hunko, fruka, estulta
 idolología → idolologia
 iglesia → eklesia, praisotela
 ignografía → ignografia, ignografica
@@ -3176,7 +3182,8 @@ inaccesible → inakcesibla
 incar → hincai
 incertidumbre → inzertidumbre
 incienso → incenso
-inclinar → inklinai
+inclinación → eslanto, inklina
+inclinar → eslantai, inklinai
 incluir → includei
 incluso → inclusive
 incomodidad → inconforta
@@ -3250,6 +3257,8 @@ intencional → intentiente
 intención → intentio
 intentar → trei
 intento → tre
+intercambiar → logai, kamboi
+intercambio, compra, adqusición → loge
 interesante → interesanta
 interesar → interesai
 interfaz → interfazia
@@ -3312,6 +3321,8 @@ jazmín (flor) → terisna
 jefe → jefe, printsiale, antso, casca
 jengibre → azura, raske
 jerarquía → jiderarqia
+jeroglifico → artisora, jeroglifia
+jeroglifo → artiletra, jeroglifo
 jersey → jersey, tuske
 jerárquico → jiderarqiko
 jirafa → terke, oxpisotsa
@@ -3428,7 +3439,7 @@ librería (estantería de libros) → librotela
 librería → izbotela, libreria, librotela
 libreta → izboiko, librete
 libro elemental, vademécum, manual → vademecum, manual, primer, primera
-libro → izboto, libro
+libro → libro, sorate, izboto
 licantropía → licantropia
 licencia → licensa
 licenciado → licenso
@@ -3503,7 +3514,7 @@ lluvia → pluva, acoata
 lo (cosa) → xo
 lo más bajo posible que se puede estar en algo → afondo
 lo que sea → oraben
-lobo → lupo, lauseto
+lobo → lupo, vofen, lauseto
 local → local, locatako
 localizar (traducir) → localai
 loco → loko, ankraro, friko
@@ -3514,7 +3525,7 @@ logo → logo, logette
 lograr → lokrai
 logro → lokro
 lombarda → lomba
-lombriz → siguro
+lombriz → siguro, gago
 lomo → rame
 londrés → londonia
 longitud → longoteda
@@ -3764,6 +3775,7 @@ mercadología → mercadologia
 mercadólogo → mercadologo, mercadologette
 mercurio → mercuria
 merecer → dersei
+meridiano, husos horarios → meridian
 merluza → xun, mutse
 mermelada → iamela
 mes → mes
@@ -4556,6 +4568,7 @@ pico (animal) → pike
 pico (herramienta) → pikote
 pico (montaña) → ampico
 pictografía → pictografia, pictografica
+pie de texto → entesora, poscritum
 pie → poi
 piedra papel tijera → petra fola akuto
 piedra → petro, petra
@@ -4728,6 +4741,7 @@ posición → posaieo
 posología → posologia
 posponer → posposai
 postal → postal
+postdata, postscript → poscritum
 poste → poste, forco
 posterior → enterier
 postre → sundo, postre
@@ -5228,6 +5242,7 @@ salchicha → karnolon, sausoxo, soyo
 saldo → saldo
 salida → evokatela
 saliente → evoke
+salir a comprar artículos de vida básicos → viverei
 salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole → comandai, comandaire
 salir → evokai
 salmón → tsugo
@@ -5645,6 +5660,7 @@ temática → subyectata
 tenaza → kratsa
 tenazas, alicates → alicator
 tender → ibsoi
+tenderete → loga
 tendero, vendedor → venteixette
 tenedor → tinera, trintso
 tener una pesadilla → heupentsai
@@ -5692,7 +5708,7 @@ teta → burra, tita
 tetralogía → tetralogia
 tetronimo → tetronimo
 texto zalgo → zalgo
-texto → izkrebo
+texto → sora, izkrebo
 teñir → tentai
 teólogo → teologo, teologette
 tibio → templa
@@ -5701,7 +5717,7 @@ ticket → tike, tiqe, ticket
 tiempo (clima) → vedo
 tiempo libre → xiatempo, oziotempo, ociotempo
 tiempo → tempo
-tienda → kompraitela
+tienda → loga, logatela, kompraitela
 tierno → aile
 tierra infértil → hace
 tierra → terra

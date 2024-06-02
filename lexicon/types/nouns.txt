@@ -253,6 +253,7 @@ alegría → aibe
 alergología → alergologia
 alergólogo → alergologo, alergologette
 aleta → fina
+alfabeto → alfabeto
 alfajor → almodratso
 alfil (ajedrez) → espare
 alfombra → corta
@@ -425,6 +426,7 @@ artesano → artisette
 artista → artista, artisette
 artrografía → artrografia, artrografica
 artrología → artrologia
+artículo básico para vivir → viver
 artículo → articulo, articlo
 arvicolino → arvicolino, arvicolo
 arándano → aniluba
@@ -617,7 +619,6 @@ biólogo → biologo, biologette
 bloque → bloke
 bloqueo → lokeo
 boa → zisga
-bobo → keke
 bobsleigh → bobsleigh
 boca → opa, oupa
 bocadillo → britango
@@ -639,7 +640,7 @@ bombona → butanna
 bombón → tsoklo
 bongo → bongo
 boquilla → oupila
-borde → asero
+borde, lateral (geometría) → asero
 borrador (boceto) → druxeto
 borrador (herramienta) → prusaioro 
 bosque → fisi, arbotsiun
@@ -695,13 +696,14 @@ caballero (que monta a caballo) → ayette
 caballería → veria, cavalria
 caballito de mar → marayato
 caballo (ajedrez) → ayette
-caballo → ayato
-cabeza → antsasa, casca
+caballo (animal) → ayato
+cabecera (texto) → andesora, prescritum
+cabeza (cuerpo) → antsasa, casca
 cabina → cabin
 cable → guiro, tokla
 cabra → koato, gate, visco
 cabrón → morogo
-caca → nnordo, fecta
+caca → kaka, nnordo, fecta
 cacahuete, cacahuate → cacauato
 cacao → cacao
 cacerola → kaserola
@@ -780,6 +782,7 @@ cantautor → qanzautora
 cantera → petrotela
 cantero → petroxette
 cantico → qanzigo
+cantidad → qantita
 cantimplora → acoino, cantimpla
 cantina → cantena, ingotela
 canto angeligcal → ancanto
@@ -1018,7 +1021,6 @@ cola (personas) → qeola
 colador → coladoro
 colapso → colapso
 colección → colectia
-yoyo → yoyo
 colegio, escuela → esaroriun, eskola, esaroitela
 colibrí → liarta
 colina → yordea, sugal
@@ -1593,10 +1595,10 @@ escopeta → busterre
 escopetazo → buste
 escorpión → escorpio
 escozor → eskozo
-escrito → izkriba
+escrito → sore, izkriba
 escritorio (mueble) → izkretela, izkrotela
 escritorio (ordenador) → desto, desktop
-escritura → izkribatia
+escritura → soratia, izkribatia
 escroto → escroto
 escuadra → escuadra
 escuadrón → escuadra
@@ -1854,7 +1856,7 @@ fresno → katria
 fresón → frerna
 friki (despectivo) → cix, weabu
 friki de banderas → fliagacix
-friki de libros, ratón de biblioteca → izbocix
+friki de libros, ratón de biblioteca → izbocix, sorette
 friki de los deportes → esporcix, esportecix
 friki de ordenadores → computercix
 friki de videojuegos → jokocix, vidiojokocix
@@ -1957,7 +1959,6 @@ glosario → glose, lexicon
 glotología → glotologia
 gnoseología → gnoseologia
 gobierno → governo
-ovni → estranne blaiette artefactum, eba
 gofre → xafla
 golem → golem
 golf → golf
@@ -2172,7 +2173,6 @@ ideografía → ideografia, ideografica
 ideología → ideologia
 ideólogo → ideologo, ideologette
 idioma, lenguaje → lango
-idiota → hunko, fruka
 idolología → idolologia
 iglesia → eklesia, praisotela
 ignografía → ignografia, ignografica
@@ -2192,6 +2192,7 @@ imán → magneto
 inaccesibilidad → inakcesibila
 incertidumbre → inzertidumbre
 incienso → incenso
+inclinación → eslanto, inklina
 incomodidad → inconforta
 incordio → proko
 incubación → incube
@@ -2230,6 +2231,7 @@ insulto → insulto, retro, insulso
 intelecto → intelekto
 intención → intentio
 intento → tre
+intercambio, compra, adqusición → loge
 interfaz → interfazia
 internet → interneta
 intervalo → interval
@@ -2270,6 +2272,8 @@ jazmín (flor) → terisna
 jefe → jefe, printsiale, antso, casca
 jengibre → azura, raske
 jerarquía → jiderarqia
+jeroglifico → artisora, jeroglifia
+jeroglifo → artiletra, jeroglifo
 jersey → jersey, tuske
 jirafa → terke, oxpisotsa
 jornada → henata, iornada
@@ -2351,7 +2355,7 @@ librería (estantería de libros) → librotela
 librería → izbotela, libreria, librotela
 libreta → izboiko, librete
 libro elemental, vademécum, manual → vademecum, manual, primer, primera
-libro → izboto, libro
+libro → libro, sorate, izboto
 licantropía → licantropia
 licencia → licensa
 licenciado → licenso
@@ -2395,14 +2399,14 @@ llegada → iriheia
 lluvia de balas → baletrumbe
 lluvia → pluva, acoata
 lo más bajo posible que se puede estar en algo → afondo
-lobo → lupo, lauseto
+lobo → lupo, vofen, lauseto
 locura → ankraia
 lodazal → ugrarda
 lodo → ugra
 logo → logo, logette
 logro → lokro
 lombarda → lomba
-lombriz → siguro
+lombriz → siguro, gago
 lomo → rame
 longitud → longoteda
 loro → locuo, pargo
@@ -2505,9 +2509,6 @@ mariposa → blaigia
 mariquita → zigarra
 mariscada, evento festivo típico del litoral; especialmente en Rioko donde se sirven grandes cantidades de mariscos → arrainata
 marisco → arraina
-cantidad → qantita
-persona de piel clara → aluran
-persona de piel oscura → turan
 mariólogo → mariologo, mariologette
 marmota → marmota
 marrón (una situación jodida) → injo
@@ -2582,6 +2583,7 @@ menú → menu
 mercadología → mercadologia
 mercadólogo → mercadologo, mercadologette
 mercurio → mercuria
+meridiano, husos horarios → meridian
 merluza → xun, mutse
 mermelada → iamela
 mes → mes
@@ -2897,6 +2899,7 @@ otorrinolaringólogo → otorrinolaringologo, otorrinolaringologette
 otoño → autonno
 otólogo → otologo, otologette
 oveja → omejo
+ovni → estranne blaiette artefactum, eba
 ozono → ozone
 paciencia → pacenza
 paciente cero → casus index, casus primer
@@ -3095,6 +3098,8 @@ perseverancia → persevera
 persiana → yera, jerco
 persistencia → persivita
 persona (forma muy formal) → persona
+persona de piel clara → aluran
+persona de piel oscura → turan
 persona que para crecer o beneficiarse él mismo es capaz de pisar a los demás → aurataiette 
 persona que siempre está emocionada por todo; a veces de forma nerviosa y agitada; o que te cuenta cosas poco interesantes con mucha emoción hasta un punto que es molesto → panfilos
 persona → perso
@@ -3136,6 +3141,7 @@ pico (animal) → pike
 pico (herramienta) → pikote
 pico (montaña) → ampico
 pictografía → pictografia, pictografica
+pie de texto → entesora, poscritum
 pie → poi
 piedra papel tijera → petra fola akuto
 piedra → petro, petra
@@ -3168,8 +3174,8 @@ pirografía → pirografia, pirografica
 pirología → pirologia
 piromanía → arsonisma 
 pirometría → pirometria, pirometrica
-pirámide → piramide
 pirámide (forma geométrica) → piramide, frustro, frustrum, frusto, frustum
+pirámide → piramide
 pirómano → arsonista, piromanette
 pirómano → piromane
 pis → pikse
@@ -3265,6 +3271,7 @@ posesivo (lengua) → posesive
 posición → posaieo
 posología → posologia
 postal → postal
+postdata, postscript → poscritum
 poste → poste, forco
 postre → sundo, postre
 postura → poste
@@ -3833,6 +3840,7 @@ templo → templo
 temática → subyectata
 tenaza → kratsa
 tenazas, alicates → alicator
+tenderete → loga
 tendero, vendedor → venteixette
 tenedor → tinera, trintso
 tenis → tenis
@@ -3867,13 +3875,13 @@ teta → burra, tita
 tetralogía → tetralogia
 tetronimo → tetronimo
 texto zalgo → zalgo
-texto → izkrebo
+texto → sora, izkrebo
 teólogo → teologo, teologette
 tiburón → tsonder, esqalo
 ticket → tike, tiqe, ticket
 tiempo (clima) → vedo
 tiempo → tempo
-tienda → kompraitela
+tienda → loga, logatela, kompraitela
 tierra infértil → hace
 tierra → terra
 tiflología → tiflologia
@@ -4207,6 +4215,7 @@ yate → yate
 yegüa → yequa
 yero, algarroba → yero
 yogur → yogur
+yoyo → yoyo
 yunque → herrunna
 zanahoria → carrota
 zapatilla, zapato → poire
