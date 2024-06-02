@@ -1027,6 +1027,7 @@ cantautor
 cantera
 cantero
 cantico
+cantidad
 cantimplora
 cantina
 canto
@@ -4430,6 +4431,8 @@ persiana
 persistencia
 persistir
 persona
+persona de piel clara
+persona de piel oscura
 persona en contra de las cosas nuevas
 persona muy salida
 persona o cosa que trae mala suerte o infortunio
@@ -6075,6 +6078,7 @@ yegüa
 yero
 yo
 yogur
+yoyo
 yunque
 zanahoria
 zapatilla

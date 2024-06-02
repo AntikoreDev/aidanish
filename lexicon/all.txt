@@ -814,7 +814,7 @@ bisonte → bisonte
 bit → bit, bito
 bizco → quete
 biólogo → biologo, biologette
-blanco → bianco
+blanco → bianco, alura
 blando → bloneto
 blanquear (dinero) → xaguai, biancai
 blanquear → biancai
@@ -1037,6 +1037,7 @@ cantautor → qanzautora
 cantera → petrotela
 cantero → petroxette
 cantico → qanzigo
+cantidad → qantita
 cantimplora → acoino, cantimpla
 cantina → cantena, ingotela
 canto angeligcal → ancanto
@@ -1777,7 +1778,7 @@ de todas formas → da alde forma
 de un futuro cercano → postmoderna
 de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo → tokiota
 de → da
-debajo → alaur
+debajo → alaur, aura
 deber (algo que debes) → dute
 deber (colegio) → esaroidute
 deber (expresión) → debei
@@ -2232,7 +2233,7 @@ encharcar → culdai
 enchufar → plugai
 enchufe, tomacorriente → pluga
 enciclopedia → enciklopedia
-encima → alair
+encima → alair, aira
 enclave → entsave
 encoger → nograi
 encontrar → zunaire, trovai
@@ -3388,7 +3389,7 @@ lavadora → xaguatoro
 lavanda (flor) → lavanda
 lavar → xaguai
 lavavajillas → vadixaguaioro
-leche → esnea, lato
+leche → esnea, late, lato
 lechero → esneaxette
 lechuga → letsuga
 lechuza → xendo
@@ -4005,7 +4006,7 @@ negación → noneatio
 negar → nonei, nekai
 negativamente → nekatikoien
 negativo → nekatiko
-negro → nekro
+negro → nekro, tura
 nematodo → serle
 nenúfar → nufara
 neología → neologia
@@ -4492,6 +4493,8 @@ persiana → yera, jerco
 persistencia → persivita
 persistir → persiverai
 persona (forma muy formal) → persona
+persona de piel clara → aluran
+persona de piel oscura → turan
 persona muy salida → libidette
 persona o cosa que trae mala suerte o infortunio → yinke
 persona que busca activamente asiento en el transporte público → velociraptoroko
@@ -4588,6 +4591,7 @@ pirografía → pirografia, pirografica
 pirología → pirologia
 piromanía → arsonisma
 pirometría → pirometria, pirometrica
+pirámide (forma geométrica) → piramide, frustro, frustrum, frusto, frustum
 pirámide → piramide
 pirómano → arsonista, piromanette
 pirómano → piromane
@@ -6165,6 +6169,7 @@ yegüa → yequa
 yero, algarroba → yero
 yo → na
 yogur → yogur
+yoyo → yoyo
 yunque → herrunna
 zanahoria → carrota
 zapatilla, zapato → poire

@@ -1018,6 +1018,7 @@ cola (personas) → qeola
 colador → coladoro
 colapso → colapso
 colección → colectia
+yoyo → yoyo
 colegio, escuela → esaroriun, eskola, esaroitela
 colibrí → liarta
 colina → yordea, sugal
@@ -2320,7 +2321,7 @@ lavado → xaguata
 lavadora → xaguatoro
 lavanda (flor) → lavanda
 lavavajillas → vadixaguaioro
-leche → esnea, lato
+leche → esnea, late, lato
 lechero → esneaxette
 lechuga → letsuga
 lechuza → xendo
@@ -2504,6 +2505,9 @@ mariposa → blaigia
 mariquita → zigarra
 mariscada, evento festivo típico del litoral; especialmente en Rioko donde se sirven grandes cantidades de mariscos → arrainata
 marisco → arraina
+cantidad → qantita
+persona de piel clara → aluran
+persona de piel oscura → turan
 mariólogo → mariologo, mariologette
 marmota → marmota
 marrón (una situación jodida) → injo

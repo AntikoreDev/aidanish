@@ -1230,6 +1230,7 @@ la qeola
 ei coladoro
 ei colapso
 la colectia
+ei yoyo
 ei esaroriun
 la eskola
 la esaroitela
@@ -2873,6 +2874,7 @@ ei xaguatoro
 la lavanda
 ei vadixaguaioro
 la esnea
+la late
 ei lato
 la esneaxette
 la letsuga
@@ -3103,6 +3105,9 @@ la blaigia
 la zigarra
 la arrainata
 la arraina
+la qantita
+la aluran
+ei turan
 ei mariologo
 ei mariologette
 la marmota
@@ -3953,6 +3958,11 @@ la arsonisma
 la pirometria
 la pirometrica
 la piramide
+la piramide
+ei frustro
+ei frustrum
+ei frusto
+ei frustum
 la arsonista
 la piromanette
 la piromane

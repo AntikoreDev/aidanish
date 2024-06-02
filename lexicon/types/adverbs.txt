@@ -35,8 +35,8 @@ atrás → betran
 adelante → daotan
 alrededor → eriodo
 enfrente → imfranto
-encima → alair
-debajo → alaur
+encima → alair, aira
+debajo → alaur, aura
 fuera → fora
 dentro → intro, inter
 abajo → aur

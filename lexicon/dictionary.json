@@ -6590,7 +6590,7 @@
     "blanco": {
         "entries": [
             {
-                "meaning": "bianco",
+                "meaning": "bianco, alura",
                 "specification": ""
             }
         ]
@@ -8371,6 +8371,14 @@
         "entries": [
             {
                 "meaning": "qanzigo",
+                "specification": ""
+            }
+        ]
+    },
+    "cantidad": {
+        "entries": [
+            {
+                "meaning": "qantita",
                 "specification": ""
             }
         ]
@@ -14346,7 +14354,7 @@
     "debajo": {
         "entries": [
             {
-                "meaning": "alaur",
+                "meaning": "alaur, aura",
                 "specification": ""
             }
         ]
@@ -18082,7 +18090,7 @@
     "encima": {
         "entries": [
             {
-                "meaning": "alair",
+                "meaning": "alair, aira",
                 "specification": ""
             }
         ]
@@ -27490,7 +27498,7 @@
     "leche": {
         "entries": [
             {
-                "meaning": "esnea, lato",
+                "meaning": "esnea, late, lato",
                 "specification": ""
             }
         ]
@@ -32462,7 +32470,7 @@
     "negro": {
         "entries": [
             {
-                "meaning": "nekro",
+                "meaning": "nekro, tura",
                 "specification": ""
             }
         ]
@@ -36403,6 +36411,22 @@
             }
         ]
     },
+    "persona de piel clara": {
+        "entries": [
+            {
+                "meaning": "aluran",
+                "specification": ""
+            }
+        ]
+    },
+    "persona de piel oscura": {
+        "entries": [
+            {
+                "meaning": "turan",
+                "specification": ""
+            }
+        ]
+    },
     "persona muy salida": {
         "entries": [
             {
@@ -37157,6 +37181,10 @@
     },
     "pirámide": {
         "entries": [
+            {
+                "meaning": "piramide, frustro, frustrum, frusto, frustum",
+                "specification": "forma geométrica"
+            },
             {
                 "meaning": "piramide",
                 "specification": ""
@@ -49871,6 +49899,14 @@
         "entries": [
             {
                 "meaning": "yogur",
+                "specification": ""
+            }
+        ]
+    },
+    "yoyo": {
+        "entries": [
+            {
+                "meaning": "yoyo",
                 "specification": ""
             }
         ]

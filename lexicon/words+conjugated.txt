@@ -696,6 +696,8 @@ altimetria
 altimetrica
 altruista
 altsol
+alura
+aluran
 alutinai
 alutinaie
 alutinaieon
@@ -5677,6 +5679,10 @@ fructivoro
 fruge
 fruka
 fruki
+frusto
+frustro
+frustrum
+frustum
 fuana
 fuga
 fuksia
@@ -7748,6 +7754,7 @@ laringologia
 laringologo
 lasanna
 laser
+late
 latikate
 latin
 lato
@@ -10977,6 +10984,7 @@ qain
 qale
 qalem
 qansequentia
+qantita
 qanto
 qanzautora
 qanzei
@@ -13501,6 +13509,7 @@ tunna
 tunsten
 tupla
 tuputa
+tura
 turai
 turaie
 turaieon
@@ -13508,6 +13517,7 @@ turaiet
 turaiki
 turaio
 turaioto
+turan
 turei
 tureie
 tureieon
@@ -14301,6 +14311,7 @@ yoraiki
 yoraio
 yoraioto
 yordea
+yoyo
 yuolo
 zager
 zagoi

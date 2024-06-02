@@ -1,7 +1,7 @@
 amarillo → mallea
 azul → anil
 bizco → quete
-blanco → bianco
+blanco → bianco, alura
 carnívoro → karnivoro
 diestro → deiranno
 estafador → lerrako, zoike
@@ -14,7 +14,7 @@ marrón → marro, brunno, bronzo, itsoso
 material de mala calidad → petringo 
 morado → purpuro, purpur
 naranja (color) → oranja
-negro → nekro
+negro → nekro, tura
 obseso → oclure
 omnivoro → omnivoro
 persona muy salida → libidette
