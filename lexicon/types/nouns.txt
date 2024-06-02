@@ -359,7 +359,9 @@ anuncio → adva
 análogo → analogo
 anémona (flor) → anomas
 apagamiento → ofetio
-apagón → deof
+apagón → deof, grata unlita
+el hecho de apagar algo → unlita
+el hecho de encender algo → lita
 aparición → aparezeitio
 apeadero → apeadela
 apellido → aurnome, ginome
@@ -912,7 +914,7 @@ cetáceo → cetacio
 chaleco → tselo
 chamarra → burtso
 chaqueta → giaqeta
-charco → culda
+charco → zanga, culda
 charrán, estérnido → terno
 chat → chat
 chelo → tselo
@@ -1494,6 +1496,7 @@ egiptología → egiptologia
 egiptólogo → egiptologo, egiptologette
 ejemplo → exemplo
 ejercicio → exersizo
+el acto o la obra por el intento de terminar con una entidad fisica o abstracta → ultimatum
 el hecho de darse cuenta de algo → indora
 elección →  electio
 electricidad → elektritia
@@ -1889,6 +1892,7 @@ gafas → ogira, ogirit visoioroit
 galaxia → galaksis
 galería → galila
 galgo → galgo
+galleta → putsa, cuki
 gallina → conto, gaia
 gallo → contino
 gamba → ximbrarisa, ambo
@@ -1910,7 +1914,7 @@ gasometría → gasometria, gasometrica
 gastroenterología → gastroenterologia
 gastroenterólogo → gastroenterologo, gastroenterologette
 gatillo → triyo
-gato (animal) → kato, menino, minino, katen
+gato (animal) → kato, menino, minino, katen, miko, felin, felino
 gato (herramienta) → criketa
 gato montés → savakato
 gaviota → tagaro
@@ -1963,7 +1967,7 @@ gofre → xafla
 golem → golem
 golf → golf
 golfista → golfista, golfette
-golfo (geografía) → girufa
+golfo (geografía) → tago, girufa
 golpe de estado → estatarrota
 golpe inicial inesperado → transtava
 goma (herramienta) → prusaioro
@@ -2399,7 +2403,7 @@ llegada → iriheia
 lluvia de balas → baletrumbe
 lluvia → pluva, acoata
 lo más bajo posible que se puede estar en algo → afondo
-lobo → lupo, vofen, lauseto
+lobo → lupo, vofen, licano, lauseto
 locura → ankraia
 lodazal → ugrarda
 lodo → ugra
@@ -2636,6 +2640,7 @@ minero, cavernícola → ergota
 minería → minatia
 minoría → pikoloro
 minuto → minute
+inundación → fluvo
 minúscula → cota
 miología → miologia
 mirador → avistela, mirator
@@ -2898,7 +2903,7 @@ otorrinolaringología → otorrinolaringologia
 otorrinolaringólogo → otorrinolaringologo, otorrinolaringologette
 otoño → autonno
 otólogo → otologo, otologette
-oveja → omejo
+oveja → ovia, omejo, aboura
 ovni → estranne blaiette artefactum, eba
 ozono → ozone
 paciencia → pacenza
@@ -2952,7 +2957,7 @@ pansexual → pansexualo
 pansexualidad → pansexualita
 pantalla → visaya, tele
 pantalón → panto
-pantano → saguala
+pantano → saguala, zanga
 pantera → pantera
 pantufla → bourisa
 papada → ploka
@@ -3064,6 +3069,7 @@ pensamiento (mente) → penze
 pensamientos (flor) → siakara
 pentalogía → pentalogia
 pentágono → pentakono
+península → peninsula
 peonza → virante, rotaio
 peonía (flor) → aravita
 pepinillo → frico
@@ -3310,6 +3316,7 @@ principal → printsiale
 principiante → initiaxette
 principio, comienzo → initio
 prisa → ranta
+prismáticos → visforo
 probatina → tinka
 probiótico → probiotiko
 problema → problema
@@ -4131,6 +4138,7 @@ verano → solasta
 verbo → verba
 verdad → verdad
 verdura → leguma
+legumbre → tsikia
 vergüenza → combro
 verificación → verifia
 verruga → burgua

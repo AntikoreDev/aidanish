@@ -66,6 +66,7 @@ abortaiki
 abortaio
 abortaioto
 aborto
+aboura
 abrasai
 abrasaie
 abrasaieon
@@ -2976,6 +2977,7 @@ cuendeiet
 cuendeiki
 cuendeio
 cuendeioto
+cuki
 culda
 culdai
 culdaie
@@ -5281,7 +5283,6 @@ fataineio
 fataineioto
 fataineki
 fatainet
-fato
 favo
 favorai
 favoraie
@@ -5310,6 +5311,8 @@ fazilo
 febrero
 fecta
 federatio
+felin
+felino
 felisa
 felto
 felton
@@ -5498,6 +5501,8 @@ fluvaiet
 fluvaiki
 fluvaio
 fluvaioto
+fluve
+fluvo
 fobia
 foca
 focai
@@ -6886,6 +6891,7 @@ instancea
 instantako
 instituzio
 instrumento
+insular
 insulso
 insulto
 intelekto
@@ -7873,6 +7879,7 @@ libreria
 librete
 libro
 librotela
+licano
 licantropette
 licantropia
 licantropo
@@ -7955,7 +7962,15 @@ lisbona
 lista
 listo
 lita
+litai
+litaie
+litaieon
+litaiet
+litaiki
+litaio
+litaioto
 litaoro
+lite
 litera
 literal
 literatia
@@ -8609,6 +8624,7 @@ microvortisma
 mielografia
 mielografica
 migera
+miko
 mikoro
 mila
 milia
@@ -9580,6 +9596,7 @@ overaiet
 overaiki
 overaio
 overaioto
+ovia
 ovo
 ovulo
 oxpisotsa
@@ -9918,6 +9935,7 @@ pendulo
 pengino
 pengo
 pengorina
+peninsula
 penisa
 penna
 pennasco
@@ -11382,6 +11400,13 @@ reinitiaiet
 reinitiaiki
 reinitiaio
 reinitiaioto
+reinoi
+reinoie
+reinoieon
+reinoiet
+reinoiki
+reinoio
+reinoioto
 reise
 reiseie
 reiseieon
@@ -12700,6 +12725,7 @@ taco
 tafofobia
 tagarina
 tagaro
+tago
 tai
 taie
 taieon
@@ -13499,6 +13525,7 @@ tseseio
 tseseioto
 tseso
 tsiclo
+tsikia
 tsiklo
 tsiko
 tsile
@@ -13619,6 +13646,7 @@ ukrania
 ulcera
 ultilogette
 ultilogo
+ultimatum
 ulula
 ululai
 ululaie
@@ -13723,6 +13751,15 @@ unlanaiki
 unlanaio
 unlanaioto
 unlimiteko
+unlita
+unlitai
+unlitaie
+unlitaieon
+unlitaiet
+unlitaiki
+unlitaio
+unlitaioto
+unlite
 unlitero
 unloioko
 unlokei
@@ -14075,6 +14112,7 @@ visayagaizere
 visco
 viscosimetria
 viscosimetrica
+visforo
 visitei
 visiteie
 visiteieon
@@ -14406,6 +14444,14 @@ zakerro
 zalgo
 zance
 zancobo
+zanga
+zangai
+zangaie
+zangaieon
+zangaiet
+zangaiki
+zangaio
+zangaioto
 zangela
 zapor
 zaporrai

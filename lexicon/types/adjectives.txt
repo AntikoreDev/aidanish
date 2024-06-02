@@ -17,6 +17,7 @@ abrazado → hogoko
 absoluto → absoluto
 abstenido → absteno
 abstruso → abstruso
+inundado → fluve
 abundante → abonte
 aburrido → aborrado
 acabado → bertse
@@ -58,7 +59,7 @@ antiguo → antio
 antipático → antimaiso
 anual → yaroko
 anárquico → anarqiko
-apagado → off
+apagado → unlite, off
 arcano → arcana
 ardiente → igneoso
 atrapado → zentso
@@ -85,7 +86,6 @@ bucal → oupare
 buen → Baine
 bueno → baine
 bélico → beliko
-nacional → agizan
 cabezón, terco (insulto) → bluta
 cabrón → fuzo
 caducado → expiro
@@ -200,7 +200,7 @@ emotivo → emotivo
 empanado → ebrite
 empollón → cixe
 empático → maise
-encendido → on
+encendido → on, lite
 encerado → equo
 encerrado → rekluido
 endeudado → dutiako
@@ -215,8 +215,8 @@ especial → espezial
 espeso → hexego
 esquemático → eskemeko
 estafador → lerrako
-estrecho → tino
 estimar → estimai
+estrecho → tino
 estresado → anorrako
 estresante → anorrieren
 estropeado → errairiko
@@ -247,15 +247,13 @@ frito → frito
 frío → aigeloso
 fuerte → forte
 fácil → fazilo
-galleta → putsa
 galáctico → galaksiko
 gandúl → sugarriyo
 general → general
 genial → genelo
 glotón, goloso → glutonno
-gordo → lubo, fato
 gracioso → grazero
-grande → oxto, grata, magna
+grande → grata, oxto, magna
 gratis → atsoko
 grave → grave
 grosero → uskoro
@@ -291,6 +289,7 @@ inocente → inocente
 inoloro → eslofala
 insaciable → insatiable
 instantáneo → instantako
+insular → insular
 intelectual → intelektualo
 intencional → intentiente
 interesante → interesanta
@@ -371,6 +370,7 @@ muy cerrado, casi sin ventanas o puertas → zakerro
 mágica → magika
 más que perfecto → plusquamperfecta
 místico → mistica
+nacional → agizan
 natural → naturala
 negativo → nekatiko
 nevado → aigeloso

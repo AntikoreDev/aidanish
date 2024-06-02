@@ -447,10 +447,10 @@ anuncio → adva
 análogo → analogo
 anárquico → anarqiko
 anémona (flor) → anomas
-apagado → off
+apagado → unlite, off
 apagamiento → ofetio
-apagar → ofei
-apagón → deof
+apagar → unlitai, ofei
+apagón → deof, grata unlita
 aparcar → parakai
 aparecer → aparezei
 aparición → aparezeitio
@@ -1206,7 +1206,7 @@ cetáceo → cetacio
 chaleco → tselo
 chamarra → burtso
 chaqueta → giaqeta
-charco → culda
+charco → zanga, culda
 charrán, estérnido → terno
 chat → chat
 chatear → chatei
@@ -1776,8 +1776,10 @@ dañar → daxai, injurai
 daño → daxa
 de acuerdo → en akordo
 de hecho → enfacto
+de la nada → ex nihilo
 de la → dala
 de nada → non lanai
+de nuevo → ex novo
 de todas formas → da alde forma
 de un futuro cercano → postmoderna
 de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo → tokiota
@@ -2152,7 +2154,10 @@ ejemplo → exemplo
 ejercer luz de gas sobre alguien → mnemoruptaire, mnemorupturai
 ejercer → ecersai
 ejercicio → exersizo
+el acto o la obra por el intento de terminar con una entidad fisica o abstracta → ultimatum
+el hecho de apagar algo → unlita
 el hecho de darse cuenta de algo → indora
+el hecho de encender algo → lita
 el mejor → bainodo
 el peor → heunodo
 el → ei
@@ -2226,14 +2231,14 @@ encantar → enkantai
 encanto → enxanto, encanto
 encefalografía → encefalografia, encefalografica
 encegar → blindai
-encender → onoi
-encendido → on
+encender → litai, onoi
+encendido → on, lite
 encerado → equo
 encerar → equai
 encerrado → rekluido
 encerrar → enkerraire
 encestar → cestai
-encharcar → culdai
+encharcar → zangai, culdai
 enchufar → plugai
 enchufe, tomacorriente → pluga
 enciclopedia → enciklopedia
@@ -2776,7 +2781,7 @@ gafas → ogira, ogirit visoioroit
 galaxia → galaksis
 galería → galila
 galgo → galgo
-galleta → putsa
+galleta → putsa, cuki
 gallina → conto, gaia
 gallo → contino
 galáctico → galaksiko
@@ -2802,7 +2807,7 @@ gastar → gastai
 gastroenterología → gastroenterologia
 gastroenterólogo → gastroenterologo, gastroenterologette
 gatillo → triyo
-gato (animal) → kato, menino, minino, katen
+gato (animal) → kato, menino, minino, katen, miko, felin, felino
 gato (herramienta) → criketa
 gato montés → savakato
 gaviota → tagaro
@@ -2862,14 +2867,14 @@ gofre → xafla
 golem → golem
 golf → golf
 golfista → golfista, golfette
-golfo (geografía) → girufa
+golfo (geografía) → tago, girufa
 golpe de estado → estatarrota
 golpe inicial inesperado → transtava
 golpear algo para intentar arreglarlo → impetaikse, impetaksai
 golpear → puntsai, bumpai
 goma (herramienta) → prusaioro
 goma (material) → goma
-gordo → lubo, fato
+gordo → lubo
 gorila → korila
 gorra → capa
 gorrión → plomo
@@ -2890,7 +2895,7 @@ grafía → grafia, grafica
 grafólogo → grafologo, grafologette
 grajo → proke
 gramática → gramatica
-grande → oxto, grata, magna
+grande → grata, oxto, magna
 granito → granita
 granizo → aigecombe
 granja → granja
@@ -3250,6 +3255,7 @@ instantáneo → instantako
 institución → instituzio
 instituto → aito-esaroriun
 instrumento → instrumento
+insular → insular
 insulto → insulto, retro, insulso
 intelecto → intelekto
 intelectual → intelektualo
@@ -3272,6 +3278,8 @@ introducir → introi
 introvertido → introverto
 intrusear → intrudai
 intruso → intrudo
+inundación → fluvo
+inundado → fluve
 inundar → fluvai
 inventar → iventai
 invernadero → aznatela, invernadero, aigelere
@@ -3407,6 +3415,7 @@ lechuza → xendo
 lectura → lekta
 leer → lektei
 legal → legal
+legumbre → tsikia
 lejano → foreno
 lejos → fore
 lejía → blanco
@@ -3514,7 +3523,7 @@ lluvia → pluva, acoata
 lo (cosa) → xo
 lo más bajo posible que se puede estar en algo → afondo
 lo que sea → oraben
-lobo → lupo, vofen, lauseto
+lobo → lupo, vofen, licano, lauseto
 local → local, locatako
 localizar (traducir) → localai
 loco → loko, ankraro, friko
@@ -4242,7 +4251,7 @@ otro lugar → otela, olocato
 otro momento → otempo
 otro, otros (personas, cosas) → oter
 otólogo → otologo, otologette
-oveja → omejo
+oveja → ovia, omejo, aboura
 ovni → estranne blaiette artefactum, eba
 oxidado (de hacer algo) → rigi
 oxidado (metal) → ragiko
@@ -4302,7 +4311,7 @@ pansexual → pansexualo
 pansexualidad → pansexualita
 pantalla → visaya, tele
 pantalón → panto
-pantano → saguala
+pantano → saguala, zanga
 pantera → pantera
 pantufla → bourisa
 papada → ploka
@@ -4451,6 +4460,7 @@ pensar → penzei, mentei, mendei, mentaire
 pensativo → penseivo
 pentalogía → pentalogia
 pentágono → pentakono
+península → peninsula
 peonza → virante, rotaio
 peonía (flor) → aravita
 peor → heunere
@@ -4804,6 +4814,7 @@ principal → printsiale, primer
 principiante → initiaxette
 principio, comienzo → initio
 prisa → ranta
+prismáticos → visforo
 privado → privato, privado
 probable → probable, probeko
 probablemente → probekoien
@@ -5055,6 +5066,7 @@ rehacer → redoi, refai
 reina → reine
 reina, dama (ajedrez) → meila
 reinado → reina
+reinar → reinoi
 reiniciar → reinitiai, recomaize
 reino → renno
 reir → gisai

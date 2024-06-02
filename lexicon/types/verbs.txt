@@ -92,7 +92,7 @@ anillar → rinkai
 anochecer → nitoi
 anotar → anotai
 anunciar → advei, advertaire
-apagar → ofei
+apagar → unlitai, ofei
 aparcar → parakai
 aparecer → aparezei
 aplaudir → klapai
@@ -432,11 +432,11 @@ emprender → entreprenai
 empujar → pujai
 encantar → enkantai
 encegar → blindai
-encender → onoi
+encender → litai, onoi
 encerar → equai
 encerrar → enkerraire
 encestar → cestai
-encharcar → culdai
+encharcar → zangai, culdai
 enchufar → plugai
 encoger → nograi
 encontrar → zunaire, trovai
@@ -542,6 +542,7 @@ fregar → mopai
 frenar → freine, detrei
 freír → fritei
 frotar → frotsai
+reinar → reinoi
 fumar → esmokai, inzai
 fumigar → fumigai
 funcionar → funzai

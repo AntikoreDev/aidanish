@@ -3638,7 +3638,7 @@
     "apagado": {
         "entries": [
             {
-                "meaning": "off",
+                "meaning": "unlite, off",
                 "specification": ""
             }
         ]
@@ -3654,7 +3654,7 @@
     "apagar": {
         "entries": [
             {
-                "meaning": "ofei",
+                "meaning": "unlitai, ofei",
                 "specification": ""
             }
         ]
@@ -3662,7 +3662,7 @@
     "apagón": {
         "entries": [
             {
-                "meaning": "deof",
+                "meaning": "deof, grata unlita",
                 "specification": ""
             }
         ]
@@ -9718,7 +9718,7 @@
     "charco": {
         "entries": [
             {
-                "meaning": "culda",
+                "meaning": "zanga, culda",
                 "specification": ""
             }
         ]
@@ -14355,6 +14355,14 @@
             }
         ]
     },
+    "de la nada": {
+        "entries": [
+            {
+                "meaning": "ex nihilo",
+                "specification": ""
+            }
+        ]
+    },
     "de la": {
         "entries": [
             {
@@ -14367,6 +14375,14 @@
         "entries": [
             {
                 "meaning": "non lanai",
+                "specification": ""
+            }
+        ]
+    },
+    "de nuevo": {
+        "entries": [
+            {
+                "meaning": "ex novo",
                 "specification": ""
             }
         ]
@@ -17423,10 +17439,34 @@
             }
         ]
     },
+    "el acto o la obra por el intento de terminar con una entidad fisica o abstracta": {
+        "entries": [
+            {
+                "meaning": "ultimatum",
+                "specification": ""
+            }
+        ]
+    },
+    "el hecho de apagar algo": {
+        "entries": [
+            {
+                "meaning": "unlita",
+                "specification": ""
+            }
+        ]
+    },
     "el hecho de darse cuenta de algo": {
         "entries": [
             {
                 "meaning": "indora",
+                "specification": ""
+            }
+        ]
+    },
+    "el hecho de encender algo": {
+        "entries": [
+            {
+                "meaning": "lita",
                 "specification": ""
             }
         ]
@@ -18046,7 +18086,7 @@
     "encender": {
         "entries": [
             {
-                "meaning": "onoi",
+                "meaning": "litai, onoi",
                 "specification": ""
             }
         ]
@@ -18054,7 +18094,7 @@
     "encendido": {
         "entries": [
             {
-                "meaning": "on",
+                "meaning": "on, lite",
                 "specification": ""
             }
         ]
@@ -18102,7 +18142,7 @@
     "encharcar": {
         "entries": [
             {
-                "meaning": "culdai",
+                "meaning": "zangai, culdai",
                 "specification": ""
             }
         ]
@@ -22542,7 +22582,7 @@
     "galleta": {
         "entries": [
             {
-                "meaning": "putsa",
+                "meaning": "putsa, cuki",
                 "specification": ""
             }
         ]
@@ -22754,7 +22794,7 @@
     "gato": {
         "entries": [
             {
-                "meaning": "kato, menino, minino, katen",
+                "meaning": "kato, menino, minino, katen, miko, felin, felino",
                 "specification": "animal"
             },
             {
@@ -23234,7 +23274,7 @@
     "golfo": {
         "entries": [
             {
-                "meaning": "girufa",
+                "meaning": "tago, girufa",
                 "specification": "geografía"
             }
         ]
@@ -23286,7 +23326,7 @@
     "gordo": {
         "entries": [
             {
-                "meaning": "lubo, fato",
+                "meaning": "lubo",
                 "specification": ""
             }
         ]
@@ -23454,7 +23494,7 @@
     "grande": {
         "entries": [
             {
-                "meaning": "oxto, grata, magna",
+                "meaning": "grata, oxto, magna",
                 "specification": ""
             }
         ]
@@ -26383,6 +26423,14 @@
             }
         ]
     },
+    "insular": {
+        "entries": [
+            {
+                "meaning": "insular",
+                "specification": ""
+            }
+        ]
+    },
     "insulto": {
         "entries": [
             {
@@ -26563,6 +26611,22 @@
         "entries": [
             {
                 "meaning": "intrudo",
+                "specification": ""
+            }
+        ]
+    },
+    "inundación": {
+        "entries": [
+            {
+                "meaning": "fluvo",
+                "specification": ""
+            }
+        ]
+    },
+    "inundado": {
+        "entries": [
+            {
+                "meaning": "fluve",
                 "specification": ""
             }
         ]
@@ -27667,6 +27731,14 @@
             }
         ]
     },
+    "legumbre": {
+        "entries": [
+            {
+                "meaning": "tsikia",
+                "specification": ""
+            }
+        ]
+    },
     "lejano": {
         "entries": [
             {
@@ -28550,7 +28622,7 @@
     "lobo": {
         "entries": [
             {
-                "meaning": "lupo, vofen, lauseto",
+                "meaning": "lupo, vofen, licano, lauseto",
                 "specification": ""
             }
         ]
@@ -34438,7 +34510,7 @@
     "oveja": {
         "entries": [
             {
-                "meaning": "omejo",
+                "meaning": "ovia, omejo, aboura",
                 "specification": ""
             }
         ]
@@ -34906,7 +34978,7 @@
     "pantano": {
         "entries": [
             {
-                "meaning": "saguala",
+                "meaning": "saguala, zanga",
                 "specification": ""
             }
         ]
@@ -36107,6 +36179,14 @@
         "entries": [
             {
                 "meaning": "pentakono",
+                "specification": ""
+            }
+        ]
+    },
+    "península": {
+        "entries": [
+            {
+                "meaning": "peninsula",
                 "specification": ""
             }
         ]
@@ -38887,6 +38967,14 @@
             }
         ]
     },
+    "prismáticos": {
+        "entries": [
+            {
+                "meaning": "visforo",
+                "specification": ""
+            }
+        ]
+    },
     "privado": {
         "entries": [
             {
@@ -40923,6 +41011,14 @@
         "entries": [
             {
                 "meaning": "reina",
+                "specification": ""
+            }
+        ]
+    },
+    "reinar": {
+        "entries": [
+            {
+                "meaning": "reinoi",
                 "specification": ""
             }
         ]

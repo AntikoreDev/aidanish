@@ -413,6 +413,8 @@ ei analogo
 la anomas
 ei ofetio
 ei deof
+la unlita
+la lita
 ei aparezeitio
 la apeadela
 ei aurnome
@@ -1099,6 +1101,7 @@ ei cetacio
 ei tselo
 ei burtso
 la giaqeta
+la zanga
 la culda
 ei terno
 la chat
@@ -1814,6 +1817,7 @@ ei egiptologo
 ei egiptologette
 ei exemplo
 ei exersizo
+ei ultimatum
 la indora
 ei electio
 la elektritia
@@ -2315,6 +2319,8 @@ la galaksis
 la galaksis
 la galila
 ei galgo
+la putsa
+la cuki
 ei conto
 la gaia
 ei contino
@@ -2350,6 +2356,9 @@ ei kato
 ei menino
 ei minino
 la katen
+ei miko
+ei felin
+ei felino
 la criketa
 ei savakato
 ei tagaro
@@ -2415,6 +2424,7 @@ ei golem
 ei golf
 la golfista
 ei golfette
+ei tago
 la girufa
 la estatarrota
 la transtava
@@ -2986,6 +2996,7 @@ la acoata
 ei afondo
 ei lupo
 ei vofen
+ei licano
 ei lauseto
 la ankraia
 la ugrarda
@@ -3282,6 +3293,7 @@ la ergota
 la minatia
 ei pikoloro
 ei minute
+ei fluvo
 la cota
 la miologia
 la avistela
@@ -3623,7 +3635,9 @@ ei otorrinolaringologette
 ei autonno
 ei otologo
 ei otologette
+la ovia
 ei omejo
+la aboura
 la eba
 ei ozone
 la pacenza
@@ -3691,6 +3705,7 @@ la visaya
 la tele
 ei panto
 la saguala
+la zanga
 la pantera
 la bourisa
 la ploka
@@ -3840,6 +3855,7 @@ la penze
 la siakara
 la pentalogia
 ei pentakono
+la peninsula
 la virante
 ei rotaio
 la aravita
@@ -4147,6 +4163,7 @@ la printsiale
 la initiaxette
 ei initio
 la ranta
+ei visforo
 la tinka
 ei probiotiko
 la problema
@@ -5179,6 +5196,7 @@ la solasta
 la verba
 la verdad
 la leguma
+la tsikia
 ei combro
 la verifia
 la burgua
@@ -5363,6 +5381,7 @@ ei hogoko
 ei absoluto
 ei absteno
 ei abstruso
+ei fluve
 la abonte
 ei aborrado
 la bertse
@@ -5405,6 +5424,7 @@ ei antio
 ei antimaiso
 ei yaroko
 ei anarqiko
+ei unlite
 ei off
 la arcana
 ei igneoso
@@ -5433,7 +5453,6 @@ ei oupare
 la baine
 la baine
 ei beliko
-la agizan
 la bluta
 ei fuzo
 ei expiro
@@ -5555,6 +5574,7 @@ ei ebrite
 ei cixe
 la maise
 ei on
+ei lite
 ei equo
 ei rekluido
 ei dutiako
@@ -5571,8 +5591,8 @@ la espezial
 ei hexego
 ei eskemeko
 ei lerrako
-ei tino
 la estimai
+ei tino
 ei anorrako
 ei anorrieren
 ei errairiko
@@ -5607,17 +5627,14 @@ ei frito
 ei aigeloso
 ei forte
 ei fazilo
-la putsa
 ei galaksiko
 ei sugarriyo
 la general
 ei genelo
 ei glutonno
-ei lubo
-ei fato
 ei grazero
-ei oxto
 la grata
+ei oxto
 la magna
 ei atsoko
 la grave
@@ -5659,6 +5676,7 @@ ei inocente
 la eslofala
 la insatiable
 ei instantako
+ei insular
 ei intelektualo
 ei intentiente
 la interesanta
@@ -5746,6 +5764,7 @@ ei zakerro
 la magika
 la plusquamperfecta
 la mistica
+la agizan
 la naturala
 ei nekatiko
 ei aigeloso

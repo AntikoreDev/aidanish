@@ -30,6 +30,7 @@ aborratio
 abortado
 abortai
 aborto
+aboura
 abrasai
 abrasivo
 absoluto
@@ -1554,6 +1555,7 @@ cucumo
 cuela
 cuenda
 cuendei
+cuki
 culda
 culdai
 culdei
@@ -2581,7 +2583,6 @@ fasmofobia
 fasoa
 fasqette
 fataine
-fato
 favo
 favorai
 favoras
@@ -2592,6 +2593,8 @@ fazilo
 febrero
 fecta
 federatio
+felin
+felino
 felisa
 felto
 felton
@@ -2702,6 +2705,8 @@ fluorimetria
 fluorimetrica
 fluta
 fluvai
+fluve
+fluvo
 fobia
 foca
 focai
@@ -3430,6 +3435,7 @@ instancea
 instantako
 instituzio
 instrumento
+insular
 insulso
 insulto
 intelekto
@@ -3925,6 +3931,7 @@ libreria
 librete
 libro
 librotela
+licano
 licantropette
 licantropia
 licantropo
@@ -3965,7 +3972,9 @@ lisbona
 lista
 listo
 lita
+litai
 litaoro
+lite
 litera
 literal
 literatia
@@ -4325,6 +4334,7 @@ microvortisma
 mielografia
 mielografica
 migera
+miko
 mikoro
 mila
 milia
@@ -4864,6 +4874,7 @@ ova
 oval
 overa
 overai
+ovia
 ovo
 ovulo
 oxpisotsa
@@ -5058,6 +5069,7 @@ pendulo
 pengino
 pengo
 pengorina
+peninsula
 penisa
 penna
 pennasco
@@ -5724,6 +5736,7 @@ rein
 reina
 reine
 reinitiai
+reinoi
 reise
 reisitela
 reiso
@@ -6292,6 +6305,7 @@ taco
 tafofobia
 tagarina
 tagaro
+tago
 tai
 taiga
 taine
@@ -6713,6 +6727,7 @@ tsesako
 tsesei
 tseso
 tsiclo
+tsikia
 tsiklo
 tsiko
 tsile
@@ -6785,6 +6800,7 @@ ukrania
 ulcera
 ultilogette
 ultilogo
+ultimatum
 ulula
 ululai
 ulule
@@ -6817,6 +6833,9 @@ universo
 unlana
 unlanai
 unlimiteko
+unlita
+unlitai
+unlite
 unlitero
 unloioko
 unlokei
@@ -7025,6 +7044,7 @@ visayagaizere
 visco
 viscosimetria
 viscosimetrica
+visforo
 visitei
 viso
 visoatio
@@ -7188,6 +7208,8 @@ zakerro
 zalgo
 zance
 zancobo
+zanga
+zangai
 zangela
 zapor
 zaporrai
