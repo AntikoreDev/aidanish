@@ -117,6 +117,7 @@ arrodillarse → gidillai
 ascender al cielo → estelegaize
 ascender → anseine, airei
 asediar → sievai, sievei
+asegurar → asecurai
 asemejarse → lokai, asemeire
 asentir → asensei
 asesinar → asesaine
@@ -472,6 +473,7 @@ enviar → darai
 equivaler → eqivalei
 escalar → escalarei
 escandalizar → estantsai
+escapar, fugar → fugai
 esclavizar → eslavai
 escocer → eskozei
 escoltar → eskoltoi
@@ -542,7 +544,6 @@ fregar → mopai
 frenar → freine, detrei
 freír → fritei
 frotar → frotsai
-reinar → reinoi
 fumar → esmokai, inzai
 fumigar → fumigai
 funcionar → funzai
@@ -590,6 +591,7 @@ hospedar → hustoi
 hospitalizar → hospitalai, hopitalai, kuratelai
 huir → ezurrai
 idear → ideai
+ignorar → unvisoi
 imaginar → imaginei
 imantar → magnetai
 imitar → memoi
@@ -875,6 +877,7 @@ regalar → regalei
 regar → rekai
 regresar → retornai
 rehacer → redoi, refai
+reinar → reinoi
 reiniciar → reinitiai, recomaize
 reir → gisai
 relucir húmedo → acolaine
@@ -895,6 +898,7 @@ representar → representei
 reproducir (vida) → prokraire
 reproducir (vídeo) → dorimei
 reptar → aurandaire, okroi, colegai
+resguardar (hacer una copia de seguridad) → regaize
 residir → reise
 resistir → resistai
 resolver →  resolei

@@ -413,8 +413,6 @@ ei analogo
 la anomas
 ei ofetio
 ei deof
-la unlita
-la lita
 ei aparezeitio
 la apeadela
 ei aurnome
@@ -773,6 +771,10 @@ ei arbotsiun
 la bota
 ei bote
 ei botelo
+ei intro
+ei enter
+ei retro
+la prusai
 la botonna
 la brankia
 la braqigrafia
@@ -1051,6 +1053,7 @@ ei junze
 ei junzette
 la xikara
 ei xikere
+ei argo
 la kanna
 ei cannon
 ei cd
@@ -1237,6 +1240,7 @@ la urda
 la qeola
 ei coladoro
 ei colapso
+la laireta
 la colectia
 ei esaroriun
 la eskola
@@ -1365,6 +1369,7 @@ ei pairetio
 ei konversio
 la coordenata
 ei cope
+ei regaizo
 la kopea
 ei cope
 la coprologia
@@ -1818,7 +1823,9 @@ ei egiptologette
 ei exemplo
 ei exersizo
 ei ultimatum
+la unlita
 la indora
+la lita
 ei electio
 la elektritia
 la electrocardiografia
@@ -2025,6 +2032,8 @@ la parada
 la estadia
 ei estatio
 ei usono
+la estadista
+la estadistika
 ei zoiko
 la espeleoka
 la espeleona
@@ -2781,6 +2790,8 @@ la interneta
 la interval
 ei intro
 ei intrudo
+ei fluvo
+ei esmaretio
 la aznatela
 ei invernadero
 la aigelere
@@ -2901,6 +2912,7 @@ la esneaxette
 la letsuga
 ei xendo
 la lekta
+la tsikia
 ei blanco
 la leme
 la lema
@@ -3293,7 +3305,6 @@ la ergota
 la minatia
 ei pikoloro
 ei minute
-ei fluvo
 la cota
 la miologia
 la avistela
@@ -4197,8 +4208,10 @@ la proteina
 ei proton
 ei proverbio
 la provenza
+la proyectila
 la proba
 la acuprila
+la natairette
 ei prince
 ei prologo
 ei prologette
@@ -4961,6 +4974,7 @@ la tortoisa
 la apunda
 la tosta
 ei tostoro
+ei aldo
 ei totem
 la toksicologia
 ei toksicologo
@@ -5196,7 +5210,6 @@ la solasta
 la verba
 la verdad
 la leguma
-la tsikia
 ei combro
 la verifia
 la burgua
@@ -5289,6 +5302,7 @@ ei voxel
 ei web
 la wiski
 la wikipedia
+la wolfsbane
 ei vombat
 la xenofobia
 ei xenon
@@ -5381,7 +5395,6 @@ ei hogoko
 ei absoluto
 ei absteno
 ei abstruso
-ei fluve
 la abonte
 ei aborrado
 la bertse
@@ -5536,6 +5549,7 @@ ei derrito
 ei derroqo
 la derroqista
 ei disastroso
+ei unlokeioto
 ei unpoie
 ei unpoiro
 ei unmiseioko
@@ -5651,6 +5665,7 @@ ei heigaro
 ei horizono
 ei heruo
 ei hemo
+ei unviso
 ei equalo
 ei unlimiteko
 ei imagineiko
@@ -5681,13 +5696,17 @@ ei intelektualo
 ei intentiente
 la interesanta
 ei introverto
+ei fluve
 ei ezirutsuko
 ei ironiko
 ei jiderarqiko
 ei frikenko
 ei nevako
 ei iusto
+ei elokre
 ei kafkiano
+ei prolonge
+la arran
 ei lakrimido
 ei longo
 ei invikso
@@ -5746,11 +5765,13 @@ la musta
 ei mustager
 ei seutse
 ei miskolo
+la zentral
 ei avisoko
 ei mesmo
 ei edariko
 la moderna
 ei modifikako
+ei creativo
 ei monetareo
 ei neko
 ei morato
@@ -5855,6 +5876,7 @@ ei reciento
 ei rekluso
 la reguarde
 la rectal
+ei unkompatible
 ei circloko
 la relative
 ei enlitaro

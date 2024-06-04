@@ -292,6 +292,7 @@ aldetela
 aldeterranno
 aldex
 aldexet
+aldo
 alergologette
 alergologia
 alergologo
@@ -506,6 +507,7 @@ apunderai
 arabeka
 aracna
 aracneta
+aracnita
 aracnologette
 aracnologia
 aracnologo
@@ -529,6 +531,7 @@ argelineo
 argentia
 argento
 argeya
+argo
 arima
 arkerette
 arkero
@@ -551,6 +554,7 @@ arrai
 arraina
 arrainata
 arraineta
+arran
 arrantsa
 arrantsei
 arsonai
@@ -582,6 +586,7 @@ artsivologo
 arvicolino
 arvicolo
 arvino
+asecurai
 aseire
 asemeire
 asenda
@@ -1496,6 +1501,7 @@ craneologia
 crater
 creata
 createi
+creativo
 credito
 crema
 criketa
@@ -1594,6 +1600,7 @@ dai
 daine
 daita
 dala
+dam
 dama
 damaine
 damon
@@ -2063,6 +2070,7 @@ elasto
 elde
 eldesa
 electio
+electo
 electoi
 electrocardiografia
 electrocardiografica
@@ -2085,6 +2093,7 @@ elloko
 elme
 elocato
 elokrai
+elokre
 em
 embalai
 embarcai
@@ -2383,6 +2392,8 @@ esquiro
 establezei
 establezimento
 estadia
+estadista
+estadistika
 estai
 estaia
 estaire
@@ -2825,6 +2836,7 @@ frustrum
 frustum
 fuana
 fuga
+fugai
 fuksia
 fulard
 fumigai
@@ -3845,6 +3857,7 @@ lagenda
 laia
 laira
 laire
+laireta
 laka
 lakata
 lakrima
@@ -4362,6 +4375,7 @@ mirator
 mirmecologette
 mirmecologia
 mirmecologo
+miscelanea
 misei
 miseioko
 miskolo
@@ -4530,6 +4544,7 @@ naso
 natahen
 natai
 nataire
+natairette
 natatia
 nativo
 natura
@@ -5495,6 +5510,7 @@ prolaboro
 prologette
 prologo
 prolongaire
+prolonge
 promedia
 promovai
 pronkai
@@ -5518,6 +5534,7 @@ proton
 provenza
 proverbio
 proxima
+proyectila
 prozeso
 prusai
 prusaioro
@@ -5725,6 +5742,8 @@ refleksologette
 refleksologia
 refleksologo
 refreskei
+regaize
+regaizo
 regalei
 regalo
 regimeno
@@ -6830,6 +6849,7 @@ uniko
 uninstalai
 unione
 universo
+unkompatible
 unlana
 unlanai
 unlimiteko
@@ -6839,6 +6859,7 @@ unlite
 unlitero
 unloioko
 unlokei
+unlokeioto
 unludei
 unmembria
 unmiseioko
@@ -6851,6 +6872,8 @@ unpoie
 unpoire
 unpoiro
 untsua
+unviso
+unvisoi
 unyoiko
 unzuna
 unzunai
@@ -7115,6 +7138,7 @@ webpagena
 wikipedia
 wiski
 wolfram
+wolfsbane
 xa
 xabana
 xafla
@@ -7220,6 +7244,7 @@ zarra
 zebra
 zegor
 zelo
+zentral
 zentrei
 zentrifugai
 zentrifugaioro

@@ -17,7 +17,6 @@ abrazado → hogoko
 absoluto → absoluto
 abstenido → absteno
 abstruso → abstruso
-inundado → fluve
 abundante → abonte
 aburrido → aborrado
 acabado → bertse
@@ -164,6 +163,7 @@ derretido → fundo, derretido, derrito
 derrotado → derroqo
 derrotista → derroqista
 desastroso → disastroso
+desbloqueado → unlokeioto
 descalzo → unpoie, unpoiro
 desconocido → unmiseioko
 desechado → desexo
@@ -267,6 +267,7 @@ hogareño → heigaro
 horizontal → horizono
 húmedo y profundo → heruo
 húmedo → hemo
+ignorado → unviso
 igual → equalo
 ilimitado → unlimiteko
 imaginador → imagineiko
@@ -294,13 +295,17 @@ intelectual → intelektualo
 intencional → intentiente
 interesante → interesanta
 introvertido → introverto
+inundado → fluve
 irritado → ezirutsuko
 irónico → ironiko
 jerárquico → jiderarqiko
 jodida → frikenko
 joven (adjetivo) → nevako
 justo → iusto
+conseguido → elokre
 kafkiano → kafkiano
+prolongado → prolonge
+alcanzado → arran
 lagrimado → lakrimido
 largo → longo
 lascivo → invikso
@@ -352,11 +357,13 @@ mentira → musta
 mentiroso → mustager
 mestizo → seutse
 minúsculo → miskolo
+central → zentral
 mirado → avisoko
 mismo → mesmo
 misterioso → edariko
 moderno → moderna
 modificado → modifikako
+creativo → creativo
 monetario → monetareo
 mono → neko
 morado → morato
@@ -451,6 +458,7 @@ reciente → reciento
 recluso → rekluso
 recompensado → reguarde
 rectal → rectal
+incompatible → unkompatible
 redondo → circloko
 relativo → relative
 reluciente → enlitaro

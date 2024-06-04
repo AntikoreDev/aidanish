@@ -360,8 +360,6 @@ análogo → analogo
 anémona (flor) → anomas
 apagamiento → ofetio
 apagón → deof, grata unlita
-el hecho de apagar algo → unlita
-el hecho de encender algo → lita
 aparición → aparezeitio
 apeadero → apeadela
 apellido → aurnome, ginome
@@ -649,6 +647,9 @@ bosque → fisi, arbotsiun
 bota → bota
 bote → bote
 botella → botelo
+botón de enter → intro, intro botonna, enter, enter botonna
+botón de retroceso → retro, retro botonna
+botón de suprimir → prusai, prusai botonna
 botón → botonna
 branquia → brankia
 braquigrafía → braqigrafia, braqigrafica
@@ -870,6 +871,7 @@ caza → junze
 cazador → junzette
 cazo → xikara
 cazuela → xikere
+caída → argo
 caña → kanna
 cañón → cannon
 cd → cd
@@ -1022,6 +1024,7 @@ cola (animal) → urda
 cola (personas) → qeola
 colador → coladoro
 colapso → colapso
+colcha → laireta
 colección → colectia
 colegio, escuela → esaroriun, eskola, esaroitela
 colibrí → liarta
@@ -1127,6 +1130,7 @@ conversación → pairetio
 conversión → konversio
 coordenada → coordenata
 copa → cope
+copia de seguridad → regaizo
 copia → kopea
 copo → cope
 coprología → coprologia
@@ -1497,7 +1501,9 @@ egiptólogo → egiptologo, egiptologette
 ejemplo → exemplo
 ejercicio → exersizo
 el acto o la obra por el intento de terminar con una entidad fisica o abstracta → ultimatum
+el hecho de apagar algo → unlita
 el hecho de darse cuenta de algo → indora
+el hecho de encender algo → lita
 elección →  electio
 electricidad → elektritia
 electrocardiografía → electrocardiografia, electrocardiografica
@@ -1661,6 +1667,8 @@ estación (tren) → parada
 estadio → estadia
 estado → estatio
 estadounidense → usono
+estadística (concreta) → estadista
+estadística (en general) → estadistika
 estafa → zoiko
 estalactita → espeleoka
 estalagmita → espeleona
@@ -2243,6 +2251,8 @@ intestino delgado → piko intestino
 intestino grueso → oxto intestino
 introducción → intro
 intruso → intrudo
+inundación → fluvo
+inventario → esmaretio
 invernadero → aznatela, invernadero, aigelere
 investigación → edarotio
 investigador → edarotto
@@ -2334,6 +2344,7 @@ lechero → esneaxette
 lechuga → letsuga
 lechuza → xendo
 lectura → lekta
+legumbre → tsikia
 lejía → blanco
 lema → leme, lema
 lencería → linzeria
@@ -2640,7 +2651,6 @@ minero, cavernícola → ergota
 minería → minatia
 minoría → pikoloro
 minuto → minute
-inundación → fluvo
 minúscula → cota
 miología → miologia
 mirador → avistela, mirator
@@ -3346,8 +3356,10 @@ proteína → proteina
 protón → proton
 proverbio → proverbio
 provincia → provenza
+proyectil → proyectila
 prueba → proba
 prímula → acuprila
+nadador → natairette
 príncipe → prince
 prólogo → prologo, prologette
 pseudología → pseudologia
@@ -3957,6 +3969,7 @@ tortuga → tortoisa
 tortura → apunda
 tostada → tosta
 tostadora → tostoro
+total → aldo
 totem → totem
 toxicología → toksicologia
 toxicólogo → toksicologo, toksicologette
@@ -4138,7 +4151,6 @@ verano → solasta
 verbo → verba
 verdad → verdad
 verdura → leguma
-legumbre → tsikia
 vergüenza → combro
 verificación → verifia
 verruga → burgua
@@ -4212,6 +4224,7 @@ vóxel → voxel
 web → web
 whisky → wiski
 wikipedia → wikipedia
+wolfsbane → wolfsbane
 wombat → vombat
 xenofobia → xenofobia
 xenón → xenon

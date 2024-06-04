@@ -2091,6 +2091,14 @@
             }
         ]
     },
+    "alcanzado": {
+        "entries": [
+            {
+                "meaning": "arran",
+                "specification": ""
+            }
+        ]
+    },
     "alcanzar": {
         "entries": [
             {
@@ -4511,6 +4519,14 @@
             }
         ]
     },
+    "arácnido": {
+        "entries": [
+            {
+                "meaning": "aracnita",
+                "specification": ""
+            }
+        ]
+    },
     "arándano": {
         "entries": [
             {
@@ -4563,6 +4579,14 @@
         "entries": [
             {
                 "meaning": "sieva",
+                "specification": ""
+            }
+        ]
+    },
+    "asegurar": {
+        "entries": [
+            {
+                "meaning": "asecurai",
                 "specification": ""
             }
         ]
@@ -6955,6 +6979,30 @@
             }
         ]
     },
+    "botón de enter": {
+        "entries": [
+            {
+                "meaning": "intro, intro botonna, enter, enter botonna",
+                "specification": ""
+            }
+        ]
+    },
+    "botón de retroceso": {
+        "entries": [
+            {
+                "meaning": "retro, retro botonna",
+                "specification": ""
+            }
+        ]
+    },
+    "botón de suprimir": {
+        "entries": [
+            {
+                "meaning": "prusai, prusai botonna",
+                "specification": ""
+            }
+        ]
+    },
     "botón": {
         "entries": [
             {
@@ -9291,6 +9339,14 @@
             }
         ]
     },
+    "caída": {
+        "entries": [
+            {
+                "meaning": "argo",
+                "specification": ""
+            }
+        ]
+    },
     "caña": {
         "entries": [
             {
@@ -9491,6 +9547,14 @@
         "entries": [
             {
                 "meaning": "surtso",
+                "specification": ""
+            }
+        ]
+    },
+    "central": {
+        "entries": [
+            {
+                "meaning": "zentral",
                 "specification": ""
             }
         ]
@@ -10859,6 +10923,14 @@
             }
         ]
     },
+    "colcha": {
+        "entries": [
+            {
+                "meaning": "laireta",
+                "specification": ""
+            }
+        ]
+    },
     "coleccionar": {
         "entries": [
             {
@@ -11995,6 +12067,14 @@
             }
         ]
     },
+    "conseguido": {
+        "entries": [
+            {
+                "meaning": "elokre",
+                "specification": ""
+            }
+        ]
+    },
     "conseguir": {
         "entries": [
             {
@@ -12455,6 +12535,14 @@
         "entries": [
             {
                 "meaning": "kopenage",
+                "specification": ""
+            }
+        ]
+    },
+    "copia de seguridad": {
+        "entries": [
+            {
+                "meaning": "regaizo",
                 "specification": ""
             }
         ]
@@ -13023,6 +13111,14 @@
         "entries": [
             {
                 "meaning": "createi",
+                "specification": ""
+            }
+        ]
+    },
+    "creativo": {
+        "entries": [
+            {
+                "meaning": "creativo",
                 "specification": ""
             }
         ]
@@ -14403,6 +14499,22 @@
             }
         ]
     },
+    "de un": {
+        "entries": [
+            {
+                "meaning": "dam",
+                "specification": ""
+            }
+        ]
+    },
+    "de una": {
+        "entries": [
+            {
+                "meaning": "dam",
+                "specification": ""
+            }
+        ]
+    },
     "de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo": {
         "entries": [
             {
@@ -15227,6 +15339,14 @@
         "entries": [
             {
                 "meaning": "desexkrabaire",
+                "specification": ""
+            }
+        ]
+    },
+    "desbloqueado": {
+        "entries": [
+            {
+                "meaning": "unlokeioto",
                 "specification": ""
             }
         ]
@@ -17583,6 +17703,14 @@
             }
         ]
     },
+    "elegido": {
+        "entries": [
+            {
+                "meaning": "electo",
+                "specification": ""
+            }
+        ]
+    },
     "elegir": {
         "entries": [
             {
@@ -19011,6 +19139,22 @@
             }
         ]
     },
+    "escapar": {
+        "entries": [
+            {
+                "meaning": "fugai",
+                "specification": ""
+            }
+        ]
+    },
+    "fugar": {
+        "entries": [
+            {
+                "meaning": "fugai",
+                "specification": ""
+            }
+        ]
+    },
     "escaparate": {
         "entries": [
             {
@@ -19896,6 +20040,18 @@
             {
                 "meaning": "usono",
                 "specification": ""
+            }
+        ]
+    },
+    "estadística": {
+        "entries": [
+            {
+                "meaning": "estadista",
+                "specification": "concreta"
+            },
+            {
+                "meaning": "estadistika",
+                "specification": "en general"
             }
         ]
     },
@@ -25595,6 +25751,22 @@
             }
         ]
     },
+    "ignorado": {
+        "entries": [
+            {
+                "meaning": "unviso",
+                "specification": ""
+            }
+        ]
+    },
+    "ignorar": {
+        "entries": [
+            {
+                "meaning": "unvisoi",
+                "specification": ""
+            }
+        ]
+    },
     "igual": {
         "entries": [
             {
@@ -25907,6 +26079,14 @@
         "entries": [
             {
                 "meaning": "inconforta",
+                "specification": ""
+            }
+        ]
+    },
+    "incompatible": {
+        "entries": [
+            {
+                "meaning": "unkompatible",
                 "specification": ""
             }
         ]
@@ -26643,6 +26823,14 @@
         "entries": [
             {
                 "meaning": "iventai",
+                "specification": ""
+            }
+        ]
+    },
+    "inventario": {
+        "entries": [
+            {
+                "meaning": "esmaretio",
                 "specification": ""
             }
         ]
@@ -31303,6 +31491,14 @@
             }
         ]
     },
+    "misceláneo": {
+        "entries": [
+            {
+                "meaning": "miscelanea",
+                "specification": ""
+            }
+        ]
+    },
     "misionar": {
         "entries": [
             {
@@ -32415,6 +32611,14 @@
         "entries": [
             {
                 "meaning": "nokoixa",
+                "specification": ""
+            }
+        ]
+    },
+    "nadador": {
+        "entries": [
+            {
+                "meaning": "natairette",
                 "specification": ""
             }
         ]
@@ -39219,6 +39423,14 @@
             }
         ]
     },
+    "prolongado": {
+        "entries": [
+            {
+                "meaning": "prolonge",
+                "specification": ""
+            }
+        ]
+    },
     "prolongar": {
         "entries": [
             {
@@ -39419,6 +39631,14 @@
         "entries": [
             {
                 "meaning": "arsonai",
+                "specification": ""
+            }
+        ]
+    },
+    "proyectil": {
+        "entries": [
+            {
+                "meaning": "proyectila",
                 "specification": ""
             }
         ]
@@ -41416,6 +41636,14 @@
             {
                 "meaning": "republika",
                 "specification": ""
+            }
+        ]
+    },
+    "resguardar": {
+        "entries": [
+            {
+                "meaning": "regaize",
+                "specification": "hacer una copia de seguridad"
             }
         ]
     },
@@ -47055,6 +47283,14 @@
             }
         ]
     },
+    "total": {
+        "entries": [
+            {
+                "meaning": "aldo",
+                "specification": ""
+            }
+        ]
+    },
     "totem": {
         "entries": [
             {
@@ -50031,6 +50267,14 @@
         "entries": [
             {
                 "meaning": "wikipedia",
+                "specification": ""
+            }
+        ]
+    },
+    "wolfsbane": {
+        "entries": [
+            {
+                "meaning": "wolfsbane",
                 "specification": ""
             }
         ]

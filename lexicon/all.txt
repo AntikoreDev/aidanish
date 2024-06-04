@@ -257,6 +257,7 @@ albinismo → albinisma
 albino → albino
 albino → albino
 albóndiga → bolkar, bolakar, bolakarno
+alcanzado → arran
 alcanzar → arrai
 alce → bazerra
 alcohol → etanol, altsol
@@ -553,6 +554,7 @@ artrología → artrologia
 artículo básico para vivir → viver
 artículo → articulo, articlo
 arvicolino → arvicolino, arvicolo
+arácnido → aracnita
 arándano → aniluba
 ascender al cielo → estelegaize
 ascender → anseine, airei
@@ -560,6 +562,7 @@ ascenso → ansenno
 ascensor → airoro
 asediar → sievai, sievei
 asedio → sieva
+asegurar → asecurai
 asemejarse → lokai, asemeire
 asentir → asensei
 asesinar → asesaine
@@ -860,6 +863,9 @@ bosque → fisi, arbotsiun
 bota → bota
 bote → bote
 botella → botelo
+botón de enter → intro, intro botonna, enter, enter botonna
+botón de retroceso → retro, retro botonna
+botón de suprimir → prusai, prusai botonna
 botón → botonna
 branquia → brankia
 braquigrafía → braqigrafia, braqigrafica
@@ -1151,6 +1157,7 @@ cazador → junzette
 cazar → junzei
 cazo → xikara
 cazuela → xikere
+caída → argo
 caña → kanna
 cañón → cannon
 cd → cd
@@ -1178,6 +1185,7 @@ centellear → taire
 centenario → ozenore
 centenario → ozenoso
 centeno → surtso
+central → zentral
 centrar → zentrei
 centrifugadora → zentrifugaioro
 centrifugar → zentrifugai
@@ -1345,6 +1353,7 @@ colador → coladoro
 colapsar → colapsai
 colapso → colapso
 colar → colai, coilei
+colcha → laireta
 coleccionar → colectoi
 colección → colectia
 colegio, escuela → esaroriun, eskola, esaroitela
@@ -1485,6 +1494,7 @@ conquistado → conqisto
 conquistador → conqeror
 conquistar → conqerai
 consecuencia → qansequentia
+conseguido → elokre
 conseguir → elokrai
 consentir → conseine
 conservación → conservatio
@@ -1541,6 +1551,7 @@ coordenada → coordenata
 coordinar → coordinai
 copa → cope
 copenague → kopenage
+copia de seguridad → regaizo
 copia → kopea
 copiar → kopai
 copo → cope
@@ -1611,6 +1622,7 @@ coño → cunno, vulve
 craneología → craneologia
 creación → creata
 crear → createi
+creativo → creativo
 crecer → egrai, krekai
 crecimiento → egra
 creencia → belei
@@ -1782,6 +1794,7 @@ de nada → non lanai
 de nuevo → ex novo
 de todas formas → da alde forma
 de un futuro cercano → postmoderna
+de un, de una → dam
 de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo → tokiota
 de → da
 debajo → alaur, aura
@@ -1886,6 +1899,7 @@ desastroso → disastroso
 desatascador → unastainoro, unastaino, unestoro
 desatascar → unestorai, unastaine
 desatornillar → desexkrabaire
+desbloqueado → unlokeioto
 desbloquear → unlokei
 descalzarse → unpoire
 descalzo → unpoie, unpoiro
@@ -2171,6 +2185,7 @@ electrometría → electrometria, electrometrica
 electrón → elektronno, electron
 electrónico → elektrikono
 elefante → estsondo
+elegido → electo
 elegir → electoi
 elevar → levai, airoei, quai
 eliminar cosas repetidas de un conjunto → desredundaire
@@ -2343,6 +2358,7 @@ escalar → escalarei
 escalera → escalatorra
 escama → eskama
 escandalizar → estantsai
+escapar, fugar → fugai
 escaparate → dorimo
 escarabajo → karabajo
 escatología → escatologia
@@ -2449,6 +2465,8 @@ estadio → estadia
 estado → estatio
 estados unidos → estatioit yoiko, usa
 estadounidense → usono
+estadística (concreta) → estadista
+estadística (en general) → estadistika
 estafa → zoiko
 estafador → lerrako
 estafador → lerrako, zoike
@@ -3152,6 +3170,8 @@ idiota → hunko, fruka, estulta
 idolología → idolologia
 iglesia → eklesia, praisotela
 ignografía → ignografia, ignografica
+ignorado → unviso
+ignorar → unvisoi
 igual → equalo
 ilimitado → unlimiteko
 imagen, foto → imake, pikto
@@ -3192,6 +3212,7 @@ inclinar → eslantai, inklinai
 incluir → includei
 incluso → inclusive
 incomodidad → inconforta
+incompatible → unkompatible
 incordiar → prokei, tsordai
 incordio → proko
 incorrecto → incorrecto, inkorrektoko
@@ -3282,6 +3303,7 @@ inundación → fluvo
 inundado → fluve
 inundar → fluvai
 inventar → iventai
+inventario → esmaretio
 invernadero → aznatela, invernadero, aigelere
 invertir (dinero) → investai
 invertir (orden) → invertai
@@ -3855,6 +3877,7 @@ mirar (mira, no sé que) → siet
 mirar → avisei
 mirmecología → mirmecologia
 mirmecólogo → mirmecologo, mirmecologette
+misceláneo → miscelanea
 misionar → mesigai
 misionero → mesigette
 misión → mesiga
@@ -3995,6 +4018,7 @@ nacimiento → natatia
 nacional → agizan
 nacionalidad → agizaia
 nada → nokoixa
+nadador → natairette
 nadar → nataire
 nadie → noperso
 nanotecnología → nanotecnologia
@@ -4846,6 +4870,7 @@ programación → prokramatio, codin
 programar → prokramai, codai
 progresar → progresei
 progreso → progreso
+prolongado → prolonge
 prolongar → prolongaire
 promedio → promedia
 promesa → priosa
@@ -4870,6 +4895,7 @@ protón → proton
 proverbio → proverbio
 provincia → provenza
 provocar un incendio a propósito → arsonai
+proyectil → proyectila
 prueba → proba
 prímula → acuprila
 príncipe → prince
@@ -5117,6 +5143,7 @@ reptar → aurandaire, okroi, colegai
 reptil → reptile
 repuesto → tsargo
 república → republika
+resguardar (hacer una copia de seguridad) → regaize
 residencia → reisitela
 residente → reiso
 residir → reise
@@ -5814,6 +5841,7 @@ torturar → apunderai
 tostada → tosta
 tostadora → tostoro
 tostar → tostai
+total → aldo
 totem → totem
 toxicología → toksicologia
 toxicólogo → toksicologo, toksicologette
@@ -6182,6 +6210,7 @@ vóxel → voxel
 web → web
 whisky → wiski
 wikipedia → wikipedia
+wolfsbane → wolfsbane
 wombat → vombat
 xenofobia → xenofobia
 xenón → xenon

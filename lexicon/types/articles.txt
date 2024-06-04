@@ -3,5 +3,6 @@ la, las → la
 al → aei
 del → dai
 de la → dala
+de un, de una → dam
 a la → ala
 en el → en ei, eni

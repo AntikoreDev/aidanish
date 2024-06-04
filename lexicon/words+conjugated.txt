@@ -634,6 +634,7 @@ aldetela
 aldeterranno
 aldex
 aldexet
+aldo
 alergologette
 alergologia
 alergologo
@@ -1022,6 +1023,7 @@ apunderaioto
 arabeka
 aracna
 aracneta
+aracnita
 aracnologette
 aracnologia
 aracnologo
@@ -1063,6 +1065,7 @@ argelineo
 argentia
 argento
 argeya
+argo
 arima
 arkerette
 arkero
@@ -1091,6 +1094,7 @@ arrainata
 arraineta
 arraio
 arraioto
+arran
 arrantsa
 arrantsei
 arrantseie
@@ -1140,6 +1144,13 @@ artsivologo
 arvicolino
 arvicolo
 arvino
+asecurai
+asecuraie
+asecuraieon
+asecuraiet
+asecuraiki
+asecuraio
+asecuraioto
 aseire
 aseireie
 aseireieon
@@ -2876,6 +2887,7 @@ createiet
 createiki
 createio
 createioto
+creativo
 credito
 crema
 criketa
@@ -3046,6 +3058,7 @@ daio
 daioto
 daita
 dala
+dam
 dama
 damaine
 damaineie
@@ -4175,6 +4188,7 @@ elasto
 elde
 eldesa
 electio
+electo
 electoi
 electoie
 electoieon
@@ -4221,6 +4235,7 @@ elokraiet
 elokraiki
 elokraio
 elokraioto
+elokre
 em
 embalai
 embalaie
@@ -4855,6 +4870,8 @@ establezeio
 establezeioto
 establezimento
 estadia
+estadista
+estadistika
 estai
 estaia
 estaie
@@ -5711,6 +5728,13 @@ frustrum
 frustum
 fuana
 fuga
+fugai
+fugaie
+fugaieon
+fugaiet
+fugaiki
+fugaio
+fugaioto
 fuksia
 fulard
 fumigai
@@ -7757,6 +7781,7 @@ laireio
 laireioto
 laireki
 lairet
+laireta
 laka
 lakata
 lakrima
@@ -8664,6 +8689,7 @@ mirator
 mirmecologette
 mirmecologia
 mirmecologo
+miscelanea
 misei
 miseie
 miseieon
@@ -9000,6 +9026,7 @@ nataireio
 nataireioto
 nataireki
 natairet
+natairette
 natatia
 nativo
 natura
@@ -10841,6 +10868,7 @@ prolongaireio
 prolongaireioto
 prolongaireki
 prolongairet
+prolonge
 promedia
 promovai
 promovaie
@@ -10918,6 +10946,7 @@ proton
 provenza
 proverbio
 proxima
+proyectila
 prozeso
 prusai
 prusaie
@@ -11371,6 +11400,14 @@ refreskeiet
 refreskeiki
 refreskeio
 refreskeioto
+regaize
+regaizeie
+regaizeieon
+regaizeio
+regaizeioto
+regaizeki
+regaizet
+regaizo
 regalei
 regaleie
 regaleieon
@@ -13742,6 +13779,7 @@ uninstalaio
 uninstalaioto
 unione
 universo
+unkompatible
 unlana
 unlanai
 unlanaie
@@ -13768,6 +13806,7 @@ unlokeieon
 unlokeiet
 unlokeiki
 unlokeio
+unlokeioto
 unlokeioto
 unludei
 unludeie
@@ -13805,6 +13844,14 @@ unpoireki
 unpoiret
 unpoiro
 untsua
+unviso
+unvisoi
+unvisoie
+unvisoieon
+unvisoiet
+unvisoiki
+unvisoio
+unvisoioto
 unyoiko
 unzuna
 unzunai
@@ -14255,6 +14302,7 @@ webpagena
 wikipedia
 wiski
 wolfram
+wolfsbane
 xa
 xabana
 xafla
@@ -14468,6 +14516,7 @@ zarra
 zebra
 zegor
 zelo
+zentral
 zentrei
 zentreie
 zentreieon
