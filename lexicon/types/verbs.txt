@@ -304,6 +304,7 @@ cumplir → kumplaire
 curar → kurai
 curiosear → kuriosei
 dar pereza → partsai
+dar un puñetazo → punai
 dar → bei
 darse cuenta → indorai
 dañar → daxai, injurai
@@ -576,6 +577,7 @@ hacer reir → sigisai
 hacer sol → solai
 hacer un tour → turei
 hacer viento → vendai
+hacer clic → klikai
 hacer → doi, faize, fai, fazei
 hacerse una paja → oargai
 hackear → hackei

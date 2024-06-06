@@ -5458,6 +5458,12 @@ puloiet
 puloiki
 puloio
 puloioto
+punaie
+punaieon
+punaiet
+punaiki
+punaio
+punaioto
 puntsaie
 puntsaieon
 puntsaiet

@@ -2185,6 +2185,7 @@ carkazono
 carnavala
 carpologia
 carriya
+carro
 carrota
 carrusel
 cartila
@@ -4101,6 +4102,7 @@ editio
 editoro
 efektibo
 efizente
+efizientia
 efoi
 efoie
 efoieon
@@ -7367,6 +7369,7 @@ kemireio
 kemireioto
 kemireki
 kemiret
+kemnette
 kemno
 kempo
 kerrai
@@ -8343,6 +8346,7 @@ maraton
 marayato
 mare
 marestrela
+marine
 mariologette
 mariologia
 mariologo
@@ -11032,6 +11036,15 @@ pulverfruge
 pum
 pumka
 pumo
+puna
+punai
+punaie
+punaieon
+punaiet
+punaiki
+punaio
+punaioto
+punanda
 puntico
 punto
 puntsai
@@ -11248,6 +11261,7 @@ rantande
 rante
 rantevia
 rantio
+ranto
 ranuncula
 rare
 raro
@@ -11920,6 +11934,7 @@ romantiko
 romanze
 rombo
 romo
+rompable
 rompeire
 rompeireie
 rompeireieon
@@ -13183,6 +13198,7 @@ tostaio
 tostaioto
 tostoro
 totem
+toutsa
 toutseire
 toutseireie
 toutseireieon
@@ -13420,6 +13436,8 @@ triproxeio
 triproxeioto
 trirroda
 trisma
+trisor
+trisorette
 tristaga
 tristekia
 tristeko
@@ -13843,6 +13861,7 @@ unpoireioto
 unpoireki
 unpoiret
 unpoiro
+unrompable
 untsua
 unviso
 unvisoi

@@ -8123,6 +8123,14 @@
             }
         ]
     },
+    "caminante": {
+        "entries": [
+            {
+                "meaning": "kemnette",
+                "specification": ""
+            }
+        ]
+    },
     "camino": {
         "entries": [
             {
@@ -9367,6 +9375,22 @@
         "entries": [
             {
                 "meaning": "cd",
+                "specification": ""
+            }
+        ]
+    },
+    "cebo": {
+        "entries": [
+            {
+                "meaning": "carro",
+                "specification": ""
+            }
+        ]
+    },
+    "carnada": {
+        "entries": [
+            {
+                "meaning": "carro",
                 "specification": ""
             }
         ]
@@ -14395,6 +14419,14 @@
             }
         ]
     },
+    "dar un puñetazo": {
+        "entries": [
+            {
+                "meaning": "punai",
+                "specification": ""
+            }
+        ]
+    },
     "dar": {
         "entries": [
             {
@@ -17491,6 +17523,14 @@
         "entries": [
             {
                 "meaning": "efektibo",
+                "specification": ""
+            }
+        ]
+    },
+    "eficiencia": {
+        "entries": [
+            {
+                "meaning": "efizientia",
                 "specification": ""
             }
         ]
@@ -22663,6 +22703,14 @@
             }
         ]
     },
+    "fácilmente rompible": {
+        "entries": [
+            {
+                "meaning": "rompable",
+                "specification": ""
+            }
+        ]
+    },
     "fé": {
         "entries": [
             {
@@ -26975,6 +27023,14 @@
             }
         ]
     },
+    "irrompible": {
+        "entries": [
+            {
+                "meaning": "unrompable",
+                "specification": ""
+            }
+        ]
+    },
     "irónico": {
         "entries": [
             {
@@ -29947,6 +30003,14 @@
         "entries": [
             {
                 "meaning": "honxa, honse",
+                "specification": ""
+            }
+        ]
+    },
+    "marino": {
+        "entries": [
+            {
+                "meaning": "marine",
                 "specification": ""
             }
         ]
@@ -39987,6 +40051,22 @@
             }
         ]
     },
+    "puñetazo": {
+        "entries": [
+            {
+                "meaning": "punanda",
+                "specification": ""
+            }
+        ]
+    },
+    "puño": {
+        "entries": [
+            {
+                "meaning": "puna",
+                "specification": ""
+            }
+        ]
+    },
     "página web": {
         "entries": [
             {
@@ -40463,6 +40543,14 @@
         "entries": [
             {
                 "meaning": "ranuncula",
+                "specification": ""
+            }
+        ]
+    },
+    "rapidez": {
+        "entries": [
+            {
+                "meaning": "ranto",
                 "specification": ""
             }
         ]
@@ -46491,6 +46579,38 @@
             }
         ]
     },
+    "tesorero": {
+        "entries": [
+            {
+                "meaning": "trisorette",
+                "specification": ""
+            }
+        ]
+    },
+    "buscador de tesoros": {
+        "entries": [
+            {
+                "meaning": "trisorette",
+                "specification": ""
+            }
+        ]
+    },
+    "tesoro": {
+        "entries": [
+            {
+                "meaning": "trisor",
+                "specification": ""
+            }
+        ]
+    },
+    "botín": {
+        "entries": [
+            {
+                "meaning": "trisor",
+                "specification": ""
+            }
+        ]
+    },
     "testículo": {
         "entries": [
             {
@@ -47119,6 +47239,14 @@
         "entries": [
             {
                 "meaning": "topologette",
+                "specification": ""
+            }
+        ]
+    },
+    "toque": {
+        "entries": [
+            {
+                "meaning": "toutsa",
                 "specification": ""
             }
         ]

@@ -38,6 +38,7 @@ afónico → afono
 agresivo → agresibo
 agrio → xigro
 albino → albino
+alcanzado → arran
 aleatorio → rungo
 alineado → aliniato
 alternativo → anternaiko
@@ -66,6 +67,7 @@ aturdido → xake
 aturdidor → xakoro
 avaricioso → avarito
 avergonzado → combrako
+marino → marine
 avisado → avisto, avistoko
 bajo → pikoso
 barato → atsoso
@@ -104,6 +106,7 @@ castigado → jusaioto
 catastrófico → combo
 cautivo → kautivita
 centenario → ozenoso
+central → zentral
 cerrado → kerraiso
 ciego → blinda
 científico → cientsifika
@@ -134,6 +137,7 @@ congelado → gelatio
 conjugado → conjugo
 conocido → miseioko
 conquistado → conqisto
+conseguido → elokre
 constante → constanto
 contagioso → conteposa
 contaminado → drigo, poluto
@@ -143,6 +147,7 @@ cornudo → cornato
 correcto → correcto, korrektoko
 corto → coto
 cortés → karaoso
+creativo → creativo
 crujiente → crusto
 culpable → riaxeso
 culto → litero
@@ -247,6 +252,7 @@ frito → frito
 frío → aigeloso
 fuerte → forte
 fácil → fazilo
+fácilmente rompible → rompable
 galáctico → galaksiko
 gandúl → sugarriyo
 general → general
@@ -277,6 +283,7 @@ impresionable → impresable
 impresionante → impresivo
 impreso → izkratoso
 inaccesible → inakcesibla
+incompatible → unkompatible
 incorrecto → incorrecto, inkorrektoko
 inculto → unlitero
 incómodo → inconforte
@@ -297,15 +304,13 @@ interesante → interesanta
 introvertido → introverto
 inundado → fluve
 irritado → ezirutsuko
+irrompible → unrompable
 irónico → ironiko
 jerárquico → jiderarqiko
 jodida → frikenko
 joven (adjetivo) → nevako
 justo → iusto
-conseguido → elokre
 kafkiano → kafkiano
-prolongado → prolonge
-alcanzado → arran
 lagrimado → lakrimido
 largo → longo
 lascivo → invikso
@@ -357,13 +362,11 @@ mentira → musta
 mentiroso → mustager
 mestizo → seutse
 minúsculo → miskolo
-central → zentral
 mirado → avisoko
 mismo → mesmo
 misterioso → edariko
 moderno → moderna
 modificado → modifikako
-creativo → creativo
 monetario → monetareo
 mono → neko
 morado → morato
@@ -440,6 +443,7 @@ privado → privato, privado
 probable → probable, probeko
 probado → probo
 profundo → sundo
+prolongado → prolonge
 propenso → prono
 propio → prope
 protegido → protecto
@@ -458,7 +462,6 @@ reciente → reciento
 recluso → rekluso
 recompensado → reguarde
 rectal → rectal
-incompatible → unkompatible
 redondo → circloko
 relativo → relative
 reluciente → enlitaro

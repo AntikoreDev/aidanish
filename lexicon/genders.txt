@@ -429,6 +429,8 @@ la elade
 ei ersoro
 la proa
 ei aprendeixo
+la puna
+la punanda
 ei aprovatio
 ei aprovo
 la estava
@@ -910,6 +912,7 @@ ei hostexette
 ei kambio
 la usatsa
 ei camolo
+la kemnette
 ei kemno
 la rata
 la kamisa
@@ -1057,6 +1060,7 @@ ei argo
 la kanna
 ei cannon
 ei cd
+ei carro
 ei onnete
 la keleta
 ei setso
@@ -1817,6 +1821,7 @@ ei editio
 ei tendo
 ei editette
 ei editoro
+la efizientia
 la egiptologia
 ei egiptologo
 ei egiptologette
@@ -3430,6 +3435,7 @@ la musika
 ei musikette
 la natatia
 la agizaia
+la natairette
 la nanotecnologia
 la miniga
 la oranja
@@ -4211,7 +4217,6 @@ la provenza
 la proyectila
 la proba
 la acuprila
-la natairette
 ei prince
 ei prologo
 ei prologette
@@ -4303,6 +4308,7 @@ la ramen
 la acroa
 la range
 la ranuncula
+ei ranto
 ei kailokikro
 la rasta
 ei razor
@@ -4861,6 +4867,8 @@ la terurasta
 la terrurasta
 la tesis
 la tesis
+ei trisorette
+ei trisor
 ei test
 ei testiclo
 ei testiculo
@@ -4952,6 +4960,7 @@ la topologia
 la topologica
 ei topografette
 ei topologette
+la toutsa
 ei corloqibre
 ei corlere
 la zundra
@@ -5416,6 +5425,7 @@ ei afono
 ei agresibo
 ei xigro
 ei albino
+la arran
 ei rungo
 ei aliniato
 ei anternaiko
@@ -5446,6 +5456,7 @@ la xake
 ei xakoro
 ei avarito
 ei combrako
+la marine
 ei avisto
 ei avistoko
 ei pikoso
@@ -5486,6 +5497,7 @@ ei jusaioto
 ei combo
 la kautivita
 ei ozenoso
+la zentral
 ei kerraiso
 la blinda
 la cientsifika
@@ -5516,6 +5528,7 @@ ei gelatio
 ei conjugo
 ei miseioko
 ei conqisto
+ei elokre
 ei constanto
 la conteposa
 ei drigo
@@ -5527,6 +5540,7 @@ ei correcto
 ei korrektoko
 ei coto
 ei karaoso
+ei creativo
 ei crusto
 ei riaxeso
 ei litero
@@ -5641,6 +5655,7 @@ ei frito
 ei aigeloso
 ei forte
 ei fazilo
+la rompable
 ei galaksiko
 ei sugarriyo
 la general
@@ -5676,6 +5691,7 @@ la impresable
 ei impresivo
 ei izkratoso
 la inakcesibla
+ei unkompatible
 ei incorrecto
 ei inkorrektoko
 ei unlitero
@@ -5698,15 +5714,13 @@ la interesanta
 ei introverto
 ei fluve
 ei ezirutsuko
+ei unrompable
 ei ironiko
 ei jiderarqiko
 ei frikenko
 ei nevako
 ei iusto
-ei elokre
 ei kafkiano
-ei prolonge
-la arran
 ei lakrimido
 ei longo
 ei invikso
@@ -5765,13 +5779,11 @@ la musta
 ei mustager
 ei seutse
 ei miskolo
-la zentral
 ei avisoko
 ei mesmo
 ei edariko
 la moderna
 ei modifikako
-ei creativo
 ei monetareo
 ei neko
 ei morato
@@ -5856,6 +5868,7 @@ la probable
 ei probeko
 ei probo
 ei sundo
+ei prolonge
 ei prono
 ei prope
 ei protecto
@@ -5876,7 +5889,6 @@ ei reciento
 ei rekluso
 la reguarde
 la rectal
-ei unkompatible
 ei circloko
 la relative
 ei enlitaro

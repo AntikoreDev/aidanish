@@ -1,4 +1,5 @@
 amarillo → mallea
+arácnido → aracnita
 azul → anil
 bizco → quete
 blanco → bianco, alura
@@ -10,8 +11,10 @@ estafador → lerrako, zoike
 fructívoro → fructivoro
 futuro → futura
 gordo → lubo
+gris → horan
 herbívoro → herbivoro
 idiota → hunko, fruka, estulta
+cian → cian
 insectívoro → insectivoro
 intermitente → tika
 marrón → marro, brunno, bronzo, itsoso
@@ -22,7 +25,6 @@ naranja (color) → oranja
 negro → nekro, tura
 obseso → oclure
 omnivoro → omnivoro
-arácnido → aracnita
 persona muy salida → libidette
 retenido → ataino
 rojo → roixo

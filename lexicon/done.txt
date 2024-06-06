@@ -852,6 +852,7 @@ bosque
 bota
 bote
 botella
+botín
 botón
 botón de enter
 botón de retroceso
@@ -905,6 +906,7 @@ burlar
 burrito
 burro
 buscador
+buscador de tesoros
 buscar
 buscar en internet
 busto
@@ -996,6 +998,7 @@ camarero
 cambiar
 cambio
 camello
+caminante
 camino
 camisa
 camiseta
@@ -1082,6 +1085,7 @@ carisma
 carismático
 caritativo
 cariño
+carnada
 carnaval
 carne
 carnicero
@@ -1156,6 +1160,7 @@ caída
 caña
 cañón
 cd
+cebo
 cebolla
 cebolleta
 cebra
@@ -1758,6 +1763,7 @@ damas
 danza
 dar
 dar pereza
+dar un puñetazo
 darse cuenta
 dato
 dañar
@@ -2131,6 +2137,7 @@ edificio
 editar
 editor
 efectivo
+eficiencia
 eficiente
 egipto
 egiptología
@@ -2762,6 +2769,7 @@ futurología
 futurólogo
 fábula
 fácil
+fácilmente rompible
 fé
 fístula
 fórmula
@@ -3291,6 +3299,7 @@ iris
 ironía
 irritado
 irritar
+irrompible
 irse por el desagüe
 irónico
 isla
@@ -3652,6 +3661,7 @@ margarita
 marica
 maricón
 marido
+marino
 mariología
 marioneta
 mariposa
@@ -4866,6 +4876,8 @@ puta
 puto
 puñal
 puñalada
+puñetazo
+puño
 página
 página web
 pájaro
@@ -4925,6 +4937,7 @@ ramen
 rana
 rango
 ranunculus
+rapidez
 raro
 rascacielos
 rascar
@@ -5657,6 +5670,8 @@ terror
 terrorista
 terrorífico
 tesis
+tesorero
+tesoro
 test
 testículo
 teta
@@ -5735,6 +5750,7 @@ topografía
 topología
 topógrafo
 topólogo
+toque
 torcecuellos
 tormenta
 tornado

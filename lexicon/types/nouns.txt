@@ -375,6 +375,9 @@ apoyo (ayuda o protección) → elade
 apoyo (cargar; hacer descansar) → ersoro
 apoyo (respaldar; aprobar) → proa
 aprendizaje → aprendeixo
+magenta → magenta
+puño → puna
+puñetazo → punanda
 aprobación → aprovatio
 aprobado → aprovo
 apuñalada, puñalada → estava
@@ -751,6 +754,7 @@ camaleón → jideor
 camarero → hostexette
 cambio → kambio
 camello → usatsa, camolo
+caminante → kemnette
 camino → kemno, rata
 camisa → kamisa
 camiseta → kamiseta
@@ -875,6 +879,7 @@ caída → argo
 caña → kanna
 cañón → cannon
 cd → cd
+cebo, carnada → carro
 cebolla → onnete
 cebolleta → keleta
 cebolleta → setso
@@ -1496,6 +1501,7 @@ edición → editio
 edificio → tendo
 editor (persona) → editette
 editor (programa u objeto) → editoro
+eficiencia → efizientia
 egiptología → egiptologia
 egiptólogo → egiptologo, egiptologette
 ejemplo → exemplo
@@ -2006,6 +2012,7 @@ gravedad → gravita
 gravimetría → gravimetria, gravimetrica
 graznido → cuaqio, grazne
 grieta, raja → raca
+clic → klika
 grifo (agua) → espigoto
 grifo (animal) → grifo
 grillo → audixora
@@ -2749,6 +2756,7 @@ música → musika
 música → musikette
 nacimiento → natatia
 nacionalidad → agizaia
+nadador → natairette
 nanotecnología → nanotecnologia
 napolitana → miniga
 naranja (fruta) → oranja
@@ -3359,7 +3367,6 @@ provincia → provenza
 proyectil → proyectila
 prueba → proba
 prímula → acuprila
-nadador → natairette
 príncipe → prince
 prólogo → prologo, prologette
 pseudología → pseudologia
@@ -3433,6 +3440,7 @@ ramen → ramen
 rana → acroa
 rango → range
 ranunculus → ranuncula
+rapidez → ranto
 rascacielos → kailokikro
 rasta → rasta
 rasuradora (manual) → razor, razoro
@@ -3888,6 +3896,8 @@ territorio → territoria
 terror → terura, terrura
 terrorista → terurasta, terrurasta
 tesis → tesis
+tesorero, buscador de tesoros → trisorette
+tesoro, botín → trisor
 test (examen) → test
 testículo → testiclo, testiculo
 teta → burra, tita
@@ -3951,6 +3961,7 @@ topografía → topografia, topografica
 topología → topologia, topologica
 topógrafo → topografette
 topólogo → topologette
+toque → toutsa
 torcecuellos → corloqibre, corlere
 tormenta → zundra
 tornado → tornado
