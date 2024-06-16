@@ -429,8 +429,6 @@ la elade
 ei ersoro
 la proa
 ei aprendeixo
-la puna
-la punanda
 ei aprovatio
 ei aprovo
 la estava
@@ -459,6 +457,7 @@ ei bunyo
 la area
 la auxa
 la auxarran
+ei limarro
 la aretalogia
 la arma
 la armatia
@@ -593,6 +592,7 @@ la axiologia
 la axonometria
 la axonometrica
 la lade
+ei labraioro
 la aziala
 ei azaharo
 ei runge
@@ -606,6 +606,7 @@ la relicrolista
 ei yaro
 ei anio
 la clia
+ei terrapesko
 ei bacon
 la bacteriologia
 ei bacteriologo
@@ -797,9 +798,11 @@ ei bromatologette
 la estarola
 ei bromo
 ei bronce
+ei brairo
 la vitsa
 la vitsia
 la farla
+ei redanorto
 ei loop
 la budisma
 la zarra
@@ -860,6 +863,7 @@ la cacografica
 la cacologia
 la cactia
 la kada
+la tsaden
 ei kafetoro
 la kafetela
 la café
@@ -981,6 +985,7 @@ ei caracterologo
 la caracterologette
 ei carburanto
 ei carburo
+la madrakarbona
 la karbona
 la cocola
 la qiava
@@ -996,6 +1001,7 @@ ei kargaoro
 la carica
 la tsarisma
 la carnavala
+la porketa
 ei karno
 la karnirette
 la folda
@@ -1057,6 +1063,7 @@ ei junzette
 la xikara
 ei xikere
 ei argo
+la peskanna
 la kanna
 ei cannon
 ei cd
@@ -1204,6 +1211,7 @@ la maira
 la klaviya
 la klaga
 la espirita
+la klika
 la komprairette
 la climaia
 la climatologia
@@ -1216,8 +1224,8 @@ la quartada
 ei cobaldo
 ei cobalto
 la cobra
-ei ikroso
 ei copar
+ei ikroso
 la cocaina
 la kokaine
 ei kotse
@@ -1267,6 +1275,8 @@ la coma
 la carriya
 ei comando
 la pulanda
+la belan
+ei combat
 ei combo
 ei nitor
 ei combustable
@@ -1434,6 +1444,8 @@ ei koste
 la ruxga
 ei costume
 ei ehelo
+la kota
+la tsadenkota
 la cuxate
 ei cunno
 ei vulve
@@ -1599,6 +1611,8 @@ la fasqette
 ei decatlon
 la decimal
 la deze
+ei vanaizo
+ei vanairo
 ei decakono
 ei decalogo
 la decalogette
@@ -1848,6 +1862,7 @@ ei embarco
 la embriologia
 ei embriologo
 ei embriologette
+la buva
 ei emergenciologo
 ei emergenciologette
 ei emitero
@@ -2093,6 +2108,7 @@ la etimologia
 ei etimologo
 ei etimologette
 la etiologia
+ei nominoro
 la etnia
 la etnografia
 la etnografica
@@ -2476,6 +2492,7 @@ la gravimetria
 la gravimetrica
 ei cuaqio
 la grazne
+ei culdauro
 la raca
 ei espigoto
 ei grifo
@@ -2610,6 +2627,7 @@ la higrometria
 la higrometrica
 ei inesteko
 ei eko
+ei ilon
 la hinduisma
 la hiperaktivita
 la hipermetria
@@ -3073,6 +3091,7 @@ la maheiga
 ei mastero
 la masteria
 la magadia
+la magenta
 la magia
 la haia
 la magma
@@ -3668,6 +3687,7 @@ ei pakano
 la paidologia
 la likra
 la oarga
+ei eirgoro
 ei vorto
 la palabra
 la vortatia
@@ -3765,6 +3785,7 @@ la parasitologia
 ei parasitologo
 la parasitologette
 ei estosol
+ei paradiso
 la paren
 la paremiologia
 ei paremiologo
@@ -3836,8 +3857,10 @@ ei paiseko
 la pannola
 la xina
 la pesketela
+ei koraton
 la korata
 la same
+ei petelo
 ei orden
 ei fargo
 la pedofilia
@@ -3952,6 +3975,7 @@ ei nekrasobarco
 la petrologia
 la nekrasoa
 la porpura
+la acoabalun
 ei pesko
 la penna
 ei pennasco
@@ -3968,6 +3992,7 @@ la pictografica
 la entesora
 ei poscritum
 la poi
+ei limapetro
 ei petro
 la petra
 la pelde
@@ -4040,6 +4065,7 @@ la pleasa
 la plaga
 la plan
 ei plankoro
+ei planko
 la planeata
 la planeta
 ei planetoido
@@ -4116,6 +4142,7 @@ ei nurdefekto
 la escuara
 la esquara
 la arkubre
+ei kuton
 ei porno
 la pornografia
 ei poro
@@ -4258,6 +4285,8 @@ ei puntuo
 la tritura
 la puta
 ei estavoro
+la punanda
+la puna
 la webpagena
 la pagena
 la payoa
@@ -4493,6 +4522,7 @@ ei zapor
 ei retrakorkoit
 la sacarimetria
 la sacarimetrica
+ei sako
 ei sak
 ei sacrifitio
 ei roixeral
@@ -5077,6 +5107,7 @@ ei trafiko
 la transita
 ei trio
 ei triplex
+ei tropiko
 la tsunami
 la tzunami
 la zunami
@@ -5456,7 +5487,6 @@ la xake
 ei xakoro
 ei avarito
 ei combrako
-la marine
 ei avisto
 ei avistoko
 ei pikoso
@@ -5507,6 +5537,7 @@ ei claustrofobico
 ei eclasiko
 ei kozido
 ei koxineioto
+ei koiko
 ei colinte
 ei coloniko
 ei coloqio
@@ -5616,6 +5647,7 @@ ei enterro
 ei ergonomo
 ei esmaro
 la espezial
+la espectora
 ei hexego
 ei eskemeko
 ei lerrako
@@ -5761,12 +5793,14 @@ ei maldito
 ei heunxo
 ei heune
 ei heunesle
+ei zugro
 la falman
 la maniketa
 la manikete
 ei maniaco
 ei marxito
 la martiala
+la marine
 la masculine
 ei masivo
 la oxtorra
@@ -5821,6 +5855,7 @@ la orwelliana
 ei ausko
 ei obskuro
 la auskura
+la unlita
 la rigi
 ei ragiko
 la tsusta
@@ -5921,9 +5956,11 @@ la sampla
 ei amaiso
 ei simpo
 la simaise
+ei unkoiko
 la kolorfala
 la daxafala
 la dubafala
+ei unhano
 la sensofala
 la vitafala
 ei etristuro
@@ -5960,6 +5997,7 @@ ei calmo
 ei transcribiko
 ei yigoiko
 ei tristeko
+ei tropikal
 la auskura
 la tipika
 la tipikar

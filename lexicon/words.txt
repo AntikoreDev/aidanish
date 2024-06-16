@@ -53,6 +53,7 @@ acidimetria
 acidimetrica
 aco
 acoa
+acoabalun
 acoaire
 acoakisa
 acoario
@@ -851,6 +852,7 @@ beiloxte
 beixize
 beke
 beko
+belan
 belania
 belei
 beleize
@@ -1005,6 +1007,8 @@ bouroi
 boutsara
 bovo
 braine
+braire
+brairo
 brankia
 braqigrafia
 braqigrafica
@@ -1078,6 +1082,7 @@ busterre
 busto
 butanna
 butano
+buva
 cabin
 cacao
 cacauato
@@ -1225,6 +1230,7 @@ cetro
 chat
 chatei
 chip
+cian
 ciberfobia
 cidra
 cienciologette
@@ -1336,6 +1342,7 @@ comaize
 comandai
 comandaire
 comando
+combat
 combe
 combo
 comboi
@@ -1565,6 +1572,7 @@ cuendei
 cuki
 culda
 culdai
+culdauro
 culdei
 cule
 culepipra
@@ -2051,6 +2059,7 @@ eir
 eire
 eirer
 eirge
+eirgoro
 eisa
 eita
 eixam
@@ -2348,6 +2357,7 @@ espaunaire
 espaunaoro
 espectaclo
 espector
+espectora
 espectorografia
 espectorografica
 espectorometria
@@ -3250,6 +3260,7 @@ honxa
 hopital
 hopitalai
 hora
+horan
 horaviso
 horcasto
 horfanatela
@@ -3338,6 +3349,7 @@ ikrabai
 ikroso
 ila
 ilaoro
+ilon
 imagenologia
 imaginatio
 imaginei
@@ -3716,6 +3728,8 @@ klave
 klavika
 klavikette
 klaviya
+klika
+klikai
 klisal
 klisalaqe
 klisalatia
@@ -3731,6 +3745,7 @@ koato
 kognai
 koi
 koike
+koiko
 koixa
 kokaine
 koki
@@ -3780,6 +3795,7 @@ koraisagra
 koraiso
 korata
 koratika
+koraton
 koraza
 korila
 korko
@@ -3792,6 +3808,7 @@ kosovo
 kosta
 koste
 kostei
+kota
 kotse
 kotsira
 koxina
@@ -3845,6 +3862,7 @@ kuriosei
 kurioso
 kurtina
 kuta
+kuton
 kutoro
 kutsa
 kuxa
@@ -3852,6 +3870,8 @@ la
 labe
 laborersette
 laboro
+labrai
+labraioro
 lacrima
 lade
 ladei
@@ -3971,6 +3991,8 @@ likraparavendo
 likratia
 likravitro
 lima
+limapetro
+limarro
 lime
 limite
 limitei
@@ -4080,6 +4102,7 @@ macrofotografica
 madem
 madra
 madraco
+madrakarbona
 madrakuxette
 madrasaivaixette
 madratela
@@ -4089,6 +4112,7 @@ madrid
 madrita
 madrito
 magadia
+magenta
 magia
 magika
 magma
@@ -4671,6 +4695,7 @@ nolocato
 nomais
 nombrai
 nome
+nominoro
 nomografia
 nomografica
 non
@@ -4986,6 +5011,7 @@ papirologo
 para
 parada
 paradimensional
+paradiso
 paradoksografia
 paradoksografica
 parafilia
@@ -5148,6 +5174,7 @@ pesa
 pesai
 pesejo
 peska
+peskanna
 peskei
 pesketela
 pesko
@@ -5162,6 +5189,7 @@ pestai
 pesto
 pestoro
 pestoso
+petelo
 petiai
 petitia
 petra
@@ -5261,6 +5289,7 @@ planimetrica
 planitela
 planiuno
 plankai
+planko
 plankoro
 plano
 planoi
@@ -5355,6 +5384,7 @@ por
 pora
 poratia
 porei
+porketa
 porketsa
 porko
 porno
@@ -5739,6 +5769,7 @@ reculo
 redai
 redaioro
 redaixette
+redanorto
 redario
 redoi
 refai
@@ -5999,6 +6030,7 @@ saire
 saivai
 sak
 sakiya
+sako
 saldo
 sale
 saluto
@@ -6469,6 +6501,7 @@ terraformei
 terrai
 terranal
 terranno
+terrapesko
 terrapova
 terraxatai
 terraztela
@@ -6715,6 +6748,8 @@ trompeta
 trompo
 trone
 tropas
+tropikal
+tropiko
 tropologia
 trovai
 trovarette
@@ -6727,6 +6762,8 @@ trustoi
 trutsa
 tsa
 tsaclin
+tsaden
+tsadenkota
 tsado
 tsadoi
 tsadoro
@@ -6857,10 +6894,12 @@ unfai
 unfinai
 unfinaloko
 unfiniko
+unhano
 uniko
 uninstalai
 unione
 universo
+unkoiko
 unkompatible
 unlana
 unlanai
@@ -6958,7 +6997,10 @@ valo
 valua
 valuai
 valuako
+vanaire
+vanairo
 vanaize
+vanaizo
 vando
 vanga
 vangai
@@ -7329,6 +7371,7 @@ zroto
 zu
 zugra
 zugrai
+zugro
 zui
 zunaire
 zunami

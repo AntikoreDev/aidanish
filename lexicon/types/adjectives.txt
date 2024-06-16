@@ -67,7 +67,6 @@ aturdido → xake
 aturdidor → xakoro
 avaricioso → avarito
 avergonzado → combrako
-marino → marine
 avisado → avisto, avistoko
 bajo → pikoso
 barato → atsoso
@@ -115,7 +114,7 @@ claro → klaro
 claustrofóbico → claustrofobico
 clásico → eclasiko
 cocido → kozido
-cocinado → koxineioto
+cocinado → koxineioto, koiko
 colindante → colinte
 colonizado → coloniko
 coloquial → coloqio
@@ -217,6 +216,7 @@ enterrado → auro, enterro
 ergonómico → ergonomo
 esmaltado → esmaro
 especial → espezial
+espectral → espectora
 espeso → hexego
 esquemático → eskemeko
 estafador → lerrako
@@ -344,12 +344,14 @@ maldito → maldito
 maligno → heunxo
 malo → heune
 maloliente → heunesle
+manchado → zugro
 manco → falman
 manipulado, manipulable → maniketa
 manipulador → manikete
 maniático → maniaco
 marchito → marxito
 marcial → martiala
+marino → marine
 masculino → masculine
 masivo → masivo
 maximo → oxtorra
@@ -400,7 +402,7 @@ oriental → oriental
 original → origelo
 orwelliano → orwelliana
 oscuro y depresivo → ausko
-oscuro → obskuro, auskura
+oscuro → obskuro, auskura, unlita
 oxidado (de hacer algo) → rigi
 oxidado (metal) → ragiko
 paquete (insulto) → tsusta
@@ -492,9 +494,11 @@ silencioso → esparoso
 simple → simple, sampla 
 simpático → amaiso, simpo
 simpático → simaise
+sin cocinar, crudo (comida) → unkoiko
 sin color → kolorfala
 sin daño, sin dolor → daxafala
 sin duda, indudablemente → dubafala
+sin manufacturar, en crudo → unhano
 sin sentido → sensofala
 sin vida → vitafala
 sincero → etristuro, sinzero
@@ -527,6 +531,7 @@ tranquilo → einxo, calmo
 transcriptiva → transcribiko
 trastornante → yigoiko
 triste → tristeko
+tropical → tropikal
 tétrico → auskura
 típico → tipika, tipikar
 ultimo → elasto

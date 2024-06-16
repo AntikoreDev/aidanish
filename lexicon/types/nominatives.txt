@@ -27,11 +27,11 @@ obseso → oclure
 omnivoro → omnivoro
 persona muy salida → libidette
 retenido → ataino
-rojo → roixo
-rojo → roxo
+rojo → roixo, roxo
 rosa → rosa
 vegano → vegano
 vegetariano → vegetaro
 verde → berde
+verde lima → lima
 vivo → vitoso
 zurdo → zoranno

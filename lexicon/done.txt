@@ -485,6 +485,7 @@ arabia saudita
 aracnofobia
 aracnología
 aracnólogo
+arar
 araña
 arboleda
 arbusto
@@ -504,6 +505,7 @@ ardilla
 area
 arena
 arenas movedizas
+arenisca
 aretalogía
 argelia
 argelino
@@ -670,6 +672,7 @@ axonometría
 ayer
 ayuda
 ayudar
+azada
 azafrán
 azahar
 azar
@@ -686,6 +689,7 @@ añorar
 aún
 baba
 babear
+bacalao
 bacon
 bacteriología
 bacteriólogo
@@ -880,10 +884,13 @@ bromear
 bromelia
 bromo
 bronce
+brotar
+brote de árbol
 bruja
 brujería
 brusco
 brío
+brújula
 bucal
 bucarest
 bucle
@@ -945,6 +952,7 @@ cacografía
 cacología
 cactus
 cada
+cadena
 caducado
 caducar
 caducidad
@@ -1071,6 +1079,7 @@ carburante
 carburar
 carburo
 carbón
+carbón vegetal
 carcaj
 carcinología
 cardiografía
@@ -1088,6 +1097,7 @@ cariño
 carnada
 carnaval
 carne
+carne de cerdo
 carnicero
 carnoso
 carnívoro
@@ -1158,6 +1168,7 @@ cazo
 cazuela
 caída
 caña
+caña de pescar
 cañón
 cd
 cebo
@@ -1243,6 +1254,7 @@ chorizo
 chuche
 chupada
 chupar
+cian
 ciberfobia
 ciclismo
 ciclo
@@ -1301,6 +1313,7 @@ clavel
 clavija
 clavo
 clemátide
+clic
 cliente
 clima
 climatología
@@ -1365,6 +1378,7 @@ coma
 comadreja
 comando
 comba
+combate
 combinación
 combinar
 comburente
@@ -1599,6 +1613,7 @@ costo
 costra
 costumbre
 costura
+cota de malla
 cotilla; persona que activamente espía a conocidos para cuchichear normalmente para hablarlo con más personas así
 coyote
 coño
@@ -1795,6 +1810,8 @@ decir
 decir muchas palabrotas
 decisión
 declarar
+decoración
+decorar
 decágono
 decálogo
 dedal
@@ -2178,6 +2195,7 @@ embarco
 embriología
 embriólogo
 embrujar
+embudo
 emergenciólogo
 emisor
 emitir
@@ -2213,6 +2231,7 @@ empujar
 empuje
 empático
 en
+en crudo
 en el
 en fin
 en persona
@@ -2405,6 +2424,7 @@ especializar
 especie
 espectador
 espectar
+espectral
 espectro
 espectrofotometría
 espectrografía
@@ -2509,6 +2529,7 @@ eterno
 etimología
 etimólogo
 etiología
+etiqueta
 etnia
 etnografía
 etnología
@@ -2904,6 +2925,7 @@ gravedad
 gravimetría
 graznar
 graznido
+greba
 grieta
 grifo
 grillo
@@ -2911,6 +2933,7 @@ gripe
 gripe aviar
 gripe española
 gripe porcina
+gris
 gritar
 grosella
 grosero
@@ -2957,6 +2980,7 @@ hablante
 hablar
 hablar sin saber
 hacer
+hacer clic
 hacer horas extra
 hacer más bonito
 hacer que un sistema funcione completamente por internet; sin espacio físico
@@ -3052,6 +3076,7 @@ hija
 hijastra
 hijastro
 hijo
+hilo
 hinduismo
 hindú
 hiperactividad
@@ -3582,6 +3607,7 @@ madrugar
 maestro
 maestría
 magdalena
+magenta
 magia
 magma
 magnetismo
@@ -3606,6 +3632,7 @@ mamografía
 mamut
 mamá
 mancha
+manchado
 manchar
 manco
 mancuerna
@@ -4251,6 +4278,7 @@ pagano
 pagar
 paidología
 paja
+pala
 palabra
 palabra baúl
 palabrería
@@ -4324,6 +4352,7 @@ parasicólogo
 parasitología
 parasitólogo
 parasol
+paraíso
 parcela
 parecer
 pared
@@ -4394,8 +4423,10 @@ pañuelo
 pecado
 pecar
 pecera
+pechera
 pecho
 pechuga
+pedernal
 pedido
 pedir
 pedo
@@ -4541,6 +4572,7 @@ petrología
 petróleo
 petunia
 pez
+pez globo
 peña
 peñasco
 peón
@@ -4553,6 +4585,7 @@ pictografía
 pie
 pie de texto
 piedra
+piedra caliza
 piedra papel tijera
 piel
 pierna
@@ -4610,6 +4643,7 @@ plaga de justiniano
 plan
 plancha
 planchar
+planchas de madera
 planear
 planeo
 planeta
@@ -4683,6 +4717,7 @@ por favor
 por lo que
 por qué
 porche
+porción
 pornografía
 poro
 porque
@@ -4888,6 +4923,7 @@ péndulo
 pértiga
 pícido
 píxel
+pólvora
 pórtico
 público
 qubit
@@ -5150,6 +5186,7 @@ robot
 roca
 roca gigante
 roce
+rodaja
 rodar
 rodear
 rodilla
@@ -5368,11 +5405,13 @@ simplemente por creer que "el resto iban" o "yo pensaba que x quería"
 simplex
 simpático
 sin
+sin cocinar
 sin color
 sin daño
 sin dolor
 sin duda
 sin embargo
+sin manufacturar
 sin sentido
 sin vida
 sincero
@@ -5736,6 +5775,7 @@ todos lados
 todos sitios
 todoterreno
 todólogo
+tolva
 tomacorriente
 tomar
 tomate
@@ -5873,7 +5913,9 @@ tronar
 tronco
 trono
 tropa
+tropical
 tropología
+trozo
 trucha
 truco
 trueno
@@ -5883,6 +5925,7 @@ tráfico
 tránsito
 trío
 tríplex
+trópico
 tsunami
 tu
 tubería
@@ -6038,6 +6081,7 @@ verdad
 verdaderamente
 verdadero
 verde
+verde lima
 verdura
 vergüenza
 verificación

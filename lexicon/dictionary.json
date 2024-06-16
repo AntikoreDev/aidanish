@@ -3995,6 +3995,14 @@
             }
         ]
     },
+    "arar": {
+        "entries": [
+            {
+                "meaning": "labrai",
+                "specification": ""
+            }
+        ]
+    },
     "araña": {
         "entries": [
             {
@@ -4147,6 +4155,14 @@
         "entries": [
             {
                 "meaning": "auxarran",
+                "specification": ""
+            }
+        ]
+    },
+    "arenisca": {
+        "entries": [
+            {
+                "meaning": "limarro",
                 "specification": ""
             }
         ]
@@ -5479,6 +5495,14 @@
             }
         ]
     },
+    "azada": {
+        "entries": [
+            {
+                "meaning": "labraioro",
+                "specification": ""
+            }
+        ]
+    },
     "azafrán": {
         "entries": [
             {
@@ -5587,6 +5611,14 @@
         "entries": [
             {
                 "meaning": "clire",
+                "specification": ""
+            }
+        ]
+    },
+    "bacalao": {
+        "entries": [
+            {
+                "meaning": "terrapesko",
                 "specification": ""
             }
         ]
@@ -7195,6 +7227,22 @@
             }
         ]
     },
+    "brotar": {
+        "entries": [
+            {
+                "meaning": "braire",
+                "specification": "plantas"
+            }
+        ]
+    },
+    "brote de árbol": {
+        "entries": [
+            {
+                "meaning": "brairo",
+                "specification": ""
+            }
+        ]
+    },
     "bruja": {
         "entries": [
             {
@@ -7231,6 +7279,14 @@
         "entries": [
             {
                 "meaning": "farla",
+                "specification": ""
+            }
+        ]
+    },
+    "brújula": {
+        "entries": [
+            {
+                "meaning": "redanorto",
                 "specification": ""
             }
         ]
@@ -7715,6 +7771,14 @@
             },
             {
                 "meaning": "kada",
+                "specification": ""
+            }
+        ]
+    },
+    "cadena": {
+        "entries": [
+            {
+                "meaning": "tsaden",
                 "specification": ""
             }
         ]
@@ -8695,6 +8759,14 @@
             }
         ]
     },
+    "carbón vegetal": {
+        "entries": [
+            {
+                "meaning": "madrakarbona",
+                "specification": ""
+            }
+        ]
+    },
     "carbón": {
         "entries": [
             {
@@ -8819,6 +8891,14 @@
         "entries": [
             {
                 "meaning": "carnavala",
+                "specification": ""
+            }
+        ]
+    },
+    "carne de cerdo": {
+        "entries": [
+            {
+                "meaning": "porketa",
                 "specification": ""
             }
         ]
@@ -9351,6 +9431,14 @@
         "entries": [
             {
                 "meaning": "argo",
+                "specification": ""
+            }
+        ]
+    },
+    "caña de pescar": {
+        "entries": [
+            {
+                "meaning": "peskanna",
                 "specification": ""
             }
         ]
@@ -10083,6 +10171,14 @@
             }
         ]
     },
+    "cian": {
+        "entries": [
+            {
+                "meaning": "cian",
+                "specification": ""
+            }
+        ]
+    },
     "ciberfobia": {
         "entries": [
             {
@@ -10595,6 +10691,14 @@
             }
         ]
     },
+    "clic": {
+        "entries": [
+            {
+                "meaning": "klika",
+                "specification": ""
+            }
+        ]
+    },
     "cliente": {
         "entries": [
             {
@@ -10686,7 +10790,7 @@
     "cobre": {
         "entries": [
             {
-                "meaning": "ikroso, copar",
+                "meaning": "copar, ikroso",
                 "specification": ""
             }
         ]
@@ -10770,7 +10874,7 @@
     "cocinado": {
         "entries": [
             {
-                "meaning": "koxineioto",
+                "meaning": "koxineioto, koiko",
                 "specification": ""
             }
         ]
@@ -11175,6 +11279,18 @@
         "entries": [
             {
                 "meaning": "pulanda",
+                "specification": ""
+            }
+        ]
+    },
+    "combate": {
+        "entries": [
+            {
+                "meaning": "belan, combat",
+                "specification": "concepto general"
+            },
+            {
+                "meaning": "fista",
                 "specification": ""
             }
         ]
@@ -13091,6 +13207,14 @@
             }
         ]
     },
+    "cota de malla": {
+        "entries": [
+            {
+                "meaning": "kota, tsadenkota",
+                "specification": ""
+            }
+        ]
+    },
     "cotilla; persona que activamente espía a conocidos para cuchichear normalmente para hablarlo con más personas así": {
         "entries": [
             {
@@ -13815,6 +13939,10 @@
         "entries": [
             {
                 "meaning": "otsotino",
+                "specification": ""
+            },
+            {
+                "meaning": "buva",
                 "specification": ""
             }
         ]
@@ -14695,6 +14823,26 @@
         "entries": [
             {
                 "meaning": "declaire",
+                "specification": ""
+            }
+        ]
+    },
+    "decoración": {
+        "entries": [
+            {
+                "meaning": "vanaizo, vanairo",
+                "specification": ""
+            }
+        ]
+    },
+    "decorar": {
+        "entries": [
+            {
+                "meaning": "vanaire",
+                "specification": ""
+            },
+            {
+                "meaning": "vanaize",
                 "specification": ""
             }
         ]
@@ -17883,6 +18031,22 @@
             }
         ]
     },
+    "embudo": {
+        "entries": [
+            {
+                "meaning": "buva",
+                "specification": ""
+            }
+        ]
+    },
+    "tolva": {
+        "entries": [
+            {
+                "meaning": "buva",
+                "specification": ""
+            }
+        ]
+    },
     "emergenciólogo": {
         "entries": [
             {
@@ -19759,6 +19923,14 @@
             }
         ]
     },
+    "espectral": {
+        "entries": [
+            {
+                "meaning": "espectora",
+                "specification": ""
+            }
+        ]
+    },
     "espectro": {
         "entries": [
             {
@@ -20587,6 +20759,14 @@
         "entries": [
             {
                 "meaning": "etiologia",
+                "specification": ""
+            }
+        ]
+    },
+    "etiqueta": {
+        "entries": [
+            {
+                "meaning": "nominoro",
                 "specification": ""
             }
         ]
@@ -23807,6 +23987,14 @@
             }
         ]
     },
+    "greba": {
+        "entries": [
+            {
+                "meaning": "culdauro",
+                "specification": ""
+            }
+        ]
+    },
     "grieta": {
         "entries": [
             {
@@ -23871,6 +24059,14 @@
         "entries": [
             {
                 "meaning": "flubila",
+                "specification": ""
+            }
+        ]
+    },
+    "gris": {
+        "entries": [
+            {
+                "meaning": "horan",
                 "specification": ""
             }
         ]
@@ -24231,6 +24427,14 @@
         "entries": [
             {
                 "meaning": "paire, falai",
+                "specification": ""
+            }
+        ]
+    },
+    "hacer clic": {
+        "entries": [
+            {
+                "meaning": "klikai",
                 "specification": ""
             }
         ]
@@ -24995,6 +25199,14 @@
         "entries": [
             {
                 "meaning": "eko",
+                "specification": ""
+            }
+        ]
+    },
+    "hilo": {
+        "entries": [
+            {
+                "meaning": "ilon",
                 "specification": ""
             }
         ]
@@ -29003,6 +29215,18 @@
             }
         ]
     },
+    "pelea": {
+        "entries": [
+            {
+                "meaning": "fista",
+                "specification": ""
+            },
+            {
+                "meaning": "litsa, faita, pugna",
+                "specification": "informal"
+            }
+        ]
+    },
     "luchar": {
         "entries": [
             {
@@ -29359,6 +29583,14 @@
             }
         ]
     },
+    "magenta": {
+        "entries": [
+            {
+                "meaning": "magenta",
+                "specification": ""
+            }
+        ]
+    },
     "magia": {
         "entries": [
             {
@@ -29563,6 +29795,14 @@
         "entries": [
             {
                 "meaning": "zugra",
+                "specification": ""
+            }
+        ]
+    },
+    "manchado": {
+        "entries": [
+            {
+                "meaning": "zugro",
                 "specification": ""
             }
         ]
@@ -34642,7 +34882,7 @@
     "oscuro": {
         "entries": [
             {
-                "meaning": "obskuro, auskura",
+                "meaning": "obskuro, auskura, unlita",
                 "specification": ""
             }
         ]
@@ -34920,6 +35160,14 @@
             {
                 "meaning": "oarga",
                 "specification": "sexo"
+            }
+        ]
+    },
+    "pala": {
+        "entries": [
+            {
+                "meaning": "eirgoro",
+                "specification": "herramienta"
             }
         ]
     },
@@ -35535,6 +35783,14 @@
             }
         ]
     },
+    "paraíso": {
+        "entries": [
+            {
+                "meaning": "paradiso",
+                "specification": ""
+            }
+        ]
+    },
     "parecer": {
         "entries": [
             {
@@ -36071,6 +36327,14 @@
             }
         ]
     },
+    "pechera": {
+        "entries": [
+            {
+                "meaning": "koraton",
+                "specification": ""
+            }
+        ]
+    },
     "pecho": {
         "entries": [
             {
@@ -36091,6 +36355,14 @@
         "entries": [
             {
                 "meaning": "same",
+                "specification": ""
+            }
+        ]
+    },
+    "pedernal": {
+        "entries": [
+            {
+                "meaning": "petelo",
                 "specification": ""
             }
         ]
@@ -36239,14 +36511,6 @@
         "entries": [
             {
                 "meaning": "pelai",
-                "specification": ""
-            }
-        ]
-    },
-    "pelea": {
-        "entries": [
-            {
-                "meaning": "litsa, faita, pugna",
                 "specification": ""
             }
         ]
@@ -37280,6 +37544,10 @@
             {
                 "meaning": "nekrasoa",
                 "specification": ""
+            },
+            {
+                "meaning": "unkoiko",
+                "specification": "comida"
             }
         ]
     },
@@ -37288,6 +37556,14 @@
             {
                 "meaning": "porpura",
                 "specification": "flor"
+            }
+        ]
+    },
+    "pez globo": {
+        "entries": [
+            {
+                "meaning": "acoabalun",
+                "specification": ""
             }
         ]
     },
@@ -37395,6 +37671,14 @@
         "entries": [
             {
                 "meaning": "poi",
+                "specification": ""
+            }
+        ]
+    },
+    "piedra caliza": {
+        "entries": [
+            {
+                "meaning": "limapetro",
                 "specification": ""
             }
         ]
@@ -37891,6 +38175,14 @@
         "entries": [
             {
                 "meaning": "plankai",
+                "specification": ""
+            }
+        ]
+    },
+    "planchas de madera": {
+        "entries": [
+            {
+                "meaning": "planko",
                 "specification": ""
             }
         ]
@@ -38520,6 +38812,30 @@
             {
                 "meaning": "escuara, esquara, arkubre",
                 "specification": ""
+            }
+        ]
+    },
+    "porción": {
+        "entries": [
+            {
+                "meaning": "kuton",
+                "specification": "comida"
+            }
+        ]
+    },
+    "rodaja": {
+        "entries": [
+            {
+                "meaning": "kuton",
+                "specification": "comida"
+            }
+        ]
+    },
+    "trozo": {
+        "entries": [
+            {
+                "meaning": "kuton",
+                "specification": "comida"
             }
         ]
     },
@@ -40143,6 +40459,14 @@
         "entries": [
             {
                 "meaning": "pixel",
+                "specification": ""
+            }
+        ]
+    },
+    "pólvora": {
+        "entries": [
+            {
+                "meaning": "pulder forte",
                 "specification": ""
             }
         ]
@@ -42314,11 +42638,7 @@
     "rojo": {
         "entries": [
             {
-                "meaning": "roixo",
-                "specification": ""
-            },
-            {
-                "meaning": "roxo",
+                "meaning": "roixo, roxo",
                 "specification": ""
             }
         ]
@@ -42730,7 +43050,7 @@
     "saco": {
         "entries": [
             {
-                "meaning": "sak",
+                "meaning": "sako, sak",
                 "specification": ""
             }
         ]
@@ -44039,6 +44359,14 @@
             }
         ]
     },
+    "sin cocinar": {
+        "entries": [
+            {
+                "meaning": "unkoiko",
+                "specification": "comida"
+            }
+        ]
+    },
     "sin color": {
         "entries": [
             {
@@ -44083,6 +44411,22 @@
         "entries": [
             {
                 "meaning": "orne",
+                "specification": ""
+            }
+        ]
+    },
+    "sin manufacturar": {
+        "entries": [
+            {
+                "meaning": "unhano",
+                "specification": ""
+            }
+        ]
+    },
+    "en crudo": {
+        "entries": [
+            {
+                "meaning": "unhano",
                 "specification": ""
             }
         ]
@@ -48235,6 +48579,14 @@
             }
         ]
     },
+    "tropical": {
+        "entries": [
+            {
+                "meaning": "tropikal",
+                "specification": ""
+            }
+        ]
+    },
     "tropología": {
         "entries": [
             {
@@ -48311,6 +48663,14 @@
         "entries": [
             {
                 "meaning": "triplex",
+                "specification": ""
+            }
+        ]
+    },
+    "trópico": {
+        "entries": [
+            {
+                "meaning": "tropiko",
                 "specification": ""
             }
         ]
@@ -49563,6 +49923,14 @@
         "entries": [
             {
                 "meaning": "verdadeko",
+                "specification": ""
+            }
+        ]
+    },
+    "verde lima": {
+        "entries": [
+            {
+                "meaning": "lima",
                 "specification": ""
             }
         ]
