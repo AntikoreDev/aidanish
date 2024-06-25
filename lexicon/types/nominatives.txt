@@ -5,6 +5,7 @@ bizco → quete
 blanco → bianco, alura
 bobo → keke
 carnívoro → karnivoro
+cian → cian
 diestro → deiranno
 elegido → electo
 estafador → lerrako, zoike
@@ -13,8 +14,8 @@ futuro → futura
 gordo → lubo
 gris → horan
 herbívoro → herbivoro
+identificador → identificator, identitor
 idiota → hunko, fruka, estulta
-cian → cian
 insectívoro → insectivoro
 intermitente → tika
 marrón → marro, brunno, bronzo, itsoso
@@ -31,7 +32,7 @@ rojo → roixo, roxo
 rosa → rosa
 vegano → vegano
 vegetariano → vegetaro
-verde → berde
 verde lima → lima
+verde → berde
 vivo → vitoso
 zurdo → zoranno
