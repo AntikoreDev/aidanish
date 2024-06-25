@@ -1067,6 +1067,14 @@
             }
         ]
     },
+    "activo": {
+        "entries": [
+            {
+                "meaning": "aktivo",
+                "specification": ""
+            }
+        ]
+    },
     "acto": {
         "entries": [
             {
@@ -10567,6 +10575,14 @@
         "entries": [
             {
                 "meaning": "ciuta, ciutatela",
+                "specification": ""
+            }
+        ]
+    },
+    "ciudadano": {
+        "entries": [
+            {
+                "meaning": "ciutatano",
                 "specification": ""
             }
         ]
@@ -25935,6 +25951,30 @@
         "entries": [
             {
                 "meaning": "ideai",
+                "specification": ""
+            }
+        ]
+    },
+    "identidad": {
+        "entries": [
+            {
+                "meaning": "identita",
+                "specification": ""
+            }
+        ]
+    },
+    "identificación": {
+        "entries": [
+            {
+                "meaning": "identitatio, identifatio",
+                "specification": ""
+            }
+        ]
+    },
+    "identificar": {
+        "entries": [
+            {
+                "meaning": "identitai, identifai",
                 "specification": ""
             }
         ]

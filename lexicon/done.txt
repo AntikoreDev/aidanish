@@ -122,6 +122,7 @@ actinometría
 activación
 activar
 actividad
+activo
 acto
 actor
 actriz
@@ -1299,6 +1300,7 @@ cita
 citología
 citólogo
 ciudad
+ciudadano
 ciudadela
 claridad
 claro
@@ -3168,6 +3170,9 @@ ictiología
 ictiólogo
 idea
 idear
+identidad
+identificación
+identificar
 ideografía
 ideología
 ideólogo

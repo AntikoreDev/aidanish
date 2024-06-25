@@ -255,6 +255,7 @@ aktio
 aktivatio
 aktivei
 aktivita
+aktivo
 akto
 aktoai
 aktoatio
@@ -1266,6 +1267,7 @@ citologia
 citologo
 citrua
 ciuta
+ciutatano
 ciutatela
 ciutrena
 cix
@@ -3322,6 +3324,11 @@ ictiologo
 idea
 ideai
 ideait-mixa
+identifai
+identifatio
+identita
+identitai
+identitatio
 ideografia
 ideografica
 ideologette

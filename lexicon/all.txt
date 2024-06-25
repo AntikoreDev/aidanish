@@ -128,6 +128,7 @@ actinometría → actinometria, actinometrica
 activación → aktivatio
 activar → aktivei
 actividad → aktivita
+activo → aktivo
 acto → akto
 actor → actor
 actriz → actoras
@@ -1309,6 +1310,7 @@ cita, reunión → rendevou, rendezvous
 citología → citologia
 citólogo → citologo, citologette
 ciudad → ciuta, ciutatela
+ciudadano → ciutatano
 ciudadela → ciutatela
 claridad → klaritatio
 claro (refiriendote a algo que es claro) → klaro (ejemplo: ¡claro que si me importan!)
@@ -3191,6 +3193,9 @@ ictiología → ictiologia
 ictiólogo → ictiologo, ictiologette
 idea → idea
 idear → ideai
+identidad → identita
+identificación → identitatio, identifatio
+identificar → identitai, identifai
 ideografía → ideografia, ideografica
 ideología → ideologia
 ideólogo → ideologo, ideologette

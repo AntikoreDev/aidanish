@@ -1201,6 +1201,7 @@ ei citologo
 ei citologette
 la ciuta
 la ciutatela
+ei ciutatano
 la ciutatela
 ei klaritatio
 la klase
@@ -2731,6 +2732,9 @@ la ictiologia
 ei ictiologo
 ei ictiologette
 la idea
+la identita
+ei identitatio
+ei identifatio
 la ideografia
 la ideografica
 la ideologia
@@ -5443,6 +5447,7 @@ la akcesibla
 ei asoaso
 ei akaino
 ei exekoro
+ei aktivo
 la airpose
 ei airposaioko
 ei akusako

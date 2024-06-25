@@ -596,6 +596,7 @@ hospedar → hustoi
 hospitalizar → hospitalai, hopitalai, kuratelai
 huir → ezurrai
 idear → ideai
+identificar → identitai, identifai
 ignorar → unvisoi
 imaginar → imaginei
 imantar → magnetai
