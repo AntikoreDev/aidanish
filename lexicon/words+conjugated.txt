@@ -6620,6 +6620,7 @@ identifaiki
 identifaio
 identifaioto
 identifatio
+identificator
 identita
 identitai
 identitaie
@@ -6629,6 +6630,7 @@ identitaiki
 identitaio
 identitaioto
 identitatio
+identitor
 ideografia
 ideografica
 ideologette

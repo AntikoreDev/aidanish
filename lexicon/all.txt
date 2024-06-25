@@ -3195,6 +3195,7 @@ idea → idea
 idear → ideai
 identidad → identita
 identificación → identitatio, identifatio
+identificador → identificator, identitor
 identificar → identitai, identifai
 ideografía → ideografia, ideografica
 ideología → ideologia

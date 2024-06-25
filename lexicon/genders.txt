@@ -2735,6 +2735,8 @@ la idea
 la identita
 ei identitatio
 ei identifatio
+ei identificator
+ei identitor
 la ideografia
 la ideografica
 la ideologia
