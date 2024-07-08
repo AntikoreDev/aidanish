@@ -3121,6 +3121,8 @@ homólogo
 hongo
 hora
 hora actual
+hora de comer
+hora del día mañanera
 horas extra
 horizontal
 horizonte
@@ -6102,6 +6104,7 @@ vertical
 vestido
 vestimenta
 vestir
+vestíbulo
 vetar
 veto
 vexilología

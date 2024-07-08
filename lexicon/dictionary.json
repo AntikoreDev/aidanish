@@ -25555,6 +25555,22 @@
             }
         ]
     },
+    "hora de comer": {
+        "entries": [
+            {
+                "meaning": "ingora",
+                "specification": ""
+            }
+        ]
+    },
+    "hora del día mañanera": {
+        "entries": [
+            {
+                "meaning": "litair",
+                "specification": ""
+            }
+        ]
+    },
     "hora": {
         "entries": [
             {
@@ -40266,7 +40282,7 @@
     "puesta de sol": {
         "entries": [
             {
-                "meaning": "solarga, solposai",
+                "meaning": "solarga, solposai, solposa, solmorta",
                 "specification": ""
             }
         ]
@@ -50099,6 +50115,14 @@
         "entries": [
             {
                 "meaning": "vanaize",
+                "specification": ""
+            }
+        ]
+    },
+    "vestíbulo": {
+        "entries": [
+            {
+                "meaning": "tsambela, foyer, tsambel, tsamba, lobi",
                 "specification": ""
             }
         ]

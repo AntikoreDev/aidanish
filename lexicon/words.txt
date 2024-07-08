@@ -2806,6 +2806,7 @@ fotometria
 fotometrica
 fototipografia
 fototipografica
+foyer
 fractai
 fractal
 fracto
@@ -3431,6 +3432,7 @@ ingeriun
 ingo
 ingoesmar
 ingoi
+ingora
 ingotela
 inherba
 inherbei
@@ -4020,6 +4022,7 @@ lista
 listo
 lita
 litai
+litair
 litaoro
 lite
 litera
@@ -4047,6 +4050,7 @@ llamai
 llamako
 llamata
 loamai
+lobi
 local
 localai
 localneta
@@ -6253,9 +6257,11 @@ solasta
 solavisa
 solidai
 solido
+solmorta
 solnata
 sologira
 sologirit
+solposa
 solposai
 soltai
 solva
@@ -6781,6 +6787,9 @@ tsafala
 tsagrai
 tsagrio
 tsagrioso
+tsamba
+tsambel
+tsambela
 tsambora
 tsampeon
 tsampeonato

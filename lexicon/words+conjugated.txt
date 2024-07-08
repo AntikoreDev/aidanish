@@ -5674,6 +5674,7 @@ fotometria
 fotometrica
 fototipografia
 fototipografica
+foyer
 fractai
 fractaie
 fractaieon
@@ -6863,6 +6864,7 @@ ingoiet
 ingoiki
 ingoio
 ingoioto
+ingora
 ingotela
 inherba
 inherbei
@@ -8058,6 +8060,7 @@ litaiet
 litaiki
 litaio
 litaioto
+litair
 litaoro
 lite
 litera
@@ -8109,6 +8112,7 @@ loamaiet
 loamaiki
 loamaio
 loamaioto
+lobi
 local
 localai
 localaie
@@ -12535,9 +12539,11 @@ solidaiki
 solidaio
 solidaioto
 solido
+solmorta
 solnata
 sologira
 sologirit
+solposa
 solposai
 soltai
 soltaie
@@ -13609,6 +13615,9 @@ tsagraio
 tsagraioto
 tsagrio
 tsagrioso
+tsamba
+tsambel
+tsambela
 tsambora
 tsampeon
 tsampeonato

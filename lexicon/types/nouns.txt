@@ -2163,6 +2163,8 @@ homsexualidad → homosexualita, homoseksualita
 homólogo → homologo, homologette
 hongo → likena, fungo, tunga
 hora actual → hentempo
+hora de comer → ingora
+hora del día mañanera → litair
 hora → hora
 horas extra → prolaboro
 horizonte → horizone
@@ -3411,7 +3413,7 @@ puercoespín → pigotira
 puerro → leko, kelena
 puerta → porta
 puerto → porto
-puesta de sol → solarga, solposai
+puesta de sol → solarga, solposai, solposa, solmorta
 puesto → posto, estando, estan
 pulgada → pulgada
 pulmón  → polmona
@@ -4198,6 +4200,7 @@ versión → versiona
 vertedero → zorrotela, desextela
 vestido → venaza, dreso, gouno, zitaba
 vestimenta → venaza
+vestíbulo → tsambela, foyer, tsambel, tsamba, lobi
 veto → bana, paina, paine
 vexilología → vexilogia
 vexilólogo → vexilogette

@@ -2684,6 +2684,8 @@ la likena
 ei fungo
 la tunga
 ei hentempo
+la ingora
+la litair
 la hora
 ei prolaboro
 ei horizone
@@ -4274,6 +4276,8 @@ la porta
 ei porto
 la solarga
 la solposai
+la solposa
+la solmorta
 ei posto
 ei estando
 la estan
@@ -5265,6 +5269,11 @@ ei dreso
 ei gouno
 la zitaba
 la venaza
+la tsambela
+ei foyer
+la tsambel
+la tsamba
+la lobi
 la bana
 la paina
 la paine
