@@ -3964,7 +3964,7 @@ la heupentsi
 ei heupentsio
 la peska
 ei pesko
-la peskoventei
+ei peskovente
 la peskotela
 ei peskoto
 ei peskorette
@@ -4081,7 +4081,7 @@ la plane
 la planta
 la nekrasoatela
 ei purpur
-ei pisoc
+ei piso
 ei silvo
 la plataforma
 ei silverino
@@ -4570,6 +4570,7 @@ ei sektion
 ei sekreto
 la sekta
 la sequencia
+la renacoa
 la seda
 la primertela
 ei sekundo

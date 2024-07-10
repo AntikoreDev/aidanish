@@ -4613,7 +4613,7 @@ pesado (persona molesta) → orronko
 pesado (peso de una cosa) → pesoko
 pesar → pesai
 pesca → peska, pesko
-pescadero → peskoventei
+pescadero → peskovente
 pescadería → peskotela
 pescado → peskoto
 pescador → peskorette
@@ -4727,7 +4727,7 @@ plano → plano
 planta (flor) → planta
 planta petrolífera → nekrasoatela
 planta violácea utilizada para crear el té purpur → purpur
-planta, piso, suelo → pisoc
+planta, piso, suelo → piso
 plantar → plantaire
 plata → silvo
 plataforma → plataforma
@@ -5376,6 +5376,7 @@ secreto → sekreto
 secreto → sekreto
 secta → sekta
 secuencia → sequencia
+sed → renacoa
 seda → seda
 sedar → sedai
 sede → primertela
@@ -5756,6 +5757,8 @@ tender → ibsoi
 tenderete → loga
 tendero, vendedor → venteixette
 tenedor → tinera, trintso
+tener hambre → zugrai
+tener sed → renacoai
 tener una pesadilla → heupentsai
 tener → taine
 tenis → tenis

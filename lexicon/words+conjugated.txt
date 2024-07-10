@@ -10180,7 +10180,7 @@ pesko
 peskorette
 peskotela
 peskoto
-peskoventei
+peskovente
 peso
 pesoko
 pesta
@@ -10306,7 +10306,6 @@ pirometrica
 pisa
 piskizo
 piso
-pisoc
 pisoi
 pisoie
 pisoieon
@@ -11649,6 +11648,14 @@ removaiet
 removaiki
 removaio
 removaioto
+renacoa
+renacoai
+renacoaie
+renacoaieon
+renacoaiet
+renacoaiki
+renacoaio
+renacoaioto
 renaizento
 renaizo
 rendevou

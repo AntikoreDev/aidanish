@@ -5310,6 +5310,7 @@ secreto
 secta
 secuencia
 secundar
+sed
 seda
 sedar
 sede
@@ -5679,6 +5680,8 @@ tenderete
 tendero
 tenedor
 tener
+tener hambre
+tener sed
 tener una pesadilla
 tenis
 tenista

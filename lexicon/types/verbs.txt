@@ -1005,6 +1005,8 @@ teletransportar → teleportai
 temblar → gaxei, atsei
 templar → temperai
 tender → ibsoi
+tener hambre → zugrai
+tener sed → renacoai
 tener una pesadilla → heupentsai
 tener → taine
 tensar → tentai

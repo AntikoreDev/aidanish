@@ -3159,7 +3159,7 @@ pesa rusa → giria, kettlebell
 pesa → pesa
 pesadilla → heupentsi, heupentsio
 pesca → peska, pesko
-pescadero → peskoventei
+pescadero → peskovente
 pescadería → peskotela
 pescado → peskoto
 pescador → peskorette
@@ -3257,7 +3257,7 @@ plano → plane
 planta (flor) → planta
 planta petrolífera → nekrasoatela
 planta violácea utilizada para crear el té purpur → purpur
-planta, piso, suelo → pisoc
+planta, piso, suelo → piso
 plata → silvo
 plataforma → plataforma
 platino → silverino
@@ -3666,6 +3666,7 @@ sección → sektion
 secreto → sekreto
 secta → sekta
 secuencia → sequencia
+sed → renacoa
 seda → seda
 sede → primertela
 segundo → sekundo

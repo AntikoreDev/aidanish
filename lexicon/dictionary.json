@@ -37442,7 +37442,7 @@
     "pescadero": {
         "entries": [
             {
-                "meaning": "peskoventei",
+                "meaning": "peskovente",
                 "specification": ""
             }
         ]
@@ -38082,7 +38082,7 @@
                 "specification": ""
             },
             {
-                "meaning": "pisoc",
+                "meaning": "piso",
                 "specification": ""
             }
         ]
@@ -38314,7 +38314,7 @@
                 "specification": "flor"
             },
             {
-                "meaning": "pisoc",
+                "meaning": "piso",
                 "specification": ""
             }
         ]
@@ -38338,7 +38338,7 @@
     "suelo": {
         "entries": [
             {
-                "meaning": "pisoc",
+                "meaning": "piso",
                 "specification": ""
             },
             {
@@ -43563,6 +43563,14 @@
             }
         ]
     },
+    "sed": {
+        "entries": [
+            {
+                "meaning": "renacoa",
+                "specification": ""
+            }
+        ]
+    },
     "seda": {
         "entries": [
             {
@@ -46675,6 +46683,22 @@
         "entries": [
             {
                 "meaning": "tinera, trintso",
+                "specification": ""
+            }
+        ]
+    },
+    "tener hambre": {
+        "entries": [
+            {
+                "meaning": "zugrai",
+                "specification": ""
+            }
+        ]
+    },
+    "tener sed": {
+        "entries": [
+            {
+                "meaning": "renacoai",
                 "specification": ""
             }
         ]
