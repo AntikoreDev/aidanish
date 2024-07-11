@@ -556,6 +556,8 @@ ganar → ganai, gonai
 gastar → gastai
 gemir → kemire
 generar → espaunaire
+impedir → impaire
+prohibir → undeixai, forvoi
 girar, virar → virai
 gobernar → governei
 golpear algo para intentar arreglarlo → impetaikse, impetaksai
@@ -847,6 +849,7 @@ prosperar → prosperai
 proteger → protectai
 provocar un incendio a propósito → arsonai
 publicar → publikai
+pudrir → putrai, joire
 pulsar → puloi
 purificar (religión o místico) → haiai, purei
 quebrar → qibrai
@@ -948,6 +951,7 @@ salvar → saivai
 sanar → sanai
 sancionar → sanziarei
 sangrar → sigrai
+santificar → saintaire, saintei
 secar → driai
 sedar → sedai
 seguir → sigai
@@ -1011,6 +1015,7 @@ tener una pesadilla → heupentsai
 tener → taine
 tensar → tentai
 tentar → soblasnei, movai
+caer en tentación → soblaise
 terminar → teirnai
 terraformar → terraformei
 teñir → tentai
@@ -1061,7 +1066,7 @@ variar → varei
 vendar → bandei
 vender → ventei
 vengarse → revengai
-venir → narei
+venir → narei, procai
 ver, visualizar → visoi
 verificar → verifei
 verter → verdai

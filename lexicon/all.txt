@@ -4756,6 +4756,7 @@ poder → pontai, paidai
 poder → ponto
 podofilia → podofilia
 podología → podologia
+podrido → putro, joro
 podólogo → podologo, podologette
 poema → poema
 poesía → poesia
@@ -4962,6 +4963,7 @@ psicólogo → psicologo, psicologette
 psicópata → psicopata
 pua → pika
 publicar → publikai
+pudrir → putrai, joire
 pueblo → popula
 puede ser → ponsei
 puente → ponto
@@ -6131,6 +6133,7 @@ vecinal → neiborako
 vecindario → neiborotela
 vecino → neiboro
 vegano → vegano
+vegetal → vegeto
 vegetariano → vegetaro
 vehículo → vehiklo
 veinte → doisen
@@ -6274,7 +6277,7 @@ vóxel → voxel
 web → web
 whisky → wiski
 wikipedia → wikipedia
-wolfsbane → wolfsbane
+wolfsbane → volsvein, wolfsbane
 wombat → vombat
 xenofobia → xenofobia
 xenón → xenon

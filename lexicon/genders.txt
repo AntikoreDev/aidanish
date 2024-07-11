@@ -5219,6 +5219,7 @@ la vasiya
 la cupa
 la neiborotela
 ei neiboro
+ei vegeto
 ei vehiklo
 la igernesa
 la okosa
@@ -5356,6 +5357,7 @@ ei voxel
 ei web
 la wiski
 la wikipedia
+ei volsvein
 la wolfsbane
 ei vombat
 la xenofobia
@@ -5761,6 +5763,8 @@ la interesanta
 ei introverto
 ei fluve
 ei ezirutsuko
+ei putro
+ei joro
 ei unrompable
 ei ironiko
 ei jiderarqiko

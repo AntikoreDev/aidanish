@@ -3598,6 +3598,12 @@ jideiet
 jideiki
 jideio
 jideioto
+joireie
+joireieon
+joireio
+joireioto
+joireki
+joiret
 jokaie
 jokaieon
 jokaiet
@@ -5524,6 +5530,12 @@ purnaiet
 purnaiki
 purnaio
 purnaioto
+putraie
+putraieon
+putraiet
+putraiki
+putraio
+putraioto
 qanzeie
 qanzeieon
 qanzeiet

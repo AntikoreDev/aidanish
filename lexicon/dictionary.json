@@ -38563,6 +38563,14 @@
             }
         ]
     },
+    "podrido": {
+        "entries": [
+            {
+                "meaning": "putro, joro",
+                "specification": ""
+            }
+        ]
+    },
     "podólogo": {
         "entries": [
             {
@@ -40219,6 +40227,14 @@
         "entries": [
             {
                 "meaning": "publikai",
+                "specification": ""
+            }
+        ]
+    },
+    "pudrir": {
+        "entries": [
+            {
+                "meaning": "putrai, joire",
                 "specification": ""
             }
         ]
@@ -49695,6 +49711,14 @@
             }
         ]
     },
+    "vegetal": {
+        "entries": [
+            {
+                "meaning": "vegeto",
+                "specification": ""
+            }
+        ]
+    },
     "vegetariano": {
         "entries": [
             {
@@ -50866,7 +50890,7 @@
     "wolfsbane": {
         "entries": [
             {
-                "meaning": "wolfsbane",
+                "meaning": "volsvein, wolfsbane",
                 "specification": ""
             }
         ]

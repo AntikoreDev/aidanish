@@ -432,6 +432,7 @@ pesado (peso de una cosa) → pesoko
 pestilente, pestoso → pestoso
 plano → plano
 pobre → pora
+podrido → putro, joro
 polar → polare
 portátil → porto, portatil
 poseído → poseso
@@ -551,6 +552,7 @@ verdadero → verdadeko
 verificado → verifeko
 vertical → vertico
 viejo (adjetivo) → igerne, igerno, elde, oko
+virtual → virtual
 visto → viso
 visualmente agradable → fanze
 válido → valo, valito

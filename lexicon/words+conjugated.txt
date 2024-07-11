@@ -7191,6 +7191,13 @@ jido
 jobi
 jobisette
 joglar
+joire
+joireie
+joireieon
+joireio
+joireioto
+joireki
+joiret
 jokai
 jokaie
 jokaieon
@@ -7207,6 +7214,7 @@ joko
 jokocix
 jokonsola
 jokotela
+joro
 juca
 jukse
 juksei
@@ -11170,6 +11178,14 @@ purro
 puta
 putarra
 puto
+putrai
+putraie
+putraieon
+putraiet
+putraiki
+putraio
+putraioto
+putro
 putsa
 qa
 qain
@@ -14132,6 +14148,7 @@ vatio
 vedo
 vegano
 vegetaro
+vegeto
 vehiklo
 veige
 veigeie
@@ -14371,6 +14388,7 @@ volkano
 volkanologette
 volkanologia
 volkanologo
+volsvein
 voltai
 voltaie
 voltaieon

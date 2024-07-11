@@ -4687,6 +4687,7 @@ poder tener
 poder ver
 podofilia
 podología
+podrido
 podólogo
 poema
 poesía
@@ -4891,6 +4892,7 @@ psicólogo
 psicópata
 pua
 publicar
+pudrir
 pueblo
 puede ser
 puente
@@ -6052,6 +6054,7 @@ vecinal
 vecindario
 vecino
 vegano
+vegetal
 vegetariano
 vehiculo de guerra
 vehículo

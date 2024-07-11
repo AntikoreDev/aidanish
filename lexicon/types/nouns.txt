@@ -641,6 +641,7 @@ bombero → ignoextingette
 bombilla → bulba
 bombona → butanna
 bombón → tsoklo
+bondad → bainata
 bongo → bongo
 boquilla → oupila
 borde, lateral (geometría) → asero
@@ -1400,6 +1401,7 @@ detalle → detaila
 detergente → detergo
 determinación → determinatia
 deuda → dutia
+deudor → dutor
 diabetología → diabetologia
 diabetólogo → diabetologo, diabetologette
 diablo de tasmania → tasmania-devila
@@ -2494,6 +2496,7 @@ magnolia (flor) → magnasia
 malacología → malacologia
 malacólogo → malacologo, malacologette
 malasombra → heuntsado
+maldad → heunata
 maldición → malditio
 malhechor → heundoiette
 malherbología → malherbologia
@@ -4166,6 +4169,7 @@ vasija → vasiya
 vaso → cupa
 vecindario → neiborotela
 vecino → neiboro
+vegetal → vegeto
 vehículo → vehiklo
 vejez → igernesa, okosa, okoie, eldesa
 vela (barco) → vela
@@ -4248,6 +4252,7 @@ volante (coche) → volante
 volante (papel) → piprako
 volcán → volkano
 volumetría → volumetria, volumetrica
+voluntad → volunta
 voyeurista → voyeurette, voyeur, voyeurista
 voz → voz
 vuelo → blaia
@@ -4268,7 +4273,7 @@ vóxel → voxel
 web → web
 whisky → wiski
 wikipedia → wikipedia
-wolfsbane → wolfsbane
+wolfsbane → volsvein, wolfsbane
 wombat → vombat
 xenofobia → xenofobia
 xenón → xenon

@@ -3591,6 +3591,7 @@ jido
 jobi
 jobisette
 joglar
+joire
 jokai
 jokaiette
 jokaizara
@@ -3601,6 +3602,7 @@ joko
 jokocix
 jokonsola
 jokotela
+joro
 juca
 jukse
 juksei
@@ -5644,6 +5646,8 @@ purro
 puta
 putarra
 puto
+putrai
+putro
 putsa
 qa
 qain
@@ -7046,6 +7050,7 @@ vatio
 vedo
 vegano
 vegetaro
+vegeto
 vehiklo
 veige
 vela
@@ -7183,6 +7188,7 @@ volkano
 volkanologette
 volkanologia
 volkanologo
+volsvein
 voltai
 volumetria
 volumetrica
