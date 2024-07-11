@@ -855,6 +855,7 @@ bombero → ignoextingette
 bombilla → bulba
 bombona → butanna
 bombón → tsoklo
+bondad → bainata
 bongo → bongo
 bonito → piloko
 boquilla → oupila
@@ -967,6 +968,7 @@ cada → kada
 cadena → tsaden
 caducado → expiro
 caducar → expirai
+caer en tentación → soblaise
 caer → argai
 cafetera → kafetoro
 cafetería → kafetela, café, cafeteria, kafeteria
@@ -1749,6 +1751,7 @@ cultivo → kultivo
 culto → culto
 culto → litero
 cultura → kultura, viri
+cultural → kultural, virian
 cumpleaños → henyaro, natahen
 cumplir años → henyarai
 cumplir → kumplaire
@@ -1995,6 +1998,7 @@ determinada → determina
 determinar → determinai
 detrás → betran, albetran
 deuda → dutia
+deudor → dutor
 devolver → voltai
 diabetología → diabetologia
 diabetólogo → diabetologo, diabetologette
@@ -3219,6 +3223,7 @@ imaginar → imaginei
 imantar → magnetai
 imbécil → sunkrako
 imitar → memoi
+impedir → impaire
 imperio → imperia
 impersonación → imperso
 impersonar → impersoi
@@ -3657,6 +3662,7 @@ malacología → malacologia
 malacólogo → malacologo, malacologette
 malasombra → heuntsado
 malasombra → heuntsado
+maldad → heunata
 maldecir → maldikei
 maldición → malditio
 maldito → mairato
@@ -4045,7 +4051,7 @@ muñeco, muñeca (objeto) → doli, clutso
 mágica → magika
 máquina → matsina
 más que perfecto → plusquamperfecta
-más → mais
+más → mais, plus
 máscara → lufazia, maske
 médico → medikarette
 méxico → mexiko
@@ -4920,6 +4926,7 @@ programación → prokramatio, codin
 programar → prokramai, codai
 progresar → progresei
 progreso → progreso
+prohibir → undeixai, forvoi
 prolongado → prolonge
 prolongar → prolongaire
 promedio → promedia
@@ -5187,6 +5194,7 @@ repetidor → repeteoro
 repetir → repetei
 replicar → reproxei
 reportar → reportei
+repositorio → repositorium
 repostar → tsargai
 repostería → sundere
 representación → representatio
@@ -5360,6 +5368,7 @@ sandía → roxomelo
 sangrar → sigrai
 sangre → sigra
 sanidad → sanita
+santificar → saintaire, saintei
 santo → sainto
 santuario → saintotela
 sapo → froga
@@ -6158,7 +6167,7 @@ venereólogo → venereologo, venereologette
 venezuela → venezola
 venganza → revenga, revenganze
 vengarse → revengai
-venir → narei
+venir → narei, procai
 ventaja → alanco
 ventana → vendexa
 ventilador de pie → estanvendo
@@ -6223,6 +6232,7 @@ violín → violinne
 virgen → virgo
 virginidad → virginitae
 virología → virologia
+virtual → virtual
 viruela → viraela
 virus → virus
 virólogo → virologo, virologette
@@ -6252,6 +6262,7 @@ volante (papel) → piprako
 volar → blai
 volcán → volkano
 volumetría → volumetria, volumetrica
+voluntad → volunta
 volver → barei, voltai, volveire
 vomitar, potar → resoltai, pukai, pukaire
 vosotros → zure

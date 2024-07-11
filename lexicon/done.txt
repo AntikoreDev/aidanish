@@ -845,6 +845,7 @@ bombero
 bombilla
 bombona
 bombón
+bondad
 bongo
 bonito
 boquilla
@@ -959,6 +960,7 @@ caducar
 caducidad
 caer
 caer a lo más bajo
+caer en tentación
 cafetera
 cafetería
 café
@@ -1729,6 +1731,7 @@ cultivar
 cultivo
 culto
 cultura
+cultural
 cumpleaños
 cumplir
 cumplir años
@@ -1969,6 +1972,7 @@ determinada
 determinar
 detrás
 deuda
+deudor
 devolver
 diabetología
 diabetólogo
@@ -3197,6 +3201,7 @@ imantar
 imbécil
 imitador
 imitar
+impedir
 imperio
 impersonación
 impersonar
@@ -3626,6 +3631,7 @@ mal
 malacología
 malacólogo
 malasombra
+maldad
 maldecir
 maldición
 maldito
@@ -4849,6 +4855,7 @@ programación
 programar
 progresar
 progreso
+prohibir
 prolongado
 prolongar
 promedio
@@ -5117,6 +5124,7 @@ repetidor
 repetir
 replicar
 reportar
+repositorio
 repostar
 repostería
 representación
@@ -5293,6 +5301,7 @@ sandía
 sangrar
 sangre
 sanidad
+santificar
 santo
 santuario
 sapo
@@ -6145,6 +6154,7 @@ virar
 virgen
 virginidad
 virología
+virtual
 viruela
 virus
 virólogo
@@ -6174,6 +6184,7 @@ volante
 volar
 volcán
 volumetría
+voluntad
 volver
 vomitar
 vosotros

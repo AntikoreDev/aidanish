@@ -6911,6 +6911,14 @@
             }
         ]
     },
+    "bondad": {
+        "entries": [
+            {
+                "meaning": "bainata",
+                "specification": ""
+            }
+        ]
+    },
     "bongo": {
         "entries": [
             {
@@ -7803,6 +7811,14 @@
         "entries": [
             {
                 "meaning": "expirai",
+                "specification": ""
+            }
+        ]
+    },
+    "caer en tentación": {
+        "entries": [
+            {
+                "meaning": "soblaise",
                 "specification": ""
             }
         ]
@@ -14143,6 +14159,14 @@
             }
         ]
     },
+    "cultural": {
+        "entries": [
+            {
+                "meaning": "kultural, virian",
+                "specification": ""
+            }
+        ]
+    },
     "cumpleaños": {
         "entries": [
             {
@@ -16135,6 +16159,14 @@
         "entries": [
             {
                 "meaning": "dutia",
+                "specification": ""
+            }
+        ]
+    },
+    "deudor": {
+        "entries": [
+            {
+                "meaning": "dutor",
                 "specification": ""
             }
         ]
@@ -26179,6 +26211,14 @@
             }
         ]
     },
+    "impedir": {
+        "entries": [
+            {
+                "meaning": "impaire",
+                "specification": ""
+            }
+        ]
+    },
     "imperio": {
         "entries": [
             {
@@ -29743,6 +29783,14 @@
             }
         ]
     },
+    "maldad": {
+        "entries": [
+            {
+                "meaning": "heunata",
+                "specification": ""
+            }
+        ]
+    },
     "maldecir": {
         "entries": [
             {
@@ -32878,7 +32926,7 @@
     "más": {
         "entries": [
             {
-                "meaning": "mais",
+                "meaning": "mais, plus",
                 "specification": ""
             }
         ]
@@ -39875,6 +39923,14 @@
             }
         ]
     },
+    "prohibir": {
+        "entries": [
+            {
+                "meaning": "undeixai, forvoi",
+                "specification": ""
+            }
+        ]
+    },
     "prolongado": {
         "entries": [
             {
@@ -42047,6 +42103,14 @@
             }
         ]
     },
+    "repositorio": {
+        "entries": [
+            {
+                "meaning": "repositorium",
+                "specification": ""
+            }
+        ]
+    },
     "repostar": {
         "entries": [
             {
@@ -43427,6 +43491,14 @@
         "entries": [
             {
                 "meaning": "sanita",
+                "specification": ""
+            }
+        ]
+    },
+    "santificar": {
+        "entries": [
+            {
+                "meaning": "saintaire, saintei",
                 "specification": ""
             }
         ]
@@ -49910,7 +49982,7 @@
     "venir": {
         "entries": [
             {
-                "meaning": "narei",
+                "meaning": "narei, procai",
                 "specification": ""
             }
         ]
@@ -50435,6 +50507,14 @@
             }
         ]
     },
+    "virtual": {
+        "entries": [
+            {
+                "meaning": "virtual",
+                "specification": ""
+            }
+        ]
+    },
     "viruela": {
         "entries": [
             {
@@ -50671,6 +50751,14 @@
         "entries": [
             {
                 "meaning": "volumetria, volumetrica",
+                "specification": ""
+            }
+        ]
+    },
+    "voluntad": {
+        "entries": [
+            {
+                "meaning": "volunta",
                 "specification": ""
             }
         ]

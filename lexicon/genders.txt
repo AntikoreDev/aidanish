@@ -764,6 +764,7 @@ ei ignoextingette
 la bulba
 la butanna
 ei tsoklo
+la bainata
 ei bongo
 la oupila
 ei asero
@@ -1701,6 +1702,7 @@ la detaila
 ei detergo
 la determinatia
 la dutia
+ei dutor
 la diabetologia
 ei diabetologo
 ei diabetologette
@@ -3107,6 +3109,7 @@ la malacologia
 ei malacologo
 la malacologette
 ei heuntsado
+la heunata
 ei malditio
 ei heundoiette
 la malherbologia
@@ -4433,6 +4436,7 @@ la repaira
 la repardette
 la repartette
 ei repeteoro
+ei repositorium
 ei sundere
 ei representatio
 la reprografia
@@ -5329,6 +5333,7 @@ ei piprako
 ei volkano
 la volumetria
 la volumetrica
+la volunta
 ei voyeurette
 ei voyeur
 la voyeurista
@@ -5592,6 +5597,8 @@ ei creativo
 ei crusto
 ei riaxeso
 ei litero
+ei kultural
+la virian
 ei kurioso
 ei conforte
 la postmoderna
@@ -5763,8 +5770,6 @@ la interesanta
 ei introverto
 ei fluve
 ei ezirutsuko
-ei putro
-ei joro
 ei unrompable
 ei ironiko
 ei jiderarqiko
@@ -5905,6 +5910,8 @@ ei pesoko
 ei pestoso
 ei plano
 la pora
+ei putro
+ei joro
 la polare
 ei porto
 ei portatil
@@ -6039,6 +6046,7 @@ ei igerne
 ei igerno
 la elde
 ei oko
+ei virtual
 ei viso
 la fanze
 ei valo

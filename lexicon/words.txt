@@ -773,6 +773,7 @@ baia
 bain
 bainarei
 bainaro
+bainata
 baine
 bainei
 bainere
@@ -1985,6 +1986,7 @@ dute
 dutei
 dutia
 dutiako
+dutor
 duxlan
 duxlano
 dvd
@@ -2789,6 +2791,7 @@ formulai
 fornai
 forno
 forte
+forvoi
 forza
 forzai
 forzaioso
@@ -3151,6 +3154,7 @@ heterofobia
 heterosexualita
 heterosexualo
 heun
+heunata
 heundoiette
 heune
 heunei
@@ -3366,6 +3370,7 @@ imaginei
 imagineiko
 imake
 imfranto
+impaire
 imperia
 imperso
 impersoi
@@ -3863,6 +3868,7 @@ kubre
 kubrutso
 kultivo
 kultura
+kultural
 kumplaire
 kundonna
 kuntroi
@@ -5527,6 +5533,7 @@ probekoien
 probiotiko
 problema
 probo
+procai
 procastinai
 proceda
 procedei
@@ -5876,6 +5883,7 @@ repentoso
 repetei
 repeteoro
 reportei
+repositorium
 reposta
 repostai
 representatio
@@ -6042,6 +6050,8 @@ sagei
 sagetia
 saguala
 saia
+saintaire
+saintei
 sainto
 saintotela
 saire
@@ -6234,6 +6244,7 @@ sivera
 slime
 slimo
 so
+soblaise
 soblasnei
 sociobiologette
 sociobiologia
@@ -6906,6 +6917,7 @@ unastaino
 unastainoro
 unba
 unbisei
+undeixai
 undezente
 undizei
 undizio
@@ -7135,10 +7147,12 @@ virante
 virginitae
 virgo
 viri
+virian
 viro
 virologette
 virologia
 virologo
+virtual
 virus
 visado
 visaya
@@ -7192,6 +7206,7 @@ volsvein
 voltai
 volumetria
 volumetrica
+volunta
 volveire
 vombat
 vono
