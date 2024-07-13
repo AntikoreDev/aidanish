@@ -68,6 +68,7 @@ abstruso → abstruso
 abuela → meioko
 abuelastra → inestmeioko
 abuelastro → inestumoko
+abuelo (genérico) → oko
 abuelo → umoko
 abundancia → abontia
 abundante → abonte
@@ -383,6 +384,7 @@ ancan → alzamiento
 anchar → faldai
 ancho → faldo
 anchura → faldaia
+anciano → oko
 ancla → ancla
 anclaje → anclaxo, fixo, anclo
 andador → andaivo
@@ -828,10 +830,11 @@ blanco → bianco, alura
 blando → bloneto
 blanquear (dinero) → xaguai, biancai
 blanquear → biancai
+blasfemar, decir muchas palabrotas → cusai, vouraige
 blindar → blindai
 bloque → bloke
 bloqueado → lokeioto
-bloquear → lokei
+bloquear, cerrar con llave → lokei
 bloqueo → lokeo
 boa → zisga
 bobo → keke
@@ -1414,6 +1417,7 @@ comercial → komerziale
 comerciar → komerzai
 comercio → komerzio
 cometer, perpetrar → cometai
+comida (genérico), gastronomía típica → ingoria
 comida → ingo
 como (comparación) → asle
 comodidad → conforta
@@ -1467,6 +1471,7 @@ concepción → conceptio, conceptia
 concepto → concepto
 conceptuar → conceptai
 concha → akontse
+concierto (musical) → conzerto
 condado → contia
 conde → condo
 condena → condena
@@ -1811,7 +1816,10 @@ dañar → daxai, injurai
 daño → daxa
 de acuerdo → en akordo
 de hecho → enfacto
+de la mañana → lamanza
 de la nada → ex nihilo
+de la noche → lanito
+de la tarde → lataren
 de la → dala
 de nada → non lanai
 de nuevo → ex novo
@@ -1823,8 +1831,9 @@ de → da
 debajo → alaur, aura
 deber (algo que debes) → dute
 deber (colegio) → esaroidute
-deber (expresión) → debei
-deber → dutei
+deber (compromiso de acto) → dutei
+deber (deudas) → debei
+deber hacer (necesidad de acto) → zaire
 decaer → decai, porei
 decapitación → dantsa, fasco
 decapitador → dantsette, fasqette
@@ -1835,8 +1844,7 @@ decepcionar → deteptionei
 decidir → dezei
 decimal → decimal
 decir (coloquial) → dikei
-decir muchas palabrotas → cusai, vouraige
-decir → dikerei
+decir (formal) → dikerei
 decisión → deze
 declarar → declaire
 decoración → vanaizo, vanairo
@@ -2233,6 +2241,7 @@ embudo, tolva, cuello de botella → buva
 emergenciólogo → emergenciologo, emergenciologette
 emisor → emitero
 emitir → emitei
+emocionante → emozante
 emocionar (emoción) → emozai
 emoción (emocionar) → emozio
 emoción (sentimiento) → emotia
@@ -2688,7 +2697,7 @@ filosofía antigua aidanesa por la que se elegía si el apellido de la madre o d
 filosofía → filosofia
 filólogo → filogette
 filósofo → filosofette
-fin de semana → finaolexo
+fin de semana → finaolekso
 fin → fin
 final → finale
 finalizar → finalei
@@ -2855,6 +2864,7 @@ gasometría → gasometria, gasometrica
 gastar → gastai
 gastroenterología → gastroenterologia
 gastroenterólogo → gastroenterologo, gastroenterologette
+gastronomía → gastronomia
 gatillo → triyo
 gato (animal) → kato, menino, minino, katen, miko, felin, felino
 gato (herramienta) → criketa
@@ -3012,6 +3022,7 @@ hablante → pairante, pairette, falante, falette
 hablar sin saber → farlai
 hablar → paire, falai
 hacer clic → klikai
+hacer ejercicio → repuloi
 hacer horas extra → prolaborai
 hacer más bonito → fanzai
 hacer que un sistema funcione completamente por internet; sin espacio físico → netifai
@@ -3160,6 +3171,7 @@ hormigueo → mitsisila
 hormigón → concreto
 hornear → fornai
 horno → forno
+horrible, terrible → terruo
 horóscopo → horoscope
 hospedaje → huste
 hospedar → hustoi
@@ -3414,6 +3426,7 @@ jugar (casino) → ludaine, ludai
 jugar → jokai
 juglar → joglar
 jugo → xugo, yogo
+juguete → juketo
 julio → xulio
 junco → hunco
 jungla → jungla
@@ -4262,6 +4275,7 @@ ontología → ontologia
 ontólogo → ontologo, ontologette
 opción → setegia
 operar → improxei
+opinión → penza, penze, opinio
 oportunidad → eiasa
 optimizar → optemizei
 optometría → optometria, optometrica
@@ -4531,7 +4545,7 @@ pene → penisa, sakiya, pikla
 pensador → penzeiette
 pensamiento (mente) → penze
 pensamientos (flor) → siakara
-pensar → penzei, mentei, mendei, mentaire
+pensar, opinar → penzei, mentei, mendei, mentaire
 pensativo → penseivo
 pentalogía → pentalogia
 pentágono → pentakono
@@ -4754,6 +4768,7 @@ poción → potia
 poco a poco → en poco
 poco → piko, poco
 pocos → piko
+poder ayudar → ponladei
 poder hacer → pondoi
 poder ser → ponsei
 poder tener → pontaine
@@ -5159,6 +5174,7 @@ reiniciar → reinitiai, recomaize
 reino → renno
 reir → gisai
 relación → relatio
+relajar → relaksei
 relativo → relative
 religión → relicro, reculo
 reliquia → relicua
@@ -5341,6 +5357,7 @@ salado → sialato
 salamandra → zirno
 salchicha → karnolon, sausoxo, soyo
 saldo → saldo
+salero → salekisa
 salida → evokatela
 saliente → evoke
 salir a comprar artículos de vida básicos → viverei
@@ -5629,7 +5646,7 @@ sujetapapeles → sujepipra
 sujetar, agarrar → sujei
 sujetavelas → sujecandala
 sujeto (persona) → sujeto
-suliveyar, encantar → aloi
+suliveyar, encantar → aloi, loi
 sumar → suproxei
 sumergir, irse por el desagüe → sumire
 superar → raize
@@ -5771,6 +5788,7 @@ tenedor → tinera, trintso
 tener hambre → zugrai
 tener sed → renacoai
 tener una pesadilla → heupentsai
+tener éxito → aganai
 tener → taine
 tenis → tenis
 tenista → tenista
@@ -5864,8 +5882,9 @@ tiza → zirra
 toalla → toaia
 toallita → toaita
 tobillo → kidna, anclo
+tocar (tacto) → toutsoi
 tocar fondo, caer a lo más bajo → afondai
-tocar → toutsoi
+tocar un instrumento → laudei, audei
 tocología → tocologia
 tocólogo → tocologo, tocologette
 toda forma → aldeforma
@@ -5920,7 +5939,7 @@ trabajador → travaxeko
 trabajador → travaxette
 trabajar duro, trabajar forzoso → tsunkei
 trabajar → travaxei
-trabajo → travaxo, laboro
+trabajo → laboro, travaxo
 trabalenguas → mixequeieto
 traducción → translaio
 traducir → translai
@@ -6176,6 +6195,7 @@ ventilador → vendoioro
 ventriculografía → ventriculografia, ventriculografica
 ventrilocuo → vintrelocuo
 venus → venux
+ver una película, ver una serie, ver un vídeo → vatsai
 ver, visualizar → visoi
 verano → solasta
 verbo → verba
@@ -6217,7 +6237,7 @@ videoconsola → jokonsola
 videojuego → vidiojoko
 vieira → cola
 viejo (adjetivo) → igerne, igerno, elde, oko
-viejo, anciano → igerne, oko
+viejo → igerne
 viento → vendo
 vientre → vintre
 viernes → vernia

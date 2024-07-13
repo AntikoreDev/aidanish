@@ -582,6 +582,10 @@
     "abuelo": {
         "entries": [
             {
+                "meaning": "oko",
+                "specification": "genérico"
+            },
+            {
                 "meaning": "umoko",
                 "specification": ""
             }
@@ -3123,6 +3127,14 @@
         "entries": [
             {
                 "meaning": "faldaia",
+                "specification": ""
+            }
+        ]
+    },
+    "anciano": {
+        "entries": [
+            {
+                "meaning": "oko",
                 "specification": ""
             }
         ]
@@ -6695,6 +6707,22 @@
             }
         ]
     },
+    "blasfemar": {
+        "entries": [
+            {
+                "meaning": "cusai, vouraige",
+                "specification": ""
+            }
+        ]
+    },
+    "decir muchas palabrotas": {
+        "entries": [
+            {
+                "meaning": "cusai, vouraige",
+                "specification": ""
+            }
+        ]
+    },
     "blindar": {
         "entries": [
             {
@@ -6720,6 +6748,14 @@
         ]
     },
     "bloquear": {
+        "entries": [
+            {
+                "meaning": "lokei",
+                "specification": ""
+            }
+        ]
+    },
+    "cerrar con llave": {
         "entries": [
             {
                 "meaning": "lokei",
@@ -11438,8 +11474,20 @@
     "comida": {
         "entries": [
             {
+                "meaning": "ingoria",
+                "specification": "genérico"
+            },
+            {
                 "meaning": "ingo",
                 "specification": ""
+            }
+        ]
+    },
+    "gastronomía típica": {
+        "entries": [
+            {
+                "meaning": "ingoria",
+                "specification": "genérico"
             }
         ]
     },
@@ -11860,6 +11908,14 @@
             {
                 "meaning": "akontse",
                 "specification": ""
+            }
+        ]
+    },
+    "concierto": {
+        "entries": [
+            {
+                "meaning": "conzerto",
+                "specification": "musical"
             }
         ]
     },
@@ -14651,10 +14707,34 @@
             }
         ]
     },
+    "de la mañana": {
+        "entries": [
+            {
+                "meaning": "lamanza",
+                "specification": ""
+            }
+        ]
+    },
     "de la nada": {
         "entries": [
             {
                 "meaning": "ex nihilo",
+                "specification": ""
+            }
+        ]
+    },
+    "de la noche": {
+        "entries": [
+            {
+                "meaning": "lanito",
+                "specification": ""
+            }
+        ]
+    },
+    "de la tarde": {
+        "entries": [
+            {
+                "meaning": "lataren",
                 "specification": ""
             }
         ]
@@ -14750,12 +14830,20 @@
                 "specification": "colegio"
             },
             {
-                "meaning": "debei",
-                "specification": "expresión"
+                "meaning": "dutei",
+                "specification": "compromiso de acto"
             },
             {
-                "meaning": "dutei",
-                "specification": ""
+                "meaning": "debei",
+                "specification": "deudas"
+            }
+        ]
+    },
+    "deber hacer": {
+        "entries": [
+            {
+                "meaning": "zaire",
+                "specification": "necesidad de acto"
             }
         ]
     },
@@ -14839,15 +14927,7 @@
             },
             {
                 "meaning": "dikerei",
-                "specification": ""
-            }
-        ]
-    },
-    "decir muchas palabrotas": {
-        "entries": [
-            {
-                "meaning": "cusai, vouraige",
-                "specification": ""
+                "specification": "formal"
             }
         ]
     },
@@ -18119,6 +18199,14 @@
             }
         ]
     },
+    "emocionante": {
+        "entries": [
+            {
+                "meaning": "emozante",
+                "specification": ""
+            }
+        ]
+    },
     "emocionar": {
         "entries": [
             {
@@ -18434,7 +18522,7 @@
                 "specification": ""
             },
             {
-                "meaning": "aloi",
+                "meaning": "aloi, loi",
                 "specification": ""
             }
         ]
@@ -21882,7 +21970,7 @@
     "fin de semana": {
         "entries": [
             {
-                "meaning": "finaolexo",
+                "meaning": "finaolekso",
                 "specification": ""
             }
         ]
@@ -23215,6 +23303,14 @@
             }
         ]
     },
+    "gastronomía": {
+        "entries": [
+            {
+                "meaning": "gastronomia",
+                "specification": ""
+            }
+        ]
+    },
     "gatillo": {
         "entries": [
             {
@@ -24487,6 +24583,14 @@
             }
         ]
     },
+    "hacer ejercicio": {
+        "entries": [
+            {
+                "meaning": "repuloi",
+                "specification": ""
+            }
+        ]
+    },
     "hacer horas extra": {
         "entries": [
             {
@@ -25679,6 +25783,22 @@
         "entries": [
             {
                 "meaning": "forno",
+                "specification": ""
+            }
+        ]
+    },
+    "horrible": {
+        "entries": [
+            {
+                "meaning": "terruo",
+                "specification": ""
+            }
+        ]
+    },
+    "terrible": {
+        "entries": [
+            {
+                "meaning": "terruo",
                 "specification": ""
             }
         ]
@@ -27751,6 +27871,14 @@
         "entries": [
             {
                 "meaning": "xugo, yogo",
+                "specification": ""
+            }
+        ]
+    },
+    "juguete": {
+        "entries": [
+            {
+                "meaning": "juketo",
                 "specification": ""
             }
         ]
@@ -34611,6 +34739,14 @@
             }
         ]
     },
+    "opinión": {
+        "entries": [
+            {
+                "meaning": "penza, penze, opinio",
+                "specification": ""
+            }
+        ]
+    },
     "oportunidad": {
         "entries": [
             {
@@ -36803,6 +36939,14 @@
             }
         ]
     },
+    "opinar": {
+        "entries": [
+            {
+                "meaning": "penzei, mentei, mendei, mentaire",
+                "specification": ""
+            }
+        ]
+    },
     "pensativo": {
         "entries": [
             {
@@ -38547,6 +38691,14 @@
         "entries": [
             {
                 "meaning": "piko",
+                "specification": ""
+            }
+        ]
+    },
+    "poder ayudar": {
+        "entries": [
+            {
+                "meaning": "ponladei",
                 "specification": ""
             }
         ]
@@ -41823,6 +41975,14 @@
             }
         ]
     },
+    "relajar": {
+        "entries": [
+            {
+                "meaning": "relaksei",
+                "specification": ""
+            }
+        ]
+    },
     "relativo": {
         "entries": [
             {
@@ -43275,6 +43435,14 @@
         "entries": [
             {
                 "meaning": "saldo",
+                "specification": ""
+            }
+        ]
+    },
+    "salero": {
+        "entries": [
+            {
+                "meaning": "salekisa",
                 "specification": ""
             }
         ]
@@ -45598,7 +45766,7 @@
     "suliveyar": {
         "entries": [
             {
-                "meaning": "aloi",
+                "meaning": "aloi, loi",
                 "specification": ""
             }
         ]
@@ -46799,6 +46967,14 @@
             }
         ]
     },
+    "tener éxito": {
+        "entries": [
+            {
+                "meaning": "aganai",
+                "specification": ""
+            }
+        ]
+    },
     "tener": {
         "entries": [
             {
@@ -47539,6 +47715,14 @@
             }
         ]
     },
+    "tocar": {
+        "entries": [
+            {
+                "meaning": "toutsoi",
+                "specification": "tacto"
+            }
+        ]
+    },
     "tocar fondo": {
         "entries": [
             {
@@ -47555,10 +47739,10 @@
             }
         ]
     },
-    "tocar": {
+    "tocar un instrumento": {
         "entries": [
             {
-                "meaning": "toutsoi",
+                "meaning": "laudei, audei",
                 "specification": ""
             }
         ]
@@ -48002,7 +48186,7 @@
     "trabajo": {
         "entries": [
             {
-                "meaning": "travaxo, laboro",
+                "meaning": "laboro, travaxo",
                 "specification": ""
             }
         ]
@@ -50051,6 +50235,30 @@
             }
         ]
     },
+    "ver una película": {
+        "entries": [
+            {
+                "meaning": "vatsai",
+                "specification": ""
+            }
+        ]
+    },
+    "ver una serie": {
+        "entries": [
+            {
+                "meaning": "vatsai",
+                "specification": ""
+            }
+        ]
+    },
+    "ver un vídeo": {
+        "entries": [
+            {
+                "meaning": "vatsai",
+                "specification": ""
+            }
+        ]
+    },
     "ver": {
         "entries": [
             {
@@ -50382,15 +50590,7 @@
                 "specification": "adjetivo"
             },
             {
-                "meaning": "igerne, oko",
-                "specification": ""
-            }
-        ]
-    },
-    "anciano": {
-        "entries": [
-            {
-                "meaning": "igerne, oko",
+                "meaning": "igerne",
                 "specification": ""
             }
         ]

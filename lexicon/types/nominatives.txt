@@ -34,5 +34,6 @@ vegano → vegano
 vegetariano → vegetaro
 verde lima → lima
 verde → berde
+viejo → igerne
 vivo → vitoso
 zurdo → zoranno

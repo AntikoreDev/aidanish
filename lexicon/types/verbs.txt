@@ -163,8 +163,9 @@ beneficiar → benefitiai, supavai
 besar → besai
 blanquear (dinero) → xaguai, biancai
 blanquear → biancai
+blasfemar, decir muchas palabrotas → cusai, vouraige
 blindar → blindai
-bloquear → lokei
+bloquear, cerrar con llave → lokei
 bombardear → bombardai
 borrar → prusai
 brillar con luz tenue → glimai
@@ -176,6 +177,7 @@ buscar en internet → guglai
 buscar → findai
 caber → kuai
 caducar → expirai
+caer en tentación → soblaise
 caer → argai
 cagar → mertai
 calcular → kalculei
@@ -310,15 +312,15 @@ dar un puñetazo → punai
 dar → bei
 darse cuenta → indorai
 dañar → daxai, injurai
-deber (expresión) → debei
-deber → dutei
+deber (compromiso de acto) → dutei
+deber (deudas) → debei
+deber hacer (necesidad de acto) → zaire
 decaer → decai, porei
 decapitar → dantsai, fascai, fascaire
 decepcionar → deteptionei
 decidir → dezei
 decir (coloquial) → dikei
-decir muchas palabrotas → cusai, vouraige
-decir → dikerei
+decir (formal) → dikerei
 declarar → declaire
 decorar → vanaire
 deducir → deduktei
@@ -556,8 +558,6 @@ ganar → ganai, gonai
 gastar → gastai
 gemir → kemire
 generar → espaunaire
-impedir → impaire
-prohibir → undeixai, forvoi
 girar, virar → virai
 gobernar → governei
 golpear algo para intentar arreglarlo → impetaikse, impetaksai
@@ -576,6 +576,7 @@ haber → harei
 hablar sin saber → farlai
 hablar → paire, falai
 hacer clic → klikai
+hacer ejercicio → repuloi
 hacer horas extra → prolaborai
 hacer más bonito → fanzai
 hacer que un sistema funcione completamente por Internet; sin espacio físico → netifai
@@ -603,6 +604,7 @@ ignorar → unvisoi
 imaginar → imaginei
 imantar → magnetai
 imitar → memoi
+impedir → impaire
 impersonar → impersoi
 importar (importancia) → hembei, morai, importai, neize, opaire
 importar (producto) → importai, importei
@@ -774,7 +776,7 @@ pelear → litsai, faitai, pugnai
 peligrar → perilai
 penalizar → penalai
 pender → pendei
-pensar → penzei, mentei, mendei, mentaire
+pensar, opinar → penzei, mentei, mendei, mentaire
 perder → pardaire
 perdonar → pardonai, supardeixe
 perecer → peretai
@@ -803,6 +805,7 @@ planchar → plankai
 planear (plan) → planoi
 planear (volar) → planeai
 plantar → plantaire
+poder ayudar → ponladei
 poder hacer → pondoi
 poder ser → ponsei
 poder tener → pontaine
@@ -840,6 +843,7 @@ procrastinar → procrastinei
 producir → proteire
 programar → prokramai, codai
 progresar → progresei
+prohibir → undeixai, forvoi
 prolongar → prolongaire
 prometer → priosai
 promover → promovai
@@ -889,6 +893,7 @@ rehacer → redoi, refai
 reinar → reinoi
 reiniciar → reinitiai, recomaize
 reir → gisai
+relajar → relaksei
 relucir húmedo → acolaine
 relucir → enlitai
 remar → esguelai
@@ -988,7 +993,7 @@ suceder (suceso) → berai
 sudar → suetai
 sugerir → sugestei
 sujetar, agarrar → sujei
-suliveyar, encantar → aloi
+suliveyar, encantar → aloi, loi
 sumar → suproxei
 sumergir, irse por el desagüe → sumire
 superar → raize
@@ -1012,17 +1017,18 @@ tender → ibsoi
 tener hambre → zugrai
 tener sed → renacoai
 tener una pesadilla → heupentsai
+tener éxito → aganai
 tener → taine
 tensar → tentai
 tentar → soblasnei, movai
-caer en tentación → soblaise
 terminar → teirnai
 terraformar → terraformei
 teñir → tentai
 tirar mierda o hablar mal fuertemente sobre algo o alguien → jarai
 tirar → atai
+tocar (tacto) → toutsoi
 tocar fondo, caer a lo más bajo → afondai
-tocar → toutsoi
+tocar un instrumento → laudei, audei
 tomar → tomei
 torturar → apunderai
 tostar → tostai
@@ -1067,6 +1073,7 @@ vendar → bandei
 vender → ventei
 vengarse → revengai
 venir → narei, procai
+ver una película, ver una serie, ver un vídeo → vatsai
 ver, visualizar → visoi
 verificar → verifei
 verter → verdai

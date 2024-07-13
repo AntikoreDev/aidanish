@@ -816,6 +816,7 @@ biólogo
 blanco
 blando
 blanquear
+blasfemar
 blindar
 bloque
 bloqueado
@@ -1214,6 +1215,7 @@ cerrado
 cerradura
 cerrajero
 cerrar
+cerrar con llave
 cerrar sesión
 cerrojo
 cerveza
@@ -1450,6 +1452,7 @@ concepción
 concepto
 conceptuar
 concha
+concierto
 condado
 conde
 condena
@@ -1792,7 +1795,10 @@ de
 de acuerdo
 de hecho
 de la
+de la mañana
 de la nada
+de la noche
+de la tarde
 de nada
 de nuevo
 de todas formas
@@ -1802,6 +1808,7 @@ de una
 de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo
 debajo
 deber
+deber hacer
 decaer
 decapitación
 decapitador
@@ -2205,6 +2212,7 @@ embudo
 emergenciólogo
 emisor
 emitir
+emocionante
 emocionar
 emoción
 emoji
@@ -2832,6 +2840,8 @@ gasometría
 gastar
 gastroenterología
 gastroenterólogo
+gastronomía
+gastronomía típica
 gatillo
 gato
 gato montés
@@ -2987,6 +2997,7 @@ hablar
 hablar sin saber
 hacer
 hacer clic
+hacer ejercicio
 hacer horas extra
 hacer más bonito
 hacer que un sistema funcione completamente por internet; sin espacio físico
@@ -3136,6 +3147,7 @@ hormigueo
 hormigón
 hornear
 horno
+horrible
 horóscopo
 hospedaje
 hospedar
@@ -3385,6 +3397,7 @@ jugador de baloncesto
 jugar
 juglar
 jugo
+juguete
 julio
 junco
 jungla
@@ -4214,6 +4227,8 @@ ontología
 ontólogo
 opción
 operar
+opinar
+opinión
 oportunidad
 optimizar
 optometría
@@ -4687,6 +4702,7 @@ poco
 poco a poco
 pocos
 poder
+poder ayudar
 poder hacer
 poder ser
 poder tener
@@ -5088,6 +5104,7 @@ reiniciar
 reino
 reir
 relación
+relajar
 relativo
 religión
 reliquia
@@ -5274,6 +5291,7 @@ salamandra
 salangana
 salchicha
 saldo
+salero
 salida
 saliente
 salir
@@ -5694,6 +5712,7 @@ tener
 tener hambre
 tener sed
 tener una pesadilla
+tener éxito
 tenis
 tenista
 tensar
@@ -5726,6 +5745,7 @@ terraza
 terremoto
 terrenal
 terreno
+terrible
 territorio
 terror
 terrorista
@@ -5785,6 +5805,7 @@ toallita
 tobillo
 tocar
 tocar fondo
+tocar un instrumento
 tocino
 tocología
 tocólogo
@@ -6098,6 +6119,9 @@ ventriculografía
 ventrilocuo
 venus
 ver
+ver un vídeo
+ver una película
+ver una serie
 verano
 verbo
 verdad

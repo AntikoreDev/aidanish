@@ -144,6 +144,7 @@ aforma
 afrika
 afuska
 agaisto
+aganai
 agentia
 agiza
 agizaia
@@ -1466,6 +1467,7 @@ convalidai
 conve
 convortai
 conyuge
+conzerto
 coordenata
 coordinai
 copar
@@ -2129,6 +2131,7 @@ emoji
 emotia
 emotivo
 emozai
+emozante
 emozio
 empaperai
 empartamento
@@ -2674,7 +2677,7 @@ fin
 fina
 finale
 finalei
-finaolexo
+finaolekso
 findai
 findaoro
 findette
@@ -2915,6 +2918,7 @@ gastai
 gastroenterologette
 gastroenterologia
 gastroenterologo
+gastronomia
 gate
 gaxei
 gazai
@@ -3438,6 +3442,7 @@ ingo
 ingoesmar
 ingoi
 ingora
+ingoria
 ingotela
 inherba
 inherbei
@@ -3609,6 +3614,7 @@ jokonsola
 jokotela
 joro
 juca
+juketo
 jukse
 juksei
 juksette
@@ -3908,11 +3914,13 @@ lakrimido
 lama
 lamadra
 lamadrila
+lamanza
 lana
 lanai
 landa
 lango
 langoko
+lanito
 lanterna
 lapen
 lapislazuli
@@ -3924,11 +3932,13 @@ laringologia
 laringologo
 lasanna
 laser
+lataren
 late
 latikate
 latin
 lato
 laton
+laudei
 lauseto
 lava
 lavanda
@@ -4859,6 +4869,7 @@ ontologo
 opa
 opaine
 opaire
+opinio
 optemizei
 optima
 optometria
@@ -5145,6 +5156,7 @@ pentalogia
 pentsieko
 pentsio
 pentsizei
+penza
 penze
 penzei
 penzeiette
@@ -5390,6 +5402,7 @@ pomologo
 pomotsa
 pompe
 pondoi
+ponladei
 ponsei
 pontai
 pontaine
@@ -5845,6 +5858,7 @@ rektor
 rekurso
 rekuta
 rekutai
+relaksei
 relatio
 relative
 relicro
@@ -5896,6 +5910,7 @@ reprovo
 reproxei
 reptile
 republika
+repuloi
 resetei
 resistai
 resistentia
@@ -6061,6 +6076,7 @@ sakiya
 sako
 saldo
 sale
+salekisa
 saluto
 same
 sampla
@@ -7059,6 +7075,7 @@ vasiya
 vasto
 vater
 vatio
+vatsai
 vedo
 vegano
 vegetaro
@@ -7323,6 +7340,7 @@ yuolo
 zager
 zagoi
 zaine
+zaire
 zakerro
 zalgo
 zance

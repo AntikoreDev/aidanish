@@ -154,6 +154,9 @@ culto → litero
 cultural → kultural, virian
 curioso → kurioso
 cómodo → conforte
+de la mañana → lamanza
+de la noche → lanito
+de la tarde → lataren
 de un futuro cercano → postmoderna
 de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; similar a las representacione que se suelen hacer de tokyo → tokiota
 decente → dezente
@@ -202,6 +205,7 @@ efectivo → efektibo
 eficiente → efizente
 electrónico → elektrikono
 eléctrico → elektriko
+emocionante → emozante
 emotivo → emotivo
 empanado → ebrite
 empollón → cixe
@@ -275,6 +279,7 @@ hogareño → heigaro
 horizontal → horizono
 húmedo y profundo → heruo
 húmedo → hemo
+horrible, terrible → terruo
 ignorado → unviso
 igual → equalo
 ilimitado → unlimiteko

@@ -138,6 +138,7 @@ la abstena
 ei meioko
 ei inestmeioko
 ei inestumoko
+ei oko
 ei umoko
 la abontia
 ei aborraitio
@@ -354,6 +355,7 @@ la anka
 la anca
 ei alzamiento
 la faldaia
+ei oko
 la ancla
 ei anclaxo
 ei fixo
@@ -1287,6 +1289,7 @@ ei combusto
 la ingotela
 la ingoi
 ei komerzio
+la ingoria
 ei ingo
 la conforta
 ei asletio
@@ -1320,6 +1323,7 @@ ei conceptio
 la conceptia
 ei concepto
 la akontse
+ei conzerto
 la contia
 ei condo
 la condena
@@ -2212,7 +2216,7 @@ la filologia
 la filosofia
 ei filogette
 ei filosofette
-ei finaolexo
+ei finaolekso
 ei fin
 la finale
 la fakrosigna
@@ -2384,6 +2388,7 @@ la gasometrica
 la gastroenterologia
 ei gastroenterologo
 ei gastroenterologette
+la gastronomia
 ei triyo
 ei kato
 ei menino
@@ -2888,6 +2893,7 @@ la jokaiette
 ei joglar
 ei xugo
 ei yogo
+ei juketo
 ei hunco
 la jungla
 la junta
@@ -3620,6 +3626,9 @@ la ontologia
 ei ontologo
 ei ontologette
 la setegia
+la penza
+la penze
+ei opinio
 la eiasa
 la optometria
 la optometrica
@@ -4545,6 +4554,7 @@ ei karnolon
 ei sausoxo
 ei soyo
 ei saldo
+la salekisa
 la evokatela
 ei evoke
 ei tsugo
@@ -5032,8 +5042,8 @@ la toksicologia
 ei toksicologo
 ei toksicologette
 la travaxette
-ei travaxo
 ei laboro
+ei travaxo
 ei mixequeieto
 ei translaio
 ei translaioro
@@ -5294,8 +5304,6 @@ ei vidio
 la jokonsola
 ei vidiojoko
 la cola
-ei igerne
-ei oko
 ei vendo
 ei vintre
 ei felton
@@ -5601,6 +5609,9 @@ ei kultural
 la virian
 ei kurioso
 ei conforte
+la lamanza
+ei lanito
+la lataren
 la postmoderna
 la tokiota
 la dezente
@@ -5652,6 +5663,7 @@ ei efektibo
 ei efizente
 ei elektrikono
 ei elektriko
+la emozante
 ei emotivo
 ei ebrite
 ei cixe
@@ -5736,6 +5748,7 @@ ei heigaro
 ei horizono
 ei heruo
 ei hemo
+ei terruo
 ei unviso
 ei equalo
 ei unlimiteko

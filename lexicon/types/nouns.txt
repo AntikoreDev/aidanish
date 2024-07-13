@@ -140,6 +140,7 @@ abstención → abstena
 abuela → meioko
 abuelastra → inestmeioko
 abuelastro → inestumoko
+abuelo (genérico) → oko
 abuelo → umoko
 abundancia → abontia
 aburrimiento → aborraitio
@@ -316,6 +317,7 @@ anatomopatólogo → anatomopatologo, anatomopatologette
 anca → anka, anca
 ancan → alzamiento
 anchura → faldaia
+anciano → oko
 ancla → ancla
 anclaje → anclaxo, fixo, anclo
 andador → andaivo
@@ -1064,6 +1066,7 @@ combusto → combusto
 comedor → ingotela
 comer (coloquial) → ingoi
 comercio → komerzio
+comida (genérico), gastronomía típica → ingoria
 comida → ingo
 comodidad → conforta
 comparación → asletio
@@ -1093,6 +1096,7 @@ concepción → conceptio
 concepción → conceptio, conceptia
 concepto → concepto
 concha → akontse
+concierto (musical) → conzerto
 condado → contia
 conde → condo
 condena → condena
@@ -1814,7 +1818,7 @@ filosofía antigua aidanesa por la que se elegía si el apellido de la madre o d
 filosofía → filosofia
 filólogo → filogette
 filósofo → filosofette
-fin de semana → finaolexo
+fin de semana → finaolekso
 fin → fin
 final → finale
 firma falsificada → signa fakro, fakrosigna
@@ -1942,6 +1946,7 @@ gasolinera → gasotela, nitortela, naftela
 gasometría → gasometria, gasometrica
 gastroenterología → gastroenterologia
 gastroenterólogo → gastroenterologo, gastroenterologette
+gastronomía → gastronomia
 gatillo → triyo
 gato (animal) → kato, menino, minino, katen, miko, felin, felino
 gato (herramienta) → criketa
@@ -2325,6 +2330,7 @@ jugador de baloncesto → bolacester, bolacestette
 jugador → jokaiette
 juglar → joglar
 jugo → xugo, yogo
+juguete → juketo
 junco → hunco
 jungla → jungla
 junta → junta
@@ -2902,6 +2908,7 @@ onomasiología → onomasiologia
 ontología → ontologia
 ontólogo → ontologo, ontologette
 opción → setegia
+opinión → penza, penze, opinio
 oportunidad → eiasa
 optometría → optometria, optometrica
 oración → oratio
@@ -3642,6 +3649,7 @@ sal → sale, sial
 salamandra → zirno
 salchicha → karnolon, sausoxo, soyo
 saldo → saldo
+salero → salekisa
 salida → evokatela
 saliente → evoke
 salmón → tsugo
@@ -4020,7 +4028,7 @@ totem → totem
 toxicología → toksicologia
 toxicólogo → toksicologo, toksicologette
 trabajador → travaxette
-trabajo → travaxo, laboro
+trabajo → laboro, travaxo
 trabalenguas → mixequeieto
 traducción → translaio
 traductor (objeto) → translaioro
@@ -4219,7 +4227,6 @@ video → vidio
 videoconsola → jokonsola
 videojuego → vidiojoko
 vieira → cola
-viejo, anciano → igerne, oko
 viento → vendo
 vientre → vintre
 viga → felton, ferra
