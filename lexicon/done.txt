@@ -362,6 +362,7 @@ amor patriótico
 ampelografía
 ampelología
 ampersand
+amplificar
 amplio
 amputación
 amputar
@@ -1538,6 +1539,7 @@ contestar
 contexto
 continuar
 continuista
+continuo
 contra
 contraer
 contraseña

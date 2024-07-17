@@ -1141,6 +1141,7 @@ contención → containio
 contenido → contento
 conteo → konto
 contexto → conteksto
+continuo → continum
 contraseña → codivorto
 contribución → contribe
 control → control

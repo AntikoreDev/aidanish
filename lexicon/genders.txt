@@ -1380,6 +1380,7 @@ ei containio
 ei contento
 ei konto
 ei conteksto
+ei continum
 ei codivorto
 ei contribe
 ei control

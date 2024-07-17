@@ -370,6 +370,7 @@ amor → loi
 ampelografía → ampelografia, ampelografica
 ampelología → ampelologia
 ampersand, y comercial → et-tsara
+amplificar → amplerai
 amplio → amplero
 amputación → amputatio
 amputación → unmembria
@@ -1558,6 +1559,7 @@ conteo → konto
 contexto → conteksto
 continuar → enterai, pronkai
 continuista → enderizo
+continuo → continum
 contra → ainsta, kuntroi
 contraer → contraine
 contraseña → codivorto

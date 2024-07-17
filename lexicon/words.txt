@@ -365,6 +365,7 @@ ampelografia
 ampelografica
 ampelologia
 ampico
+amplerai
 amplero
 amputai
 amputatio
@@ -1452,6 +1453,7 @@ contesta
 contestai
 contia
 contino
+continum
 conto
 contraine
 contribai
