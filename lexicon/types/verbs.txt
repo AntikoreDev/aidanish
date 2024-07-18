@@ -66,6 +66,7 @@ alargar → longei
 alcanzar → arrai
 aleatorizar → rungiai
 alegrar → aibelai
+alejar → aforei
 alicatar → alicatai
 alimentar → nisigerei, flomai
 alinear → alaine
@@ -894,6 +895,7 @@ rehacer → redoi, refai
 reinar → reinoi
 reiniciar → reinitiai, recomaize
 reir → gisai
+relacionar (dos cosas entre sí) → relai
 relajar → relaksei
 relucir húmedo → acolaine
 relucir → enlitai

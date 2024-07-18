@@ -140,6 +140,7 @@ afonda
 afondai
 afondo
 afono
+aforei
 aforma
 afrika
 afuska
@@ -461,6 +462,7 @@ antio
 antologette
 antologia
 antologo
+antonimo
 antro
 antropografia
 antropografica
@@ -5860,6 +5862,7 @@ rektor
 rekurso
 rekuta
 rekutai
+relai
 relaksei
 relatio
 relative
@@ -5939,6 +5942,7 @@ retrai
 retrakorkoit
 retre
 retrei
+retributio
 retro
 retrograda
 retrograde
@@ -6242,6 +6246,7 @@ sino
 sinologette
 sinologia
 sinologo
+sinonimo
 sintomatologia
 sinzero
 sira
@@ -7100,6 +7105,7 @@ venereologette
 venereologia
 venereologo
 venezola
+venganze
 veniza
 veno
 ventei

@@ -356,6 +356,7 @@ antropología → antropologia
 antropometría → antropometria, antropometrica
 antropólogo → antropologo, antropologette
 antólogo → antologo, antologette
+antónimo → antonimo
 anuario → yarizboto
 anuncio → adva
 análogo → analogo
@@ -3756,6 +3757,7 @@ simplex → simplex
 sinología → sinologia
 sintomatología → sintomatologia
 sinólogo → sinologo, sinologette
+sinónimo → sinonimo
 sirena (mitología) → meimare
 sirena (objeto) → sirena
 sirvienta, sirviente → madem
@@ -4196,7 +4198,7 @@ vendedor → ventette
 veneno → venemo, ponzo
 venereología → venereologia
 venereólogo → venereologo, venereologette
-venganza → revenga, revenganze
+venganza → revenga, revenganze, retributio, venganze
 ventaja → alanco
 ventana → vendexa
 ventilador de pie → estanvendo

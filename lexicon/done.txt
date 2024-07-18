@@ -264,6 +264,7 @@ aleatorizar
 alegrar
 alegre
 alegría
+alejar
 alemania
 alemán
 alergología
@@ -435,6 +436,7 @@ antropometría
 antropólogo
 antártida
 antólogo
+antónimo
 anual
 anuario
 anunciar
@@ -5105,6 +5107,7 @@ reinar
 reiniciar
 reino
 reir
+relacionar
 relación
 relajar
 relativo
@@ -5458,6 +5461,7 @@ sincero
 sinología
 sintomatología
 sinólogo
+sinónimo
 siquiera
 sirena
 sirvienta

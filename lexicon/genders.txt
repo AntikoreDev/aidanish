@@ -409,6 +409,7 @@ ei antropologo
 ei antropologette
 ei antologo
 ei antologette
+ei antonimo
 ei yarizboto
 la adva
 ei analogo
@@ -4684,6 +4685,7 @@ la sinologia
 la sintomatologia
 ei sinologo
 ei sinologette
+ei sinonimo
 la meimare
 la sirena
 la madem
@@ -5261,6 +5263,8 @@ ei venereologo
 ei venereologette
 la revenga
 la revenganze
+ei retributio
+la venganze
 ei alanco
 la vendexa
 ei estanvendo

@@ -2207,6 +2207,14 @@
             }
         ]
     },
+    "alejar": {
+        "entries": [
+            {
+                "meaning": "aforei",
+                "specification": ""
+            }
+        ]
+    },
     "alemania": {
         "entries": [
             {
@@ -3611,6 +3619,14 @@
         "entries": [
             {
                 "meaning": "antologo, antologette",
+                "specification": ""
+            }
+        ]
+    },
+    "antónimo": {
+        "entries": [
+            {
+                "meaning": "antonimo",
                 "specification": ""
             }
         ]
@@ -23958,7 +23974,7 @@
     "gracias": {
         "entries": [
             {
-                "meaning": "grazei",
+                "meaning": "naito grazei",
                 "specification": ""
             }
         ]
@@ -41983,6 +41999,14 @@
             }
         ]
     },
+    "relacionar": {
+        "entries": [
+            {
+                "meaning": "relai",
+                "specification": "dos cosas entre sí"
+            }
+        ]
+    },
     "relación": {
         "entries": [
             {
@@ -44827,6 +44851,14 @@
         "entries": [
             {
                 "meaning": "sinologo, sinologette",
+                "specification": ""
+            }
+        ]
+    },
+    "sinónimo": {
+        "entries": [
+            {
+                "meaning": "sinonimo",
                 "specification": ""
             }
         ]
@@ -50166,7 +50198,7 @@
     "venganza": {
         "entries": [
             {
-                "meaning": "revenga, revenganze",
+                "meaning": "revenga, revenganze, retributio, venganze",
                 "specification": ""
             }
         ]

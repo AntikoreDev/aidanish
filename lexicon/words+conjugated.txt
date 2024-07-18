@@ -314,6 +314,13 @@ afondaio
 afondaioto
 afondo
 afono
+aforei
+aforeie
+aforeieon
+aforeiet
+aforeiki
+aforeio
+aforeioto
 aforma
 afrika
 afuska
@@ -929,6 +936,7 @@ antio
 antologette
 antologia
 antologo
+antonimo
 antro
 antropografia
 antropografica
@@ -11692,6 +11700,13 @@ rekutaiet
 rekutaiki
 rekutaio
 rekutaioto
+relai
+relaie
+relaieon
+relaiet
+relaiki
+relaio
+relaioto
 relaksei
 relakseie
 relakseieon
@@ -11945,6 +11960,7 @@ retreiet
 retreiki
 retreio
 retreioto
+retributio
 retro
 retrograda
 retrograde
@@ -12578,6 +12594,7 @@ sino
 sinologette
 sinologia
 sinologo
+sinonimo
 sintomatologia
 sinzero
 sira
@@ -14294,6 +14311,7 @@ venereologette
 venereologia
 venereologo
 venezola
+venganze
 veniza
 veno
 ventei

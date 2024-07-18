@@ -272,6 +272,7 @@ aleatorio → rungo
 aleatorizar → rungiai
 alegrar → aibelai
 alegría → aibe
+alejar → aforei
 alemania → duxlan
 alemán → duxlano
 alergología → alergologia
@@ -445,6 +446,7 @@ antropometría → antropometria, antropometrica
 antropólogo → antropologo, antropologette
 antártida → antartika
 antólogo → antologo, antologette
+antónimo → antonimo
 anual → yaroko
 anuario → yarizboto
 anunciar → advei, advertaire
@@ -2946,7 +2948,7 @@ gozar → gozei
 grabación → grabatio, recordo
 grabar → grabai, ikrabai, recordai
 gracia → graze
-gracias → grazei
+gracias → naito grazei
 gracioso → grazero
 grado → grado
 grafeno → grafeno
@@ -5175,6 +5177,7 @@ reinar → reinoi
 reiniciar → reinitiai, recomaize
 reino → renno
 reir → gisai
+relacionar (dos cosas entre sí) → relai
 relación → relatio
 relajar → relaksei
 relativo → relative
@@ -5532,6 +5535,7 @@ sincero → etristuro, sinzero
 sinología → sinologia
 sintomatología → sintomatologia
 sinólogo → sinologo, sinologette
+sinónimo → sinonimo
 siquiera, ni siquiera → nonixa
 sirena (mitología) → meimare
 sirena (objeto) → sirena
@@ -6186,7 +6190,7 @@ veneno → venemo, ponzo
 venereología → venereologia
 venereólogo → venereologo, venereologette
 venezuela → venezola
-venganza → revenga, revenganze
+venganza → revenga, revenganze, retributio, venganze
 vengarse → revengai
 venir → narei, procai
 ventaja → alanco

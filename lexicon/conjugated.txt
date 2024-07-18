@@ -172,6 +172,12 @@ afondaiet
 afondaiki
 afondaio
 afondaioto
+aforeie
+aforeieon
+aforeiet
+aforeiki
+aforeio
+aforeioto
 aganaie
 aganaieon
 aganaiet
@@ -5830,6 +5836,12 @@ rekutaiet
 rekutaiki
 rekutaio
 rekutaioto
+relaie
+relaieon
+relaiet
+relaiki
+relaio
+relaioto
 relakseie
 relakseieon
 relakseiet
