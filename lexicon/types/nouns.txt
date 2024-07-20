@@ -1468,6 +1468,7 @@ disquete → diskete
 disrupción → disrupta
 disruptor → disruptor
 distancia → longara
+distopía → distopia
 distrito → distrikto
 diversión → xiaibela
 divisa → divisa
@@ -4156,6 +4157,7 @@ uso → use
 usuario → usuario
 utero → utero
 utilidad → utilidae
+utopía → utopia
 uva → uba
 uña → neka
 vaca → vaka

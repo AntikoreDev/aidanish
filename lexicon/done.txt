@@ -2078,7 +2078,9 @@ disruptor
 distancia
 distanciar
 distante
+distopía
 distrito
+distópico
 diversión
 divertido
 divertir
@@ -6053,6 +6055,8 @@ usuario
 utero
 utilidad
 utilizar una palabra de forma incorrecta en una frase pero sin qué imposibilite que se entienda
+utopía
+utópico
 uva
 uña
 vaca

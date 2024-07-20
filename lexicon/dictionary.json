@@ -17071,10 +17071,26 @@
             }
         ]
     },
+    "distopía": {
+        "entries": [
+            {
+                "meaning": "distopia",
+                "specification": ""
+            }
+        ]
+    },
     "distrito": {
         "entries": [
             {
                 "meaning": "distrikto",
+                "specification": ""
+            }
+        ]
+    },
+    "distópico": {
+        "entries": [
+            {
+                "meaning": "distopica",
                 "specification": ""
             }
         ]
@@ -49711,6 +49727,22 @@
         "entries": [
             {
                 "meaning": "convortai",
+                "specification": ""
+            }
+        ]
+    },
+    "utopía": {
+        "entries": [
+            {
+                "meaning": "utopia",
+                "specification": ""
+            }
+        ]
+    },
+    "utópico": {
+        "entries": [
+            {
+                "meaning": "utopica",
                 "specification": ""
             }
         ]

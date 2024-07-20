@@ -1874,6 +1874,8 @@ disrupta
 disruptivo
 disruptor
 distante
+distopia
+distopica
 distrikto
 distro
 distroi
@@ -7030,6 +7032,8 @@ utego
 utero
 utila
 utilidae
+utopia
+utopica
 utso
 vacunologette
 vacunologia

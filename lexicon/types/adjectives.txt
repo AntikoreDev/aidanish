@@ -191,6 +191,7 @@ discreto → diskreto
 disponible → disve
 disruptivo → disruptivo
 distante → distante
+distópico → distopica
 divertido → xiabeloso
 doctoral → doktoralo
 dolido → dolo
@@ -277,9 +278,9 @@ hambriento → fameno
 hipnotizado → hipnoto
 hogareño → heigaro
 horizontal → horizono
+horrible, terrible → terruo
 húmedo y profundo → heruo
 húmedo → hemo
-horrible, terrible → terruo
 ignorado → unviso
 igual → equalo
 ilimitado → unlimiteko
@@ -547,6 +548,7 @@ unido → yoiko
 uperisado → uperisato
 urbano → urbe
 usual → usuala
+utópico → utopica
 vacante → vakante
 vacío → vatio
 vago → sugarra

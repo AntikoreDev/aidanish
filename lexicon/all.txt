@@ -2108,7 +2108,9 @@ disruptor → disruptor
 distancia → longara
 distanciar → longoai
 distante → distante
+distopía → distopia
 distrito → distrikto
+distópico → distopica
 diversión → xiaibela
 divertido → xiabeloso
 divertir → xiaibelai
@@ -6128,6 +6130,8 @@ usuario → usuario
 utero → utero
 utilidad → utilidae
 utilizar una palabra de forma incorrecta en una frase pero sin qué imposibilite que se entienda → convortai
+utopía → utopia
+utópico → utopica
 uva → uba
 uña → neka
 vaca → vaka

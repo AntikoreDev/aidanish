@@ -1780,6 +1780,7 @@ ei diskete
 la disrupta
 ei disruptor
 la longara
+la distopia
 ei distrikto
 la xiaibela
 la divisa
@@ -5201,6 +5202,7 @@ ei use
 ei usuario
 ei utero
 ei utilidae
+la utopia
 la uba
 la neka
 la vaka
@@ -5654,6 +5656,7 @@ ei diskreto
 ei disve
 ei disruptivo
 la distante
+la distopica
 ei xiabeloso
 ei doktoralo
 ei dolo
@@ -5751,9 +5754,9 @@ ei fameno
 ei hipnoto
 ei heigaro
 ei horizono
+ei terruo
 ei heruo
 ei hemo
-ei terruo
 ei unviso
 ei equalo
 ei unlimiteko
@@ -6050,6 +6053,7 @@ ei yoiko
 ei uperisato
 ei urbe
 la usuala
+la utopica
 la vakante
 ei vatio
 la sugarra
