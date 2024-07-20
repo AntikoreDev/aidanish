@@ -2191,6 +2191,7 @@ economía → economia
 ecotoxicología → ecotoksicologia
 ecuador → equator
 ecólogo → ecologo, ecologette
+edad (tiempo de existencia) → yaria
 edafología → edafologia
 edafólogo → edafologo, edafologette
 edición → editio

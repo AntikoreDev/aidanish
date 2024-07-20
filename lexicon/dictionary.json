@@ -17783,6 +17783,14 @@
             }
         ]
     },
+    "edad": {
+        "entries": [
+            {
+                "meaning": "yaria",
+                "specification": "tiempo de existencia"
+            }
+        ]
+    },
     "edafología": {
         "entries": [
             {
