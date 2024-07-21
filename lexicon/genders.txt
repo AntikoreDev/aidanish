@@ -5652,6 +5652,7 @@ ei dieteko
 ei nequalo
 ei derrenko
 la digital
+la dinamika
 ei dirijtiko
 ei diskreto
 ei disve
