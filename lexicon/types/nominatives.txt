@@ -12,7 +12,7 @@ estafador → lerrako, zoike
 fructívoro → fructivoro
 futuro → futura
 gordo → lubo
-gris → horan
+gris → horan, gris
 herbívoro → herbivoro
 identificador → identificator, identitor
 idiota → hunko, fruka, estulta

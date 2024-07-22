@@ -2985,7 +2985,7 @@ gripe aviar → acriko flubila
 gripe española → espanna flubila
 gripe porcina → porko flubila
 gripe → flubila
-gris → horan
+gris → horan, gris
 gritar → klizei
 grosella → baretsa
 grosero → uskoro
