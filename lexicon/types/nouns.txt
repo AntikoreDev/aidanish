@@ -539,6 +539,7 @@ banco (edificio) → banko
 banco (sentarse) → sendaia
 banda → banda
 bandeja → indaksa
+sillón → sendaron
 bandera aidanesa → patriska
 bandera → fliaga
 banquero → bankexette

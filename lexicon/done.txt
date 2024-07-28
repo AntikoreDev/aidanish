@@ -5442,6 +5442,7 @@ silenciar
 silencio
 silencioso
 silla
+sillón
 simbología
 simetría
 simpatizante

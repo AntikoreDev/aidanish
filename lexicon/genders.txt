@@ -633,6 +633,7 @@ ei banko
 la sendaia
 la banda
 la indaksa
+ei sendaron
 la patriska
 la fliaga
 la bankexette

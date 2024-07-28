@@ -5517,6 +5517,7 @@ silenciar → esparei
 silencio → esparo
 silencioso → esparoso
 silla → senda
+sillón → sendaron
 simbología → simbologia
 simetría → simetria, simetrica
 simpatizante → simaisere
