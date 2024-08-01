@@ -539,7 +539,6 @@ banco (edificio) → banko
 banco (sentarse) → sendaia
 banda → banda
 bandeja → indaksa
-sillón → sendaron
 bandera aidanesa → patriska
 bandera → fliaga
 banquero → bankexette
@@ -1505,6 +1504,7 @@ dársena → portakarga
 décima → decima
 día festivo, festivo → ferehen
 día → hen
+días de vacaciones → ferehenit
 dólar → dolar
 dúplex → duplex
 ebullición, evaporación → inherba
@@ -1516,6 +1516,7 @@ econometría → econometria, econometrica
 economía → economia
 ecotoxicología → ecotoksicologia
 ecólogo → ecologo, ecologette
+edad (tiempo de existencia) → yaria
 edafología → edafologia
 edafólogo → edafologo, edafologette
 edición → editio
@@ -1791,6 +1792,7 @@ farmacólogo → farmacologo, farmacologette
 faro (costero) → faro
 favor → fevo
 fecha → daita
+fechas de vacaciones → ferehena
 federación → federatio
 felicidad → aibela
 femicida → femicida, meiecida, meicida
@@ -3751,6 +3753,7 @@ siglo → ozeno
 significado → mea
 silencio → esparo
 silla → senda
+sillón → sendaron
 simbología → simbologia
 simetría → simetria, simetrica
 simpatizante → simaisere
@@ -3775,7 +3778,6 @@ sobrino → asineko
 sociedad completamente basada en el dinero; donde el que tiene más dinero tiene inevitablemente más poder y donde la desigualdad entre las clases sociales es muy alta → luxocrasis, luksocrasis
 sociedad → soziata
 socio → sozio
-edad (tiempo de existencia) → yaria
 sociobiología → sociobiologia
 sociobiólogo → sociobiologo, sociobiologette
 sociología → sociologia

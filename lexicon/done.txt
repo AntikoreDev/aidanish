@@ -2148,6 +2148,7 @@ décima
 décimo
 día
 día festivo
+días de vacaciones
 dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento
 dólar
 dúplex
@@ -2640,6 +2641,7 @@ favorar
 favorito
 febrero
 fecha
+fechas de vacaciones
 federación
 felicidad
 felicidades

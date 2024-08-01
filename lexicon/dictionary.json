@@ -17631,6 +17631,14 @@
             }
         ]
     },
+    "días de vacaciones": {
+        "entries": [
+            {
+                "meaning": "ferehenit",
+                "specification": ""
+            }
+        ]
+    },
     "dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento": {
         "entries": [
             {
@@ -21699,6 +21707,14 @@
         "entries": [
             {
                 "meaning": "daita",
+                "specification": ""
+            }
+        ]
+    },
+    "fechas de vacaciones": {
+        "entries": [
+            {
+                "meaning": "ferehena",
                 "specification": ""
             }
         ]

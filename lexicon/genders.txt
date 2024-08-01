@@ -633,7 +633,6 @@ ei banko
 la sendaia
 la banda
 la indaksa
-ei sendaron
 la patriska
 la fliaga
 la bankexette
@@ -1824,6 +1823,7 @@ la portakarga
 la decima
 ei ferehen
 ei hen
+ei ferehenit
 ei dolar
 ei duplex
 la inherba
@@ -1839,6 +1839,7 @@ la economia
 la ecotoksicologia
 ei ecologo
 ei ecologette
+la yaria
 la edafologia
 ei edafologo
 ei edafologette
@@ -2181,6 +2182,7 @@ la farmacologette
 ei faro
 ei fevo
 la daita
+la ferehena
 ei federatio
 la aibela
 la femicida
@@ -4677,6 +4679,7 @@ ei ozeno
 la mea
 ei esparo
 la senda
+ei sendaron
 la simbologia
 la simetria
 la simetrica
@@ -4714,7 +4717,6 @@ la luksocrasis
 la luksocrasis
 la soziata
 ei sozio
-la yaria
 la sociobiologia
 ei sociobiologo
 ei sociobiologette

@@ -2176,6 +2176,7 @@ décima → decima
 décimo → dezix
 día festivo, festivo → ferehen
 día → hen
+días de vacaciones → ferehenit
 dícese de un grupo de personas que participa en un evento conjunto sin que realmente ninguno de ellos lo quisiera en un primer momento, simplemente por creer que "el resto iban" o "yo pensaba que x quería" → aer paire, lude noi
 dólar → dolar
 dúplex → duplex
@@ -2664,6 +2665,7 @@ favorar → favorai
 favorito → favo
 febrero → febrero
 fecha → daita
+fechas de vacaciones → ferehena
 federación → federatio
 felicidad → aibela
 felicidades → favoras
