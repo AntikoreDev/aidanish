@@ -135,6 +135,8 @@ ei aborto
 ei hogo
 ei aiprebotelo
 la abstena
+ei astaino
+ei expositio
 ei meioko
 ei inestmeioko
 ei inestumoko
@@ -3458,6 +3460,9 @@ la museografica
 la museologia
 ei museologo
 ei museologette
+ei museio
+ei expositio
+ei museum
 ei moso
 la musicologia
 ei musicologo
@@ -5236,11 +5241,16 @@ la variable
 ei vando
 la vasaia
 ei vasaio
+ei wonderlan
+ei trip
+la tripi
 ei vascologo
 ei vascologette
 la vasiya
 la cupa
+la seranotela
 la neiborotela
+ei serano
 ei neiboro
 ei vegeto
 ei vehiklo

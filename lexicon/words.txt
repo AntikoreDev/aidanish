@@ -625,6 +625,7 @@ aspira
 aspirai
 aspiraoro
 astaine
+astaino
 astato
 astei
 asteitela
@@ -2556,6 +2557,8 @@ explodoro
 explojica
 exporte
 exportei
+exposai
+expositio
 exposto
 expresei
 expresio
@@ -4570,11 +4573,13 @@ mundologia
 mura
 murala
 murelo
+museio
 museografia
 museografica
 museologette
 museologia
 museologo
+museum
 musicologette
 musicologia
 musicologo
@@ -6174,6 +6179,8 @@ septoix
 sepulta
 sepultai
 sequencia
+serano
+seranotela
 serie
 serigrafia
 serigrafica
@@ -6780,7 +6787,9 @@ trinkai
 trintsera
 trintso
 trio
+trip
 tripa
+tripi
 triplex
 tripofobia
 triproxei
@@ -7268,6 +7277,7 @@ wikipedia
 wiski
 wolfram
 wolfsbane
+wonderlan
 xa
 xabana
 xafla

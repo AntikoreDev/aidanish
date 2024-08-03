@@ -60,6 +60,7 @@ abrir
 absoluto
 abstención
 abstener
+abstenerse
 abstenido
 abstruso
 abuela
@@ -2597,8 +2598,10 @@ explicar
 explosivo
 explosión
 explotar
+exponer
 exportación
 exportar
+exposición
 expresar
 expresión
 expresión para referirse a la reciprocidad de un trato entre dos personas
@@ -4013,6 +4016,7 @@ murciélago
 murmurar
 murmuro
 muro
+museo
 museografía
 museología
 museólogo
@@ -4120,6 +4124,7 @@ niñez
 niño
 niños
 no
+no importar
 no te metas
 noche
 nogal
@@ -6167,6 +6172,7 @@ vez
 via
 viajar
 viaje
+viaje en las drogas
 vibrador
 vibrar
 vicuña

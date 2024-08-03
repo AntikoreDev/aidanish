@@ -136,7 +136,8 @@ aborto → aborto
 abracadabra → magika ragika
 abrazo → hogo
 abrebotellas → aiprebotelo
-abstención → abstena
+abstención → abstena, astaino
+exposición (museo) → expositio
 abuela → meioko
 abuelastra → inestmeioko
 abuelastro → inestumoko
@@ -2776,6 +2777,7 @@ muro, pared → mura
 museografía → museografia, museografica
 museología → museologia
 museólogo → museologo, museologette
+museo → museio, expositio, museum
 musgo → moso
 musicología → musicologia
 musicólogo → musicologo, musicologette
@@ -4182,11 +4184,12 @@ variable → variable
 varita → vando
 vasallaje → vasaia
 vasallo → vasaio
+viaje en las drogas → wonderlan, trip, tripi
 vascólogo → vascologo, vascologette
 vasija → vasiya
 vaso → cupa
-vecindario → neiborotela
-vecino → neiboro
+vecindario → seranotela, neiborotela
+vecino → serano, neiboro
 vegetal → vegeto
 vehículo → vehiklo
 vejez → igernesa, okosa, okoie, eldesa

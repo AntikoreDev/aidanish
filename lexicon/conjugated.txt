@@ -2632,6 +2632,12 @@ exporteiet
 exporteiki
 exporteio
 exporteioto
+exposaie
+exposaieon
+exposaiet
+exposaiki
+exposaio
+exposaioto
 expreseie
 expreseieon
 expreseiet

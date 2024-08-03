@@ -1261,6 +1261,7 @@ astaineio
 astaineioto
 astaineki
 astainet
+astaino
 astato
 astei
 asteie
@@ -5190,6 +5191,14 @@ exporteiet
 exporteiki
 exporteio
 exporteioto
+exposai
+exposaie
+exposaieon
+exposaiet
+exposaiki
+exposaio
+exposaioto
+expositio
 exposto
 expresei
 expreseie
@@ -9082,11 +9091,13 @@ mundologia
 mura
 murala
 murelo
+museio
 museografia
 museografica
 museologette
 museologia
 museologo
+museum
 musicologette
 musicologia
 musicologo
@@ -12456,6 +12467,8 @@ sepultaiki
 sepultaio
 sepultaioto
 sequencia
+serano
+seranotela
 serie
 serigrafia
 serigrafica
@@ -13650,7 +13663,9 @@ trinkaioto
 trintsera
 trintso
 trio
+trip
 tripa
+tripi
 triplex
 tripofobia
 triproxei
@@ -14588,6 +14603,7 @@ wikipedia
 wiski
 wolfram
 wolfsbane
+wonderlan
 xa
 xabana
 xafla

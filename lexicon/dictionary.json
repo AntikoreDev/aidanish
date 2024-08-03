@@ -526,7 +526,7 @@
     "abstención": {
         "entries": [
             {
-                "meaning": "abstena",
+                "meaning": "abstena, astaino",
                 "specification": ""
             }
         ]
@@ -535,6 +535,22 @@
         "entries": [
             {
                 "meaning": "abstenai",
+                "specification": ""
+            }
+        ]
+    },
+    "abstenerse": {
+        "entries": [
+            {
+                "meaning": "astaine",
+                "specification": ""
+            }
+        ]
+    },
+    "no importar": {
+        "entries": [
+            {
+                "meaning": "astaine",
                 "specification": ""
             }
         ]
@@ -21359,6 +21375,14 @@
             }
         ]
     },
+    "exponer": {
+        "entries": [
+            {
+                "meaning": "exposai",
+                "specification": "museo"
+            }
+        ]
+    },
     "exportación": {
         "entries": [
             {
@@ -21372,6 +21396,14 @@
             {
                 "meaning": "exportei",
                 "specification": ""
+            }
+        ]
+    },
+    "exposición": {
+        "entries": [
+            {
+                "meaning": "expositio",
+                "specification": "museo"
             }
         ]
     },
@@ -32995,6 +33027,14 @@
         "entries": [
             {
                 "meaning": "mura",
+                "specification": ""
+            }
+        ]
+    },
+    "museo": {
+        "entries": [
+            {
+                "meaning": "museio, expositio, museum",
                 "specification": ""
             }
         ]
@@ -50066,7 +50106,7 @@
     "vecindario": {
         "entries": [
             {
-                "meaning": "neiborotela",
+                "meaning": "seranotela, neiborotela",
                 "specification": ""
             }
         ]
@@ -50074,7 +50114,7 @@
     "vecino": {
         "entries": [
             {
-                "meaning": "neiboro",
+                "meaning": "serano, neiboro",
                 "specification": ""
             }
         ]
@@ -50627,6 +50667,14 @@
         "entries": [
             {
                 "meaning": "vixei",
+                "specification": ""
+            }
+        ]
+    },
+    "viaje en las drogas": {
+        "entries": [
+            {
+                "meaning": "wonderlan, trip, tripi",
                 "specification": ""
             }
         ]

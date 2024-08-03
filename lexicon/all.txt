@@ -61,8 +61,9 @@ abrebotellas → aiprebotelo
 abril → aiprila
 abrir → aiprei, apeire
 absoluto → absoluto
-abstención → abstena
+abstención → abstena, astaino
 abstener → abstenai
+abstenerse, no importar → astaine
 abstenido → absteno
 abstruso → abstruso
 abuela → meioko
@@ -2620,8 +2621,10 @@ explosivo → explodiko
 explosivo → explodoro
 explosión → bombeia
 explotar → bombeire, explodei
+exponer (museo) → exposai
 exportación → exporte
 exportar → exportei
+exposición (museo) → expositio
 expresar → expresei
 expresión para referirse a la reciprocidad de un trato entre dos personas → denta por denta
 expresión → expresio
@@ -4059,6 +4062,7 @@ murciélago → vesperilo, murelo
 murmurar → surai
 murmuro → suro
 muro, pared → mura
+museo → museio, expositio, museum
 museografía → museografia, museografica
 museología → museologia
 museólogo → museologo, museologette
@@ -6173,8 +6177,8 @@ vasija → vasiya
 vaso → cupa
 vasto → vasto
 vecinal → neiborako
-vecindario → neiborotela
-vecino → neiboro
+vecindario → seranotela, neiborotela
+vecino → serano, neiboro
 vegano → vegano
 vegetal → vegeto
 vegetariano → vegetaro
@@ -6242,6 +6246,7 @@ vexilólogo → vexilogette
 vez → meto
 via → via
 viajar → vixei
+viaje en las drogas → wonderlan, trip, tripi
 viaje → vixe
 vibrador → vibraibo
 vibrar → vibrai
