@@ -13,10 +13,9 @@ abrasar → abrasai
 abrazar → hogei, airoize
 abrir → aiprei, apeire
 abstener → abstenai
+abstenerse, no importar → astaine
 abundar → abontai
 aburrir → aborrai
-abstenerse, no importar → astaine
-exponer (museo) → exposai
 acabar → bertsai
 acampar → akempei
 acariciar → caricai
@@ -261,6 +260,7 @@ conjugar → conjugai
 conjurar → praecantai, xizai, praecantaire
 conocer (algo) → aonatei
 conocer (persona) → misei
+conocer, descubrir (lugar) → forai
 conquistar → conqerai
 conseguir → elokrai
 consentir → conseine
@@ -498,6 +498,7 @@ espantar → escorrai
 esparcir, espolvorear → droupoi, hougire
 especializar → espezialitai
 espectar → espektei
+esperar (a alguien) → herrei, haile
 esperar (esperar algo) → aikalai
 esperar (tiempo) → herrei, haile
 espesar → hexegai
@@ -522,7 +523,9 @@ existir → estai
 experimentar → experimentai, testai, testei
 expirar → expirai
 explicar → esplaxai, espelai
+explorar → forai, explorei
 explotar → bombeire, explodei
+exponer (museo) → exposai
 exportar → exportei
 expresar → expresei
 expulsar → aztai
@@ -975,7 +978,7 @@ servir (servicio) → servei
 servir (uso de algo) → sirvei
 señalizar → sinnai
 significar → mearei, daine
-silenciar → esparei
+silenciar → esparei, unoi, unoire
 simpatizar → simaise
 sitiar → sitei
 sobrepasar → surpaize
@@ -1038,7 +1041,7 @@ tomar → tomei
 torturar → apunderai
 tostar → tostai
 trabajar duro, trabajar forzoso → tsunkei
-trabajar → travaxei
+trabajar → travaxei, laborai
 traducir → translai
 traer → brogei
 traficar → trafikai

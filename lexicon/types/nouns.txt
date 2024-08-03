@@ -30,8 +30,8 @@ Bucarest → Bukaresti
 Bélgica → Belgia
 Canadá → Canadia, Kanada
 Chile → Tsile
-China → Tsina
-Chino → Tsineo
+China (país) → Tsina
+Chino (gentilicio) → Tsineo
 Colombia → Kolombia
 Copenague → Kopenage
 Cuba → Cuba
@@ -72,6 +72,7 @@ Marte → mairte
 Martes → martia
 Marzo → marzea
 Mayo → Maio
+Mexicano → Mexikano
 Miércoles → xeitore
 Moscú → Mosku
 México → Mexiko
@@ -137,7 +138,6 @@ abracadabra → magika ragika
 abrazo → hogo
 abrebotellas → aiprebotelo
 abstención → abstena, astaino
-exposición (museo) → expositio
 abuela → meioko
 abuelastra → inestmeioko
 abuelastro → inestumoko
@@ -763,6 +763,7 @@ camarero → hostexette
 cambio → kambio
 camello → usatsa, camolo
 caminante → kemnette
+caminata, andanza → andaia
 camino → kemno, rata
 camisa → kamisa
 camiseta → kamiseta
@@ -964,6 +965,7 @@ ciclo → ciklo
 cielo (religión) → estelegas
 cielo → kailo
 cien → ozen
+ciencia ficción → cienfiktio
 ciencia → cientsa
 cienciología → cientsologia
 cienciólogo → cienciologo, cienciologette
@@ -979,6 +981,8 @@ cima → zima
 cimitarra → escimitarra
 cinco → qinco
 cincografía → cincografia, cincografica
+cine (genérico) → zine
+cine (lugar) → zinetela, filmotela
 cinematografía → cinematografia, cinematografica
 cinología → cinologia
 cinta adhesiva (pegar objetos) → amerizinto, anazinto, dukte, zelo
@@ -1384,6 +1388,7 @@ desatascador → unastainoro, unastaino, unestoro
 descanso → hixe
 descenso → densenno
 descripción → deskriptio
+descuento → aurventa
 desecho, basura → desexo, zorro
 desembarco → desbarco
 desembocadura (río) → rioke
@@ -1769,9 +1774,11 @@ exobiología → exobiologia
 experimento, test (científico) → testo, testifica, experimento, test
 expiración, caducidad → expiratio
 explanada → planiuno
+explorador → forante, forette, explorator, explorante
 explosivo → explodoro
 explosión → bombeia
 exportación → exporte
+exposición (museo) → expositio
 expresión → expresio
 extensión → extentia
 extintor → ignoextingoro
@@ -2047,6 +2054,7 @@ gripe aviar → acriko flubila
 gripe española → espanna flubila
 gripe porcina → porko flubila
 gripe → flubila
+grito → klizo
 grosella → baretsa
 grulla trompetera → trompescuela
 grulla → escuela
@@ -2637,6 +2645,7 @@ menta → menta
 mente → mende, mente
 mentira → musta
 menú → menu
+mercado → logaplaza, mercato, market 
 mercadología → mercadologia
 mercadólogo → mercadologo, mercadologette
 mercurio → mercuria
@@ -2774,10 +2783,10 @@ muralla → murala
 murciélago → vesperilo, murelo
 murmuro → suro
 muro, pared → mura
+museo → museio, expositio, museum
 museografía → museografia, museografica
 museología → museologia
 museólogo → museologo, museologette
-museo → museio, expositio, museum
 musgo → moso
 musicología → musicologia
 musicólogo → musicologo, musicologette
@@ -2971,6 +2980,7 @@ paella → paella
 paga → paia
 pagano → pakano
 paidología → paidologia
+paisaje → escape
 paja (heno) → likra
 paja (sexo) → oarga
 pala (herramienta) → eirgoro
@@ -3203,6 +3213,7 @@ peón → peon
 phasmofobia → fasmofobia, phasmofobia
 piano → piano
 picadura → estundaxe
+picnic → picnic
 pico (animal) → pike
 pico (herramienta) → pikote
 pico (montaña) → ampico
@@ -3282,6 +3293,7 @@ platino → silverino
 plato de ducha → tsoage, tsoaglate
 plato → plato
 playa → plaia
+plaza → plaza
 plomo → blono
 pluma (animal) → felisa
 pluma (boligrafo) → pluma
@@ -3753,7 +3765,7 @@ sifilografía → sifilografia, sifilografica
 sigilografía → sigilografia, sigilografica
 siglo → ozeno
 significado → mea
-silencio → esparo
+silencio → esparo, unoio
 silla → senda
 sillón → sendaron
 simbología → simbologia
@@ -4184,7 +4196,6 @@ variable → variable
 varita → vando
 vasallaje → vasaia
 vasallo → vasaio
-viaje en las drogas → wonderlan, trip, tripi
 vascólogo → vascologo, vascologette
 vasija → vasiya
 vaso → cupa
@@ -4208,6 +4219,7 @@ veneno → venemo, ponzo
 venereología → venereologia
 venereólogo → venereologo, venereologette
 venganza → revenga, revenganze, retributio, venganze
+venta → venta
 ventaja → alanco
 ventana → vendexa
 ventilador de pie → estanvendo
@@ -4231,6 +4243,7 @@ veto → bana, paina, paine
 vexilología → vexilogia
 vexilólogo → vexilogette
 vez → meto
+viaje en las drogas → wonderlan, trip, tripi
 viaje → vixe
 vibrador → vibraibo
 vicuña → vicunna
@@ -4304,6 +4317,7 @@ yak → yak
 yate → yate
 yegüa → yequa
 yero, algarroba → yero
+yoga → yoga
 yogur → yogur
 yoyo → yoyo
 yunque → herrunna

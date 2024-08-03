@@ -36,6 +36,7 @@ adoptado → adopto
 afilado → alfilago
 afortunado → helera
 afónico → afono
+agradecido → grazeio
 agresivo → agresibo
 agrio → xigro
 albino → albino
@@ -207,6 +208,7 @@ efectivo → efektibo
 eficiente → efizente
 electrónico → elektrikono
 eléctrico → elektriko
+emocionado → emozaio
 emocionante → emozante
 emotivo → emotivo
 empanado → ebrite
@@ -294,6 +296,7 @@ impreso → izkratoso
 inaccesible → inakcesibla
 incompatible → unkompatible
 incorrecto → incorrecto, inkorrektoko
+increíble → incredibla, unbeleizibla, unbelizabla
 inculto → unlitero
 incómodo → inconforte
 indecente → undezente
@@ -395,6 +398,7 @@ nacional → agizan
 natural → naturala
 negativo → nekatiko
 nevado → aigeloso
+no nublado, despejado (cielo) → lito
 normal → normal
 nublado → nimboso
 nuclear → nuzelar
@@ -454,6 +458,7 @@ principal → printsiale, primer
 privado → privato, privado
 probable → probable, probeko
 probado → probo
+productivo → produktiva
 profundo → sundo
 prolongado → prolonge
 propenso → prono
@@ -475,6 +480,7 @@ recluso → rekluso
 recompensado → reguarde
 rectal → rectal
 redondo → circloko
+relajante → relaksanta
 relativo → relative
 reluciente → enlitaro
 remunerado → remoneiata
@@ -483,7 +489,7 @@ rico → ritsa
 romántico → romantiko
 roto → roto
 rudo → bardo
-ruidoso → audixoso
+ruidoso → noisanta, noisante, audixoso, ruidanta
 rápido → rante
 sabroso → zaproso
 saciable → satiable
@@ -501,6 +507,7 @@ separado → unyoiko
 serio → serio
 siguiente → arenko
 silencioso → esparoso
+silencioso → unoia
 simple → simple, sampla 
 simpático → amaiso, simpo
 simpático → simaise
@@ -516,7 +523,9 @@ soberbio → superbo
 sobrevalorado → airvaluako
 social → sozial
 solo (estar solo) → ekoro
-sordo → sorda
+sonido alto, sonido fuerte → kliza, klizanta
+sonido bajo, sonido flojo → unoibla
+sordo → sorda, oifala
 soñador → pentsieko
 suave → iabe, lige
 sucio → druxo

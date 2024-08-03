@@ -32,6 +32,7 @@ junto → xa
 delante → daotan, aldaotan
 detrás → betran, albetran
 atrás → betran
+desde aquí, de aquí → dake
 adelante → daotan
 alrededor → eriodo
 enfrente → imfranto

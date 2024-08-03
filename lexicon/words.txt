@@ -164,6 +164,8 @@ agrupai
 agrupatio
 aguaco
 agux
+ahen
+aheno
 ai
 aia
 aiatio
@@ -290,6 +292,8 @@ aldaotan
 aldea
 aldeano
 aldeforma
+aldehen
+aldeheno
 aldelocato
 aldereite
 aldetela
@@ -388,6 +392,7 @@ ancla
 anclaxo
 anclo
 anco
+andaia
 andaiata
 andaio
 andaire
@@ -704,6 +709,7 @@ auro
 auroi
 aurora
 aurvaluako
+aurventa
 auska
 ausko
 auskura
@@ -1242,6 +1248,7 @@ ciberfobia
 cidra
 cienciologette
 cienciologo
+cienfiktio
 cientsa
 cientsette
 cientsifika
@@ -1618,6 +1625,7 @@ dafuma
 dai
 daine
 daita
+dake
 dala
 dam
 dama
@@ -2062,6 +2070,8 @@ egra
 egrai
 ehelai
 ehelo
+ehen
+eheno
 ei
 eiasa
 eie
@@ -2139,6 +2149,7 @@ emoji
 emotia
 emotivo
 emozai
+emozaio
 emozante
 emozio
 empaperai
@@ -2287,6 +2298,7 @@ esaroitela
 esaroriun
 escalarei
 escalatorra
+escape
 escarai
 escatologia
 escenografia
@@ -2555,6 +2567,9 @@ explodei
 explodiko
 explodoro
 explojica
+explorante
+explorator
+explorei
 exporte
 exportei
 exposai
@@ -2681,6 +2696,7 @@ filmo
 filmografia
 filmografica
 filmologia
+filmotela
 filogette
 filologia
 filosofette
@@ -2790,10 +2806,13 @@ fontanika
 fonto
 foou
 fora
+forai
+forante
 forbafor
 forco
 fore
 foreno
+forette
 foreviso
 forevo
 forma
@@ -3057,6 +3076,7 @@ grax
 graxkubo
 graze
 grazei
+grazeio
 grazeizero
 grazero
 graznai
@@ -3411,6 +3431,7 @@ inclusive
 inconforta
 inconforte
 incorrecto
+incredibla
 incubai
 incube
 indaksa
@@ -3771,7 +3792,10 @@ klisal
 klisalaqe
 klisalatia
 klisila
+kliza
+klizanta
 klizei
+klizo
 kloko
 klokometera
 klokonna
@@ -3906,6 +3930,7 @@ kutsa
 kuxa
 la
 labe
+laborai
 laborersette
 laboro
 labrai
@@ -4091,6 +4116,7 @@ locato
 locuo
 loga
 logai
+logaplaza
 logatela
 loge
 logette
@@ -4238,6 +4264,7 @@ mariologia
 mariologo
 marka
 markai
+market
 markoro
 marmota
 marro
@@ -4360,6 +4387,7 @@ menzana
 mercadologette
 mercadologia
 mercadologo
+mercato
 mercuria
 meridian
 merla
@@ -4401,6 +4429,7 @@ metrologette
 metrologia
 metrologo
 metroro
+mexikano
 mexiko
 micetologia
 micologette
@@ -4732,6 +4761,8 @@ noforma
 nograi
 noi
 noisa
+noisanta
+noisante
 noiso
 noknok
 nokoi
@@ -4835,7 +4866,10 @@ ogen
 ogenter
 ogira
 ogo
+ohen
+oheno
 oi
+oifala
 oire
 oireleto
 oitaire
@@ -5255,6 +5289,7 @@ pezna
 phasmofobia
 piano
 picide
+picnic
 pictografia
 pictografica
 pieza
@@ -5346,6 +5381,7 @@ plata
 plataforma
 platintso
 plato
+plaza
 pleasa
 plenti
 plika
@@ -5571,6 +5607,7 @@ procrastinei
 proctologette
 proctologia
 proctologo
+produktiva
 produktivita
 produkto
 profesio
@@ -5874,6 +5911,7 @@ rekurso
 rekuta
 rekutai
 relai
+relaksanta
 relaksei
 relatio
 relative
@@ -6053,6 +6091,7 @@ roxomelo
 roxuba
 ruba
 ruby
+ruidanta
 ruido
 rumorologia
 runge
@@ -6955,6 +6994,8 @@ unastaine
 unastaino
 unastainoro
 unba
+unbeleizibla
+unbelizabla
 unbisei
 undeixai
 undezente
@@ -6988,6 +7029,11 @@ unlokeioto
 unludei
 unmembria
 unmiseioko
+unoi
+unoia
+unoibla
+unoio
+unoire
 unpaire
 unpaireko
 unpaireoso
@@ -7126,6 +7172,7 @@ venezola
 venganze
 veniza
 veno
+venta
 ventei
 venteixette
 ventette
@@ -7354,6 +7401,7 @@ yiga
 yigai
 yigoiko
 yinke
+yoga
 yogo
 yogur
 yoi
@@ -7405,6 +7453,8 @@ zima
 zimisyoixo
 zincografia
 zincografica
+zine
+zinetela
 zintaire
 zinto
 zirkuntantia

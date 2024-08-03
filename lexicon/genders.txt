@@ -71,6 +71,7 @@ la mairte
 la martia
 la marzea
 ei maio
+ei mexikano
 ei xeitore
 ei mosku
 ei mexiko
@@ -136,7 +137,6 @@ ei hogo
 ei aiprebotelo
 la abstena
 ei astaino
-ei expositio
 ei meioko
 ei inestmeioko
 ei inestumoko
@@ -923,6 +923,7 @@ ei kambio
 la usatsa
 ei camolo
 la kemnette
+la andaia
 ei kemno
 la rata
 la kamisa
@@ -1157,6 +1158,7 @@ ei ciklo
 la estelegas
 ei kailo
 ei ozen
+ei cienfiktio
 la cientsa
 la cientsologia
 ei cienciologo
@@ -1177,6 +1179,9 @@ la escimitarra
 ei qinco
 la cincografia
 la cincografica
+ei zine
+la zinetela
+la filmotela
 la cinematografia
 la cinematografica
 la cinologia
@@ -1682,6 +1687,7 @@ ei unestoro
 ei hixe
 ei densenno
 ei deskriptio
+la aurventa
 ei desexo
 ei zorro
 ei desbarco
@@ -2157,9 +2163,14 @@ ei experimento
 ei test
 ei expiratio
 ei planiuno
+la forante
+ei forette
+ei explorator
+la explorante
 ei explodoro
 la bombeia
 ei exporte
+ei expositio
 ei expresio
 la extentia
 ei ignoextingoro
@@ -2514,6 +2525,7 @@ ei espigoto
 ei grifo
 la audixora
 la flubila
+ei klizo
 la baretsa
 la trompescuela
 la escuela
@@ -3273,6 +3285,9 @@ la mende
 la mente
 la musta
 ei menu
+la logaplaza
+ei mercato
+la market
 la mercadologia
 ei mercadologo
 ei mercadologette
@@ -3455,14 +3470,14 @@ ei vesperilo
 ei murelo
 ei suro
 la mura
+ei museio
+ei expositio
+ei museum
 la museografia
 la museografica
 la museologia
 ei museologo
 ei museologette
-ei museio
-ei expositio
-ei museum
 ei moso
 la musicologia
 ei musicologo
@@ -3714,6 +3729,7 @@ la paella
 la paia
 ei pakano
 la paidologia
+la escape
 la likra
 la oarga
 ei eirgoro
@@ -4013,6 +4029,7 @@ la fasmofobia
 la phasmofobia
 ei piano
 la estundaxe
+ei picnic
 ei pike
 ei pikote
 ei ampico
@@ -4112,6 +4129,7 @@ la tsoage
 la tsoaglate
 ei plato
 la plaia
+la plaza
 ei blono
 la felisa
 la pluma
@@ -4683,6 +4701,7 @@ la sigilografica
 ei ozeno
 la mea
 ei esparo
+ei unoio
 la senda
 ei sendaron
 la simbologia
@@ -5241,9 +5260,6 @@ la variable
 ei vando
 la vasaia
 ei vasaio
-ei wonderlan
-ei trip
-la tripi
 ei vascologo
 ei vascologette
 la vasiya
@@ -5281,6 +5297,7 @@ la revenga
 la revenganze
 ei retributio
 la venganze
+la venta
 ei alanco
 la vendexa
 ei estanvendo
@@ -5317,6 +5334,9 @@ la paine
 la vexilogia
 ei vexilogette
 ei meto
+ei wonderlan
+ei trip
+la tripi
 ei vixe
 ei vibraibo
 la vicunna
@@ -5405,6 +5425,7 @@ ei yak
 la yate
 la yequa
 ei yero
+la yoga
 ei yogur
 ei yoyo
 la herrunna
@@ -5504,6 +5525,7 @@ ei adopto
 ei alfilago
 la helera
 ei afono
+ei grazeio
 ei agresibo
 ei xigro
 ei albino
@@ -5686,6 +5708,7 @@ ei efektibo
 ei efizente
 ei elektrikono
 ei elektriko
+ei emozaio
 la emozante
 ei emotivo
 ei ebrite
@@ -5786,6 +5809,9 @@ la inakcesibla
 ei unkompatible
 ei incorrecto
 ei inkorrektoko
+la incredibla
+la unbeleizibla
+la unbelizabla
 ei unlitero
 ei inconforte
 ei undezente
@@ -5895,6 +5921,7 @@ la agizan
 la naturala
 ei nekatiko
 ei aigeloso
+ei lito
 ei normal
 ei nimboso
 ei nuzelar
@@ -5964,6 +5991,7 @@ ei privado
 la probable
 ei probeko
 ei probo
+la produktiva
 ei sundo
 ei prolonge
 ei prono
@@ -5987,6 +6015,7 @@ ei rekluso
 la reguarde
 la rectal
 ei circloko
+la relaksanta
 la relative
 ei enlitaro
 la remoneiata
@@ -5995,7 +6024,10 @@ la ritsa
 ei romantiko
 ei roto
 ei bardo
+la noisanta
+la noisante
 ei audixoso
+la ruidanta
 la rante
 ei zaproso
 la satiable
@@ -6013,6 +6045,7 @@ ei unyoiko
 ei serio
 ei arenko
 ei esparoso
+la unoia
 ei simple
 la sampla
 ei amaiso
@@ -6031,7 +6064,11 @@ ei superbo
 ei airvaluako
 ei sozial
 ei ekoro
+la kliza
+la klizanta
+la unoibla
 la sorda
+la oifala
 ei pentsieko
 la iabe
 ei lige

@@ -356,6 +356,8 @@ agrupaioto
 agrupatio
 aguaco
 agux
+ahen
+aheno
 ai
 aia
 aiatio
@@ -644,6 +646,8 @@ aldaotan
 aldea
 aldeano
 aldeforma
+aldehen
+aldeheno
 aldelocato
 aldereite
 aldetela
@@ -820,6 +824,7 @@ ancla
 anclaxo
 anclo
 anco
+andaia
 andaiata
 andaio
 andaire
@@ -1436,6 +1441,7 @@ auroio
 auroioto
 aurora
 aurvaluako
+aurventa
 auska
 ausko
 auskura
@@ -2304,6 +2310,7 @@ ciberfobia
 cidra
 cienciologette
 cienciologo
+cienfiktio
 cientsa
 cientsette
 cientsifika
@@ -3100,6 +3107,7 @@ dainet
 daio
 daioto
 daita
+dake
 dala
 dam
 dama
@@ -4186,6 +4194,8 @@ ehelaiki
 ehelaio
 ehelaioto
 ehelo
+ehen
+eheno
 ei
 eiasa
 eie
@@ -4327,6 +4337,7 @@ emozaie
 emozaieon
 emozaiet
 emozaiki
+emozaio
 emozaio
 emozaioto
 emozante
@@ -4657,6 +4668,7 @@ escalareiki
 escalareio
 escalareioto
 escalatorra
+escape
 escarai
 escaraie
 escaraieon
@@ -5183,6 +5195,15 @@ explodeioto
 explodiko
 explodoro
 explojica
+explorante
+explorator
+explorei
+exploreie
+exploreieon
+exploreiet
+exploreiki
+exploreio
+exploreioto
 exporte
 exportei
 exporteie
@@ -5453,6 +5474,7 @@ filmo
 filmografia
 filmografica
 filmologia
+filmotela
 filogette
 filologia
 filosofette
@@ -5658,10 +5680,19 @@ fontanika
 fonto
 foou
 fora
+forai
+foraie
+foraieon
+foraiet
+foraiki
+foraio
+foraioto
+forante
 forbafor
 forco
 fore
 foreno
+forette
 foreviso
 forevo
 forma
@@ -6145,6 +6176,7 @@ grazeie
 grazeieon
 grazeiet
 grazeiki
+grazeio
 grazeio
 grazeioto
 grazeizero
@@ -6825,6 +6857,7 @@ inclusive
 inconforta
 inconforte
 incorrecto
+incredibla
 incubai
 incubaie
 incubaieon
@@ -7569,6 +7602,8 @@ klisal
 klisalaqe
 klisalatia
 klisila
+kliza
+klizanta
 klizei
 klizeie
 klizeieon
@@ -7576,6 +7611,7 @@ klizeiet
 klizeiki
 klizeio
 klizeioto
+klizo
 kloko
 klokometera
 klokonna
@@ -7884,6 +7920,13 @@ kutsa
 kuxa
 la
 labe
+laborai
+laboraie
+laboraieon
+laboraiet
+laboraiki
+laboraio
+laboraioto
 laborersette
 laboro
 labrai
@@ -8213,6 +8256,7 @@ logaiet
 logaiki
 logaio
 logaioto
+logaplaza
 logatela
 loge
 logette
@@ -8504,6 +8548,7 @@ markaiet
 markaiki
 markaio
 markaioto
+market
 markoro
 marmota
 marro
@@ -8716,6 +8761,7 @@ menzana
 mercadologette
 mercadologia
 mercadologo
+mercato
 mercuria
 meridian
 merla
@@ -8781,6 +8827,7 @@ metrologette
 metrologia
 metrologo
 metroro
+mexikano
 mexiko
 micetologia
 micologette
@@ -9352,6 +9399,8 @@ noiki
 noio
 noioto
 noisa
+noisanta
+noisante
 noiso
 noknok
 nokoi
@@ -9527,10 +9576,13 @@ ogen
 ogenter
 ogira
 ogo
+ohen
+oheno
 oi
 oie
 oieon
 oiet
+oifala
 oiki
 oio
 oioto
@@ -10301,6 +10353,7 @@ pezna
 phasmofobia
 piano
 picide
+picnic
 pictografia
 pictografica
 pieza
@@ -10458,6 +10511,7 @@ plata
 plataforma
 platintso
 plato
+plaza
 pleasa
 plenti
 plika
@@ -10977,6 +11031,7 @@ procrastineioto
 proctologette
 proctologia
 proctologo
+produktiva
 produktivita
 produkto
 profesio
@@ -11724,6 +11779,7 @@ relaiet
 relaiki
 relaio
 relaioto
+relaksanta
 relaksei
 relakseie
 relakseieon
@@ -12209,6 +12265,7 @@ roxomelo
 roxuba
 ruba
 ruby
+ruidanta
 ruido
 rumorologia
 runge
@@ -13987,6 +14044,8 @@ unastainet
 unastaino
 unastainoro
 unba
+unbeleizibla
+unbelizabla
 unbisei
 unbiseie
 unbiseieon
@@ -14092,6 +14151,23 @@ unludeio
 unludeioto
 unmembria
 unmiseioko
+unoi
+unoia
+unoibla
+unoie
+unoieon
+unoiet
+unoiki
+unoio
+unoio
+unoioto
+unoire
+unoireie
+unoireieon
+unoireio
+unoireioto
+unoireki
+unoiret
 unpaire
 unpaireie
 unpaireieon
@@ -14338,6 +14414,7 @@ venezola
 venganze
 veniza
 veno
+venta
 ventei
 venteie
 venteieon
@@ -14746,6 +14823,7 @@ yigaio
 yigaioto
 yigoiko
 yinke
+yoga
 yogo
 yogur
 yoi
@@ -14857,6 +14935,8 @@ zima
 zimisyoixo
 zincografia
 zincografica
+zine
+zinetela
 zintaire
 zintaireie
 zintaireieon

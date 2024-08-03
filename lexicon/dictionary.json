@@ -1747,6 +1747,14 @@
             }
         ]
     },
+    "agradecido": {
+        "entries": [
+            {
+                "meaning": "grazeio",
+                "specification": ""
+            }
+        ]
+    },
     "agradecimiento": {
         "entries": [
             {
@@ -2363,6 +2371,14 @@
         "entries": [
             {
                 "meaning": "aione",
+                "specification": ""
+            }
+        ]
+    },
+    "algún día": {
+        "entries": [
+            {
+                "meaning": "aheno, ahen",
                 "specification": ""
             }
         ]
@@ -8295,6 +8311,22 @@
             }
         ]
     },
+    "caminata": {
+        "entries": [
+            {
+                "meaning": "andaia",
+                "specification": ""
+            }
+        ]
+    },
+    "andanza": {
+        "entries": [
+            {
+                "meaning": "andaia",
+                "specification": ""
+            }
+        ]
+    },
     "camino": {
         "entries": [
             {
@@ -10115,7 +10147,7 @@
         "entries": [
             {
                 "meaning": "tsina",
-                "specification": ""
+                "specification": "país"
             }
         ]
     },
@@ -10139,7 +10171,7 @@
         "entries": [
             {
                 "meaning": "tsineo",
-                "specification": ""
+                "specification": "gentilicio"
             }
         ]
     },
@@ -10335,6 +10367,14 @@
             }
         ]
     },
+    "ciencia ficción": {
+        "entries": [
+            {
+                "meaning": "cienfiktio",
+                "specification": ""
+            }
+        ]
+    },
     "ciencia": {
         "entries": [
             {
@@ -10496,6 +10536,18 @@
             {
                 "meaning": "qincoen",
                 "specification": ""
+            }
+        ]
+    },
+    "cine": {
+        "entries": [
+            {
+                "meaning": "zine",
+                "specification": "genérico"
+            },
+            {
+                "meaning": "zinetela, filmotela",
+                "specification": "lugar"
             }
         ]
     },
@@ -12260,6 +12312,18 @@
             {
                 "meaning": "misei",
                 "specification": "persona"
+            },
+            {
+                "meaning": "forai",
+                "specification": "lugar"
+            }
+        ]
+    },
+    "descubrir": {
+        "entries": [
+            {
+                "meaning": "forai",
+                "specification": "lugar"
             }
         ]
     },
@@ -13855,6 +13919,14 @@
         "entries": [
             {
                 "meaning": "ekoixa",
+                "specification": ""
+            }
+        ]
+    },
+    "cualquier día": {
+        "entries": [
+            {
+                "meaning": "eheno, ehen",
                 "specification": ""
             }
         ]
@@ -15819,6 +15891,30 @@
         "entries": [
             {
                 "meaning": "deskriptio",
+                "specification": ""
+            }
+        ]
+    },
+    "descuento": {
+        "entries": [
+            {
+                "meaning": "aurventa",
+                "specification": ""
+            }
+        ]
+    },
+    "desde aquí": {
+        "entries": [
+            {
+                "meaning": "dake",
+                "specification": ""
+            }
+        ]
+    },
+    "de aquí": {
+        "entries": [
+            {
+                "meaning": "dake",
                 "specification": ""
             }
         ]
@@ -18287,6 +18383,14 @@
             }
         ]
     },
+    "emocionado": {
+        "entries": [
+            {
+                "meaning": "emozaio",
+                "specification": ""
+            }
+        ]
+    },
     "emocionante": {
         "entries": [
             {
@@ -20254,6 +20358,10 @@
     "esperar": {
         "entries": [
             {
+                "meaning": "herrei, haile",
+                "specification": "a alguien"
+            },
+            {
                 "meaning": "aikalai",
                 "specification": "esperar algo"
             },
@@ -21343,6 +21451,22 @@
         "entries": [
             {
                 "meaning": "esplaxai, espelai",
+                "specification": ""
+            }
+        ]
+    },
+    "explorador": {
+        "entries": [
+            {
+                "meaning": "forante, forette, explorator, explorante",
+                "specification": ""
+            }
+        ]
+    },
+    "explorar": {
+        "entries": [
+            {
+                "meaning": "forai, explorei",
                 "specification": ""
             }
         ]
@@ -24335,6 +24459,14 @@
             }
         ]
     },
+    "grito": {
+        "entries": [
+            {
+                "meaning": "klizo",
+                "specification": ""
+            }
+        ]
+    },
     "grosella": {
         "entries": [
             {
@@ -26707,6 +26839,14 @@
         "entries": [
             {
                 "meaning": "incorrecto, inkorrektoko",
+                "specification": ""
+            }
+        ]
+    },
+    "increíble": {
+        "entries": [
+            {
+                "meaning": "incredibla, unbeleizibla, unbelizabla",
                 "specification": ""
             }
         ]
@@ -31551,6 +31691,14 @@
             }
         ]
     },
+    "mercado": {
+        "entries": [
+            {
+                "meaning": "logaplaza, mercato, market",
+                "specification": ""
+            }
+        ]
+    },
     "mercadología": {
         "entries": [
             {
@@ -31759,6 +31907,14 @@
         "entries": [
             {
                 "meaning": "metafora",
+                "specification": ""
+            }
+        ]
+    },
+    "mexicano": {
+        "entries": [
+            {
+                "meaning": "mexikano",
                 "specification": ""
             }
         ]
@@ -33911,6 +34067,22 @@
             }
         ]
     },
+    "no nublado": {
+        "entries": [
+            {
+                "meaning": "lito",
+                "specification": "cielo"
+            }
+        ]
+    },
+    "despejado": {
+        "entries": [
+            {
+                "meaning": "lito",
+                "specification": "cielo"
+            }
+        ]
+    },
     "no te metas": {
         "entries": [
             {
@@ -35343,6 +35515,14 @@
             }
         ]
     },
+    "otro día": {
+        "entries": [
+            {
+                "meaning": "oheno, ohen",
+                "specification": ""
+            }
+        ]
+    },
     "otro lugar": {
         "entries": [
             {
@@ -35515,6 +35695,14 @@
         "entries": [
             {
                 "meaning": "paidologia",
+                "specification": ""
+            }
+        ]
+    },
+    "paisaje": {
+        "entries": [
+            {
+                "meaning": "escape",
                 "specification": ""
             }
         ]
@@ -38011,6 +38199,14 @@
             }
         ]
     },
+    "picnic": {
+        "entries": [
+            {
+                "meaning": "picnic",
+                "specification": ""
+            }
+        ]
+    },
     "pico": {
         "entries": [
             {
@@ -38711,6 +38907,14 @@
         "entries": [
             {
                 "meaning": "plaia",
+                "specification": ""
+            }
+        ]
+    },
+    "plaza": {
+        "entries": [
+            {
+                "meaning": "plaza",
                 "specification": ""
             }
         ]
@@ -40103,6 +40307,14 @@
         "entries": [
             {
                 "meaning": "produktivita",
+                "specification": ""
+            }
+        ]
+    },
+    "productivo": {
+        "entries": [
+            {
+                "meaning": "produktiva",
                 "specification": ""
             }
         ]
@@ -42103,6 +42315,14 @@
             }
         ]
     },
+    "relajante": {
+        "entries": [
+            {
+                "meaning": "relaksanta",
+                "specification": ""
+            }
+        ]
+    },
     "relajar": {
         "entries": [
             {
@@ -43274,7 +43494,7 @@
     "ruidoso": {
         "entries": [
             {
-                "meaning": "audixoso",
+                "meaning": "noisanta, noisante, audixoso, ruidanta",
                 "specification": ""
             }
         ]
@@ -44718,7 +44938,7 @@
     "silenciar": {
         "entries": [
             {
-                "meaning": "esparei",
+                "meaning": "esparei, unoi, unoire",
                 "specification": ""
             }
         ]
@@ -44726,7 +44946,7 @@
     "silencio": {
         "entries": [
             {
-                "meaning": "esparo",
+                "meaning": "esparo, unoio",
                 "specification": ""
             }
         ]
@@ -44735,6 +44955,10 @@
         "entries": [
             {
                 "meaning": "esparoso",
+                "specification": ""
+            },
+            {
+                "meaning": "unoia",
                 "specification": ""
             }
         ]
@@ -45419,6 +45643,38 @@
             }
         ]
     },
+    "sonido alto": {
+        "entries": [
+            {
+                "meaning": "kliza, klizanta",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido fuerte": {
+        "entries": [
+            {
+                "meaning": "kliza, klizanta",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido bajo": {
+        "entries": [
+            {
+                "meaning": "unoibla",
+                "specification": ""
+            }
+        ]
+    },
+    "sonido flojo": {
+        "entries": [
+            {
+                "meaning": "unoibla",
+                "specification": ""
+            }
+        ]
+    },
     "sonido de aplauso": {
         "entries": [
             {
@@ -45626,7 +45882,7 @@
     "sordo": {
         "entries": [
             {
-                "meaning": "sorda",
+                "meaning": "sorda, oifala",
                 "specification": ""
             }
         ]
@@ -47955,6 +48211,14 @@
             }
         ]
     },
+    "todos los días": {
+        "entries": [
+            {
+                "meaning": "aldehen, aldeheno",
+                "specification": ""
+            }
+        ]
+    },
     "todos sitios": {
         "entries": [
             {
@@ -48322,7 +48586,7 @@
     "trabajar": {
         "entries": [
             {
-                "meaning": "travaxei",
+                "meaning": "travaxei, laborai",
                 "specification": ""
             }
         ]
@@ -50331,6 +50595,14 @@
             }
         ]
     },
+    "venta": {
+        "entries": [
+            {
+                "meaning": "venta",
+                "specification": ""
+            }
+        ]
+    },
     "ventaja": {
         "entries": [
             {
@@ -51475,6 +51747,14 @@
         "entries": [
             {
                 "meaning": "na",
+                "specification": ""
+            }
+        ]
+    },
+    "yoga": {
+        "entries": [
+            {
+                "meaning": "yoga",
                 "specification": ""
             }
         ]

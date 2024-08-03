@@ -18,6 +18,7 @@ algún lugar → atela, alocato
 algo → akoixa
 alguna forma → aforma
 algún momento, alguna vez → atempo
+algún día → aheno, ahen
 
 cualquier → eione
 cualquiera, cualquier persona → eperso, eixam
@@ -25,18 +26,21 @@ cualquier lugar → elocato
 cualquier cosa → ekoixa
 cualquier forma → eforma
 cualquier momento → etempo
+cualquier día → eheno, ehen
 
 otro, otros (personas, cosas) → oter
 otra forma → oforma
 otro lugar → otela, olocato
 otra cosa → okoixa
 otro momento → otempo
+otro día → oheno, ohen
 
 todo (cosas) → aldex
 toda forma → aldeforma
 todos (personas) → aldexet
 todo momento, siempre → ertsai
 todos sitios, todos lados → aldetela, aldelocato
+todos los días → aldehen, aldeheno
 
 tantos → naitoxe
 pocos → piko

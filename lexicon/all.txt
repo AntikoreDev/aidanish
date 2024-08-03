@@ -214,6 +214,7 @@ agorafobia → agorafobia
 agosto → agaisto
 agradar → karai
 agradecer → grazei
+agradecido → grazeio
 agradecimiento → grazeizero
 agrafía → agrafia, agrafica
 agrandar → oxtoai
@@ -291,6 +292,7 @@ algoritmo → algoritmo
 alguien → aperso
 alguna forma → aforma
 alguno → aione
+algún día → aheno, ahen
 algún lugar → atela, alocato
 algún momento, alguna vez → atempo
 alicatar → alicatai
@@ -1024,6 +1026,7 @@ cambiar → kamboi
 cambio → kambio
 camello → usatsa, camolo
 caminante → kemnette
+caminata, andanza → andaia
 camino → kemno, rata
 camisa → kamisa
 camiseta → kamiseta
@@ -1251,10 +1254,10 @@ chile → tsile
 chimenea → tsimeneia
 chimichanga → tsimitsanga
 chimpancé → itsimp
-china → tsina
+china (país) → tsina
 chincheta → pinna
 chinchilla → tsintsila
-chino → tsineo
+chino (gentilicio) → tsineo
 chip → chip
 chismografía → tsismografia, tsismografica
 chispa → kispa
@@ -1279,6 +1282,7 @@ cielo (religión) → estelegas
 cielo → kailo
 cien → ozen
 cien → ozen
+ciencia ficción → cienfiktio
 ciencia → cientsa
 cienciología → cientsologia
 cienciólogo → cienciologo, cienciologette
@@ -1300,6 +1304,8 @@ cinco → qinco
 cinco → qinco
 cincografía → cincografia, cincografica
 cincuenta → qincoen
+cine (genérico) → zine
+cine (lugar) → zinetela, filmotela
 cinematografía → cinematografia, cinematografica
 cinología → cinologia
 cinta adhesiva (pegar objetos) → amerizinto, anazinto, dukte, zelo
@@ -1514,6 +1520,7 @@ conjurar → praecantai, xizai, praecantaire
 cono → cone
 conocer (algo) → aonatei
 conocer (persona) → misei
+conocer, descubrir (lugar) → forai
 conocido → miseioko
 conocimiento → aonatia, hipe
 conquiliología → conqiliologia
@@ -1711,6 +1718,7 @@ cuadruplex → quadruplex
 cuadrícula → qatratiko, griya
 cual → qual
 cualquier cosa → ekoixa
+cualquier día → eheno, ehen
 cualquier forma → eforma
 cualquier lugar → elocato
 cualquier momento → etempo
@@ -1953,6 +1961,8 @@ desconocido → unmiseioko
 descorchar → unarkutsai
 describir → deskriptei
 descripción → deskriptio
+descuento → aurventa
+desde aquí, de aquí → dake
 desde → daze
 desear → dezeai, pregardai
 desechado → desexo
@@ -2251,6 +2261,7 @@ embudo, tolva, cuello de botella → buva
 emergenciólogo → emergenciologo, emergenciologette
 emisor → emitero
 emitir → emitei
+emocionado → emozaio
 emocionante → emozante
 emocionar (emoción) → emozai
 emoción (emocionar) → emozio
@@ -2483,6 +2494,7 @@ espera → herre
 esperantista → esperantesta
 esperanto → esperanto
 esperanza → aikala
+esperar (a alguien) → herrei, haile
 esperar (esperar algo) → aikalai
 esperar (tiempo) → herrei, haile
 espermatozoide → bianguro
@@ -2617,6 +2629,8 @@ expirado → expiro
 expirar → expirai
 explanada → planiuno
 explicar → esplaxai, espelai
+explorador → forante, forette, explorator, explorante
+explorar → forai, explorei
 explosivo → explodiko
 explosivo → explodoro
 explosión → bombeia
@@ -2992,6 +3006,7 @@ gripe porcina → porko flubila
 gripe → flubila
 gris → horan, gris
 gritar → klizei
+grito → klizo
 grosella → baretsa
 grosero → uskoro
 grueso → groso
@@ -3283,6 +3298,7 @@ incompatible → unkompatible
 incordiar → prokei, tsordai
 incordio → proko
 incorrecto → incorrecto, inkorrektoko
+increíble → incredibla, unbeleizibla, unbelizabla
 incubación → incube
 incubar → incubai
 inculto → ivorte
@@ -3875,6 +3891,7 @@ mentira → musta
 mentira → musta
 mentiroso → mustager
 menú → menu
+mercado → logaplaza, mercato, market
 mercadología → mercadologia
 mercadólogo → mercadologo, mercadologette
 mercurio → mercuria
@@ -3900,6 +3917,7 @@ metro (medidor) → metroro
 metrología → metrologia
 metrólogo → metrologo, metrologette
 metáfora → metafora
+mexicano → mexikano
 mezcla → mixa
 mezclar → mixei
 mezquita → mazquita
@@ -4169,6 +4187,7 @@ niña → nenna
 niñez → kindeka
 niño → kindo, infante, nenno
 niños (conjunto) → kindara
+no nublado, despejado (cielo) → lito
 no te metas → non entreiet
 no → non, no
 noche → nito
@@ -4346,6 +4365,7 @@ otoño → autonno
 otra cosa → okoixa
 otra forma → oforma
 otra vez → aran, retai
+otro día → oheno, ohen
 otro lugar → otela, olocato
 otro momento → otempo
 otro, otros (personas, cosas) → oter
@@ -4368,6 +4388,7 @@ paga → paia
 pagano → pakano
 pagar → paiai
 paidología → paidologia
+paisaje → escape
 paja (heno) → likra
 paja (sexo) → oarga
 pala (herramienta) → eirgoro
@@ -4678,6 +4699,7 @@ piano → piano
 picadura → estundaxe
 picar (bicho) → estungai
 picar (minar) → minai
+picnic → picnic
 pico (animal) → pike
 pico (herramienta) → pikote
 pico (montaña) → ampico
@@ -4769,6 +4791,7 @@ platino → silverino
 plato de ducha → tsoage, tsoaglate
 plato → plato
 playa → plaia
+plaza → plaza
 plomo → blono
 pluma (animal) → felisa
 pluma (boligrafo) → pluma
@@ -4944,6 +4967,7 @@ proctología → proctologia
 proctólogo → proctologo, proctologette
 producir → proteire
 productividad → produktivita
+productivo → produktiva
 producto → produkto
 profesional → profesionale
 profesión → profesio
@@ -5189,6 +5213,7 @@ reino → renno
 reir → gisai
 relacionar (dos cosas entre sí) → relai
 relación → relatio
+relajante → relaksanta
 relajar → relaksei
 relativo → relative
 religión → relicro, reculo
@@ -5336,7 +5361,7 @@ rubí → ruby
 rudo → bardo
 rueda → roda
 ruido → noiso, ruido
-ruidoso → audixoso
+ruidoso → noisanta, noisante, audixoso, ruidanta
 rumano → romaneo
 rumanía → romanea
 rumor → unzuna
@@ -5519,9 +5544,10 @@ siglo → ozeno
 significado → mea
 significar → mearei, daine
 siguiente → arenko
-silenciar → esparei
-silencio → esparo
+silenciar → esparei, unoi, unoire
+silencio → esparo, unoio
 silencioso → esparoso
+silencioso → unoia
 silla → senda
 sillón → sendaron
 simbología → simbologia
@@ -5601,6 +5627,8 @@ sombrear → tsadoi
 sombrero → tsadoya, horro
 somnofilia → somnofilia
 sonar → audei
+sonido alto, sonido fuerte → kliza, klizanta
+sonido bajo, sonido flojo → unoibla
 sonido de aplauso → klap
 sonido de buho → uhu uhu
 sonido de caja registradora → clin, tsaclin
@@ -5627,7 +5655,7 @@ sopa → faba
 soplar → sopulai, floi
 soplido → sopolo, flo
 soportar → suportai
-sordo → sorda
+sordo → sorda, oifala
 sostener → sotenai, sotaine
 soteriología → soteriologia
 soñador → pentsieko
@@ -5911,6 +5939,7 @@ todo (cosas) → aldex
 todo momento, siempre → ertsai
 todo → aldex
 todos (personas) → aldexet
+todos los días → aldehen, aldeheno
 todos sitios, todos lados → aldetela, aldelocato
 todoterreno → aldeterranno, forbafor
 todólogo → todologo, todologette
@@ -5955,7 +5984,7 @@ toxicólogo → toksicologo, toksicologette
 trabajador → travaxeko
 trabajador → travaxette
 trabajar duro, trabajar forzoso → tsunkei
-trabajar → travaxei
+trabajar → travaxei, laborai
 trabajo → laboro, travaxo
 trabalenguas → mixequeieto
 traducción → translaio
@@ -6206,6 +6235,7 @@ venezuela → venezola
 venganza → revenga, revenganze, retributio, venganze
 vengarse → revengai
 venir → narei, procai
+venta → venta
 ventaja → alanco
 ventana → vendexa
 ventilador de pie → estanvendo
@@ -6343,6 +6373,7 @@ yate → yate
 yegüa → yequa
 yero, algarroba → yero
 yo → na
+yoga → yoga
 yogur → yogur
 yoyo → yoyo
 yunque → herrunna
