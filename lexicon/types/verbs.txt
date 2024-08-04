@@ -348,6 +348,7 @@ desaprobar → deaprovai
 desarrollar → deurrayai
 desatascar → unestorai, unastaine
 desatornillar → desexkrabaire
+desayunar → primerai
 desbloquear → unlokei
 descalzarse → unpoire
 descansar → durnei, hixei

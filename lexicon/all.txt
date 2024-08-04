@@ -1945,6 +1945,8 @@ desastroso → disastroso
 desatascador → unastainoro, unastaino, unestoro
 desatascar → unestorai, unastaine
 desatornillar → desexkrabaire
+desayunar → primerai
+desayuno → primer
 desbloqueado → unlokeioto
 desbloquear → unlokei
 descalzarse → unpoire
@@ -6182,7 +6184,8 @@ vago → sugarra
 vago → sugarra
 vagón → bagon, wagon
 vajilla → vadixa
-vale → bai
+vale → bai, ba
+vale, ¿estamos? → ta
 valer → valei
 validar → validai
 validez → valita

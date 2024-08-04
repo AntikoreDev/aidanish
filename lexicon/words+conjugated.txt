@@ -1532,6 +1532,7 @@ aztaio
 aztaioto
 azura
 azurreje
+ba
 bacon
 bacteriologette
 bacteriologia
@@ -10941,6 +10942,13 @@ primatologia
 primatologo
 primer
 primera
+primerai
+primeraie
+primeraieon
+primeraiet
+primeraiki
+primeraio
+primeraioto
 primero
 primertela
 prince
@@ -13064,6 +13072,7 @@ sustibaioto
 sux
 suxiza
 suxizo
+ta
 taberna
 tablo
 tablote

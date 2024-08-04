@@ -770,6 +770,7 @@ aznatela
 aztai
 azura
 azurreje
+ba
 bacon
 bacteriologette
 bacteriologia
@@ -5571,6 +5572,7 @@ primatologia
 primatologo
 primer
 primera
+primerai
 primero
 primertela
 prince
@@ -6464,6 +6466,7 @@ sustibai
 sux
 suxiza
 suxizo
+ta
 taberna
 tablo
 tablote

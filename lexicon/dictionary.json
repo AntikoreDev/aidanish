@@ -15763,6 +15763,22 @@
             }
         ]
     },
+    "desayunar": {
+        "entries": [
+            {
+                "meaning": "primerai",
+                "specification": ""
+            }
+        ]
+    },
+    "desayuno": {
+        "entries": [
+            {
+                "meaning": "primer",
+                "specification": ""
+            }
+        ]
+    },
     "desbloqueado": {
         "entries": [
             {
@@ -50182,7 +50198,19 @@
     "vale": {
         "entries": [
             {
-                "meaning": "bai",
+                "meaning": "bai, ba",
+                "specification": ""
+            },
+            {
+                "meaning": "ta",
+                "specification": ""
+            }
+        ]
+    },
+    "¿estamos?": {
+        "entries": [
+            {
+                "meaning": "ta",
                 "specification": ""
             }
         ]

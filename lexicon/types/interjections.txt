@@ -5,4 +5,5 @@ buenas tardes → baine taren
 buenos días → baine hen
 buenos días → baine manza
 hola → hai
-vale → bai 
+vale → bai, ba
+vale, ¿estamos? → ta

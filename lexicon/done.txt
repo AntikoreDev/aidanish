@@ -1919,6 +1919,8 @@ desastroso
 desatascador
 desatascar
 desatornillar
+desayunar
+desayuno
 desbloqueado
 desbloquear
 descalzarse
@@ -6333,6 +6335,7 @@ zumo de naranja
 zurdo
 zócalo
 ¡mira!
+¿estamos?
 ácaro
 áfrica
 águila

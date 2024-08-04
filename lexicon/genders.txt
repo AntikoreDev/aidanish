@@ -1684,6 +1684,7 @@ la disastra
 ei unastainoro
 ei unastaino
 ei unestoro
+ei primer
 ei hixe
 ei densenno
 ei deskriptio
