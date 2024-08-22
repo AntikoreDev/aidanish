@@ -6095,6 +6095,7 @@ ei trastoso
 ei einxo
 ei calmo
 ei transcribiko
+la transitive
 ei yigoiko
 ei tristeko
 ei tropikal

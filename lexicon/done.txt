@@ -5945,6 +5945,7 @@ transexualidad
 transfobia
 transformar
 transitar
+transitiva
 transmutación
 transmutar
 transportador

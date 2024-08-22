@@ -13596,6 +13596,7 @@ transiteiet
 transiteiki
 transiteio
 transiteioto
+transitive
 translai
 translaie
 translaieon

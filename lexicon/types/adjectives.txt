@@ -548,6 +548,7 @@ trabajador → travaxeko
 traicionero → trastoso
 tranquilo → einxo, calmo
 transcriptiva → transcribiko
+transitiva → transitive
 trastornante → yigoiko
 triste → tristeko
 tropical → tropikal

@@ -6016,6 +6016,7 @@ transexualidad → transexualita
 transfobia → transfobia
 transformar → transformai, mutai
 transitar → transitei
+transitiva → transitive
 transmutación → transmuta
 transmutar → transmutai
 transportador (regla) → aconvo

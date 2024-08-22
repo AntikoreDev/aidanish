@@ -6768,6 +6768,7 @@ transfobia
 transformai
 transita
 transitei
+transitive
 translai
 translaio
 translaioro
