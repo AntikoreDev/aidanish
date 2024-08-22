@@ -1558,6 +1558,12 @@ defendeiet
 defendeiki
 defendeio
 defendeioto
+defineie
+defineieon
+defineiet
+defineiki
+defineio
+defineioto
 degustaie
 degustaieon
 degustaiet

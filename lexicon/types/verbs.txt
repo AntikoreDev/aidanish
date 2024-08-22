@@ -329,6 +329,7 @@ declarar → declaire
 decorar → vanaire
 deducir → deduktei
 defender → defendei
+definir → definei
 degustar, saborear → zaporrai, degustai, degustoi
 dejar → dexaire
 deletrear → delektorei, espelei

@@ -1875,6 +1875,7 @@ deficiencia → defizientia
 deficiente → defizente
 definición → definitio
 definido → definite
+definir → definei
 definitivo → definite
 degustar, saborear → zaporrai, degustai, degustoi
 deidad → deida
