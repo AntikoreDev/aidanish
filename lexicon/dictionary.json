@@ -563,6 +563,14 @@
             }
         ]
     },
+    "abstinencia": {
+        "entries": [
+            {
+                "meaning": "abstena",
+                "specification": ""
+            }
+        ]
+    },
     "abstruso": {
         "entries": [
             {
@@ -13867,6 +13875,14 @@
             }
         ]
     },
+    "críptido": {
+        "entries": [
+            {
+                "meaning": "criptide",
+                "specification": ""
+            }
+        ]
+    },
     "crónica": {
         "entries": [
             {
@@ -17919,6 +17935,14 @@
             }
         ]
     },
+    "ectoplasma": {
+        "entries": [
+            {
+                "meaning": "ectoplasma",
+                "specification": ""
+            }
+        ]
+    },
     "ecuador": {
         "entries": [
             {
@@ -19611,6 +19635,14 @@
         "entries": [
             {
                 "meaning": "jedogo, pinkiporke, pritso",
+                "specification": ""
+            }
+        ]
+    },
+    "ermitaño": {
+        "entries": [
+            {
+                "meaning": "eremita",
                 "specification": ""
             }
         ]
@@ -21815,6 +21847,14 @@
         "entries": [
             {
                 "meaning": "pai",
+                "specification": ""
+            }
+        ]
+    },
+    "fantasma": {
+        "entries": [
+            {
+                "meaning": "fantasma, entsana, entsanos, entsanas",
                 "specification": ""
             }
         ]
@@ -25567,6 +25607,14 @@
             }
         ]
     },
+    "hierofante": {
+        "entries": [
+            {
+                "meaning": "hierofante",
+                "specification": ""
+            }
+        ]
+    },
     "hierofilia": {
         "entries": [
             {
@@ -28159,6 +28207,14 @@
             }
         ]
     },
+    "juicio": {
+        "entries": [
+            {
+                "meaning": "juiska",
+                "specification": ""
+            }
+        ]
+    },
     "julio": {
         "entries": [
             {
@@ -30139,6 +30195,14 @@
             }
         ]
     },
+    "mago": {
+        "entries": [
+            {
+                "meaning": "mago, haiette",
+                "specification": ""
+            }
+        ]
+    },
     "majo": {
         "entries": [
             {
@@ -31319,6 +31383,22 @@
         "entries": [
             {
                 "meaning": "mecanette",
+                "specification": ""
+            }
+        ]
+    },
+    "medallón": {
+        "entries": [
+            {
+                "meaning": "siyil",
+                "specification": ""
+            }
+        ]
+    },
+    "objeto mágico que da suerte": {
+        "entries": [
+            {
+                "meaning": "siyil",
                 "specification": ""
             }
         ]
@@ -38971,6 +39051,14 @@
             }
         ]
     },
+    "plutón": {
+        "entries": [
+            {
+                "meaning": "pluto",
+                "specification": ""
+            }
+        ]
+    },
     "pluviometría": {
         "entries": [
             {
@@ -43399,6 +43487,14 @@
             }
         ]
     },
+    "ronda": {
+        "entries": [
+            {
+                "meaning": "ronda",
+                "specification": ""
+            }
+        ]
+    },
     "rondar": {
         "entries": [
             {
@@ -46651,6 +46747,14 @@
             }
         ]
     },
+    "talisman": {
+        "entries": [
+            {
+                "meaning": "talisman",
+                "specification": ""
+            }
+        ]
+    },
     "talla": {
         "entries": [
             {
@@ -48775,6 +48879,14 @@
         "entries": [
             {
                 "meaning": "trapai",
+                "specification": ""
+            }
+        ]
+    },
+    "trance": {
+        "entries": [
+            {
+                "meaning": "trance",
                 "specification": ""
             }
         ]

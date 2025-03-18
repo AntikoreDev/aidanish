@@ -1538,6 +1538,7 @@ criminologette
 criminologia
 criminologo
 criobiologia
+criptide
 criptografia
 criptografica
 criptologia
@@ -2045,6 +2046,7 @@ econometria
 econometrica
 economia
 ecotoksicologia
+ectoplasma
 edafologette
 edafologia
 edafologo
@@ -2230,6 +2232,9 @@ entrei
 entreprenai
 entreprenor
 entropia
+entsana
+entsanas
+entsanos
 entsave
 enuse
 enusei
@@ -2264,6 +2269,7 @@ er
 era
 erbusto
 ereasei
+eremita
 erga
 ergia
 ergiara
@@ -2621,6 +2627,7 @@ fame
 fameno
 famina
 fanso
+fantasma
 fanzai
 fanze
 fargo
@@ -3119,6 +3126,7 @@ hagiografica
 hai
 haia
 haiai
+haiette
 haile
 hailo
 haita
@@ -3230,6 +3238,7 @@ hidrometria
 hidrometrica
 hidrotimetria
 hidrotimetrica
+hierofante
 hierofilia
 higrometria
 higrometrica
@@ -3651,6 +3660,7 @@ jokonsola
 jokotela
 joro
 juca
+juiska
 juketo
 jukse
 juksei
@@ -4195,6 +4205,7 @@ magnetai
 magnetisma
 magnetiso
 magneto
+mago
 maheiga
 maila
 maio
@@ -5397,6 +5408,7 @@ pluma
 plus
 plusmarka
 plusquamperfecta
+pluto
 plutonio
 pluva
 pluvai
@@ -6067,6 +6079,7 @@ rombo
 romo
 rompable
 rompeire
+ronda
 rondai
 rone
 ropa
@@ -6321,6 +6334,7 @@ sistema
 sitei
 siteiko
 sivera
+siyil
 slime
 slimo
 so
@@ -6488,6 +6502,7 @@ talasofobia
 talatro
 talco
 taline
+talisman
 talpa
 tamanno
 tambaire
@@ -6759,6 +6774,7 @@ traka
 tram
 trama
 tramitologia
+trance
 transcriba
 transcribei
 transcribiko

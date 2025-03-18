@@ -65,6 +65,7 @@ abstención → abstena, astaino
 abstener → abstenai
 abstenerse, no importar → astaine
 abstenido → absteno
+abstinencia → abstena
 abstruso → abstruso
 abuela → meioko
 abuelastra → inestmeioko
@@ -1711,6 +1712,7 @@ cruzar → crosai
 cráneo → craneo
 cráter → crater
 crédito (de crear algo) → credito
+críptido → criptide
 crónica → cronike
 cuadrado → qatrato
 cuadro → kadro
@@ -2205,6 +2207,7 @@ ecológico → ecologike
 econometría → econometria, econometrica
 economía → economia
 ecotoxicología → ecotoksicologia
+ectoplasma → ectoplasma
 ecuador → equator
 ecólogo → ecologo, ecologette
 edad (tiempo de existencia) → yaria
@@ -2411,6 +2414,7 @@ ergometría → ergometria, ergometrica
 ergonomía → ergonomia
 ergonómico → ergonomo
 erizo → jedogo, pinkiporke, pritso
+ermitaño → eremita
 erotología → erotologia
 erotólogo → erotologo, erotologette
 error, fallo, errata → erra, mistaco, faio
@@ -2676,6 +2680,7 @@ falto → fala
 fama → fama
 familia → pailako
 familiar → pai
+fantasma → fantasma, entsana, entsanos, entsanas
 farmacología → farmacologia
 farmacopsicología → farmacopsicologia
 farmacólogo → farmacologo, farmacologette
@@ -3143,6 +3148,7 @@ hidrángea → hidranyea
 hidrólogo → hidrologo, hidrologette
 hielo → gelo
 hierba → herba
+hierofante → hierofante
 hierofilia → hierofilia
 hierro → herro
 higrometría → higrometria, higrometrica
@@ -3459,6 +3465,7 @@ jugar → jokai
 juglar → joglar
 jugo → xugo, yogo
 juguete → juketo
+juicio → juiska
 julio → xulio
 junco → hunco
 jungla → jungla
@@ -3700,6 +3707,7 @@ magma → magma
 magnetismo → magnetisma
 magnolia (flor) → magnasia
 magnético → magnetiso
+mago → mago, haiette
 majo → hali
 mal → heun
 mal → heun
@@ -3847,6 +3855,7 @@ mecansmo → mecanisma
 mechero → ignoro
 mecánica → mecania, mecano
 mecánico → mecanette
+medallón, objeto mágico que da suerte → siyil
 media (calcetín) → terza
 media (matemáticas) → media
 mediana → mediana
@@ -4799,6 +4808,7 @@ plomo → blono
 pluma (animal) → felisa
 pluma (boligrafo) → pluma
 plutonio → plutonio
+plutón → pluto
 pluviometría → pluviometria, pluviometrica
 plátano → banana
 población → populatio
@@ -5349,6 +5359,7 @@ romero (flor) → romo
 romper → rompeire
 romántico → romantiko
 ron → rone
+ronda → ronda
 rondar → rondai
 ropa → ropa, vano
 rosa → roixa
@@ -5747,6 +5758,7 @@ taladro → talatro
 talar → tsopaire, tambaire
 talasofobia → talasofobia
 talco → talco
+talisman → talisman
 talla → rango
 tallin → taline
 tallo → rute
@@ -6007,6 +6019,7 @@ traje → gouno, esmokinno
 tramitología → tramitologia
 trampa → trapa, trapitsa
 trampear → trapai
+trance → trance
 tranquilo → einxo, calmo
 transcribir → transcribei
 transcripción → transcriba
