@@ -2599,6 +2599,30 @@
             }
         ]
     },
+    "alquilado": {
+        "entries": [
+            {
+                "meaning": "rentaio",
+                "specification": ""
+            }
+        ]
+    },
+    "alquilar": {
+        "entries": [
+            {
+                "meaning": "arrentai",
+                "specification": ""
+            }
+        ]
+    },
+    "alquiler": {
+        "entries": [
+            {
+                "meaning": "renta",
+                "specification": ""
+            }
+        ]
+    },
     "alquitrán": {
         "entries": [
             {
@@ -3211,10 +3235,26 @@
             }
         ]
     },
+    "anclado": {
+        "entries": [
+            {
+                "meaning": "anclaioto",
+                "specification": ""
+            }
+        ]
+    },
     "anclaje": {
         "entries": [
             {
                 "meaning": "anclaxo, fixo, anclo",
+                "specification": ""
+            }
+        ]
+    },
+    "anclar": {
+        "entries": [
+            {
+                "meaning": "anclai",
                 "specification": ""
             }
         ]
@@ -4431,6 +4471,14 @@
         "entries": [
             {
                 "meaning": "arrantsa",
+                "specification": ""
+            }
+        ]
+    },
+    "arrastrar": {
+        "entries": [
+            {
+                "meaning": "rastrai",
                 "specification": ""
             }
         ]
@@ -7963,6 +8011,14 @@
             }
         ]
     },
+    "caduco": {
+        "entries": [
+            {
+                "meaning": "caduco",
+                "specification": ""
+            }
+        ]
+    },
     "caer en tentación": {
         "entries": [
             {
@@ -9204,6 +9260,30 @@
             {
                 "meaning": "letera",
                 "specification": "texto"
+            }
+        ]
+    },
+    "carta comodín": {
+        "entries": [
+            {
+                "meaning": "bianco carde, biancocarde",
+                "specification": "juegos"
+            }
+        ]
+    },
+    "carta que vale como cualquier otra": {
+        "entries": [
+            {
+                "meaning": "bianco carde, biancocarde",
+                "specification": "juegos"
+            }
+        ]
+    },
+    "carta más alta": {
+        "entries": [
+            {
+                "meaning": "carde aito",
+                "specification": "mano de póker"
             }
         ]
     },
@@ -11442,6 +11522,10 @@
     "color": {
         "entries": [
             {
+                "meaning": "kolor",
+                "specification": "mano de póker"
+            },
+            {
                 "meaning": "kolor, kromato",
                 "specification": ""
             }
@@ -12008,10 +12092,6 @@
             {
                 "meaning": "comunista",
                 "specification": ""
-            },
-            {
-                "meaning": "comunista",
-                "specification": ""
             }
         ]
     },
@@ -12475,6 +12555,14 @@
             }
         ]
     },
+    "consecutivo": {
+        "entries": [
+            {
+                "meaning": "consecutiva",
+                "specification": ""
+            }
+        ]
+    },
     "conseguido": {
         "entries": [
             {
@@ -12843,6 +12931,14 @@
             }
         ]
     },
+    "contraste": {
+        "entries": [
+            {
+                "meaning": "contraste",
+                "specification": "color"
+            }
+        ]
+    },
     "contratar": {
         "entries": [
             {
@@ -13024,6 +13120,14 @@
             {
                 "meaning": "koraza",
                 "specification": ""
+            }
+        ]
+    },
+    "corazones": {
+        "entries": [
+            {
+                "meaning": "koraiso",
+                "specification": "palo de póker"
             }
         ]
     },
@@ -15059,6 +15163,14 @@
             }
         ]
     },
+    "debilitar": {
+        "entries": [
+            {
+                "meaning": "debilai",
+                "specification": ""
+            }
+        ]
+    },
     "decaer": {
         "entries": [
             {
@@ -16631,6 +16743,14 @@
             }
         ]
     },
+    "diamantes": {
+        "entries": [
+            {
+                "meaning": "diamento",
+                "specification": "palo de póker"
+            }
+        ]
+    },
     "diana": {
         "entries": [
             {
@@ -17424,6 +17544,14 @@
             {
                 "meaning": "fluksai, doblai",
                 "specification": ""
+            }
+        ]
+    },
+    "doble pareja": {
+        "entries": [
+            {
+                "meaning": "doble paren",
+                "specification": "mano de póker"
             }
         ]
     },
@@ -19814,8 +19942,20 @@
     "escalera": {
         "entries": [
             {
+                "meaning": "linia",
+                "specification": "mano de póker"
+            },
+            {
                 "meaning": "escalatorra",
                 "specification": ""
+            }
+        ]
+    },
+    "escalera de color": {
+        "entries": [
+            {
+                "meaning": "kolorlinia",
+                "specification": "mano de póker"
             }
         ]
     },
@@ -20259,6 +20399,22 @@
         "entries": [
             {
                 "meaning": "biancara",
+                "specification": ""
+            }
+        ]
+    },
+    "espacio libre": {
+        "entries": [
+            {
+                "meaning": "librespatio",
+                "specification": ""
+            }
+        ]
+    },
+    "espacio vacío": {
+        "entries": [
+            {
+                "meaning": "librespatio",
                 "specification": ""
             }
         ]
@@ -21759,6 +21915,14 @@
             }
         ]
     },
+    "extinto": {
+        "entries": [
+            {
+                "meaning": "extingo",
+                "specification": ""
+            }
+        ]
+    },
     "extintor": {
         "entries": [
             {
@@ -22218,7 +22382,7 @@
     "ficha": {
         "entries": [
             {
-                "meaning": "fista",
+                "meaning": "fitsa",
                 "specification": ""
             }
         ]
@@ -23320,6 +23484,14 @@
             {
                 "meaning": "fulard",
                 "specification": ""
+            }
+        ]
+    },
+    "full": {
+        "entries": [
+            {
+                "meaning": "kompleto",
+                "specification": "mano de póker"
             }
         ]
     },
@@ -27603,6 +27775,14 @@
             }
         ]
     },
+    "intercambiar posición una cosa con otra": {
+        "entries": [
+            {
+                "meaning": "bilogai",
+                "specification": ""
+            }
+        ]
+    },
     "intercambiar": {
         "entries": [
             {
@@ -28663,6 +28843,22 @@
             }
         ]
     },
+    "lamiando": {
+        "entries": [
+            {
+                "meaning": "lamino",
+                "specification": ""
+            }
+        ]
+    },
+    "laminado": {
+        "entries": [
+            {
+                "meaning": "lamino",
+                "specification": ""
+            }
+        ]
+    },
     "lana": {
         "entries": [
             {
@@ -28883,6 +29079,14 @@
         "entries": [
             {
                 "meaning": "legal",
+                "specification": ""
+            }
+        ]
+    },
+    "legendario": {
+        "entries": [
+            {
+                "meaning": "legendario",
                 "specification": ""
             }
         ]
@@ -30059,6 +30263,14 @@
         "entries": [
             {
                 "meaning": "lacrima, lakrima",
+                "specification": ""
+            }
+        ]
+    },
+    "lámina": {
+        "entries": [
+            {
+                "meaning": "lamina",
                 "specification": ""
             }
         ]
@@ -31695,6 +31907,14 @@
         "entries": [
             {
                 "meaning": "bainere",
+                "specification": ""
+            }
+        ]
+    },
+    "mejora": {
+        "entries": [
+            {
+                "meaning": "baina",
                 "specification": ""
             }
         ]
@@ -33950,7 +34170,7 @@
     "negativo": {
         "entries": [
             {
-                "meaning": "nekatiko",
+                "meaning": "nekativo, nekatiko",
                 "specification": ""
             }
         ]
@@ -36158,6 +36378,10 @@
     "palo": {
         "entries": [
             {
+                "meaning": "kolor",
+                "specification": "cartas"
+            },
+            {
                 "meaning": "apika, cano, cana",
                 "specification": ""
             }
@@ -36617,6 +36841,10 @@
     },
     "pareja": {
         "entries": [
+            {
+                "meaning": "paren",
+                "specification": "mano de póker"
+            },
             {
                 "meaning": "paren",
                 "specification": ""
@@ -37871,6 +38099,14 @@
             }
         ]
     },
+    "permitido": {
+        "entries": [
+            {
+                "meaning": "permisaioto",
+                "specification": ""
+            }
+        ]
+    },
     "permitir": {
         "entries": [
             {
@@ -38119,6 +38355,14 @@
         "entries": [
             {
                 "meaning": "personalizatio",
+                "specification": ""
+            }
+        ]
+    },
+    "personalizado": {
+        "entries": [
+            {
+                "meaning": "personalia",
                 "specification": ""
             }
         ]
@@ -38456,6 +38700,14 @@
             {
                 "meaning": "minai",
                 "specification": "minar"
+            }
+        ]
+    },
+    "picas": {
+        "entries": [
+            {
+                "meaning": "pika",
+                "specification": "palo de poker"
             }
         ]
     },
@@ -39890,7 +40142,7 @@
     "posición": {
         "entries": [
             {
-                "meaning": "posaieo",
+                "meaning": "posaieo, positio",
                 "specification": ""
             }
         ]
@@ -40451,6 +40703,22 @@
         "entries": [
             {
                 "meaning": "privato, privado",
+                "specification": ""
+            }
+        ]
+    },
+    "probabilidad": {
+        "entries": [
+            {
+                "meaning": "tsance, chance",
+                "specification": ""
+            }
+        ]
+    },
+    "chance": {
+        "entries": [
+            {
+                "meaning": "tsance, chance",
                 "specification": ""
             }
         ]
@@ -41239,6 +41507,14 @@
             }
         ]
     },
+    "puntuar": {
+        "entries": [
+            {
+                "meaning": "puntuai",
+                "specification": ""
+            }
+        ]
+    },
     "purificar": {
         "entries": [
             {
@@ -41385,6 +41661,10 @@
     },
     "póker": {
         "entries": [
+            {
+                "meaning": "catro equalit",
+                "specification": "mano de póker"
+            },
             {
                 "meaning": "poker",
                 "specification": ""
@@ -41970,6 +42250,10 @@
     "real": {
         "entries": [
             {
+                "meaning": "royal",
+                "specification": "de la realeza"
+            },
+            {
                 "meaning": "real",
                 "specification": ""
             }
@@ -42095,6 +42379,14 @@
         "entries": [
             {
                 "meaning": "recepta",
+                "specification": ""
+            }
+        ]
+    },
+    "recibir un premio": {
+        "entries": [
+            {
+                "meaning": "viscai",
                 "specification": ""
             }
         ]
@@ -42565,6 +42857,10 @@
     },
     "reina": {
         "entries": [
+            {
+                "meaning": "dama",
+                "specification": "póker"
+            },
             {
                 "meaning": "reine",
                 "specification": ""
@@ -43182,7 +43478,7 @@
     "restante": {
         "entries": [
             {
-                "meaning": "falante",
+                "meaning": "falante, faitante",
                 "specification": ""
             }
         ]
@@ -43405,6 +43701,10 @@
     },
     "rey": {
         "entries": [
+            {
+                "meaning": "rein",
+                "specification": "póker"
+            },
             {
                 "meaning": "rein",
                 "specification": ""
@@ -49671,6 +49971,14 @@
             }
         ]
     },
+    "trofeo": {
+        "entries": [
+            {
+                "meaning": "trofeio",
+                "specification": ""
+            }
+        ]
+    },
     "trofología": {
         "entries": [
             {
@@ -49815,8 +50123,28 @@
             }
         ]
     },
+    "trébol": {
+        "entries": [
+            {
+                "meaning": "trebola",
+                "specification": ""
+            }
+        ]
+    },
+    "tréboles": {
+        "entries": [
+            {
+                "meaning": "trebola",
+                "specification": "palo de póker"
+            }
+        ]
+    },
     "trío": {
         "entries": [
+            {
+                "meaning": "triai equalit",
+                "specification": "mano de póker"
+            },
             {
                 "meaning": "trio",
                 "specification": ""

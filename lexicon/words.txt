@@ -391,6 +391,8 @@ ancai
 ancanto
 ancantoire
 ancla
+anclai
+anclaioto
 anclaxo
 anclo
 anco
@@ -571,6 +573,7 @@ arraineta
 arran
 arrantsa
 arrantsei
+arrentai
 arsonai
 arsonisma
 arsonista
@@ -788,6 +791,7 @@ bahia
 bai
 baia
 bain
+baina
 bainarei
 bainaro
 bainata
@@ -917,6 +921,7 @@ bexe
 biancai
 biancara
 bianco
+biancocarde
 bianguro
 biatse
 bibliografia
@@ -929,6 +934,7 @@ bibloteka
 bila
 bilingo
 billoe
+bilogai
 binocular
 biobibliografia
 biobibliografica
@@ -1112,6 +1118,7 @@ cacografia
 cacografica
 cacologia
 cactia
+caduco
 cafeteria
 café
 cailai
@@ -1248,6 +1255,7 @@ cestai
 cesterna
 cetacio
 cetro
+chance
 chat
 chatei
 chip
@@ -1442,6 +1450,7 @@ conqiliologo
 conqista
 conqisto
 conqitia
+consecutiva
 consei
 conseine
 conservai
@@ -1475,6 +1484,7 @@ contino
 continum
 conto
 contraine
+contraste
 contribai
 contribe
 control
@@ -1670,6 +1680,7 @@ deaprovatio
 debai
 debei
 debila
+debilai
 decai
 decakono
 decalogette
@@ -2601,6 +2612,7 @@ expresio
 extendaire
 extentia
 extingei
+extingo
 extremo
 extroverto
 ezer
@@ -2620,6 +2632,7 @@ faira
 faire
 faita
 faitai
+faitante
 faize
 fakro
 fakrosigna
@@ -2750,6 +2763,7 @@ fitografica
 fitologia
 fitopatologia
 fitosociologia
+fitsa
 fixo
 fixoa
 fixola
@@ -3848,6 +3862,7 @@ kolorarico
 kolorei
 kolorfala
 kolorido
+kolorlinia
 komerzai
 komerziale
 komerzio
@@ -3982,6 +3997,8 @@ lama
 lamadra
 lamadrila
 lamanza
+lamina
+lamino
 lana
 lanai
 landa
@@ -4013,6 +4030,7 @@ lazer
 legal
 legas
 legenda
+legendario
 leguma
 leko
 leksicografia
@@ -4060,6 +4078,7 @@ liberso
 libertia
 libidette
 libreria
+librespatio
 librete
 libro
 librotela
@@ -4710,6 +4729,7 @@ neka
 nekai
 nekatiko
 nekatikoien
+nekativo
 neko
 nekrasoa
 nekrasoatela
@@ -5265,6 +5285,7 @@ peristerina
 perla
 perlo
 permisai
+permisaioto
 permiso
 perpendicular
 perpetro
@@ -5279,6 +5300,7 @@ persoia
 persona
 personal
 personale
+personalia
 personalizatio
 personalizei
 pertsa
@@ -5545,6 +5567,7 @@ posibilai
 posibilitai
 posibla
 posiblai
+positio
 posmoi
 posologia
 posposai
@@ -5741,6 +5764,7 @@ punto
 puntsai
 puntsatarra
 puntsirra
+puntuai
 puntuatio
 puntuo
 punxai
@@ -5858,6 +5882,7 @@ rare
 raro
 raske
 rasta
+rastrai
 rata
 ratio
 ration
@@ -5977,6 +6002,8 @@ renevai
 renevo
 renevoi
 renno
+renta
+rentaio
 reologia
 repaira
 repaire
@@ -6132,6 +6159,7 @@ rovo
 roxo
 roxomelo
 roxuba
+royal
 ruba
 ruby
 ruidanta
@@ -6850,6 +6878,7 @@ traxhia
 traza
 trazai
 tre
+trebola
 trego
 trei
 trena
@@ -6896,6 +6925,7 @@ trituroi
 trivia
 triyo
 tro
+trofeio
 trofologette
 trofologia
 trofologo
@@ -6937,6 +6967,7 @@ tsambora
 tsampeon
 tsampeonato
 tsampinna
+tsance
 tsandelera
 tsara
 tsarakto
@@ -7299,6 +7330,7 @@ virus
 visado
 visaya
 visayagaizere
+viscai
 visco
 viscosimetria
 viscosimetrica

@@ -199,6 +199,8 @@ la anima
 la esmareitela
 ei esmariun
 ei esmaretio
+ei rentaio
+la renta
 la matsasa
 la almena
 la almondra
@@ -431,6 +433,7 @@ la artrografica
 la artrologia
 ei arvicolino
 ei arvicolo
+la as
 ei ansenno
 ei airoro
 la sieva
@@ -703,6 +706,7 @@ la bulba
 ei tsoklo
 la butanna
 la bainata
+la baina
 ei bongo
 la oupila
 ei asero
@@ -923,9 +927,6 @@ la atomicita
 la capela
 la enciuta
 la capital
-la voluma
-la vibratia
-ei consumable
 la capitalisma
 la captanna
 la capsula
@@ -973,6 +974,7 @@ ei rakemno
 la azurreje
 ei carrusel
 la letera
+la biancocarde
 ei leto
 ei letoire
 ei oireleto
@@ -1023,6 +1025,7 @@ ei junze
 ei junzette
 la xikara
 ei xikere
+ei trofeio
 ei cd
 ei carro
 ei onnete
@@ -1092,6 +1095,8 @@ ei itsimp
 la tsina
 la pinna
 la tsintsila
+la tsance
+la chance
 ei tsineo
 ei chip
 la tsismografia
@@ -1243,6 +1248,7 @@ la dafuma
 la colonicea
 ei colone
 ei kolor
+ei kolor
 ei kromato
 la colorimetria
 la colorimetrica
@@ -1343,6 +1349,7 @@ ei conyuge
 ei constelatio
 la tenda
 la tendaxette
+ei consumable
 ei contacto
 la contactologia
 ei contactologo
@@ -1357,6 +1364,7 @@ ei konto
 ei conteksto
 ei continum
 ei codivorto
+la contraste
 ei contribe
 ei control
 ei controlatoro
@@ -1373,6 +1381,7 @@ la coprologia
 ei coke
 la arima
 la koraza
+ei koraiso
 ei koraiso
 la corveta
 la arkutsa
@@ -1682,6 +1691,7 @@ ei dialectologo
 ei dialectologette
 ei dialogo
 ei diamento
+ei diamento
 la nesiga
 la hengia
 la afluga
@@ -1808,6 +1818,7 @@ ei editio
 ei tendo
 ei editette
 ei editoro
+ei efekto
 la efizientia
 ei egipto
 la egiptologia
@@ -1933,7 +1944,9 @@ la erra
 ei mistaco
 ei faio
 la eskala
+la linia
 la escalatorra
+la kolorlinia
 la eskama
 la estantsa
 ei dorimo
@@ -2188,7 +2201,7 @@ ei feto
 ei fez
 ei fibre
 ei fiktio
-la fista
+la fitsa
 la fixoa
 ei fever
 la faiette
@@ -2328,6 +2341,7 @@ ei fonto
 la forza
 la fuga
 ei fulard
+ei kompleto
 la esmokaiette
 la fuseitela
 ei funeral
@@ -2473,6 +2487,8 @@ ei grado
 ei grafeno
 la grafia
 la grafica
+ei grafiko
+la grafika
 ei grafeto
 la grafologia
 ei grafologo
@@ -2859,6 +2875,7 @@ ei sapo
 ei baxugo
 la irsis
 la irsis
+ei prince
 la jade
 ei jalapenno
 ei iamon
@@ -3000,6 +3017,8 @@ ei leksicologo
 ei leksicologette
 la laia
 la legenda
+la lamina
+ei lamino
 la libertia
 la librotela
 la izbotela
@@ -3419,9 +3438,6 @@ ei pinne
 ei dorimeder
 ei reculen
 ei bonzo
-ei grafiko
-la grafika
-la reporta
 la monki
 ei aco
 la monorroda
@@ -3433,8 +3449,6 @@ ei monologo
 ei monstro
 la montanna
 ei ampico
-ei efekto
-la retrei
 ei monto
 ei monde
 ei monte
@@ -3796,6 +3810,7 @@ la palinologia
 la puntsatarra
 la palme
 la irakoa
+ei kolor
 la apika
 ei cano
 la cana
@@ -3869,6 +3884,7 @@ la parasitologia
 ei parasitologo
 la parasitologette
 ei estosol
+la paren
 la paren
 la paremiologia
 ei paremiologo
@@ -4066,6 +4082,7 @@ la fasmofobia
 la phasmofobia
 ei piano
 la estundaxe
+la pika
 ei madraco
 ei pincano
 ei picide
@@ -4255,6 +4272,7 @@ la posakisa
 ei pose
 ei posesive
 ei posaieo
+ei positio
 la posologia
 ei postal
 ei poscritum
@@ -4489,10 +4507,12 @@ ei regimeno
 ei regiono
 la rekla
 ei retorno
+la dama
 ei reine
 la meila
 la reina
 ei renno
+la retrei
 ei relatio
 ei relicro
 ei reculo
@@ -4517,6 +4537,7 @@ la repaira
 la repardette
 la repartette
 ei repeteoro
+la reporta
 ei repositorium
 ei sundere
 ei representatio
@@ -4558,6 +4579,7 @@ ei reumatologette
 ei undizio
 ei revolutio
 ei revolver
+ei rein
 ei rein
 ei praiso
 la lenda
@@ -4664,6 +4686,7 @@ la sequencia
 la renacoa
 la seda
 la primertela
+ei librespatio
 ei sekundo
 la securitatia
 ei secur
@@ -5181,6 +5204,8 @@ ei traumatologette
 la inkinda
 ei inkinde
 la traza
+la trebola
+la trebola
 la trena
 la trence
 la triai
@@ -5410,6 +5435,7 @@ ei wonderlan
 ei trip
 la tripi
 ei veno
+la vibratia
 ei vibraibo
 la viktima
 la victoria
@@ -5459,6 +5485,7 @@ ei vocine
 la volante
 ei piprako
 ei volkano
+la voluma
 la volumetria
 la volumetrica
 la volunta
@@ -5622,6 +5649,7 @@ ei piloko
 ei trunko
 ei fizo
 la brixante
+ei caduco
 ei zizenno
 ei oupare
 la baine
@@ -5671,7 +5699,7 @@ ei complico
 la teste
 la komuna
 la comunista
-la comunista
+ei permisaioto
 ei condeno
 ei conekto
 la afuska
@@ -5690,6 +5718,7 @@ ei konversaioko
 ei cornato
 ei correcto
 ei korrektoko
+ei extingo
 ei karaoso
 ei coto
 ei creativo
@@ -5742,6 +5771,7 @@ ei disve
 ei disruptivo
 la distante
 la distopica
+ei anclaioto
 ei xiabeloso
 ei doktoralo
 ei dolo
@@ -5775,12 +5805,15 @@ ei enterro
 ei vitauro
 la epikar
 ei ergonomo
+la falante
+la faitante
 ei esmaro
 la espezial
 la espectora
 ei hexego
 ei eskemeko
 ei lerrako
+la consecutiva
 la estimai
 ei tino
 ei anorrako
@@ -5961,6 +5994,7 @@ ei monetareo
 ei neko
 ei morato
 ei mortal
+ei lamino
 ei unpaireko
 ei morto
 ei mugaro
@@ -5969,6 +6003,7 @@ ei musikal
 ei zakerro
 la agizan
 la naturala
+ei nekativo
 ei nekatiko
 ei aigeloso
 ei lito
@@ -6061,12 +6096,15 @@ la rante
 la rare
 ei raro
 la real
+ei royal
 ei retsaiko
 ei reciento
 ei rekluso
 la reguarde
 la rectal
 ei circloko
+ei legendario
+la personalia
 la relaksanta
 la relative
 ei enlitaro

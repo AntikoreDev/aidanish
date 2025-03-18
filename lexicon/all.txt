@@ -319,6 +319,9 @@ almidón → amilone
 almohada → bexe
 alometría → alometria, alometrica
 alpaca → pulca, kiva
+alquilado → rentaio
+alquilar → arrentai
+alquiler → renta
 alquitrán → betarra
 alrededor → eriodo
 alta mar → intramare
@@ -393,7 +396,9 @@ ancho → faldo
 anchura → faldaia
 anciano → oko
 ancla → ancla
+anclado → anclaioto
 anclaje → anclaxo, fixo, anclo
+anclar → anclai
 andador → andaivo
 andamio → hatena
 andar → andaire
@@ -546,6 +551,7 @@ arquero → arkerette, arkero
 arqueólogo → arqeologo, arqeologette
 arrancar → arrantsei
 arranque → arrantsa
+arrastrar → rastrai
 arrebañar, rebañar → frotsai
 arreglar, reparar → repaire
 arreglo → reparo
@@ -984,6 +990,7 @@ cada → kada
 cadena → tsaden
 caducado → expiro
 caducar → expirai
+caduco → caduco
 caer en tentación → soblaise
 caer → argai
 cafetera → kafetoro
@@ -1138,6 +1145,8 @@ carretera → rakemno
 carruaje → azurreje
 carrusel → carrusel
 carta (texto) → letera
+carta comodín, carta que vale como cualquier otra (juegos) → bianco carde, biancocarde
+carta más alta (mano de póker) → carde aito
 cartel antiguo que indicaba a la gente que no portaba una brújula donde está el norte sur este y oeste → letoire, oireleto
 cartel → leto
 cartero → leteraette
@@ -1412,6 +1421,7 @@ colonizado → coloniko
 colonizar → colonicei
 colono → colone
 coloquial → coloqio
+color (mano de póker) → kolor
 color → kolor, kromato
 colorear → kromatei, kolorei
 colorido → kolorido
@@ -1481,7 +1491,6 @@ comunicólogo → comunicologo, comunicologette
 comunidad → comunitatia
 comunismo → comunisma
 comunista → comunista
-comunista → comunista
 común → komuna
 con → koi
 concepción → conceptio
@@ -1539,6 +1548,7 @@ conquistado → conqisto
 conquistador → conqeror
 conquistar → conqerai
 consecuencia → qansequentia
+consecutivo → consecutiva
 conseguido → elokre
 conseguir → elokrai
 consentir → conseine
@@ -1583,6 +1593,7 @@ continuo → continum
 contra → ainsta, kuntroi
 contraer → contraine
 contraseña → codivorto
+contraste (color) → contraste
 contratar → asignai
 contribución → contribe
 contribuir → contribai
@@ -1606,6 +1617,7 @@ coprología → coprologia
 coque → coke
 coral → arima
 coraza → koraza
+corazones (palo de póker) → koraiso
 corazón → koraiso
 corbata → corveta
 corcho (material) → arkutsa, korko
@@ -1858,6 +1870,7 @@ deber (colegio) → esaroidute
 deber (compromiso de acto) → dutei
 deber (deudas) → debei
 deber hacer (necesidad de acto) → zaire
+debilitar → debilai
 decaer → decai, porei
 decapitación → dantsa, fasco
 decapitador → dantsette, fasqette
@@ -2051,6 +2064,7 @@ diagrama → deagrama
 dialectología → dialectologia
 dialectólogo → dialectologo, dialectologette
 diamante → diamento
+diamantes (palo de póker) → diamento
 diana → nesiga
 diario → hena
 diario → hengia
@@ -2149,6 +2163,7 @@ división → diproxo
 divisor → dipre
 diálogo → dialogo
 doblar → fluksai, doblai
+doble pareja (mano de póker) → doble paren
 doble → doble
 doce → dizidois
 doceavo → dizidoisix
@@ -2433,6 +2448,8 @@ erotólogo → erotologo, erotologette
 error, fallo, errata → erra, mistaco, faio
 escala → eskala
 escalar → escalarei
+escalera (mano de póker) → linia
+escalera de color (mano de póker) → kolorlinia
 escalera → escalatorra
 escama → eskama
 escandalizar → estantsai
@@ -2483,6 +2500,7 @@ esmeralda → emeralda
 esoterismo → esoterisma
 esotérico → esoterico
 espacio en blanco → biancara
+espacio libre, espacio vacío → librespatio
 espacio → espatio
 espada → raiyoa, suarda
 espadaña → dragonkane
@@ -2667,6 +2685,7 @@ expulsar → aztai
 extender → extendaire
 extensión → extentia
 extinguir → extingei
+extinto → extingo
 extintor → ignoextingoro
 extraer → tractaine
 extranjero con pensamientos anticuados → estranigerneta, estranigerna
@@ -2725,7 +2744,7 @@ feto → feto
 fez → fez
 fibra → fibre
 ficción → fiktio
-ficha → fista
+ficha → fitsa
 ficticio → fikto
 fideo → fixoa
 fiebre amarilla → fever mallea
@@ -2864,6 +2883,7 @@ fuerte → forte
 fuerza → forza
 fuga → fuga
 fular → fulard
+full (mano de póker) → kompleto
 fumador → esmokaiette
 fumar → esmokai, inzai
 fumigar → fumigai
@@ -3392,6 +3412,7 @@ intencional → intentiente
 intención → intentio
 intentar → trei
 intento → tre
+intercambiar posición una cosa con otra → bilogai
 intercambiar → logai, kamboi
 intercambio, compra, adqusición → loge
 interesante → interesanta
@@ -3522,6 +3543,8 @@ ladrón → rovette, rovago
 lago → laka
 lagrimado → lakrimido
 laguna → lurge, lakata
+lamiando → lamino
+laminado → lamino
 lana → boure
 lancero → esparette
 langostino → ximpo
@@ -3549,6 +3572,7 @@ lechuza → xendo
 lectura → lekta
 leer → lektei
 legal → legal
+legendario → legendario
 legumbre → tsikia
 lejano → foreno
 lejos → fore
@@ -3692,6 +3716,7 @@ luz tenue → glima
 luz → lita
 lácteo → esneoro
 lágrima → lacrima, lakrima
+lámina → lamina
 lámpara de araña → candelera, tsandelera
 lámpara → litaoro
 lápida → mortopetro
@@ -3894,6 +3919,7 @@ meditación → meditia
 meditar → meditei
 megáfono → megafono
 mejor → bainere
+mejora → baina
 mejorar → bainei
 mellizo → meliza
 melocotón, durazno → apomo
@@ -4174,7 +4200,7 @@ nefrólogo → nefrologo, nefrologette
 negación → noneatio
 negar → nonei, nekai
 negativamente → nekatikoien
-negativo → nekatiko
+negativo → nekativo, nekatiko
 negro → nekro, tura
 nematodo → serle
 nenúfar → nufara
@@ -4445,6 +4471,7 @@ palinología → palinologia
 paliza → puntsatarra
 palma → palme
 palmera (árbol) → irakoa
+palo (cartas) → kolor
 palo → apika, cano, cana
 paloma → rago, pumo
 palomita (comida) → explojica
@@ -4502,6 +4529,7 @@ parasitólogo → parasitologo, parasitologette
 parasol → estosol
 paraíso → paradiso
 parecer → aseire, lokai
+pareja (mano de póker) → paren
 pareja → paren
 paremiología → paremiologia
 paremiólogo → paremiologo, paremiologette
@@ -4658,6 +4686,7 @@ perla → perla
 permanecer → unfinai
 permanente → unfinaloko
 permiso → permiso
+permitido → permisaioto
 permitir → permisai
 pero → nur
 perpendicular → perpendicular
@@ -4690,6 +4719,7 @@ personal → personal
 personal → personale
 personal → pertsonala
 personalización → personalizatio
+personalizado → personalia
 personalizar → personalizei
 personificación → persoia
 personificar → persoi
@@ -4731,6 +4761,7 @@ piano → piano
 picadura → estundaxe
 picar (bicho) → estungai
 picar (minar) → minai
+picas (palo de poker) → pika
 picnic → picnic
 pico (animal) → pike
 pico (herramienta) → pikote
@@ -4914,7 +4945,7 @@ posesivo (lengua) → posesive
 poseído → poseso
 posibilitar → posiblai, posibilai, posibilitai
 posible → posibla
-posición → posaieo
+posición → posaieo, positio
 posología → posologia
 posponer → posposai
 postal → postal
@@ -4983,6 +5014,7 @@ principio, comienzo → initio
 prisa → ranta
 prismáticos → visforo
 privado → privato, privado
+probabilidad, chance → tsance, chance
 probable → probable, probeko
 probablemente → probekoien
 probado → probo
@@ -5080,6 +5112,7 @@ punto de mira, diana → nesiga
 punto → punto
 puntuación → puntuatio, puntuo
 puntuado → puntico
+puntuar → puntuai
 purificar (religión o místico) → haiai, purei
 puro → pura
 puré → tritura
@@ -5097,6 +5130,7 @@ péndulo → pendulo
 pértiga → felto
 pícido, pájaro carpintero → madraco, pincano, picide
 píxel → pixel
+póker (mano de póker) → catro equalit
 póker → poker
 pólvora → pulder forte
 pórtico → portecum
@@ -5170,6 +5204,7 @@ reaccionar → reactai, reaktai
 reacción → reaktio
 reacción → reakto
 reactor → reactoro
+real (de la realeza) → royal
 real → real
 realidad → realita
 realizar → ereasei
@@ -5186,6 +5221,7 @@ recetar → recetei
 rechazado → retsaiko
 rechazar → retsaire
 recibimiento → recepta
+recibir un premio → viscai
 recibir → receptei, recebai
 recicladora → rezykloro
 reciclaje → rezyklatia
@@ -5242,6 +5278,7 @@ regla → rekla
 regresar → retornai
 regreso, retorno → retorno
 rehacer → redoi, refai
+reina (póker) → dama
 reina → reine
 reina, dama (ajedrez) → meila
 reinado → reina
@@ -5319,7 +5356,7 @@ respirar → risperei
 responder, contestar → repostai
 respuesta → reposta
 restablecer → resetei
-restante → falante
+restante → falante, faitante
 restar → deproxei
 restar → restei, deproxei
 restaurante → restorante
@@ -5348,6 +5385,7 @@ revivir → revivai
 revocar → revokei
 revolución → revolutio
 revólver → revolver
+rey (póker) → rein
 rey → rein
 rezar → praisoi
 rezo → praiso
@@ -6119,6 +6157,7 @@ triturar → trituroi
 tritón → uale
 trivia → trivia
 triángulo → trianglo
+trofeo → trofeio
 trofología → trofologia
 trofólogo → trofologo, trofologette
 troglodítido → olve
@@ -6137,6 +6176,9 @@ trufa → turfa
 truncar → truncai
 tráfico → trafiko
 tránsito → transita
+trébol → trebola
+tréboles (palo de póker) → trebola
+trío (mano de póker) → triai equalit
 trío → trio
 tríplex → triplex
 trópico → tropiko

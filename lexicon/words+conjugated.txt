@@ -823,6 +823,14 @@ ancantoireioto
 ancantoireki
 ancantoiret
 ancla
+anclai
+anclaie
+anclaieon
+anclaiet
+anclaiki
+anclaio
+anclaioto
+anclaioto
 anclaxo
 anclo
 anco
@@ -1135,6 +1143,13 @@ arrantseiet
 arrantseiki
 arrantseio
 arrantseioto
+arrentai
+arrentaie
+arrentaieon
+arrentaiet
+arrentaiki
+arrentaio
+arrentaioto
 arsonai
 arsonaie
 arsonaieon
@@ -1550,6 +1565,7 @@ bahia
 bai
 baia
 bain
+baina
 bainarei
 bainaro
 bainata
@@ -1793,6 +1809,7 @@ biancaio
 biancaioto
 biancara
 bianco
+biancocarde
 bianguro
 biatse
 bibliografia
@@ -1805,6 +1822,13 @@ bibloteka
 bila
 bilingo
 billoe
+bilogai
+bilogaie
+bilogaieon
+bilogaiet
+bilogaiki
+bilogaio
+bilogaioto
 binocular
 biobibliografia
 biobibliografica
@@ -2120,6 +2144,7 @@ cacografia
 cacografica
 cacologia
 cactia
+caduco
 cafeteria
 café
 cailai
@@ -2310,6 +2335,7 @@ cestaioto
 cesterna
 cetacio
 cetro
+chance
 chat
 chatei
 chateie
@@ -2738,6 +2764,7 @@ conqiliologo
 conqista
 conqisto
 conqitia
+consecutiva
 consei
 conseie
 conseieon
@@ -2843,6 +2870,7 @@ contraineio
 contraineioto
 contraineki
 contrainet
+contraste
 contribai
 contribaie
 contribaieon
@@ -3212,6 +3240,13 @@ debeiki
 debeio
 debeioto
 debila
+debilai
+debilaie
+debilaieon
+debilaiet
+debilaiki
+debilaio
+debilaioto
 decai
 decaie
 decaieon
@@ -5283,6 +5318,7 @@ extingeiet
 extingeiki
 extingeio
 extingeioto
+extingo
 extremo
 extroverto
 ezer
@@ -5332,6 +5368,7 @@ faitaiet
 faitaiki
 faitaio
 faitaioto
+faitante
 faize
 faizeie
 faizeieon
@@ -5350,12 +5387,6 @@ falaiki
 falaio
 falaioto
 falante
-falanteie
-falanteieon
-falanteio
-falanteioto
-falanteki
-falantet
 falco
 falcon
 faldai
@@ -5570,6 +5601,7 @@ fitografica
 fitologia
 fitopatologia
 fitosociologia
+fitsa
 fixo
 fixoa
 fixola
@@ -7718,6 +7750,7 @@ koloreio
 koloreioto
 kolorfala
 kolorido
+kolorlinia
 komerzai
 komerzaie
 komerzaieon
@@ -8026,6 +8059,8 @@ lama
 lamadra
 lamadrila
 lamanza
+lamina
+lamino
 lana
 lanai
 lanaie
@@ -8069,6 +8104,7 @@ lazer
 legal
 legas
 legenda
+legendario
 leguma
 leko
 leksicografia
@@ -8140,6 +8176,7 @@ liberso
 libertia
 libidette
 libreria
+librespatio
 librete
 libro
 librotela
@@ -9330,6 +9367,7 @@ nekaio
 nekaioto
 nekatiko
 nekatikoien
+nekativo
 neko
 nekrasoa
 nekrasoatela
@@ -10299,6 +10337,7 @@ permisaiet
 permisaiki
 permisaio
 permisaioto
+permisaioto
 permiso
 perpendicular
 perpetro
@@ -10331,6 +10370,7 @@ persoioto
 persona
 personal
 personale
+personalia
 personalizatio
 personalizei
 personalizeie
@@ -10819,6 +10859,7 @@ posiblaiet
 posiblaiki
 posiblaio
 posiblaioto
+positio
 posmoi
 posologia
 posposai
@@ -11014,13 +11055,7 @@ primeraioto
 primero
 primertela
 prince
-princeie
-princeieon
-princeio
-princeioto
-princeki
 princese
-princet
 princeta
 printsiale
 priosa
@@ -11357,6 +11392,13 @@ puntsaio
 puntsaioto
 puntsatarra
 puntsirra
+puntuai
+puntuaie
+puntuaieon
+puntuaiet
+puntuaiki
+puntuaio
+puntuaioto
 puntuatio
 puntuo
 punxai
@@ -11576,6 +11618,13 @@ rare
 raro
 raske
 rasta
+rastrai
+rastraie
+rastraieon
+rastraiet
+rastraiki
+rastraio
+rastraioto
 rata
 ratio
 ration
@@ -11929,6 +11978,8 @@ renevoiki
 renevoio
 renevoioto
 renno
+renta
+rentaio
 reologia
 repaira
 repaire
@@ -12342,6 +12393,7 @@ rovo
 roxo
 roxomelo
 roxuba
+royal
 ruba
 ruby
 ruidanta
@@ -13762,6 +13814,7 @@ trazaiki
 trazaio
 trazaioto
 tre
+trebola
 trego
 trei
 treie
@@ -13844,6 +13897,7 @@ trituroioto
 trivia
 triyo
 tro
+trofeio
 trofologette
 trofologia
 trofologo
@@ -13927,6 +13981,7 @@ tsambora
 tsampeon
 tsampeonato
 tsampinna
+tsance
 tsandelera
 tsara
 tsarakto
@@ -14619,6 +14674,13 @@ virus
 visado
 visaya
 visayagaizere
+viscai
+viscaie
+viscaieon
+viscaiet
+viscaiki
+viscaio
+viscaioto
 visco
 viscosimetria
 viscosimetrica

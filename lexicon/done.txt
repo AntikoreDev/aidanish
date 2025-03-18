@@ -314,6 +314,9 @@ almidón
 almohada
 alometría
 alpaca
+alquilado
+alquilar
+alquiler
 alquitrán
 alrededor
 alta mar
@@ -384,7 +387,9 @@ ancho
 anchura
 anciano
 ancla
+anclado
 anclaje
+anclar
 andador
 andamio
 andanza
@@ -540,6 +545,7 @@ arqueólogo
 arquitecto
 arrancar
 arranque
+arrastrar
 arrebañar
 arreglar
 arreglo
@@ -973,6 +979,7 @@ cadena
 caducado
 caducar
 caducidad
+caduco
 caer
 caer a lo más bajo
 caer en tentación
@@ -1132,7 +1139,10 @@ carro
 carruaje
 carrusel
 carta
+carta comodín
 carta de naipe
+carta más alta
+carta que vale como cualquier otra
 cartel
 cartel antiguo que indicaba a la gente que no portaba una brújula donde está el norte sur este y oeste
 cartero
@@ -1241,6 +1251,7 @@ cetáceo
 chaleco
 chamarra
 champiñón
+chance
 chaqueta
 charco
 charrán
@@ -1519,6 +1530,7 @@ conquistado
 conquistador
 conquistar
 consecuencia
+consecutivo
 conseguido
 conseguir
 consentir
@@ -1562,6 +1574,7 @@ continuo
 contra
 contraer
 contraseña
+contraste
 contratar
 contribución
 contribuir
@@ -1585,6 +1598,7 @@ coprología
 coque
 coral
 coraza
+corazones
 corazón
 corbata
 corcho
@@ -1833,6 +1847,7 @@ de una ciudad; que está muy iluminada por la noche; llena de carteles y luces; 
 debajo
 deber
 deber hacer
+debilitar
 decaer
 decapitación
 decapitador
@@ -2027,6 +2042,7 @@ diagrama
 dialectología
 dialectólogo
 diamante
+diamantes
 diana
 diario
 diarrea
@@ -2123,6 +2139,7 @@ divisor
 diálogo
 doblar
 doble
+doble pareja
 doce
 doceavo
 doctor
@@ -2413,6 +2430,7 @@ esas
 escala
 escalar
 escalera
+escalera de color
 escama
 escandalizar
 escapar
@@ -2465,6 +2483,8 @@ esoterismo
 esotérico
 espacio
 espacio en blanco
+espacio libre
+espacio vacío
 espada
 espadaña
 espagueti
@@ -2646,6 +2666,7 @@ expulsar
 extender
 extensión
 extinguir
+extinto
 extintor
 extraer
 extranjero
@@ -2840,6 +2861,7 @@ fuerza
 fuga
 fugar
 fular
+full
 fumador
 fumar
 fumigar
@@ -3368,6 +3390,7 @@ intención
 intentar
 intento
 intercambiar
+intercambiar posición una cosa con otra
 intercambio
 interesante
 interesar
@@ -3492,6 +3515,8 @@ ladrón
 lago
 lagrimado
 laguna
+lamiando
+laminado
 lana
 lancero
 langostino
@@ -3522,6 +3547,7 @@ lechuza
 lectura
 leer
 legal
+legendario
 legista
 legumbre
 lejano
@@ -3665,6 +3691,7 @@ luz intermitente
 luz tenue
 lácteo
 lágrima
+lámina
 lámpara
 lámpara de araña
 lápida
@@ -3859,6 +3886,7 @@ meditación
 meditar
 megáfono
 mejor
+mejora
 mejorar
 mellizo
 melocotón
@@ -4605,6 +4633,7 @@ perla
 permanecer
 permanente
 permiso
+permitido
 permitir
 pernio
 pero
@@ -4638,6 +4667,7 @@ persona; generalmente de la tercera edad; que habla con gente que no conoce por 
 personaje
 personal
 personalización
+personalizado
 personalizar
 personificación
 personificar
@@ -4678,6 +4708,7 @@ phasmofobia
 piano
 picadura
 picar
+picas
 picnic
 pico
 pictografía
@@ -4914,6 +4945,7 @@ principio
 prisa
 prismáticos
 privado
+probabilidad
 probable
 probablemente
 probado
@@ -5012,6 +5044,7 @@ punto
 punto de mira
 puntuación
 puntuado
+puntuar
 pupa
 purificar
 puro
@@ -5121,6 +5154,7 @@ rechazado
 rechazar
 recibimiento
 recibir
+recibir un premio
 recicladora
 reciclaje
 reciclar
@@ -6044,6 +6078,7 @@ triturar
 tritón
 trivia
 triángulo
+trofeo
 trofología
 trofólogo
 troglodítido
@@ -6063,6 +6098,8 @@ trufa
 truncar
 tráfico
 tránsito
+trébol
+tréboles
 trío
 tríplex
 trópico
