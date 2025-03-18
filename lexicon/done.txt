@@ -227,6 +227,7 @@ aguacate
 aguantar
 aguante
 aguijón
+aguja
 agujererar
 agujero
 agujero de bala
@@ -446,6 +447,7 @@ anual
 anuario
 anunciar
 anuncio
+anáglifo
 análogo
 anárquico
 anémona
@@ -482,6 +484,7 @@ aprobación
 aprobado
 aprobar
 aprovechar
+apuesta
 apuñalada
 apuñalamiento
 apuñalar
@@ -562,6 +565,7 @@ artículo básico para vivir
 arvicolino
 arácnido
 arándano
+as
 ascender
 ascender al cielo
 ascenso
@@ -710,6 +714,7 @@ bajada
 bajar
 bajo
 bala
+balancear
 balanza
 balcón
 balda
@@ -773,6 +778,7 @@ bechamel
 begonia
 belleza
 bello
+bellota
 bendecir
 bendición
 beneficiar
@@ -1107,6 +1113,7 @@ carisma
 carismático
 caritativo
 cariño
+carmesí
 carnada
 carnaval
 carne
@@ -1391,6 +1398,7 @@ color
 colorear
 colorido
 colorimetría
+columna
 coma
 comadreja
 comando
@@ -1528,6 +1536,7 @@ constelación
 construcción
 constructor
 construir
+consumible
 consumir
 contactar
 contacto
@@ -1930,6 +1939,8 @@ descalzarse
 descalzo
 descansar
 descanso
+descartar
+descarte
 descender
 descenso
 descifrar
@@ -1940,6 +1951,8 @@ desconocido
 descorchar
 describir
 descripción
+descubierto
+descubrimiento
 descubrir
 descuento
 desde
@@ -2195,6 +2208,7 @@ edificio
 editar
 editor
 efectivo
+efecto
 eficiencia
 eficiente
 egipto
@@ -2980,6 +2994,7 @@ graznido
 greba
 grieta
 grifo
+grillete
 grillo
 gripe
 gripe aviar
@@ -2997,6 +3012,7 @@ grupo
 gruñido
 gruñir
 gruñón
+gráfico
 grúa
 guacamole
 guano de murciélago
@@ -3402,6 +3418,7 @@ ión
 jabalí
 jabón
 jacinto
+jack
 jade
 jalapeño
 jamás
@@ -4061,6 +4078,7 @@ muy cerrado
 muñeca
 muñeco
 mágica
+mágico
 máquina
 más
 más que perfecto
@@ -4095,6 +4113,7 @@ navegador
 navidad
 nazi
 nazismo
+nebulosa
 necesidad
 necesitar
 necrofilia
@@ -4674,6 +4693,7 @@ pieza pequeña utilizada en deportes de duelo que se asigna al jugador mejor con
 piezometría
 pijama
 pila
+pilar
 pimiento
 pincel
 pincelada
@@ -4734,6 +4754,7 @@ planta
 planta petrolífera
 planta violácea utilizada para crear el té purpur
 plantar
+plasma
 plata
 plataforma
 platino
@@ -4967,6 +4988,7 @@ psicosociología
 psicosociólogo
 psicólogo
 psicópata
+psíquico
 pua
 publicar
 pudrir
@@ -5010,6 +5032,7 @@ péndulo
 pértiga
 pícido
 píxel
+póker
 pólvora
 pórtico
 público
@@ -5042,6 +5065,7 @@ quitar
 quiz
 quizá
 quokka
+racha
 racionar
 racismo
 ración
@@ -5156,6 +5180,7 @@ reinado
 reinar
 reiniciar
 reino
+reintentar
 reir
 relacionar
 relación
@@ -5197,6 +5222,7 @@ repetidor
 repetir
 replicar
 reportar
+reporte
 repositorio
 repostar
 repostería
@@ -5225,6 +5251,7 @@ respirar
 responder
 respuesta
 restablecer
+restante
 restar
 restaurante
 restaurar
@@ -6226,8 +6253,10 @@ via
 viajar
 viaje
 viaje en las drogas
+vibración
 vibrador
 vibrar
+victoria
 vicuña
 vida
 video
@@ -6284,6 +6313,7 @@ volcán
 volumetría
 voluntad
 volver
+volúmen
 vomitar
 vosotros
 voyeurista
@@ -6335,6 +6365,7 @@ zar
 zarigüeya
 zinc
 zincografía
+zodiaco
 zombie
 zona
 zoo

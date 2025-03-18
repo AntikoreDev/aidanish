@@ -308,6 +308,7 @@ alfabeto
 alfilago
 alfilai
 alfilatio
+alfilo
 alga
 algoritmo
 alicatai
@@ -376,6 +377,7 @@ amputai
 amputatio
 amunitio
 ana
+anaglifa
 analogia
 analogo
 anani
@@ -485,6 +487,7 @@ anxia
 anyel
 aonatei
 aonatia
+aonato
 apa
 apalmai
 apalme
@@ -597,6 +600,7 @@ artsivologo
 arvicolino
 arvicolo
 arvino
+as
 as-is
 asecurai
 aseire
@@ -797,6 +801,7 @@ bajiba
 balakava
 balantai
 balante
+balanzai
 bale
 baletrumbe
 baluaro
@@ -903,6 +908,7 @@ besai
 beso
 besta
 bestingoro
+beta
 betarra
 betran
 betranno
@@ -1447,6 +1453,7 @@ consortso
 constai
 constanto
 constelatio
+consumable
 consumei
 consumire
 contactai
@@ -1537,6 +1544,8 @@ crimenette
 criminologette
 criminologia
 criminologo
+crinsom
+crinsomo
 criobiologia
 criptide
 criptografia
@@ -1751,6 +1760,8 @@ derroqo
 dersei
 desbarcai
 desbarco
+descarda
+descardai
 descifrei
 descoilei
 descolcai
@@ -2060,6 +2071,7 @@ editette
 editio
 editoro
 efektibo
+efekto
 efizente
 efizientia
 efoi
@@ -3069,6 +3081,8 @@ grafeno
 grafeto
 grafia
 grafica
+grafika
+grafiko
 grafologette
 grafologia
 grafologo
@@ -3093,6 +3107,7 @@ graznai
 grazne
 grifo
 grila
+grileta
 gris
 griya
 grosatsa
@@ -3129,6 +3144,7 @@ haiai
 haiette
 haile
 hailo
+haio
 haita
 haiza
 hali
@@ -4198,6 +4214,7 @@ magadia
 magenta
 magia
 magika
+magiko
 magma
 magna
 magnasia
@@ -4255,6 +4272,7 @@ maniketa
 manikete
 maniki
 manile
+mano
 manraia
 mansio
 manteca
@@ -4674,6 +4692,7 @@ nazismo
 ne
 neare
 nearei
+nebula
 necrofilia
 necrofobia
 necrologia
@@ -4832,6 +4851,7 @@ nur
 nurdefekto
 nurne
 nutriologia
+nutsa
 nuzel
 nuzelar
 nuzelara
@@ -5324,6 +5344,7 @@ pikse
 piksei
 pikseterroi
 pikto
+pilo
 piloko
 pilotufeso
 pincano
@@ -5391,6 +5412,7 @@ plano
 planoi
 planta
 plantaire
+plasma
 plata
 plataforma
 platintso
@@ -5429,6 +5451,7 @@ poire
 poitexo
 poitsa
 poitsire
+poker
 pokete
 poketo
 polaka
@@ -5525,6 +5548,7 @@ posiblai
 posmoi
 posologia
 posposai
+posta
 postai
 postal
 postalcoda
@@ -5687,6 +5711,7 @@ psicopatologia
 psicosociologette
 psicosociologia
 psicosociologo
+psiqico
 publikai
 publiko
 pugna
@@ -5966,6 +5991,7 @@ repentia
 repentoso
 repetei
 repeteoro
+reporta
 reportei
 repositorium
 reposta
@@ -6282,6 +6308,7 @@ sievei
 sifilografia
 sifilografica
 sigai
+sigatia
 siger
 sigilografia
 sigilografica
@@ -7212,6 +7239,7 @@ verifei
 verifeko
 verifia
 verme
+vermeio
 vernia
 vero
 versiona
@@ -7234,6 +7262,8 @@ viato
 viaton
 vibrai
 vibraibo
+vibratia
+victoria
 vicunna
 vidio
 vidiocamera
@@ -7316,6 +7346,7 @@ volkanologia
 volkanologo
 volsvein
 voltai
+voluma
 volumetria
 volumetrica
 volunta
@@ -7490,6 +7521,8 @@ zizenno
 zizga
 zizge
 zobexe
+zodia
+zodiako
 zoike
 zoiko
 zoine

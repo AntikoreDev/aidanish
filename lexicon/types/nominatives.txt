@@ -4,6 +4,7 @@ azul → anil
 bizco → quete
 blanco → bianco, alura
 bobo → keke
+carmesí → crinsomo, vermeio, crinsom
 carnívoro → karnivoro
 cian → cian
 diestro → deiranno
@@ -32,8 +33,8 @@ rojo → roixo, roxo
 rosa → rosa
 vegano → vegano
 vegetariano → vegetaro
-verde lima → lima
 verde → berde
+verde lima → lima
 viejo → igerne
 vivo → vitoso
 zurdo → zoranno

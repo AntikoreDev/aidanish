@@ -235,6 +235,7 @@ aguacate → guacafruki, aguaco
 aguantar → jenai
 aguante → jena
 aguijón → estungo
+aguja → alfilo
 agujererar → racoi
 agujero de bala → racobale
 agujero → raco
@@ -455,6 +456,7 @@ anual → yaroko
 anuario → yarizboto
 anunciar → advei, advertaire
 anuncio → adva
+anáglifo → anaglifa
 análogo → analogo
 anárquico → anarqiko
 anémona (flor) → anomas
@@ -492,6 +494,7 @@ aprobación → aprovatio
 aprobado → aprovo
 aprobar → aprovai
 aprovechar → vorzoi
+apuesta → posta, beta
 apuñalada, puñalada → estava
 apuñalamiento → estavo
 apuñalar → estavai
@@ -568,6 +571,7 @@ artículo → articulo, articlo
 arvicolino → arvicolino, arvicolo
 arácnido → aracnita
 arándano → aniluba
+as (cartas) → as
 ascender al cielo → estelegaize
 ascender → anseine, airei
 ascenso → ansenno
@@ -716,6 +720,7 @@ bajar → aurei
 bajo → pikoso
 bajo → vao
 bala → bale
+balancear → balanzai
 balanza → balantai
 balanza → balante
 balcón → evokinda
@@ -783,6 +788,7 @@ bechamel → betsamel
 begonia (flor) → begonna
 belleza → belesa
 bello → belo
+bellota → nutsa
 bendecir → bendizei
 bendición → bendizatio
 beneficiar → benefitiai, supavai
@@ -1115,6 +1121,7 @@ carisma → tsarisma
 carismático → tsarismatiko
 caritativo → karitatoso
 cariño (referencia a persona amada) → karico
+carmesí → crinsomo, vermeio, crinsom
 carnaval → carnavala
 carne de cerdo → porketa
 carne → karno
@@ -1523,6 +1530,7 @@ conocer (algo) → aonatei
 conocer (persona) → misei
 conocer, descubrir (lugar) → forai
 conocido → miseioko
+conocido, descubierto → aonato
 conocimiento → aonatia, hipe
 conquiliología → conqiliologia
 conquiliólogo → conqiliologo, conqiliologette
@@ -1548,6 +1556,7 @@ constelación → constelatio
 construcción → tenda
 constructor, arquitecto → tendaxette
 construir → tendai
+consumible → consumable
 consumir → consumire, consumei
 contactar → contactai
 contacto → contacto
@@ -1956,6 +1965,8 @@ descalzarse → unpoire
 descalzo → unpoie, unpoiro
 descansar → durnei, hixei
 descanso → hixe
+descartar → descardai
+descarte → descarda
 descender → denseine, aurei
 descenso → densenno
 descifrar → descifrei
@@ -1966,6 +1977,7 @@ desconocido → unmiseioko
 descorchar → unarkutsai
 describir → deskriptei
 descripción → deskriptio
+descubrimiento → aonato, aonatia
 descuento → aurventa
 desde aquí, de aquí → dake
 desde → daze
@@ -2220,6 +2232,7 @@ editar → editei
 editor (persona) → editette
 editor (programa u objeto) → editoro
 efectivo → efektibo
+efecto → efekto
 eficiencia → efizientia
 eficiente → efizente
 egipto → egipto
@@ -3007,6 +3020,7 @@ greba → culdauro
 grieta, raja → raca
 grifo (agua) → espigoto
 grifo (animal) → grifo
+grillete → grileta
 grillo → audixora
 gripe aviar → acriko flubila
 gripe española → espanna flubila
@@ -3024,6 +3038,8 @@ grupo → lude, grupo
 gruñido, guarrido → orko
 gruñir → gurrai, orkai
 gruñón, cabezota → bocarro
+gráfico (computación) → grafiko
+gráfico (estadística) → grafika
 grúa → gruva
 guacamole → guacamole
 guante → luva
@@ -3427,6 +3443,7 @@ ión → ion
 jabalí → diporko
 jabón → moape, sapo, baxugo
 jacinto (flor) → irsis
+jack (cartas) → prince
 jade → jade
 jalapeño → jalapenno
 jamás, nunca → nontsai
@@ -3757,6 +3774,7 @@ manipulador → manikete
 manipular → manikai
 maniquí → uperse, maniki
 maniático → maniaco
+mano (póker) → mano
 mano → man, hano
 mansión → mansio
 manta → kubre
@@ -4106,6 +4124,7 @@ muy → naito, moi
 muñeca (brazo) → intso
 muñeco, muñeca (objeto) → doli, clutso
 mágica → magika
+mágico → haio, magiko
 máquina → matsina
 más que perfecto → plusquamperfecta
 más → mais, plus
@@ -4141,6 +4160,7 @@ navegador (internet) → brouser, browser
 navidad → neven
 nazi → nazi
 nazismo → nazismo
+nebulosa → nebula
 necesidad → traia
 necesitar → trai, opaine
 necrofilia → nekrofilia, necrofilia
@@ -4727,6 +4747,7 @@ pieza pequeña utilizada en deportes de duelo que se asigna al jugador mejor con
 pieza → pieza
 piezometría → piezometria, piezometrica
 pijama → niki
+pilar, columna → pilo
 pimiento → pipera
 pincel → brutsa
 pincelada → brutse
@@ -4797,6 +4818,7 @@ planta petrolífera → nekrasoatela
 planta violácea utilizada para crear el té purpur → purpur
 planta, piso, suelo → piso
 plantar → plantaire
+plasma → plasma
 plata → silvo
 plataforma → plataforma
 platino → silverino
@@ -5034,6 +5056,7 @@ psicosociología → psicosociologia
 psicosociólogo → psicosociologo, psicosociologette
 psicólogo → psicologo, psicologette
 psicópata → psicopata
+psíquico → psiqico
 pua → pika
 publicar → publikai
 pudrir → putrai, joire
@@ -5074,6 +5097,7 @@ péndulo → pendulo
 pértiga → felto
 pícido, pájaro carpintero → madraco, pincano, picide
 píxel → pixel
+póker → poker
 pólvora → pulder forte
 pórtico → portecum
 público → publiko
@@ -5107,6 +5131,7 @@ quitar → removai
 quiz → quiz
 quizá → qiza
 quokka → cuoca
+racha → sigatia
 racionar → rationai
 racismo → razisma
 ración → ration
@@ -5223,6 +5248,7 @@ reinado → reina
 reinar → reinoi
 reiniciar → reinitiai, recomaize
 reino → renno
+reintentar → retrei
 reir → gisai
 relacionar (dos cosas entre sí) → relai
 relación → relatio
@@ -5263,6 +5289,7 @@ repetidor → repeteoro
 repetir → repetei
 replicar → reproxei
 reportar → reportei
+reporte → reporta
 repositorio → repositorium
 repostar → tsargai
 repostería → sundere
@@ -5292,6 +5319,7 @@ respirar → risperei
 responder, contestar → repostai
 respuesta → reposta
 restablecer → resetei
+restante → falante
 restar → deproxei
 restar → restei, deproxei
 restaurante → restorante
@@ -6297,8 +6325,10 @@ via → via
 viajar → vixei
 viaje en las drogas → wonderlan, trip, tripi
 viaje → vixe
+vibración → vibratia
 vibrador → vibraibo
 vibrar → vibrai
+victoria → victoria
 vicuña → vicunna
 vida → vita
 video → vidio
@@ -6353,6 +6383,7 @@ volcán → volkano
 volumetría → volumetria, volumetrica
 voluntad → volunta
 volver → barei, voltai, volveire
+volúmen → voluma
 vomitar, potar → resoltai, pukai, pukaire
 vosotros → zure
 voyeurista → voyeurette, voyeur, voyeurista
@@ -6402,6 +6433,7 @@ zar → zar
 zarigüeya → berno
 zinc, cinc → cinc, cink
 zincografía → zincografia, zincografica
+zodiaco → zodia, zodiako
 zombie → zombie
 zona → zone
 zoo → zoo

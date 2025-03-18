@@ -1923,6 +1923,14 @@
             }
         ]
     },
+    "aguja": {
+        "entries": [
+            {
+                "meaning": "alfilo",
+                "specification": ""
+            }
+        ]
+    },
     "agujererar": {
         "entries": [
             {
@@ -3703,6 +3711,14 @@
             }
         ]
     },
+    "anáglifo": {
+        "entries": [
+            {
+                "meaning": "anaglifa",
+                "specification": ""
+            }
+        ]
+    },
     "análogo": {
         "entries": [
             {
@@ -3995,6 +4011,14 @@
         "entries": [
             {
                 "meaning": "vorzoi",
+                "specification": ""
+            }
+        ]
+    },
+    "apuesta": {
+        "entries": [
+            {
+                "meaning": "posta, beta",
                 "specification": ""
             }
         ]
@@ -4632,6 +4656,14 @@
             {
                 "meaning": "aniluba",
                 "specification": ""
+            }
+        ]
+    },
+    "as": {
+        "entries": [
+            {
+                "meaning": "as",
+                "specification": "cartas"
             }
         ]
     },
@@ -5815,6 +5847,14 @@
             }
         ]
     },
+    "balancear": {
+        "entries": [
+            {
+                "meaning": "balanzai",
+                "specification": ""
+            }
+        ]
+    },
     "balanza": {
         "entries": [
             {
@@ -6339,6 +6379,14 @@
         "entries": [
             {
                 "meaning": "belo",
+                "specification": ""
+            }
+        ]
+    },
+    "bellota": {
+        "entries": [
+            {
+                "meaning": "nutsa",
                 "specification": ""
             }
         ]
@@ -9024,6 +9072,14 @@
             {
                 "meaning": "karico",
                 "specification": "referencia a persona amada"
+            }
+        ]
+    },
+    "carmesí": {
+        "entries": [
+            {
+                "meaning": "crinsomo, vermeio, crinsom",
+                "specification": ""
             }
         ]
     },
@@ -12340,6 +12396,18 @@
             {
                 "meaning": "miseioko",
                 "specification": ""
+            },
+            {
+                "meaning": "aonato",
+                "specification": ""
+            }
+        ]
+    },
+    "descubierto": {
+        "entries": [
+            {
+                "meaning": "aonato",
+                "specification": ""
             }
         ]
     },
@@ -12555,6 +12623,14 @@
         "entries": [
             {
                 "meaning": "tendai",
+                "specification": ""
+            }
+        ]
+    },
+    "consumible": {
+        "entries": [
+            {
+                "meaning": "consumable",
                 "specification": ""
             }
         ]
@@ -15851,6 +15927,22 @@
             }
         ]
     },
+    "descartar": {
+        "entries": [
+            {
+                "meaning": "descardai",
+                "specification": ""
+            }
+        ]
+    },
+    "descarte": {
+        "entries": [
+            {
+                "meaning": "descarda",
+                "specification": ""
+            }
+        ]
+    },
     "descender": {
         "entries": [
             {
@@ -15931,6 +16023,14 @@
         "entries": [
             {
                 "meaning": "deskriptio",
+                "specification": ""
+            }
+        ]
+    },
+    "descubrimiento": {
+        "entries": [
+            {
+                "meaning": "aonato, aonatia",
                 "specification": ""
             }
         ]
@@ -18031,6 +18131,14 @@
         "entries": [
             {
                 "meaning": "efektibo",
+                "specification": ""
+            }
+        ]
+    },
+    "efecto": {
+        "entries": [
+            {
+                "meaning": "efekto",
                 "specification": ""
             }
         ]
@@ -24467,6 +24575,14 @@
             }
         ]
     },
+    "grillete": {
+        "entries": [
+            {
+                "meaning": "grileta",
+                "specification": ""
+            }
+        ]
+    },
     "grillo": {
         "entries": [
             {
@@ -24616,6 +24732,18 @@
             {
                 "meaning": "bocarro",
                 "specification": ""
+            }
+        ]
+    },
+    "gráfico": {
+        "entries": [
+            {
+                "meaning": "grafiko",
+                "specification": "computación"
+            },
+            {
+                "meaning": "grafika",
+                "specification": "estadística"
             }
         ]
     },
@@ -27887,6 +28015,14 @@
             }
         ]
     },
+    "jack": {
+        "entries": [
+            {
+                "meaning": "prince",
+                "specification": "cartas"
+            }
+        ]
+    },
     "jade": {
         "entries": [
             {
@@ -30581,6 +30717,10 @@
     },
     "mano": {
         "entries": [
+            {
+                "meaning": "mano",
+                "specification": "póker"
+            },
             {
                 "meaning": "man, hano",
                 "specification": ""
@@ -33415,6 +33555,14 @@
             }
         ]
     },
+    "mágico": {
+        "entries": [
+            {
+                "meaning": "haio, magiko",
+                "specification": ""
+            }
+        ]
+    },
     "máquina": {
         "entries": [
             {
@@ -33683,6 +33831,14 @@
         "entries": [
             {
                 "meaning": "nazismo",
+                "specification": ""
+            }
+        ]
+    },
+    "nebulosa": {
+        "entries": [
+            {
+                "meaning": "nebula",
                 "specification": ""
             }
         ]
@@ -38423,6 +38579,22 @@
             }
         ]
     },
+    "pilar": {
+        "entries": [
+            {
+                "meaning": "pilo",
+                "specification": ""
+            }
+        ]
+    },
+    "columna": {
+        "entries": [
+            {
+                "meaning": "pilo",
+                "specification": ""
+            }
+        ]
+    },
     "pimiento": {
         "entries": [
             {
@@ -38963,6 +39135,14 @@
         "entries": [
             {
                 "meaning": "plantaire",
+                "specification": ""
+            }
+        ]
+    },
+    "plasma": {
+        "entries": [
+            {
+                "meaning": "plasma",
                 "specification": ""
             }
         ]
@@ -40867,6 +41047,14 @@
             }
         ]
     },
+    "psíquico": {
+        "entries": [
+            {
+                "meaning": "psiqico",
+                "specification": ""
+            }
+        ]
+    },
     "pua": {
         "entries": [
             {
@@ -41195,6 +41383,14 @@
             }
         ]
     },
+    "póker": {
+        "entries": [
+            {
+                "meaning": "poker",
+                "specification": ""
+            }
+        ]
+    },
     "pólvora": {
         "entries": [
             {
@@ -41467,6 +41663,14 @@
         "entries": [
             {
                 "meaning": "cuoca",
+                "specification": ""
+            }
+        ]
+    },
+    "racha": {
+        "entries": [
+            {
+                "meaning": "sigatia",
                 "specification": ""
             }
         ]
@@ -42403,6 +42607,14 @@
             }
         ]
     },
+    "reintentar": {
+        "entries": [
+            {
+                "meaning": "retrei",
+                "specification": ""
+            }
+        ]
+    },
     "reir": {
         "entries": [
             {
@@ -42723,6 +42935,14 @@
             }
         ]
     },
+    "reporte": {
+        "entries": [
+            {
+                "meaning": "reporta",
+                "specification": ""
+            }
+        ]
+    },
     "repositorio": {
         "entries": [
             {
@@ -42955,6 +43175,14 @@
         "entries": [
             {
                 "meaning": "resetei",
+                "specification": ""
+            }
+        ]
+    },
+    "restante": {
+        "entries": [
+            {
+                "meaning": "falante",
                 "specification": ""
             }
         ]
@@ -51139,6 +51367,14 @@
             }
         ]
     },
+    "vibración": {
+        "entries": [
+            {
+                "meaning": "vibratia",
+                "specification": ""
+            }
+        ]
+    },
     "vibrador": {
         "entries": [
             {
@@ -51151,6 +51387,14 @@
         "entries": [
             {
                 "meaning": "vibrai",
+                "specification": ""
+            }
+        ]
+    },
+    "victoria": {
+        "entries": [
+            {
+                "meaning": "victoria",
                 "specification": ""
             }
         ]
@@ -51591,6 +51835,14 @@
             }
         ]
     },
+    "volúmen": {
+        "entries": [
+            {
+                "meaning": "voluma",
+                "specification": ""
+            }
+        ]
+    },
     "vomitar": {
         "entries": [
             {
@@ -52023,6 +52275,14 @@
         "entries": [
             {
                 "meaning": "zincografia, zincografica",
+                "specification": ""
+            }
+        ]
+    },
+    "zodiaco": {
+        "entries": [
+            {
+                "meaning": "zodia, zodiako",
                 "specification": ""
             }
         ]

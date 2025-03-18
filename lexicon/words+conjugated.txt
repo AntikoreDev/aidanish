@@ -668,6 +668,7 @@ alfilaiki
 alfilaio
 alfilaioto
 alfilatio
+alfilo
 alga
 algoritmo
 alicatai
@@ -796,6 +797,7 @@ amputaioto
 amputatio
 amunitio
 ana
+anaglifa
 analogia
 analogo
 anani
@@ -965,6 +967,7 @@ aonateiki
 aonateio
 aonateioto
 aonatia
+aonato
 apa
 apalmai
 apalmaie
@@ -1173,6 +1176,7 @@ artsivologo
 arvicolino
 arvicolo
 arvino
+as
 as-is
 asecurai
 asecuraie
@@ -1571,6 +1575,13 @@ balantaiki
 balantaio
 balantaioto
 balante
+balanzai
+balanzaie
+balanzaieon
+balanzaiet
+balanzaiki
+balanzaio
+balanzaioto
 bale
 baletrumbe
 baluaro
@@ -1767,6 +1778,7 @@ besaioto
 beso
 besta
 bestingoro
+beta
 betarra
 betran
 betranno
@@ -2767,6 +2779,7 @@ constaio
 constaioto
 constanto
 constelatio
+consumable
 consumei
 consumeie
 consumeieon
@@ -2947,6 +2960,8 @@ crimenette
 criminologette
 criminologia
 criminologo
+crinsom
+crinsomo
 criobiologia
 criptide
 criptografia
@@ -3419,6 +3434,14 @@ desbarcaiki
 desbarcaio
 desbarcaioto
 desbarco
+descarda
+descardai
+descardaie
+descardaieon
+descardaiet
+descardaiki
+descardaio
+descardaioto
 descifrei
 descifreie
 descifreieon
@@ -4166,6 +4189,7 @@ editette
 editio
 editoro
 efektibo
+efekto
 efizente
 efizientia
 efoi
@@ -5326,6 +5350,12 @@ falaiki
 falaio
 falaioto
 falante
+falanteie
+falanteieon
+falanteio
+falanteioto
+falanteki
+falantet
 falco
 falcon
 faldai
@@ -6171,6 +6201,8 @@ grafeno
 grafeto
 grafia
 grafica
+grafika
+grafiko
 grafologette
 grafologia
 grafologo
@@ -6207,6 +6239,7 @@ graznaioto
 grazne
 grifo
 grila
+grileta
 gris
 griya
 grosatsa
@@ -6297,6 +6330,7 @@ haileioto
 haileki
 hailet
 hailo
+haio
 haita
 haiza
 hali
@@ -8422,6 +8456,7 @@ magadia
 magenta
 magia
 magika
+magiko
 magma
 magna
 magnasia
@@ -8533,6 +8568,7 @@ maniketa
 manikete
 maniki
 manile
+mano
 manraia
 mansio
 manteca
@@ -9264,6 +9300,7 @@ neareiet
 neareiki
 neareio
 neareioto
+nebula
 necrofilia
 necrofobia
 necrologia
@@ -9506,6 +9543,7 @@ nur
 nurdefekto
 nurne
 nutriologia
+nutsa
 nuzel
 nuzelar
 nuzelara
@@ -10406,6 +10444,7 @@ pikseterroiki
 pikseterroio
 pikseterroioto
 pikto
+pilo
 piloko
 pilotufeso
 pincano
@@ -10527,6 +10566,7 @@ plantaireio
 plantaireioto
 plantaireki
 plantairet
+plasma
 plata
 plataforma
 platintso
@@ -10595,6 +10635,7 @@ poitsireio
 poitsireioto
 poitsireki
 poitsiret
+poker
 pokete
 poketo
 polaka
@@ -10787,6 +10828,7 @@ posposaiet
 posposaiki
 posposaio
 posposaioto
+posta
 postai
 postaie
 postaieon
@@ -10972,7 +11014,13 @@ primeraioto
 primero
 primertela
 prince
+princeie
+princeieon
+princeio
+princeioto
+princeki
 princese
+princet
 princeta
 printsiale
 priosa
@@ -11225,6 +11273,7 @@ psicopatologia
 psicosociologette
 psicosociologia
 psicosociologo
+psiqico
 publikai
 publikaie
 publikaieon
@@ -11924,6 +11973,7 @@ repeteiki
 repeteio
 repeteioto
 repeteoro
+reporta
 reportei
 reporteie
 reporteieon
@@ -12636,6 +12686,7 @@ sigaiet
 sigaiki
 sigaio
 sigaioto
+sigatia
 siger
 sigilografia
 sigilografica
@@ -14484,6 +14535,7 @@ verifeioto
 verifeko
 verifia
 verme
+vermeio
 vernia
 vero
 versiona
@@ -14524,6 +14576,8 @@ vibraiet
 vibraiki
 vibraio
 vibraioto
+vibratia
+victoria
 vicunna
 vidio
 vidiocamera
@@ -14666,6 +14720,7 @@ voltaiet
 voltaiki
 voltaio
 voltaioto
+voluma
 volumetria
 volumetrica
 volunta
@@ -14996,6 +15051,8 @@ zizenno
 zizga
 zizge
 zobexe
+zodia
+zodiako
 zoike
 zoiko
 zoine

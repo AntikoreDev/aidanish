@@ -122,6 +122,7 @@ aguacate → guacafruki, aguaco
 aguante → jena
 aguijón → estungo
 águila → egila
+aguja → alfilo
 agujero → raco
 agujero de bala → racobale
 aidanacia → aidanakia
@@ -170,6 +171,8 @@ alma → anima
 almacén → esmareitela
 almacenaje → esmariun
 almacenamiento → esmaretio
+alquilado → rentaio
+alquiler → renta
 almeja → matsasa
 almena → almena
 almendra → almondra
@@ -293,6 +296,7 @@ apoyo (respaldar; aprobar) → proa
 aprendizaje → aprendeixo
 aprobación → aprovatio
 aprobado → aprovo
+apuesta → posta, beta
 apuñalada, puñalada → estava
 apuñalamiento → estavo
 Árabe → Arabeka
@@ -356,6 +360,7 @@ artista → artista, artisette
 artrografía → artrografia, artrografica
 artrología → artrologia
 arvicolino → arvicolino, arvicolo
+as (cartas) → as
 ascenso → ansenno
 ascensor → airoro
 asedio → sieva
@@ -509,6 +514,7 @@ bégimo → behemuto, bemoz
 begonia (flor) → begonna
 Bélgica → Belgia
 belleza → belesa
+bellota → nutsa
 bendición → bendizatio
 beneficio → benefitio
 bengala → bengala, fira
@@ -572,6 +578,7 @@ bombilla → bulba
 bombón → tsoklo
 bombona → butanna
 bondad → bainata
+mejora → baina
 bongo → bongo
 boquilla → oupila
 borde, lateral (geometría) → asero
@@ -789,6 +796,8 @@ carretera → rakemno
 carruaje → azurreje
 carrusel → carrusel
 carta (texto) → letera
+carta comodín, carta que vale como cualquier otra (juegos) → bianco carde, biancocarde 
+carta más alta (mano de póker) → carde aito
 cartel → leto
 cartel antiguo que indicaba a la gente que no portaba una brújula donde está el norte sur este y oeste → letoire, oireleto
 cartero → leteraette
@@ -829,6 +838,7 @@ caza → junze
 cazador → junzette
 cazo → xikara
 cazuela → xikere
+trofeo → trofeio
 cd → cd
 cebo, carnada → carro
 cebolla → onnete
@@ -890,6 +900,7 @@ chimpancé → itsimp
 China (país) → Tsina
 chincheta → pinna
 chinchilla → tsintsila
+probabilidad, chance → tsance, chance
 Chino (gentilicio) → Tsineo
 chip → chip
 chismografía → tsismografia, tsismografica
@@ -1008,6 +1019,7 @@ colonia (territorio) → colonia
 colonia, perfume → dafuma
 colonización → colonicea
 colono → colone
+color (mano de póker) → kolor
 color → kolor, kromato
 colorimetría → colorimetria, colorimetrica
 coma (salud) → coma, vegeto estatia
@@ -1090,6 +1102,7 @@ consorte, cónyuge → conyuge
 constelación → constelatio
 construcción → tenda
 constructor, arquitecto → tendaxette
+consumible → consumable
 contacto → contacto
 contactología → contactologia
 contactólogo → contactologo, contactologette
@@ -1102,6 +1115,7 @@ conteo → konto
 contexto → conteksto
 continuo → continum
 contraseña → codivorto
+contraste (color) → contraste
 contribución → contribe
 control → control
 controlador (informática) → controlatoro, driver
@@ -1118,6 +1132,7 @@ coque → coke
 coral → arima
 coraza → koraza
 corazón → koraiso
+corazones (palo de póker) → koraiso
 corbata → corveta
 corcho (material) → arkutsa, korko
 corcho (panel de corcho) → arkutsaplane
@@ -1324,8 +1339,10 @@ desastre → disastra
 desatascador → unastainoro, unastaino, unestoro
 desayuno → primer
 descanso → hixe
+descarte → descarda
 descenso → densenno
 descripción → deskriptio
+descubrimiento → aonato, aonatia
 descuento → aurventa
 desecho, basura → desexo, zorro
 desembarco → desbarco
@@ -1364,6 +1381,7 @@ dialectología → dialectologia
 dialectólogo → dialectologo, dialectologette
 diálogo → dialogo
 diamante → diamento
+diamantes (palo de póker) → diamento
 diana → nesiga
 diario → hengia
 diarrea → afluga
@@ -1424,6 +1442,7 @@ divisa → divisa
 división → diproxo
 divisor → dipre
 doble → doble
+doble pareja (mano de póker) → doble paren
 doctor → doktor
 documento → dokumento
 dodo → dodo
@@ -1469,6 +1488,7 @@ edición → editio
 edificio → tendo
 editor (persona) → editette
 editor (programa u objeto) → editoro
+efecto → efekto
 eficiencia → efizientia
 Egipto → Egipto
 egiptología → egiptologia
@@ -1568,7 +1588,9 @@ erotología → erotologia
 erotólogo → erotologo, erotologette
 error, fallo, errata → erra, mistaco, faio
 escala → eskala
+escalera (mano de póker) → linia
 escalera → escalatorra
+escalera de color (mano de póker) → kolorlinia
 escama → eskama
 escándalo → estantsa
 escaparate → dorimo
@@ -1770,7 +1792,7 @@ feto → feto
 fez → fez
 fibra → fibre
 ficción → fiktio
-ficha → fista
+ficha → fitsa
 fideo → fixoa
 fiebre → fever
 fiebre amarilla → fever mallea
@@ -1882,6 +1904,7 @@ fuente → fonto
 fuerza → forza
 fuga → fuga
 fular → fulard
+full (mano de póker) → kompleto
 fumador → esmokaiette
 fundición → fuseitela
 funeral → funeral
@@ -1987,6 +2010,8 @@ gracia →  graze
 grado → grado
 grafeno → grafeno
 grafía → grafia, grafica
+gráfico (computación) → grafiko
+gráfico (estadística) → grafika
 grafito → grafeto
 grafología → grafologia
 grafólogo → grafologo, grafologette
@@ -2006,6 +2031,7 @@ greba → culdauro
 grieta, raja → raca
 grifo (agua) → espigoto
 grifo (animal) → grifo
+grillete → grileta
 grillo → audixora
 gripe → flubila
 gripe aviar → acriko flubila
@@ -2286,6 +2312,7 @@ izquierda → zoraite
 jabalí → diporko
 jabón → moape, sapo, baxugo
 jacinto (flor) → irsis
+jack (cartas) → prince 
 jade → jade
 jalapeño → jalapenno
 jamón → iamon
@@ -2395,6 +2422,8 @@ lexicología → lexicologia, leksicologia
 lexicólogo → leksicologo, leksicologette
 ley → laia
 leyenda → legenda
+lámina → lamina
+laminado → lamino
 libertad → libertia
 librería (estantería de libros) → librotela
 librería → izbotela, libreria, librotela
@@ -2524,6 +2553,7 @@ manifiesto → manifesto
 manillar → manile
 manipulación → manika
 maniquí → uperse, maniki
+mano (póker) → mano
 mano → man, hano
 mansión → mansio
 manta → kubre
@@ -2804,6 +2834,7 @@ navegador (internet) → brouser, browser
 navidad → neven
 nazi → nazi
 nazismo → nazismo
+nebulosa → nebula
 necesidad → traia
 necrofilia → nekrofilia, necrofilia
 necrofobia → nekrofobia, necrofobia
@@ -3010,6 +3041,7 @@ palinología → palinologia
 paliza → puntsatarra
 palma → palme
 palmera (árbol) → irakoa
+palo (cartas) → kolor
 palo → apika, cano, cana
 paloma → rago, pumo
 palomita (comida) → explojica
@@ -3064,6 +3096,7 @@ parásito → paraisto, verme
 parasitología → parasitologia
 parasitólogo → parasitologo, parasitologette
 parasol → estosol
+pareja (mano de póker) → paren
 pareja → paren
 paremiología → paremiologia
 paremiólogo → paremiologo, paremiologette
@@ -3224,6 +3257,7 @@ pez globo → acoabalun
 phasmofobia → fasmofobia, phasmofobia
 piano → piano
 picadura → estundaxe
+picas (palo de poker) → pika
 pícido, pájaro carpintero → madraco, pincano, picide
 picnic → picnic
 pico (animal) → pike
@@ -3241,6 +3275,7 @@ pieza → pieza
 pieza pequeña utilizada en deportes de duelo que se asigna al jugador mejor considerado antes de una partida para que si este pierda en señal de respeto se lo da al ganador en mano como símbolo de buen perder → madrito, madrita
 piezometría → piezometria, piezometrica
 pijama → niki
+pilar, columna → pilo
 pimiento → pipera
 piña → pinna, anani
 pincel → brutsa
@@ -3300,6 +3335,7 @@ planta (flor) → planta
 planta petrolífera → nekrasoatela
 planta violácea utilizada para crear el té purpur → purpur
 planta, piso, suelo → piso
+plasma → plasma
 plata → silvo
 plataforma → plataforma
 plátano → banana
@@ -3323,6 +3359,8 @@ podología → podologia
 podólogo → podologo, podologette
 poema → poema
 poesía → poesia
+póker (mano de póker) → catro equalit
+póker → poker
 Polaco → Polaka
 polarimetría → polarimetria, polarimetrica
 poledance → poledance, poledanza, poledanze
@@ -3369,7 +3407,7 @@ Portugués → Portuguesa
 posavasos → posakisa
 pose → pose
 posesivo (lengua) → posesive
-posición → posaieo
+posición → posaieo, positio
 posología → posologia
 postal → postal
 postdata, postscript → poscritum
@@ -3456,6 +3494,7 @@ psicópata → psicopata
 psicopatología → psicopatologia
 psicosociología → psicosociologia
 psicosociólogo → psicosociologo, psicosociologette
+psíquico → psiqico
 pua → pika
 público → publiko
 pueblo → popula
@@ -3493,6 +3532,7 @@ quinesiólogo → qinesiologo, qinesiologette
 quinteto → qinteto
 quiz → quiz
 quokka → cuoca
+racha → sigatia
 ración → ration
 racismo → razisma
 radián → radian
@@ -3569,10 +3609,12 @@ régimen → regimeno
 región → regiono
 regla → rekla
 regreso, retorno → retorno
+reina (póker) → dama
 reina → reine
 reina, dama (ajedrez) → meila
 reinado → reina
 reino → renno
+reintentar → retrei
 relación → relatio
 religión → relicro, reculo
 reliquia → relicua
@@ -3592,6 +3634,7 @@ reología → reologia
 reparación → repaira
 repartidor → repardette, repartette
 repetidor → repeteoro
+reporte → reporta
 repositorio → repositorium
 repostería → sundere
 representación → representatio
@@ -3624,6 +3667,7 @@ reumatólogo → reumatologo, reumatologette
 reunión → undizio
 revolución → revolutio
 revólver → revolver
+rey (póker) → rein
 rey → rein
 rezo → praiso
 riachuelo → lenda, riatsa
@@ -3719,6 +3763,7 @@ secuencia → sequencia
 sed → renacoa
 seda → seda
 sede → primertela
+espacio libre, espacio vacío → librespatio
 segundo → sekundo
 seguridad → securitatia
 seguro (algo que asegura) → secur
@@ -4118,6 +4163,8 @@ traumatólogo → traumatologo, traumatologette
 travesura → inkinda
 travieso → inkinde
 traza → traza
+trébol → trebola
+tréboles (palo de póker) → trebola
 tren → trena
 trenza → trence
 tres → triai
@@ -4134,6 +4181,7 @@ trigonometría → trigonometria, trigonometrica
 trilingüe → trilingo
 trilogía → trilogia
 trinchera → trintsera
+trío (mano de póker) → triai equalit
 trío → trio
 tripa → tripa
 tríplex → triplex
@@ -4285,8 +4333,10 @@ vía → via
 viaje → vixe
 viaje en las drogas → wonderlan, trip, tripi
 víbora → veno
+vibración → vibratia
 vibrador → vibraibo
 víctima → viktima
+victoria → victoria
 vicuña → vicunna
 vida → vita
 video → vidio
@@ -4330,6 +4380,7 @@ vocina → vocine
 volante (coche) → volante
 volante (papel) → piprako
 volcán → volkano
+volúmen → voluma
 volumetría → volumetria, volumetrica
 voluntad → volunta
 vóxel → voxel
@@ -4365,6 +4416,7 @@ zarigüeya → berno
 zinc, cinc → cinc, cink
 zincografía → zincografia, zincografica
 zócalo → sokete
+zodiaco → zodia, zodiako
 zombie → zombie
 zona → zone
 zoo → zoo
