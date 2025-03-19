@@ -1,3 +1,4 @@
+adivino → vinide
 amarillo → mallea
 arácnido → aracnita
 azul → anil
@@ -19,6 +20,7 @@ identificador → identificator, identitor
 idiota → hunko, fruka, estulta
 insectívoro → insectivoro
 intermitente → tika
+listado → listata
 marrón → marro, brunno, bronzo, itsoso
 material de mala calidad → petringo 
 misceláneo → miscelanea

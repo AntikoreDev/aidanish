@@ -85,6 +85,7 @@ abstenaiki
 abstenaio
 abstenaioto
 absteno
+abstracto
 abstruso
 abvogette
 abysal
@@ -947,7 +948,9 @@ antifaz
 antiguaneo
 antilogia
 antimaiso
+antimateria
 antio
+antiopinto
 antologette
 antologia
 antologo
@@ -1310,6 +1313,7 @@ astronatte
 astronomette
 astronomia
 astronomo
+astuta
 asunna
 ata
 atai
@@ -1598,6 +1602,7 @@ balanzaiet
 balanzaiki
 balanzaio
 balanzaioto
+balanze
 bale
 baletrumbe
 baluaro
@@ -1651,6 +1656,7 @@ bareiki
 bareio
 bareioto
 baretsa
+baron
 barraca
 barre
 barrera
@@ -1713,6 +1719,7 @@ beilaxette
 beiloxte
 beio
 beioto
+beisbola
 beixize
 beixizeie
 beixizeieon
@@ -2218,6 +2225,7 @@ cansenda
 cantena
 cantimpla
 cantsa
+caos
 capa
 capela
 capital
@@ -2323,6 +2331,7 @@ centelaiet
 centelaiki
 centelaio
 centelaioto
+certifitio
 certo
 cesta
 cestai
@@ -2596,6 +2605,8 @@ comburente
 combustable
 combustio
 combusto
+comedia
+comediante
 cometai
 cometaie
 cometaieon
@@ -2861,6 +2872,7 @@ contestaio
 contestaioto
 contia
 contino
+continuita
 continum
 conto
 contraine
@@ -3105,6 +3117,7 @@ cule
 culepipra
 culto
 cumba
+cumbra
 cumo
 cumul
 cumulo
@@ -3732,6 +3745,7 @@ diferikeiet
 diferikeiki
 diferikeio
 diferikeioto
+difero
 digital
 digito
 dijerai
@@ -4499,6 +4513,13 @@ enkantaiet
 enkantaiki
 enkantaio
 enkantaioto
+enkasiyai
+enkasiyaie
+enkasiyaieon
+enkasiyaiet
+enkasiyaiki
+enkasiyaio
+enkasiyaioto
 enkerraire
 enkerraireie
 enkerraireieon
@@ -4688,6 +4709,14 @@ eriodaio
 eriodaioto
 eriodo
 erko
+erodai
+erodaie
+erodaieon
+erodaiet
+erodaiki
+erodaio
+erodaioto
+erodia
 erotologette
 erotologia
 erotologo
@@ -4700,6 +4729,7 @@ erraiki
 erraio
 erraioto
 errairiko
+erro
 ersai
 ersaie
 ersaieon
@@ -4968,6 +4998,7 @@ espelologia
 esperantesta
 esperanto
 espezial
+espezialista
 espezialitai
 espezialitaie
 espezialitaieon
@@ -5099,6 +5130,7 @@ estereometria
 estereometrica
 esternocleidomastoideo
 estila
+estiloso
 estima
 estimai
 estimatio
@@ -5161,7 +5193,9 @@ esturion
 et-tsara
 etanol
 etempo
+eter
 eteraz
+etereo
 etika
 etimologette
 etimologia
@@ -5404,6 +5438,7 @@ falo
 fama
 fame
 fameno
+familia
 famina
 fanso
 fantasma
@@ -5607,6 +5642,7 @@ fixoa
 fixola
 fixolo
 fizo
+fiztrinka
 flama
 flamencologette
 flamencologia
@@ -5702,6 +5738,7 @@ fokaioto
 fokalarme
 foke
 foko
+fokonave
 fokso
 fola
 folai
@@ -5841,6 +5878,7 @@ fractaio
 fractaioto
 fractal
 fracto
+fragile
 fraktio
 frakza
 frambo
@@ -6024,6 +6062,7 @@ gardaxette
 gardenia
 garlo
 gas
+gasacoa
 gaslighting
 gasola
 gasometria
@@ -6618,6 +6657,7 @@ holande
 holeko
 holografia
 holografica
+holograma
 hombai
 hombaie
 hombaieon
@@ -6804,6 +6844,7 @@ ideografica
 ideologette
 ideologia
 ideologo
+idola
 idolologia
 idurei
 idureie
@@ -6851,6 +6892,14 @@ ikroso
 ila
 ilaoro
 ilon
+iluda
+iludei
+iludeie
+iludeieon
+iludeiet
+iludeiki
+iludeio
+iludeioto
 imagenologia
 imaginatio
 imaginei
@@ -6862,6 +6911,7 @@ imagineiko
 imagineio
 imagineioto
 imake
+imediato
 imfranto
 impaire
 impaireie
@@ -6870,6 +6920,7 @@ impaireio
 impaireioto
 impaireki
 impairet
+impare
 imperia
 imperso
 impersoi
@@ -6937,6 +6988,7 @@ includeiet
 includeiki
 includeio
 includeioto
+includo
 inclusive
 inconforta
 inconforte
@@ -7183,6 +7235,7 @@ invertaiet
 invertaiki
 invertaio
 invertaioto
+investa
 investai
 investaie
 investaieon
@@ -7191,6 +7244,7 @@ investaiki
 investaio
 investaioto
 invikso
+invisibla
 invitatio
 invitei
 inviteie
@@ -8220,6 +8274,14 @@ likaio
 likaioto
 likena
 likenimbo
+likidai
+likidaie
+likidaieon
+likidaiet
+likidaiki
+likidaio
+likidaioto
+likidatio
 likra
 likrai
 likraie
@@ -8263,6 +8325,14 @@ lipuda
 liqen
 lisbona
 lista
+listai
+listaie
+listaieon
+listaiet
+listaiki
+listaio
+listaioto
+listata
 listo
 lita
 litai
@@ -8474,6 +8544,7 @@ luxo
 luxocrasis
 luxoso
 luxuria
+luxurio
 mace
 macrofotografia
 macrofotografica
@@ -8533,6 +8604,8 @@ makoraiet
 makoraiki
 makoraio
 makoraioto
+malabarista
+malabarit
 malacologette
 malacologia
 malacologo
@@ -8545,6 +8618,13 @@ maldikeio
 maldikeioto
 malditio
 maldito
+malgastai
+malgastaie
+malgastaieon
+malgastaiet
+malgastaiki
+malgastaio
+malgastaioto
 malherbologia
 malira
 mallea
@@ -8627,6 +8707,7 @@ mapatso
 maploa
 maraton
 marayato
+marbel
 mare
 marestrela
 marine
@@ -8821,6 +8902,7 @@ mendeiet
 mendeiki
 mendeio
 mendeioto
+mendejoko
 menino
 meno
 menta
@@ -8976,6 +9058,7 @@ miraclo
 miracolo
 miraculo
 mirator
+miratorio
 mirmecologette
 mirmecologia
 mirmecologo
@@ -9127,6 +9210,7 @@ monografette
 monografia
 monografica
 monoklo
+monolito
 monologo
 monorroda
 monstro
@@ -9326,6 +9410,7 @@ naturala
 nau
 nauhen
 navaia
+nave
 nazi
 nazismo
 ne
@@ -9436,6 +9521,7 @@ nevo
 nevon
 nevotia
 niki
+nila
 nimbo
 nimboi
 nimboie
@@ -9594,6 +9680,7 @@ oargaiet
 oargaiki
 oargaio
 oargaioto
+obeliskos
 obeo
 oblivei
 obliveie
@@ -9809,10 +9896,19 @@ optometria
 optometrica
 or
 oraben
+oraculum
 oranja
 oranjarina
 oranjela
 oratio
+orbita
+orbitai
+orbitaie
+orbitaieon
+orbitaiet
+orbitaiki
+orbitaio
+orbitaioto
 orden
 ordenai
 ordenaie
@@ -9929,6 +10025,13 @@ ovia
 ovo
 ovulo
 oxpisotsa
+oxtarrai
+oxtarraie
+oxtarraieon
+oxtarraiet
+oxtarraiki
+oxtarraio
+oxtarraioto
 oxto
 oxtoai
 oxtoaie
@@ -10041,6 +10144,7 @@ paleontologo
 paleopatologette
 paleopatologia
 paleopatologo
+paleta
 palinologia
 palme
 pambo
@@ -10111,6 +10215,7 @@ pardonaio
 pardonaioto
 pare
 parei
+pareidolia
 pareie
 pareieon
 pareiet
@@ -10299,6 +10404,8 @@ per
 pera
 perda
 perditio
+perene
+perenne
 peretai
 peretaie
 peretaieon
@@ -10440,6 +10547,7 @@ petra
 petracoasia
 petringo
 petro
+petrobase
 petrografia
 petrografica
 petroleologia
@@ -10860,7 +10968,16 @@ posiblaiki
 posiblaio
 posiblaioto
 positio
+posme
+posmo
 posmoi
+posmoire
+posmoireie
+posmoireieon
+posmoireio
+posmoireioto
+posmoireki
+posmoiret
 posologia
 posposai
 posposaie
@@ -11773,6 +11890,14 @@ refreskeiet
 refreskeiki
 refreskeio
 refreskeioto
+refunda
+refundai
+refundaie
+refundaieon
+refundaiet
+refundaiki
+refundaio
+refundaioto
 regaize
 regaizeie
 regaizeieon
@@ -11980,6 +12105,7 @@ renevoioto
 renno
 renta
 rentaio
+rentaria
 reologia
 repaira
 repaire
@@ -12076,6 +12202,15 @@ repuloiet
 repuloiki
 repuloio
 repuloioto
+reserva
+reservai
+reservaie
+reservaieon
+reservaiet
+reservaiki
+reservaio
+reservaioto
+reservo
 resetei
 reseteie
 reseteieon
@@ -12133,6 +12268,14 @@ restoraiki
 restoraio
 restoraioto
 restorante
+restrikta
+restriktai
+restriktaie
+restriktaieon
+restriktaiet
+restriktaiki
+restriktaio
+restriktaioto
 resurrectio
 retai
 retardato
@@ -12440,6 +12583,7 @@ rutsuko
 ruxga
 ruzeo
 ruzia
+ruztarrette
 ruztarro
 sacarimetria
 sacarimetrica
@@ -13098,6 +13242,7 @@ superdoblaiki
 superdoblaio
 superdoblaioto
 superdoble
+supernova
 supervisoi
 supervisoie
 supervisoieon
@@ -13213,6 +13358,7 @@ taieon
 taiet
 taiga
 taiki
+taina
 taine
 taineie
 taineieon
@@ -13231,6 +13377,7 @@ taireki
 tairet
 takanno
 takin
+taksa
 talasofobia
 talatro
 talco
@@ -13675,6 +13822,7 @@ traineioto
 traineki
 trainet
 traio
+traio
 traioto
 traire
 traireie
@@ -13683,6 +13831,7 @@ traireio
 traireioto
 traireki
 trairet
+trajedia
 traka
 tram
 trama
@@ -13974,6 +14123,14 @@ tsagraio
 tsagraioto
 tsagrio
 tsagrioso
+tsai
+tsaia
+tsaie
+tsaieon
+tsaiet
+tsaiki
+tsaio
+tsaioto
 tsamba
 tsambel
 tsambela
@@ -13983,6 +14140,7 @@ tsampeonato
 tsampinna
 tsance
 tsandelera
+tsaos
 tsara
 tsarakto
 tsardo
@@ -14282,6 +14440,7 @@ unlokeiki
 unlokeio
 unlokeioto
 unlokeioto
+unlokeo
 unludei
 unludeie
 unludeieon
@@ -14420,6 +14579,7 @@ vaden
 vadeo
 vadixa
 vadixaguaioro
+vagabondo
 vaka
 vakante
 vakerina
@@ -14453,6 +14613,7 @@ valuaiki
 valuaio
 valuaioto
 valuako
+vampiro
 vanaire
 vanaireie
 vanaireieon
@@ -14567,6 +14728,7 @@ ventette
 ventriculografia
 ventriculografica
 ventura
+venturette
 venux
 venzo
 verba
@@ -14643,7 +14805,15 @@ vih
 viktima
 vila
 vinagra
+vinai
+vinaie
+vinaieon
+vinaiet
+vinaiki
+vinaio
+vinaioto
 vingo
+vinide
 vinilo
 vino
 vinotela

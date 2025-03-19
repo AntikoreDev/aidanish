@@ -39,6 +39,14 @@
             }
         ]
     },
+    "a la vez": {
+        "entries": [
+            {
+                "meaning": "en mesma meto",
+                "specification": ""
+            }
+        ]
+    },
     "a la": {
         "entries": [
             {
@@ -567,6 +575,14 @@
         "entries": [
             {
                 "meaning": "abstena",
+                "specification": ""
+            }
+        ]
+    },
+    "abstracto": {
+        "entries": [
+            {
+                "meaning": "abstracto",
                 "specification": ""
             }
         ]
@@ -1351,6 +1367,30 @@
             }
         ]
     },
+    "adivinanza": {
+        "entries": [
+            {
+                "meaning": "mendejoko",
+                "specification": ""
+            }
+        ]
+    },
+    "adivinar": {
+        "entries": [
+            {
+                "meaning": "vinai",
+                "specification": ""
+            }
+        ]
+    },
+    "adivino": {
+        "entries": [
+            {
+                "meaning": "vinide",
+                "specification": ""
+            }
+        ]
+    },
     "adiós": {
         "entries": [
             {
@@ -1879,6 +1919,14 @@
         "entries": [
             {
                 "meaning": "ludai, agrupai",
+                "specification": ""
+            }
+        ]
+    },
+    "agua con gas": {
+        "entries": [
+            {
+                "meaning": "gasacoa",
                 "specification": ""
             }
         ]
@@ -3631,6 +3679,14 @@
             }
         ]
     },
+    "antimateria": {
+        "entries": [
+            {
+                "meaning": "antimateria",
+                "specification": ""
+            }
+        ]
+    },
     "antipático": {
         "entries": [
             {
@@ -5035,6 +5091,14 @@
             }
         ]
     },
+    "astuto": {
+        "entries": [
+            {
+                "meaning": "astuta",
+                "specification": ""
+            }
+        ]
+    },
     "asunto": {
         "entries": [
             {
@@ -5563,6 +5627,14 @@
             }
         ]
     },
+    "aventurero": {
+        "entries": [
+            {
+                "meaning": "venturette",
+                "specification": ""
+            }
+        ]
+    },
     "avergonzado": {
         "entries": [
             {
@@ -5895,6 +5967,14 @@
             }
         ]
     },
+    "balance": {
+        "entries": [
+            {
+                "meaning": "balanze",
+                "specification": ""
+            }
+        ]
+    },
     "balancear": {
         "entries": [
             {
@@ -6155,6 +6235,14 @@
         "entries": [
             {
                 "meaning": "furne",
+                "specification": ""
+            }
+        ]
+    },
+    "barón": {
+        "entries": [
+            {
+                "meaning": "baron",
                 "specification": ""
             }
         ]
@@ -7739,6 +7827,14 @@
             }
         ]
     },
+    "béisbol": {
+        "entries": [
+            {
+                "meaning": "beisbola",
+                "specification": ""
+            }
+        ]
+    },
     "bélgica": {
         "entries": [
             {
@@ -8835,6 +8931,14 @@
             }
         ]
     },
+    "caos": {
+        "entries": [
+            {
+                "meaning": "tsaos, caos",
+                "specification": ""
+            }
+        ]
+    },
     "capa": {
         "entries": [
             {
@@ -9159,6 +9263,14 @@
         "entries": [
             {
                 "meaning": "karno",
+                "specification": ""
+            }
+        ]
+    },
+    "carnet de conducir": {
+        "entries": [
+            {
+                "meaning": "carne da drivai",
                 "specification": ""
             }
         ]
@@ -10107,6 +10219,14 @@
         "entries": [
             {
                 "meaning": "kerranda",
+                "specification": ""
+            }
+        ]
+    },
+    "certificado": {
+        "entries": [
+            {
+                "meaning": "certifitio",
                 "specification": ""
             }
         ]
@@ -11271,6 +11391,14 @@
             }
         ]
     },
+    "cohete": {
+        "entries": [
+            {
+                "meaning": "fokonave",
+                "specification": ""
+            }
+        ]
+    },
     "cojear": {
         "entries": [
             {
@@ -11651,6 +11779,22 @@
             }
         ]
     },
+    "comedia": {
+        "entries": [
+            {
+                "meaning": "comedia",
+                "specification": ""
+            }
+        ]
+    },
+    "comediante": {
+        "entries": [
+            {
+                "meaning": "comediante",
+                "specification": ""
+            }
+        ]
+    },
     "comedor": {
         "entries": [
             {
@@ -11974,7 +12118,7 @@
     "compra": {
         "entries": [
             {
-                "meaning": "kompra",
+                "meaning": "kompra, loge",
                 "specification": ""
             },
             {
@@ -12887,6 +13031,14 @@
         "entries": [
             {
                 "meaning": "enterai, pronkai",
+                "specification": ""
+            }
+        ]
+    },
+    "continuidad": {
+        "entries": [
+            {
+                "meaning": "continuita",
                 "specification": ""
             }
         ]
@@ -14539,6 +14691,14 @@
             }
         ]
     },
+    "cumbre": {
+        "entries": [
+            {
+                "meaning": "cumbra",
+                "specification": ""
+            }
+        ]
+    },
     "cumpleaños": {
         "entries": [
             {
@@ -16007,6 +16167,14 @@
             }
         ]
     },
+    "desbloqueo": {
+        "entries": [
+            {
+                "meaning": "unlokeo",
+                "specification": ""
+            }
+        ]
+    },
     "descalzarse": {
         "entries": [
             {
@@ -16943,6 +17111,14 @@
         "entries": [
             {
                 "meaning": "nequalo",
+                "specification": ""
+            }
+        ]
+    },
+    "diferido": {
+        "entries": [
+            {
+                "meaning": "difero",
                 "specification": ""
             }
         ]
@@ -19011,6 +19187,14 @@
             }
         ]
     },
+    "encasillar": {
+        "entries": [
+            {
+                "meaning": "enkasiyai",
+                "specification": ""
+            }
+        ]
+    },
     "encefalografía": {
         "entries": [
             {
@@ -19883,6 +20067,22 @@
             }
         ]
     },
+    "erosionar": {
+        "entries": [
+            {
+                "meaning": "erodai",
+                "specification": ""
+            }
+        ]
+    },
+    "erosión": {
+        "entries": [
+            {
+                "meaning": "erodia",
+                "specification": ""
+            }
+        ]
+    },
     "erotología": {
         "entries": [
             {
@@ -20535,6 +20735,14 @@
         "entries": [
             {
                 "meaning": "espezialitata",
+                "specification": ""
+            }
+        ]
+    },
+    "especialista": {
+        "entries": [
+            {
+                "meaning": "espezialista",
                 "specification": ""
             }
         ]
@@ -21463,6 +21671,14 @@
             }
         ]
     },
+    "etéreo": {
+        "entries": [
+            {
+                "meaning": "etereo",
+                "specification": ""
+            }
+        ]
+    },
     "etólogo": {
         "entries": [
             {
@@ -21567,6 +21783,30 @@
         "entries": [
             {
                 "meaning": "examinai, testai",
+                "specification": ""
+            }
+        ]
+    },
+    "exceder": {
+        "entries": [
+            {
+                "meaning": "posmoire",
+                "specification": ""
+            }
+        ]
+    },
+    "excesivo": {
+        "entries": [
+            {
+                "meaning": "posmo",
+                "specification": ""
+            }
+        ]
+    },
+    "exceso": {
+        "entries": [
+            {
+                "meaning": "posme",
                 "specification": ""
             }
         ]
@@ -22059,6 +22299,14 @@
             }
         ]
     },
+    "fallido": {
+        "entries": [
+            {
+                "meaning": "erro",
+                "specification": ""
+            }
+        ]
+    },
     "falo": {
         "entries": [
             {
@@ -22110,7 +22358,7 @@
     "familia": {
         "entries": [
             {
-                "meaning": "pailako",
+                "meaning": "pailako, familia",
                 "specification": ""
             }
         ]
@@ -23095,6 +23343,14 @@
         "entries": [
             {
                 "meaning": "fractal",
+                "specification": ""
+            }
+        ]
+    },
+    "fragil": {
+        "entries": [
+            {
+                "meaning": "fragile",
                 "specification": ""
             }
         ]
@@ -25143,6 +25399,14 @@
             }
         ]
     },
+    "habilidoso": {
+        "entries": [
+            {
+                "meaning": "estiloso",
+                "specification": ""
+            }
+        ]
+    },
     "habitación": {
         "entries": [
             {
@@ -26203,6 +26467,14 @@
             }
         ]
     },
+    "holograma": {
+        "entries": [
+            {
+                "meaning": "holograma",
+                "specification": ""
+            }
+        ]
+    },
     "hombre": {
         "entries": [
             {
@@ -26875,6 +27147,22 @@
             }
         ]
     },
+    "ilusionar": {
+        "entries": [
+            {
+                "meaning": "iludei",
+                "specification": ""
+            }
+        ]
+    },
+    "ilusión": {
+        "entries": [
+            {
+                "meaning": "iluda",
+                "specification": ""
+            }
+        ]
+    },
     "imagen": {
         "entries": [
             {
@@ -27079,6 +27367,14 @@
             }
         ]
     },
+    "impuesto": {
+        "entries": [
+            {
+                "meaning": "taksa",
+                "specification": ""
+            }
+        ]
+    },
     "impulsar": {
         "entries": [
             {
@@ -27155,6 +27451,14 @@
         "entries": [
             {
                 "meaning": "eslantai, inklinai",
+                "specification": ""
+            }
+        ]
+    },
+    "incluido": {
+        "entries": [
+            {
+                "meaning": "includo",
                 "specification": ""
             }
         ]
@@ -27507,6 +27811,14 @@
             }
         ]
     },
+    "inmediato": {
+        "entries": [
+            {
+                "meaning": "imediato",
+                "specification": ""
+            }
+        ]
+    },
     "inmolación": {
         "entries": [
             {
@@ -27855,6 +28167,14 @@
             }
         ]
     },
+    "interés": {
+        "entries": [
+            {
+                "meaning": "rentaria",
+                "specification": "economía"
+            }
+        ]
+    },
     "intestino delgado": {
         "entries": [
             {
@@ -27959,6 +28279,14 @@
             }
         ]
     },
+    "inversión": {
+        "entries": [
+            {
+                "meaning": "investa",
+                "specification": ""
+            }
+        ]
+    },
     "invertir": {
         "entries": [
             {
@@ -28011,6 +28339,14 @@
             }
         ]
     },
+    "invisible": {
+        "entries": [
+            {
+                "meaning": "invisibla",
+                "specification": ""
+            }
+        ]
+    },
     "invitación": {
         "entries": [
             {
@@ -28039,6 +28375,14 @@
         "entries": [
             {
                 "meaning": "ruztarro",
+                "specification": ""
+            }
+        ]
+    },
+    "irascible": {
+        "entries": [
+            {
+                "meaning": "ruztarrette",
                 "specification": ""
             }
         ]
@@ -28451,6 +28795,14 @@
         "entries": [
             {
                 "meaning": "joko",
+                "specification": ""
+            }
+        ]
+    },
+    "juegos de malabar": {
+        "entries": [
+            {
+                "meaning": "malabarit",
                 "specification": ""
             }
         ]
@@ -29611,6 +29963,22 @@
             }
         ]
     },
+    "liquidación": {
+        "entries": [
+            {
+                "meaning": "likidatio",
+                "specification": "economía"
+            }
+        ]
+    },
+    "liquidar": {
+        "entries": [
+            {
+                "meaning": "likidai",
+                "specification": "economía"
+            }
+        ]
+    },
     "lirio": {
         "entries": [
             {
@@ -29647,6 +30015,22 @@
         "entries": [
             {
                 "meaning": "lista",
+                "specification": ""
+            }
+        ]
+    },
+    "listado": {
+        "entries": [
+            {
+                "meaning": "listata",
+                "specification": ""
+            }
+        ]
+    },
+    "listar": {
+        "entries": [
+            {
+                "meaning": "listai",
                 "specification": ""
             }
         ]
@@ -30203,6 +30587,14 @@
             }
         ]
     },
+    "lujurioso": {
+        "entries": [
+            {
+                "meaning": "luxurio",
+                "specification": ""
+            }
+        ]
+    },
     "lujuría": {
         "entries": [
             {
@@ -30571,6 +30963,14 @@
             }
         ]
     },
+    "malabarista": {
+        "entries": [
+            {
+                "meaning": "malabarista",
+                "specification": ""
+            }
+        ]
+    },
     "malacología": {
         "entries": [
             {
@@ -30631,6 +31031,14 @@
             },
             {
                 "meaning": "maldito",
+                "specification": ""
+            }
+        ]
+    },
+    "malgastar": {
+        "entries": [
+            {
+                "meaning": "malgastai",
                 "specification": ""
             }
         ]
@@ -31571,6 +31979,14 @@
         "entries": [
             {
                 "meaning": "mauia",
+                "specification": ""
+            }
+        ]
+    },
+    "maximizar": {
+        "entries": [
+            {
+                "meaning": "oxtarrai",
                 "specification": ""
             }
         ]
@@ -33115,6 +33531,14 @@
             }
         ]
     },
+    "monolito": {
+        "entries": [
+            {
+                "meaning": "monolito",
+                "specification": ""
+            }
+        ]
+    },
     "monstruo": {
         "entries": [
             {
@@ -33791,6 +34215,14 @@
             }
         ]
     },
+    "mármol": {
+        "entries": [
+            {
+                "meaning": "marbel",
+                "specification": ""
+            }
+        ]
+    },
     "más que perfecto": {
         "entries": [
             {
@@ -34023,6 +34455,14 @@
             }
         ]
     },
+    "nave": {
+        "entries": [
+            {
+                "meaning": "nave",
+                "specification": ""
+            }
+        ]
+    },
     "navegador": {
         "entries": [
             {
@@ -34059,6 +34499,14 @@
         "entries": [
             {
                 "meaning": "nebula",
+                "specification": ""
+            }
+        ]
+    },
+    "necesario": {
+        "entries": [
+            {
+                "meaning": "traio",
                 "specification": ""
             }
         ]
@@ -34955,6 +35403,22 @@
             }
         ]
     },
+    "número impar": {
+        "entries": [
+            {
+                "meaning": "impare",
+                "specification": ""
+            }
+        ]
+    },
+    "número par": {
+        "entries": [
+            {
+                "meaning": "pare",
+                "specification": ""
+            }
+        ]
+    },
     "número": {
         "entries": [
             {
@@ -34979,6 +35443,14 @@
             }
         ]
     },
+    "obelisco": {
+        "entries": [
+            {
+                "meaning": "obeliskos",
+                "specification": ""
+            }
+        ]
+    },
     "obispo": {
         "entries": [
             {
@@ -34999,6 +35471,14 @@
         "entries": [
             {
                 "meaning": "item",
+                "specification": ""
+            }
+        ]
+    },
+    "observatorio": {
+        "entries": [
+            {
+                "meaning": "miratorio",
                 "specification": ""
             }
         ]
@@ -35559,6 +36039,14 @@
             }
         ]
     },
+    "orbitar": {
+        "entries": [
+            {
+                "meaning": "orbitai",
+                "specification": ""
+            }
+        ]
+    },
     "orchata": {
         "entries": [
             {
@@ -35637,6 +36125,10 @@
     },
     "oreja": {
         "entries": [
+            {
+                "meaning": "herro da bota",
+                "specification": "calzado"
+            },
             {
                 "meaning": "oitio",
                 "specification": ""
@@ -35863,6 +36355,14 @@
         "entries": [
             {
                 "meaning": "orwelliana",
+                "specification": ""
+            }
+        ]
+    },
+    "oráculo": {
+        "entries": [
+            {
+                "meaning": "oraculum",
                 "specification": ""
             }
         ]
@@ -36331,6 +36831,14 @@
         "entries": [
             {
                 "meaning": "paleopatologo, paleopatologette",
+                "specification": ""
+            }
+        ]
+    },
+    "paleta": {
+        "entries": [
+            {
+                "meaning": "paleta",
                 "specification": ""
             }
         ]
@@ -36835,6 +37343,14 @@
         "entries": [
             {
                 "meaning": "aseire, lokai",
+                "specification": ""
+            }
+        ]
+    },
+    "pareidola": {
+        "entries": [
+            {
+                "meaning": "pareidolia",
                 "specification": ""
             }
         ]
@@ -37923,6 +38439,14 @@
             }
         ]
     },
+    "perenne": {
+        "entries": [
+            {
+                "meaning": "perene, perenne",
+                "specification": ""
+            }
+        ]
+    },
     "pereza": {
         "entries": [
             {
@@ -38900,6 +39424,10 @@
             {
                 "meaning": "pinko",
                 "specification": ""
+            },
+            {
+                "meaning": "nila",
+                "specification": ""
             }
         ]
     },
@@ -38960,6 +39488,14 @@
             {
                 "meaning": "pinta",
                 "specification": "objeto"
+            }
+        ]
+    },
+    "pintura rupestre": {
+        "entries": [
+            {
+                "meaning": "antiopinto",
+                "specification": ""
             }
         ]
     },
@@ -39387,6 +39923,14 @@
         "entries": [
             {
                 "meaning": "plantaire",
+                "specification": ""
+            }
+        ]
+    },
+    "plantilla": {
+        "entries": [
+            {
+                "meaning": "petrobase",
                 "specification": ""
             }
         ]
@@ -41475,6 +42019,14 @@
             }
         ]
     },
+    "punta": {
+        "entries": [
+            {
+                "meaning": "nila",
+                "specification": ""
+            }
+        ]
+    },
     "punto de mira": {
         "entries": [
             {
@@ -42695,6 +43247,22 @@
             }
         ]
     },
+    "reembolsar": {
+        "entries": [
+            {
+                "meaning": "refundai",
+                "specification": ""
+            }
+        ]
+    },
+    "reembolso": {
+        "entries": [
+            {
+                "meaning": "refunda",
+                "specification": ""
+            }
+        ]
+    },
     "reenvío": {
         "entries": [
             {
@@ -42771,6 +43339,14 @@
         "entries": [
             {
                 "meaning": "refreskei",
+                "specification": ""
+            }
+        ]
+    },
+    "refresco": {
+        "entries": [
+            {
+                "meaning": "fiztrinka",
                 "specification": ""
             }
         ]
@@ -43331,6 +43907,30 @@
             }
         ]
     },
+    "reserva": {
+        "entries": [
+            {
+                "meaning": "reserva",
+                "specification": ""
+            }
+        ]
+    },
+    "reservado": {
+        "entries": [
+            {
+                "meaning": "reservo",
+                "specification": ""
+            }
+        ]
+    },
+    "reservar": {
+        "entries": [
+            {
+                "meaning": "reservai",
+                "specification": ""
+            }
+        ]
+    },
     "resguardar": {
         "entries": [
             {
@@ -43515,6 +44115,22 @@
         "entries": [
             {
                 "meaning": "reste, resto, zorve, deproxo",
+                "specification": ""
+            }
+        ]
+    },
+    "restricción": {
+        "entries": [
+            {
+                "meaning": "restrikta",
+                "specification": ""
+            }
+        ]
+    },
+    "restringir": {
+        "entries": [
+            {
+                "meaning": "restriktai",
                 "specification": ""
             }
         ]
@@ -44487,6 +45103,22 @@
         "entries": [
             {
                 "meaning": "tsugo",
+                "specification": ""
+            }
+        ]
+    },
+    "salpicadura": {
+        "entries": [
+            {
+                "meaning": "tsaia",
+                "specification": ""
+            }
+        ]
+    },
+    "salpicar": {
+        "entries": [
+            {
+                "meaning": "tsai",
                 "specification": ""
             }
         ]
@@ -46763,6 +47395,14 @@
             }
         ]
     },
+    "sujeción": {
+        "entries": [
+            {
+                "meaning": "suje",
+                "specification": ""
+            }
+        ]
+    },
     "sujetador": {
         "entries": [
             {
@@ -46863,6 +47503,14 @@
         "entries": [
             {
                 "meaning": "supratela",
+                "specification": ""
+            }
+        ]
+    },
+    "supernova": {
+        "entries": [
+            {
+                "meaning": "supernova",
                 "specification": ""
             }
         ]
@@ -48019,6 +48667,22 @@
         "entries": [
             {
                 "meaning": "tinera, trintso",
+                "specification": ""
+            }
+        ]
+    },
+    "tenencia": {
+        "entries": [
+            {
+                "meaning": "taina",
+                "specification": ""
+            }
+        ]
+    },
+    "posesión": {
+        "entries": [
+            {
+                "meaning": "taina",
                 "specification": ""
             }
         ]
@@ -49351,6 +50015,14 @@
         "entries": [
             {
                 "meaning": "quei",
+                "specification": ""
+            }
+        ]
+    },
+    "tragedia": {
+        "entries": [
+            {
+                "meaning": "trajedia",
                 "specification": ""
             }
         ]
@@ -50875,6 +51547,14 @@
             }
         ]
     },
+    "vagabundo": {
+        "entries": [
+            {
+                "meaning": "vagabondo",
+                "specification": ""
+            }
+        ]
+    },
     "vago": {
         "entries": [
             {
@@ -50987,6 +51667,14 @@
         "entries": [
             {
                 "meaning": "valuai",
+                "specification": ""
+            }
+        ]
+    },
+    "vampiro": {
+        "entries": [
+            {
+                "meaning": "vampiro",
                 "specification": ""
             }
         ]
@@ -52871,6 +53559,14 @@
             }
         ]
     },
+    "éter": {
+        "entries": [
+            {
+                "meaning": "eter",
+                "specification": ""
+            }
+        ]
+    },
     "ética": {
         "entries": [
             {
@@ -52883,6 +53579,14 @@
         "entries": [
             {
                 "meaning": "icor",
+                "specification": ""
+            }
+        ]
+    },
+    "ídolo": {
+        "entries": [
+            {
+                "meaning": "idola",
                 "specification": ""
             }
         ]
@@ -52923,6 +53627,14 @@
         "entries": [
             {
                 "meaning": "optima",
+                "specification": ""
+            }
+        ]
+    },
+    "órbita": {
+        "entries": [
+            {
+                "meaning": "orbita",
                 "specification": ""
             }
         ]

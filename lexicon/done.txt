@@ -3,6 +3,7 @@ a la
 a la derecha
 a la izquierda
 a la mierda
+a la vez
 a punto de terminar
 a veces
 abadía
@@ -63,6 +64,7 @@ abstener
 abstenerse
 abstenido
 abstinencia
+abstracto
 abstruso
 abuela
 abuelastra
@@ -155,6 +157,9 @@ adicción
 adición
 adictivo
 adicto
+adivinanza
+adivinar
+adivino
 adiós
 administrador
 administrar
@@ -223,6 +228,7 @@ agrología
 agrupación
 agrupar
 agua
+agua con gas
 aguacate
 aguantar
 aguante
@@ -437,6 +443,7 @@ antiguano
 antiguedad
 antiguo
 antilogía
+antimateria
 antipático
 antología
 antorcha
@@ -612,6 +619,7 @@ astronauta
 astronomía
 astrólogo
 astrónomo
+astuto
 asunto
 asustar
 así
@@ -679,6 +687,7 @@ avaricia
 avaricioso
 avenida
 aventura
+aventurero
 avergonzado
 avergonzar
 avestruz
@@ -720,6 +729,7 @@ bajada
 bajar
 bajo
 bala
+balance
 balancear
 balanza
 balcón
@@ -752,6 +762,7 @@ barricada
 barrido
 barril
 barrote
+barón
 basalto
 base
 bastante
@@ -944,6 +955,7 @@ butaca
 butano
 bárbaro
 bégimo
+béisbol
 bélgica
 bélico
 búfalo
@@ -1082,6 +1094,7 @@ canto
 canto angeligcal
 caníbal
 caoba
+caos
 capa
 capacidad de algo para mantenerse íntegro; consistente y no dañarse o degradarse con el tiempo
 capaz
@@ -1125,6 +1138,7 @@ carnada
 carnaval
 carne
 carne de cerdo
+carnet de conducir
 carnicero
 carnoso
 carnívoro
@@ -1244,6 +1258,7 @@ cerrar
 cerrar con llave
 cerrar sesión
 cerrojo
+certificado
 cerveza
 cesta
 cetro
@@ -1377,6 +1392,7 @@ codorniz
 cofre
 coger
 cogida
+cohete
 cojear
 cojín
 cojón
@@ -1421,6 +1437,8 @@ comburente
 combustible
 combustión
 combusto
+comedia
+comediante
 comedor
 comenzar
 comer
@@ -1569,6 +1587,7 @@ conteo
 contestar
 contexto
 continuar
+continuidad
 continuista
 continuo
 contra
@@ -1772,6 +1791,7 @@ cultivo
 culto
 cultura
 cultural
+cumbre
 cumpleaños
 cumplir
 cumplir años
@@ -1950,6 +1970,7 @@ desayunar
 desayuno
 desbloqueado
 desbloquear
+desbloqueo
 descalzarse
 descalzo
 descansar
@@ -2066,6 +2087,7 @@ dietético
 diez
 diferenciar
 diferente
+diferido
 diferir
 dificultad
 difícil
@@ -2313,6 +2335,7 @@ en serio
 en vez de
 encantar
 encanto
+encasillar
 encefalografía
 encegar
 encender
@@ -2421,6 +2444,8 @@ ergonomía
 ergonómico
 erizo
 ermitaño
+erosionar
+erosión
 erotología
 erotólogo
 errata
@@ -2498,6 +2523,7 @@ españa
 español
 especial
 especialidad
+especialista
 especializar
 especie
 espectador
@@ -2613,6 +2639,7 @@ etnografía
 etnología
 etnólogo
 etología
+etéreo
 etólogo
 eucalipto
 eudiometría
@@ -2628,6 +2655,9 @@ exagerar
 examen
 examinación
 examinar
+exceder
+excesivo
+exceso
 excitación
 excitar
 excremento de caballo
@@ -2683,6 +2713,7 @@ facilitar que algo ocurra
 faisán
 falda
 fallar
+fallido
 fallo
 falo
 falso
@@ -2816,6 +2847,7 @@ fotometría
 fototipografía
 fracción
 fractal
+fragil
 fragmentar
 fragmento
 frailecillo
@@ -3065,6 +3097,7 @@ haba
 haber
 haber niebla
 habilidad
+habilidoso
 habitación
 habla
 hablante
@@ -3198,6 +3231,7 @@ hoja
 hola
 holanda
 holografía
+holograma
 hombre
 homenaje
 homenajear
@@ -3280,6 +3314,8 @@ ignorado
 ignorar
 igual
 ilimitado
+ilusionar
+ilusión
 imagen
 imagenología
 imaginación
@@ -3304,6 +3340,7 @@ impresión
 impreso
 impresora
 imprimir
+impuesto
 impulsar
 impulso
 imán
@@ -3314,6 +3351,7 @@ incertidumbre
 incienso
 inclinación
 inclinar
+incluido
 incluir
 incluso
 incomodidad
@@ -3356,6 +3394,7 @@ inhalar
 iniciar
 iniciar sesión
 inicio
+inmediato
 inmolación
 inmolar
 inmortal
@@ -3398,6 +3437,7 @@ interfaz
 intermitente
 internet
 intervalo
+interés
 intestino delgado
 intestino grueso
 introducción
@@ -3411,16 +3451,19 @@ inundar
 inventar
 inventario
 invernadero
+inversión
 invertir
 invertir el uso de dos palabras en una oración por error
 investigación
 investigador
 investigar
 invierno
+invisible
 invitación
 invitar
 ir
 ira
+irascible
 iridología
 iridólogo
 iris
@@ -3469,6 +3512,7 @@ jodida
 jornada
 joven
 juego
+juegos de malabar
 jueves
 juez
 jugador
@@ -3612,10 +3656,14 @@ limón
 linguisitico
 linterna
 liquen
+liquidación
+liquidar
 lirio
 lisboa
 lista
 lista de cosas que hacer
+listado
+listar
 listo
 litera
 literal
@@ -3682,6 +3730,7 @@ lugar donde se origina una pandemia endemia o epidemia
 lugar propenso a desprendimientos
 lujo
 lujoso
+lujurioso
 lujuría
 luna
 lunes
@@ -3726,6 +3775,7 @@ magnético
 mago
 majo
 mal
+malabarista
 malacología
 malacólogo
 malasombra
@@ -3733,6 +3783,7 @@ maldad
 maldecir
 maldición
 maldito
+malgastar
 malhechor
 malherbología
 maligno
@@ -3848,6 +3899,7 @@ matrimonio
 matriz
 maullar
 maullido
+maximizar
 maximo
 mayo
 mayonesa
@@ -4027,6 +4079,7 @@ mono
 monociclo
 monografía
 monográfo
+monolito
 monstruo
 montar
 montaña
@@ -4108,6 +4161,7 @@ muñeco
 mágica
 mágico
 máquina
+mármol
 más
 más que perfecto
 máscara
@@ -4137,11 +4191,13 @@ nativo
 natural
 naturaleza
 navaja
+nave
 navegador
 navidad
 nazi
 nazismo
 nebulosa
+necesario
 necesidad
 necesitar
 necrofilia
@@ -4253,11 +4309,15 @@ néctar
 níscalo
 núcleo
 número
+número impar
+número par
 o
+obelisco
 obispo
 objetivo
 objeto
 objeto mágico que da suerte
+observatorio
 obsesionarse
 obsesión
 obseso
@@ -4329,6 +4389,7 @@ optimizar
 optometría
 oración
 orangután
+orbitar
 orchata
 orden
 ordenación
@@ -4364,6 +4425,7 @@ ortología
 ortotipografía
 ortólogo
 orwelliano
+oráculo
 orégano
 os
 oscuridad
@@ -4421,6 +4483,7 @@ paleontología
 paleontólogo
 paleopatología
 paleopatólogo
+paleta
 paleólogo
 palinología
 paliza
@@ -4482,6 +4545,7 @@ paraíso
 parcela
 parecer
 pared
+pareidola
 pareja
 paremiología
 paremiólogo
@@ -4613,6 +4677,7 @@ perdonar
 perdón
 perecer
 perejil
+perenne
 pereza
 perezoso
 perfeccionar
@@ -4739,6 +4804,7 @@ pino
 pintar
 pintor
 pintura
+pintura rupestre
 pinza
 piojo
 pipa
@@ -4785,6 +4851,7 @@ planta
 planta petrolífera
 planta violácea utilizada para crear el té purpur
 plantar
+plantilla
 plasma
 plata
 plataforma
@@ -4872,6 +4939,7 @@ posavasos
 pose
 poseer
 posesivo
+posesión
 poseído
 posibilitar
 posible
@@ -5040,6 +5108,7 @@ pulpo
 pulsar
 pulsera
 puma
+punta
 punto
 punto de mira
 puntuación
@@ -5188,6 +5257,8 @@ red social
 redil
 redondo
 reducir de tamaño o cambiar la forma de una palabra para que esta suene mejor
+reembolsar
+reembolso
 reenvío
 referencia
 referenciar
@@ -5198,6 +5269,7 @@ reflexión
 reflexología
 reflexólogo
 refrescar
+refresco
 refrigerador
 regadera
 regalar
@@ -5268,6 +5340,9 @@ reptar
 reptil
 repuesto
 república
+reserva
+reservado
+reservar
 resguardar
 residencia
 residente
@@ -5290,6 +5365,8 @@ restar
 restaurante
 restaurar
 resto
+restricción
+restringir
 resultado
 resumen
 resumir
@@ -5416,6 +5493,8 @@ salir
 salir a comprar artículos de vida básicos
 salir de fiesta de forma sana; sin beber ni drogarse ni cosas de la misma índole
 salmón
+salpicadura
+salpicar
 salsa
 salsa tártara
 saltador
@@ -5690,6 +5769,7 @@ suicida
 suicidio
 suiza
 suizo
+sujeción
 sujetador
 sujetapapeles
 sujetar
@@ -5701,6 +5781,7 @@ sumergir
 superar
 superavit
 superficie
+supernova
 supervisar
 supervivencia
 suplicar
@@ -5836,6 +5917,7 @@ tender
 tenderete
 tendero
 tenedor
+tenencia
 tener
 tener hambre
 tener sed
@@ -6002,6 +6084,7 @@ traficación
 traficante
 traficar
 tragar
+tragedia
 traicionar
 traicionero
 traición
@@ -6191,6 +6274,7 @@ vacunología
 vacunólogo
 vacío
 vademécum
+vagabundo
 vago
 vagón
 vajilla
@@ -6203,6 +6287,7 @@ valle
 valor
 valorado
 valorar
+vampiro
 vanidad
 vaquero
 variable
@@ -6436,13 +6521,16 @@ zócalo
 ático
 épico
 época
+éter
 ética
 ícor
+ídolo
 índigo
 ñú
 óculo
 óleo
 óptimo
+órbita
 ósmosis
 óvalo
 óvulo

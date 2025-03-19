@@ -37,6 +37,7 @@ absoluto
 abstena
 abstenai
 absteno
+abstracto
 abstruso
 abvogette
 abysal
@@ -467,7 +468,9 @@ antifaz
 antiguaneo
 antilogia
 antimaiso
+antimateria
 antio
+antiopinto
 antologette
 antologia
 antologo
@@ -656,6 +659,7 @@ astronatte
 astronomette
 astronomia
 astronomo
+astuta
 asunna
 ata
 atai
@@ -806,6 +810,7 @@ balakava
 balantai
 balante
 balanzai
+balanze
 bale
 baletrumbe
 baluaro
@@ -835,6 +840,7 @@ barco
 bardo
 barei
 baretsa
+baron
 barraca
 barre
 barrera
@@ -873,6 +879,7 @@ beilai
 beilaoro
 beilaxette
 beiloxte
+beisbola
 beixize
 beke
 beko
@@ -1180,6 +1187,7 @@ cansenda
 cantena
 cantimpla
 cantsa
+caos
 capa
 capela
 capital
@@ -1249,6 +1257,7 @@ celula
 centara
 centela
 centelai
+certifitio
 certo
 cesta
 cestai
@@ -1384,6 +1393,8 @@ comburente
 combustable
 combustio
 combusto
+comedia
+comediante
 cometai
 comic
 compadai
@@ -1481,6 +1492,7 @@ contesta
 contestai
 contia
 contino
+continuita
 continum
 conto
 contraine
@@ -1617,6 +1629,7 @@ cule
 culepipra
 culto
 cumba
+cumbra
 cumo
 cumul
 cumulo
@@ -1848,6 +1861,7 @@ dieteko
 dietexette
 diferei
 diferikei
+difero
 digital
 digito
 dijerai
@@ -2219,6 +2233,7 @@ enginio
 eni
 enkampe
 enkantai
+enkasiyai
 enkerraire
 enko
 enlitai
@@ -2306,12 +2321,15 @@ ergote
 eriodai
 eriodo
 erko
+erodai
+erodia
 erotologette
 erotologia
 erotologo
 erra
 errai
 errairiko
+erro
 ersai
 erso
 ersoi
@@ -2442,6 +2460,7 @@ espelologia
 esperantesta
 esperanto
 espezial
+espezialista
 espezialitai
 espezialitata
 espezie
@@ -2507,6 +2526,7 @@ estereometria
 estereometrica
 esternocleidomastoideo
 estila
+estiloso
 estima
 estimai
 estimatio
@@ -2545,7 +2565,9 @@ esturion
 et-tsara
 etanol
 etempo
+eter
 eteraz
+etereo
 etika
 etimologette
 etimologia
@@ -2650,6 +2672,7 @@ falo
 fama
 fame
 fameno
+familia
 famina
 fanso
 fantasma
@@ -2769,6 +2792,7 @@ fixoa
 fixola
 fixolo
 fizo
+fiztrinka
 flama
 flamencologette
 flamencologia
@@ -2810,6 +2834,7 @@ fokai
 fokalarme
 foke
 foko
+fokonave
 fokso
 fola
 folai
@@ -2883,6 +2908,7 @@ foyer
 fractai
 fractal
 fracto
+fragile
 fraktio
 frakza
 frambo
@@ -2976,6 +3002,7 @@ gardaxette
 gardenia
 garlo
 gas
+gasacoa
 gaslighting
 gasola
 gasometria
@@ -3318,6 +3345,7 @@ holande
 holeko
 holografia
 holografica
+holograma
 hombai
 homenaie
 homenaire
@@ -3420,6 +3448,7 @@ ideografica
 ideologette
 ideologia
 ideologo
+idola
 idolologia
 idurei
 igerne
@@ -3443,13 +3472,17 @@ ikroso
 ila
 ilaoro
 ilon
+iluda
+iludei
 imagenologia
 imaginatio
 imaginei
 imagineiko
 imake
+imediato
 imfranto
 impaire
+impare
 imperia
 imperso
 impersoi
@@ -3469,6 +3502,7 @@ inakcesibila
 inakcesibla
 incenso
 includei
+includo
 inclusive
 inconforta
 inconforte
@@ -3583,8 +3617,10 @@ intsina
 intso
 invernadero
 invertai
+investa
 investai
 invikso
+invisibla
 invitatio
 invitei
 invocabulai
@@ -4098,6 +4134,8 @@ lika
 likai
 likena
 likenimbo
+likidai
+likidatio
 likra
 likrai
 likraiso
@@ -4123,6 +4161,8 @@ lipuda
 liqen
 lisbona
 lista
+listai
+listata
 listo
 lita
 litai
@@ -4214,6 +4254,7 @@ luxo
 luxocrasis
 luxoso
 luxuria
+luxurio
 mace
 macrofotografia
 macrofotografica
@@ -4255,12 +4296,15 @@ maiso
 makarron
 makora
 makorai
+malabarista
+malabarit
 malacologette
 malacologia
 malacologo
 maldikei
 malditio
 maldito
+malgastai
 malherbologia
 malira
 mallea
@@ -4307,6 +4351,7 @@ mapatso
 maploa
 maraton
 marayato
+marbel
 mare
 marestrela
 marine
@@ -4423,6 +4468,7 @@ menagio
 menale
 mende
 mendei
+mendejoko
 menino
 meno
 menta
@@ -4524,6 +4570,7 @@ miraclo
 miracolo
 miraculo
 mirator
+miratorio
 mirmecologette
 mirmecologia
 mirmecologo
@@ -4597,6 +4644,7 @@ monografette
 monografia
 monografica
 monoklo
+monolito
 monologo
 monorroda
 monstro
@@ -4706,6 +4754,7 @@ naturala
 nau
 nauhen
 navaia
+nave
 nazi
 nazismo
 ne
@@ -4786,6 +4835,7 @@ nevo
 nevon
 nevotia
 niki
+nila
 nimbo
 nimboi
 nimboso
@@ -4878,6 +4928,7 @@ nuzelara
 o
 oarga
 oargai
+obeliskos
 obeo
 oblivei
 oblivo
@@ -4979,10 +5030,13 @@ optometria
 optometrica
 or
 oraben
+oraculum
 oranja
 oranjarina
 oranjela
 oratio
+orbita
+orbitai
 orden
 ordenai
 ordo
@@ -5057,6 +5111,7 @@ ovia
 ovo
 ovulo
 oxpisotsa
+oxtarrai
 oxto
 oxtoai
 oxtokotse
@@ -5121,6 +5176,7 @@ paleontologo
 paleopatologette
 paleopatologia
 paleopatologo
+paleta
 palinologia
 palme
 pambo
@@ -5173,6 +5229,7 @@ pardon
 pardonai
 pare
 parei
+pareidolia
 paremiologette
 paremiologia
 paremiologo
@@ -5271,6 +5328,8 @@ per
 pera
 perda
 perditio
+perene
+perenne
 peretai
 perfektei
 perfektio
@@ -5334,6 +5393,7 @@ petra
 petracoasia
 petringo
 petro
+petrobase
 petrografia
 petrografica
 petroleologia
@@ -5568,7 +5628,10 @@ posibilitai
 posibla
 posiblai
 positio
+posme
+posmo
 posmoi
+posmoire
 posologia
 posposai
 posta
@@ -5935,6 +5998,8 @@ refleksologette
 refleksologia
 refleksologo
 refreskei
+refunda
+refundai
 regaize
 regaizo
 regalei
@@ -6004,6 +6069,7 @@ renevoi
 renno
 renta
 rentaio
+rentaria
 reologia
 repaira
 repaire
@@ -6034,6 +6100,9 @@ reproxei
 reptile
 republika
 repuloi
+reserva
+reservai
+reservo
 resetei
 resistai
 resistentia
@@ -6049,6 +6118,8 @@ restei
 resto
 restorai
 restorante
+restrikta
+restriktai
 resurrectio
 retai
 retardato
@@ -6182,6 +6253,7 @@ rutsuko
 ruxga
 ruzeo
 ruzia
+ruztarrette
 ruztarro
 sacarimetria
 sacarimetrica
@@ -6510,6 +6582,7 @@ superbia
 superbo
 superdoblai
 superdoble
+supernova
 supervisoi
 supoi
 suportai
@@ -6549,10 +6622,12 @@ tagaro
 tago
 tai
 taiga
+taina
 taine
 taire
 takanno
 takin
+taksa
 talasofobia
 talatro
 talco
@@ -6824,7 +6899,9 @@ trafiko
 trai
 traia
 traine
+traio
 traire
+trajedia
 traka
 tram
 trama
@@ -6960,6 +7037,8 @@ tsafala
 tsagrai
 tsagrio
 tsagrioso
+tsai
+tsaia
 tsamba
 tsambel
 tsambela
@@ -6969,6 +7048,7 @@ tsampeonato
 tsampinna
 tsance
 tsandelera
+tsaos
 tsara
 tsarakto
 tsardo
@@ -7106,6 +7186,7 @@ unlitero
 unloioko
 unlokei
 unlokeioto
+unlokeo
 unludei
 unmembria
 unmiseioko
@@ -7184,6 +7265,7 @@ vaden
 vadeo
 vadixa
 vadixaguaioro
+vagabondo
 vaka
 vakante
 vakerina
@@ -7199,6 +7281,7 @@ valo
 valua
 valuai
 valuako
+vampiro
 vanaire
 vanairo
 vanaize
@@ -7259,6 +7342,7 @@ ventette
 ventriculografia
 ventriculografica
 ventura
+venturette
 venux
 venzo
 verba
@@ -7305,7 +7389,9 @@ vih
 viktima
 vila
 vinagra
+vinai
 vingo
+vinide
 vinilo
 vino
 vinotela
