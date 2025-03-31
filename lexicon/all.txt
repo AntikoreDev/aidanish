@@ -1859,7 +1859,7 @@ dacriología → dacriologia
 dactiliología → dactiliologia
 dactilografía → dactilografia, dactilografica
 dactilología → dactilologia
-dado → dize
+dado → aleo, dize
 daga → diaga
 dama → dama, mena
 damas (juego de mesa) → menale
@@ -2246,6 +2246,7 @@ dícese de un grupo de personas que participa en un evento conjunto sin que real
 dólar → dolar
 dúplex → duplex
 ebullición, evaporación → inherba
+echar suerte → aleai
 echar → etsoi
 echarse alguien los huevos a tuto, armar de valor, echarle huevos → retrai nai valia
 eco → eco

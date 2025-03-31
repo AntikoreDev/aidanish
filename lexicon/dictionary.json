@@ -15078,7 +15078,7 @@
     "dado": {
         "entries": [
             {
-                "meaning": "dize",
+                "meaning": "aleo, dize",
                 "specification": ""
             }
         ]
@@ -18239,6 +18239,14 @@
         "entries": [
             {
                 "meaning": "inherba",
+                "specification": ""
+            }
+        ]
+    },
+    "echar suerte": {
+        "entries": [
+            {
+                "meaning": "aleai",
                 "specification": ""
             }
         ]

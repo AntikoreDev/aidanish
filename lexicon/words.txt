@@ -302,6 +302,8 @@ aldeterranno
 aldex
 aldexet
 aldo
+aleai
+aleo
 alergologette
 alergologia
 alergologo
