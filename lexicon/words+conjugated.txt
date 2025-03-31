@@ -7185,6 +7185,7 @@ instaloro
 instancea
 instantako
 instituzio
+instruktio
 instrumento
 insular
 insulso

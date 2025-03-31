@@ -3442,6 +3442,7 @@ instancia → instancea
 instantáneo → instantako
 institución → instituzio
 instituto → aito-esaroriun
+instrucción → instruktio
 instrumento → instrumento
 insular → insular
 insulto → insulto, retro, insulso

@@ -2854,6 +2854,7 @@ ei instaloro
 la instancea
 ei instituzio
 ei aito-esaroriun
+ei instruktio
 ei instrumento
 ei insulto
 ei retro

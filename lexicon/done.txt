@@ -3419,6 +3419,7 @@ instancia
 instantáneo
 institución
 instituto
+instrucción
 instrumento
 insular
 insulto

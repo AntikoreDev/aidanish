@@ -2298,6 +2298,7 @@ instalador → instaloro
 instancia → instancea
 institución → instituzio
 instituto → aito-esaroriun
+instrucción → instruktio
 instrumento → instrumento
 insulto → insulto, retro, insulso
 intelecto → intelekto
