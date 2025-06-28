@@ -772,6 +772,10 @@ calorimetría → calorimetria, calorimetrica
 calzoncillo → carkazono, hunga
 caléndula → calendula
 cama → dormebas
+ama de casa → domonika
+fábrica → factoria
+vapor → vapor
+máquina de vapor → vapormatsina
 camaleón → jideor
 camarero → hostexette
 cambio → kambio
