@@ -989,6 +989,9 @@ blinda
 blindai
 bliqa
 bliqai
+blita
+blitai
+blite
 bloke
 blokenko
 blon
@@ -1986,6 +1989,7 @@ dominko
 domo
 domodoio
 domonija
+domonika
 dona
 donai
 donde
@@ -2647,6 +2651,7 @@ ezurrai
 faba
 fabla
 facto
+factoria
 fago
 fai
 faiette
@@ -4407,6 +4412,7 @@ matematikas
 materia
 matrace
 matriks
+matrinai
 matrona
 matsakai
 matsasa
@@ -7297,6 +7303,8 @@ vanka
 vano
 vanokisa
 vao
+vapor
+vapormatsina
 varei
 vari
 variable

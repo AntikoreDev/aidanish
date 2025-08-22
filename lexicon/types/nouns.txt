@@ -597,7 +597,7 @@ bechamel → betsamel
 begonia (flor) → begonna
 belleza → belesa
 bellota → nutsa
-bendición → bendizatio
+bendición → bendizatio, blite, blita
 beneficio → benefitio
 bengala → bengala, fira
 berenjena → isaloa
@@ -1905,6 +1905,7 @@ flexión (ejercicio) → koratika
 flor → floira
 flora → flora
 fluido → flogo
+condición climática específica de lluvia ligera, nubes dispersas y sol fuerte principalmente de la tarde temprana → blita
 fluorimetría → fluorimetria, fluorimetrica
 fobia → fobia
 foca → purra

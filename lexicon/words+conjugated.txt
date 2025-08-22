@@ -1907,6 +1907,15 @@ bliqaiet
 bliqaiki
 bliqaio
 bliqaioto
+blita
+blitai
+blitaie
+blitaieon
+blitaiet
+blitaiki
+blitaio
+blitaioto
+blite
 bloke
 blokenko
 blon
@@ -4002,6 +4011,7 @@ dominko
 domo
 domodoio
 domonija
+domonika
 dona
 donai
 donaie
@@ -5383,6 +5393,7 @@ ezurraioto
 faba
 fabla
 facto
+factoria
 fago
 fai
 faie
@@ -8805,6 +8816,13 @@ matematikas
 materia
 matrace
 matriks
+matrinai
+matrinaie
+matrinaieon
+matrinaiet
+matrinaiki
+matrinaio
+matrinaioto
 matrona
 matsakai
 matsakaie
@@ -14653,6 +14671,8 @@ vanka
 vano
 vanokisa
 vao
+vapor
+vapormatsina
 varei
 vareie
 vareieon

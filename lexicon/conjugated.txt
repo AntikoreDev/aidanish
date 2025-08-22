@@ -916,6 +916,12 @@ bliqaiet
 bliqaiki
 bliqaio
 bliqaioto
+blitaie
+blitaieon
+blitaiet
+blitaiki
+blitaio
+blitaioto
 blumaie
 blumaieon
 blumaiet
@@ -4396,6 +4402,12 @@ mataireio
 mataireioto
 mataireki
 matairet
+matrinaie
+matrinaieon
+matrinaiet
+matrinaiki
+matrinaio
+matrinaioto
 matsakaie
 matsakaieon
 matsakaiet

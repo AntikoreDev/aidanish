@@ -701,6 +701,8 @@ la begonna
 la belesa
 la nutsa
 ei bendizatio
+ei blite
+la blita
 ei benefitio
 la bengala
 la fira
@@ -932,6 +934,10 @@ ei carkazono
 la hunga
 la calendula
 la dormebas
+la domonika
+la factoria
+ei vapor
+la vapormatsina
 ei jideor
 ei hostexette
 ei kambio
@@ -2316,6 +2322,7 @@ la koratika
 la floira
 la flora
 ei flogo
+la blita
 la fluorimetria
 la fluorimetrica
 la fobia

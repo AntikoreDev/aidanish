@@ -347,6 +347,7 @@ alucinación → alutination
 alucinar → alutinai
 alzado → anco
 alzar → ancai
+ama de casa → domonika
 amaestrar → amasterai
 amamantar → amamantai
 amanecer → amanza
@@ -806,8 +807,8 @@ begonia (flor) → begonna
 belleza → belesa
 bello → belo
 bellota → nutsa
-bendecir → bendizei
-bendición → bendizatio
+bendecir → bendizei, blitai
+bendición → bendizatio, blite, blita
 beneficiar → benefitiai, supavai
 beneficio → benefitio
 beneficioso → benefitioso
@@ -1172,6 +1173,7 @@ cartógrafo → cartografette
 cartón → cardo
 carácter (símbolo) → tsara
 casa → kasa, domo
+casar → matrinai
 cascada → moana
 casco → antsal
 casero → simanata, domodoio
@@ -1523,6 +1525,7 @@ condena → condena
 condenado → condeno
 condenar → condenaire
 condicionar → konditiai
+condición climática específica de lluvia ligera, nubes dispersas y sol fuerte principalmente de la tarde temprana → blita
 condición → konditia
 condrografía → condrografia, condrografica
 condrología → condrologia
@@ -2929,6 +2932,7 @@ futbolista → futbolista, futbolette
 futuro → futura
 futurología → futurologia
 futurólogo → futurologo, futurologette
+fábrica → factoria
 fácil → fazilo
 fácilmente rompible → rompable
 fé → fai
@@ -4206,6 +4210,7 @@ muñeca (brazo) → intso
 muñeco, muñeca (objeto) → doli, clutso
 mágica → magika
 mágico → haio, magiko
+máquina de vapor → vapormatsina
 máquina → matsina
 mármol → marbel
 más que perfecto → plusquamperfecta
@@ -6369,6 +6374,7 @@ valorado → valuako
 valorar → valuai
 vampiro → vampiro
 vanidad → vanita
+vapor → vapor
 vaquero → vakette, bukaru, cowboy, vakero
 variable → variable
 variar → varei

@@ -2831,6 +2831,14 @@
             }
         ]
     },
+    "ama de casa": {
+        "entries": [
+            {
+                "meaning": "domonika",
+                "specification": ""
+            }
+        ]
+    },
     "amaestrar": {
         "entries": [
             {
@@ -6530,7 +6538,7 @@
     "bendecir": {
         "entries": [
             {
-                "meaning": "bendizei",
+                "meaning": "bendizei, blitai",
                 "specification": ""
             }
         ]
@@ -6538,7 +6546,7 @@
     "bendición": {
         "entries": [
             {
-                "meaning": "bendizatio",
+                "meaning": "bendizatio, blite, blita",
                 "specification": ""
             }
         ]
@@ -9487,6 +9495,14 @@
             }
         ]
     },
+    "casar": {
+        "entries": [
+            {
+                "meaning": "matrinai",
+                "specification": ""
+            }
+        ]
+    },
     "cascada": {
         "entries": [
             {
@@ -12343,6 +12359,22 @@
         "entries": [
             {
                 "meaning": "konditiai",
+                "specification": ""
+            }
+        ]
+    },
+    "condición climática específica de lluvia ligera": {
+        "entries": [
+            {
+                "meaning": "blita",
+                "specification": ""
+            }
+        ]
+    },
+    "nubes dispersas y sol fuerte principalmente de la tarde temprana": {
+        "entries": [
+            {
+                "meaning": "blita",
                 "specification": ""
             }
         ]
@@ -23855,6 +23887,14 @@
             }
         ]
     },
+    "fábrica": {
+        "entries": [
+            {
+                "meaning": "factoria",
+                "specification": ""
+            }
+        ]
+    },
     "fácil": {
         "entries": [
             {
@@ -34219,6 +34259,14 @@
         "entries": [
             {
                 "meaning": "haio, magiko",
+                "specification": ""
+            }
+        ]
+    },
+    "máquina de vapor": {
+        "entries": [
+            {
+                "meaning": "vapormatsina",
                 "specification": ""
             }
         ]
@@ -51699,6 +51747,14 @@
         "entries": [
             {
                 "meaning": "vanita",
+                "specification": ""
+            }
+        ]
+    },
+    "vapor": {
+        "entries": [
+            {
+                "meaning": "vapor",
                 "specification": ""
             }
         ]
