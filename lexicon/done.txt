@@ -1510,7 +1510,7 @@ condenado
 condenar
 condicionar
 condición
-condición climática específica de lluvia ligera
+condición climática específica de lluvia ligera; nubes dispersas y sol fuerte principalmente de la tarde temprana
 condrografía
 condrología
 conducir
@@ -4297,7 +4297,6 @@ noviembre
 novio
 nube
 nube seta
-nubes dispersas y sol fuerte principalmente de la tarde temprana
 nublado
 nublar
 nuclear

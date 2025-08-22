@@ -1525,7 +1525,7 @@ condena → condena
 condenado → condeno
 condenar → condenaire
 condicionar → konditiai
-condición climática específica de lluvia ligera, nubes dispersas y sol fuerte principalmente de la tarde temprana → blita
+condición climática específica de lluvia ligera; nubes dispersas y sol fuerte principalmente de la tarde temprana → blita
 condición → konditia
 condrografía → condrografia, condrografica
 condrología → condrologia
