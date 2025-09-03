@@ -1313,6 +1313,7 @@ cuerpo → corpo
 cuervo → corvo
 cuestión → kuastion
 cueva → encova, erga
+cornisa, borde, acantilado -> letsa
 cuidado → culda
 culo → cule, bango, botso, anusa
 culpa → riaxa
