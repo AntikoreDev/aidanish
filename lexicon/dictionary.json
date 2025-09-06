@@ -20362,7 +20362,7 @@
     "escribir": {
         "entries": [
             {
-                "meaning": "izkribei",
+                "meaning": "izkribei, sorai",
                 "specification": ""
             }
         ]
@@ -41635,6 +41635,22 @@
         "entries": [
             {
                 "meaning": "ayen, ayenter",
+                "specification": ""
+            }
+        ]
+    },
+    "pronunciación": {
+        "entries": [
+            {
+                "meaning": "pronunzatio",
+                "specification": ""
+            }
+        ]
+    },
+    "pronunciar": {
+        "entries": [
+            {
+                "meaning": "pronunzai",
                 "specification": ""
             }
         ]

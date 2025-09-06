@@ -5602,6 +5602,12 @@ pronostikaireio
 pronostikaireioto
 pronostikaireki
 pronostikairet
+pronunzaie
+pronunzaieon
+pronunzaiet
+pronunzaiki
+pronunzaio
+pronunzaioto
 propoizeie
 propoizeieon
 propoizeio
@@ -6574,6 +6580,12 @@ sopulaiet
 sopulaiki
 sopulaio
 sopulaioto
+soraie
+soraieon
+soraiet
+soraiki
+soraio
+soraioto
 sordaie
 sordaieon
 sordaiet

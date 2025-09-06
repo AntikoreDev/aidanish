@@ -1649,6 +1649,7 @@ cordero → temo
 cordura → concordia
 cordón → cordo
 coreografía → coreografia, coreografica
+cornisa, borde, acantilado -> letsa
 cornudo → cornato
 coro → coro
 corografía → corografia, corografica
@@ -2500,7 +2501,7 @@ escopeta → busterre
 escopetazo → buste
 escorpión → escorpio
 escozor → eskozo
-escribir → izkribei
+escribir → izkribei, sorai
 escrito → sore, izkriba
 escritorio (mueble) → izkretela, izkrotela
 escritorio (ordenador) → desto, desktop
@@ -4696,6 +4697,7 @@ pelea (informal) → litsa, faita, pugna
 pelear → litsai, faitai, pugnai
 peletero → cuorette
 pelicano → pelico
+peligrar la vida de alguien o de algo -> forletsai
 peligrar → perilai
 peligro → perila
 peligroso → perilko
@@ -5130,6 +5132,8 @@ prometer → priosai
 promover → promovai
 pronosticar → pronostikaire
 pronto → ayen, ayenter
+pronunciación → pronunzatio
+pronunciar → pronunzai
 pronóstico → pronostiko
 propenso → prono
 propio → prope

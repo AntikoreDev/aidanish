@@ -5062,6 +5062,8 @@ prometer
 promover
 pronosticar
 pronto
+pronunciación
+pronunciar
 pronóstico
 propenso
 propio
