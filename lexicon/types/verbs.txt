@@ -502,7 +502,7 @@ esclavizar → eslavai
 escocer → eskozei
 escoltar → eskoltoi
 esconder → jidei
-escribir → izkribei
+escribir → izkribei, sorai
 escuchar → eskotsai
 escurrir → gutarei
 esforzarse mucho → reveuyerai
