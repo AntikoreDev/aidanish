@@ -1419,6 +1419,7 @@ desaprobación → deaprovatio
 desarrollo → deurrayo
 desastre → disastra
 desatascador → unastainoro, unastaino, unestoro
+pronunciación → pronunzatio
 desayuno → primer
 desbloqueo → unlokeo
 descanso → hixe
