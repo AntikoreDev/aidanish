@@ -271,6 +271,7 @@ albino → albino
 albóndiga → bolkar, bolakar, bolakarno
 alcanzado → arran
 alcanzar → arrai
+alcayata -> septoro, sepklave
 alce → bazerra
 alcohol → etanol, altsol
 alcoholimetría → alcoholimetria, alcoholimetrica
@@ -829,6 +830,7 @@ bibliotecólogo → bibliotecologo, bibliotecologette
 bicho → tiko
 bicicleta → birroda
 bien → bain
+bienestar → baino
 bienvenido → bainarei
 bienvenido → bainaro
 bigote → mitso, furmo, moustatso, mustatso, vigo
@@ -1004,6 +1006,7 @@ cadena → tsaden
 caducado → expiro
 caducar → expirai
 caduco → caduco
+cadáver -> corpus
 caer en tentación → soblaise
 caer → argai
 cafetera → kafetoro

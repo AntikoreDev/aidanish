@@ -819,6 +819,7 @@ bibliotecólogo
 bicho
 bicicleta
 bien
+bienestar
 bienvenido
 bigote
 bilingüe
